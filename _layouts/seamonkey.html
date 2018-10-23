@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv="CONTENT-TYPE" content="TEXT/HTML; CHARSET=UTF-8">
+<LINK href="/assets/seamonkey/css/seven_7z_style.css" rel="stylesheet" type="text/css">
+<TITLE>தனித்தமிழ் ஞாலக் களஞ்சியம் (நூல்கள்)</TITLE>
+<META name="keywords" content="download, sources, free, gnu, lgpl, 7-zip, 
+archiver, compression, software, compress, zip, unzip">
+</HEAD>
+<BODY>
+<TABLE cellspacing=10 cellpadding=10 border=0 width="100%"><TR>
+<TD class="MenuColumn" valign="top">
+<TABLE cellpadding=2 cellspacing=0 border=0 width="100%">
+<TR><TD><IMG width=110 height=63 src="/assets/seamonkey/css/7ziplogo.png" alt="7-Zip" border=0></TD></TR>
+<TR><TD><HR></TD></TR></TABLE>
+<TABLE cellpadding="2" cellspacing="0" border="0">
+{% for link in site.links %}  
+{% assign loc_name_urls = link | split: ", " %}
+  <TR><TD><a href="{{ loc_name_urls[1] }}" class="MenuLink"  
+  {% if current[1] == loc_name_urls[1] %}class="selected"{% endif %}
+  >{{ loc_name_urls[0] }}</a></TD></TR>  
+{% endfor %}
+<TR><TD><A href="#niruval" class="MenuLink">கைப்பேசியில் நிறுவல்</A></TD></TR>
+</TABLE>
+<TABLE cellpadding=2 cellspacing=0 border=0 width="100%">
+<TR><TD><HR></TD></TR>
+</TABLE>
+
+
+  
+  
+
+
+  
+
+<P>
+<B>நூலாசிரியர்கள்</B><BR/>--------<BR/>
+
+{% comment %}
+=======================
+The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
+=======================
+{% endcomment %}
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+ {% assign ttags = post.tags | join:'|' | append:'|' %}
+ {% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+ {% if tag != "" %}
+  {% if tags == "" %}
+   {% assign tags = tag | split:'|' %}
+  {% endif %}
+  {% unless tags contains tag %}
+   {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+  {% endunless %}
+ {% endif %}
+{% endfor %}
+
+{% comment %}
+=======================
+The purpose of this snippet is to list all your posts posted with a certain tag.
+=======================
+{% endcomment %}
+{% assign tag_counter = 1 %}
+{% for tag in tags %}
+		<a href="#{{ tag }}">{{ tag }}</a><br/>
+		{% endfor %}
+
+</P>
+
+</TD>
+<TD valign="top">
+
+<H1>தனித்தமிழ் ஞாலக் களஞ்சியம்</H1>
+
+
+
+{{ page.content }}
+
+<HR>
+<P><SMALL>(Design) 2018 Pitchaimuthu. The site is hosted at <A href="https://thanithamizhakarathikalanjiyam.github.io/">GitHub</A> </SMALL> Thanks to github.</P>
+</TD></TR></TABLE>
+
+</BODY></HTML>

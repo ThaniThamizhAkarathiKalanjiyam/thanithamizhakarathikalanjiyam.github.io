@@ -1,0 +1,28 @@
+{% include header.html %}
+<!-- Main -->
+	<section class="wrapper style1">
+	<h2>{{ page.title }}</h2>
+		<div class="container">
+			<!-- Blog -->
+				<section>
+					<h3 class="major">						
+						Posted {{ page.date | date_to_string }}
+					</h3>
+					<div class="row">
+						<div class="8u -2u">
+							<section class="box">								
+								<a href="#" class="image left">
+								<img src="{{ site.baseurl }}{{ page.featured }}" alt="" />
+								</a>
+								{{ page.content }}
+								<h3>
+								தெருவெல்லாம் தமிழ் முழக்கம் செய்வோம்
+								</h3>
+							</section>
+						</div>
+					</div>
+				</section>
+
+		</div>
+	</section>
+{% include footer.html %}

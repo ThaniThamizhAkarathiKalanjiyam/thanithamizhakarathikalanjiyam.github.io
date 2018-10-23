@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="us">
+<head>
+	<meta charset="utf-8">
+	<title>jQuery UI Example Page</title>
+	<link href="../assets/jquery-ui/jquery-ui.css" rel="stylesheet">
+	<style>
+	body{
+		font-family: "Trebuchet MS", sans-serif;
+		margin: 30px;		
+	}
+	.demoHeaders {
+		margin-top: 2em;
+	}
+	#dialog-link {
+		padding: .4em 1em .4em 20px;
+		text-decoration: none;
+		position: relative;
+	}
+	#dialog-link span.ui-icon {
+		margin: 0 5px 0 0;
+		position: absolute;
+		left: .2em;
+		top: 50%;
+		margin-top: -8px;
+	}
+	#icons {
+		margin: 0;
+		padding: 0;
+	}
+	#icons li {
+		margin: 2px;
+		position: relative;
+		padding: 4px 0;
+		cursor: pointer;
+		float: left;
+		list-style: none;
+	}
+	#icons span.ui-icon {
+		float: left;
+		margin: 0 4px;
+	}
+	.fakewindowcontain .ui-widget-overlay {
+		position: absolute;
+	}
+	select {
+		width: 200px;
+	}
+	</style>
+</head>
+<body>
+
+<div id="tabs">
+	<ul>
+		<li><a href="#tabs-1">சொல் தேடல்</a></li>
+		<li><a href="#tabs-2">கிரந்த நீக்கி</a></li>
+		<li><a href="#tabs-3">சொல் உருவாக்கி</a></li>
+		<li><a href="#tabs-4">நாட்காட்டி</a></li>
+	</ul>
+	<div id="tabs-1">	
+		<div>
+			<input id="autocomplete" title="type &quot;a&quot;">
+			<div id="info"></div>
+		</div>		
+		<div id="images"></div>
+	</div>
+	<div id="tabs-2">
+		
+	</div>
+	<div id="tabs-3">
+		
+	</div>
+	<div id="tabs-4">
+		<!-- Datepicker -->
+		<div id="datepicker"></div>
+	</div>
+</div>
+
+
+
+
+<script src="../assets/jquery-ui/external/jquery/jquery.js"></script>
+<script src="../assets/jquery-ui/jquery-ui.js"></script>
+<script>
+
+$( "#accordion" ).accordion();
+
+
+
+
+
+$( "#button" ).button();
+$( "#button-icon" ).button({
+	icon: "ui-icon-gear",
+	showLabel: false
+});
+
+
+
+$( "#radioset" ).buttonset();
+
+
+
+$( "#controlgroup" ).controlgroup();
+
+
+
+$( "#tabs" ).tabs();
+
+
+
+$( "#dialog" ).dialog({
+	autoOpen: false,
+	width: 400,
+	buttons: [
+		{
+			text: "Ok",
+			click: function() {
+				$( this ).dialog( "close" );
+			}
+		},
+		{
+			text: "Cancel",
+			click: function() {
+				$( this ).dialog( "close" );
+			}
+		}
+	]
+});
+
+// Link to open the dialog
+$( "#dialog-link" ).click(function( event ) {
+	$( "#dialog" ).dialog( "open" );
+	event.preventDefault();
+});
+
+
+
+$( "#datepicker" ).datepicker({
+	inline: true
+});
+
+
+
+$( "#slider" ).slider({
+	range: true,
+	values: [ 17, 67 ]
+});
+
+
+
+$( "#progressbar" ).progressbar({
+	value: 20
+});
+
+
+
+$( "#spinner" ).spinner();
+
+
+
+$( "#menu" ).menu();
+
+
+
+$( "#tooltip" ).tooltip();
+
+
+
+$( "#selectmenu" ).selectmenu();
+
+
+// Hover states on the static widgets
+$( "#dialog-link, #icons li" ).hover(
+	function() {
+		$( this ).addClass( "ui-state-hover" );
+	},
+	function() {
+		$( this ).removeClass( "ui-state-hover" );
+	}
+);
+
+
+
+
+</script>
+
+<script>
+
+var titles = [];
+
+$("#images").empty();
+$("#info").empty();
+$( "<p>" ).html("Please enter word .. Then press enter button.").appendTo( "#info" );
+
+$( "#autocomplete" ).autocomplete({
+	source: titles
+});
+
+$("#autocomplete").change(function() {
+
+$("#images").empty();
+$("#info").empty();
+$( "<p>" ).html("Please wait .. I am working").appendTo( "#info" );
+
+  var flickerAPI = "https://public-api.wordpress.com/rest/v1/sites/130297357/posts?";
+  $.getJSON( flickerAPI, {
+    order: "DESC",
+	order_by: "date",
+	offset: 0,
+	number: 10,	
+	
+	search: $("#autocomplete").val(),
+	
+    format: "json"
+  })
+    .done(function( data ) {
+		
+				
+		$.each( data.posts, function( i, item ) {  
+			titles.push(item.title)
+		});
+
+		$.each( data.posts, function( i, item ) {  
+			$( "<p>" ).html((i + 1) + ": <b>" + item.title + "</b>" +
+			 "<ul><li>"+ item.content +"</li></ul>"
+			).appendTo( "#images" );
+		});
+	  
+		$( "<p>" ).html("இதுவரை இயங்கலையில் உள்ள சொற்களின் எண்ணிக்கை: " + data.found ).appendTo( "#info" );
+				
+		$('#autocomplete').autocomplete("option", { source: titles });
+    });
+});
+
+</script>
+ 
+</body>
+</html>

@@ -1,0 +1,114 @@
+body {
+    font-family: sans-serif;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+a, li {
+    color: #555555;
+}
+
+ul a, li {
+    text-decoration: none;
+    font-size: 2rem;
+    /*! font-size: 5vw; */
+}
+
+#app-name {
+    font-size: 6rem;
+    font-size: 4vw;
+}
+
+#app-name sub {
+    font-size: 1.5rem;
+    font-size: 1vw;
+    position: relative;
+}
+
+#content ul {
+    margin-left: 2.142857142857143em;
+    margin-left: 10vw;
+}
+
+#content ul {
+    margin-left: 2.142857142857143em;
+    margin-left: 10vw;
+}
+
+#content ul .fa-li {
+  left: -2.142857142857143em;
+  width: 2.142857142857143em;
+  top: 0.14285714285714285em;
+
+  left: -10vw;
+  width: 10vw;
+  top: 1.2vw;
+}
+
+
+#content ul li {
+    padding-left: 5px;
+    padding-left: 0.5vw;
+    padding-right: 5px;
+    padding-right: 0.5vw;
+
+    padding-top: 5px;
+    padding-top: 0.5vh;
+    padding-bottom: 5px;
+    padding-bottom: 0.5vh;
+
+}
+
+#app-logo {
+    width: 220px;
+    width: 30vw;
+    height: 220px;
+    height: 30vw;
+    padding: 20px;
+    padding: 2vw;
+    padding-top: 12px;
+    padding-top: 1vw;
+}
+
+#content {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    align: center;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border: none;
+}
+
+td {
+    padding: 0px;
+    margin: 0px;
+}
+
+#footer {
+    color: #555555;
+    font-size: 1rem;
+    font-size: 2vw;
+    margin-bottom: 10px;
+    maring-bottom: 8vw;
+    margin-top: 20px;
+    maring-top: 16vw;
+    position: relative;
+    bottom: 0px;
+    text-align: center;
+    left: 0px;
+    right: 0px;
+}

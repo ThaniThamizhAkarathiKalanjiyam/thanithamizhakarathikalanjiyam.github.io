@@ -1,0 +1,15 @@
+{% assign current = page.url | downcase | split: '/' %}	
+{% assign loc_current_page = current[1] %}
+
+<!--a href="/" class="selected">Home</a-->
+{% for link in site.links %}  
+{% assign loc_name_urls = link | split: ", " %}
+  <a href="{{ loc_name_urls[1] }}" 
+  {% if current[1] == loc_name_urls[1] %}class="selected"{% endif %}
+  >{{ loc_name_urls[0] }}</a>
+  
+{% endfor %}
+
+<a href="feed" class="menu selected">RSS</a>
+
+
