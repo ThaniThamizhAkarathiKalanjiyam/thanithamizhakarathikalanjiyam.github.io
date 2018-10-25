@@ -15,7 +15,7 @@ featured: /images/ttak-48.png
 {% if tag == "relesed" %}
 
 <div class="post">
-  <h3><a href="https://www.ttak-lang.org/en/news/2018/10/18/ttak-2-5-3-released/">ttak 2.5.3 Released</a></h3>
+  <h3><a href="https://www.ttak-lang.org/en/news/2018/10/18/ttak-2-5-3-released/">ttak 2.5.3 Test Released</a></h3>
   <p>ttak 2.5.3 has been released.</p>
   <p class="post-link"><a href="https://www.ttak-lang.org/en/news/2018/10/18/ttak-2-5-3-released/">Continue Reading...</a></p>
   <p class="post-info">Posted by nagachika on 18 Oct 2018</p>
