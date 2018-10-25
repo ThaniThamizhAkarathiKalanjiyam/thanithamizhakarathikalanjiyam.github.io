@@ -15,6 +15,7 @@ featured: /images/ttak-48.png
 - [Android](android)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/thanithamizhakarathikalanjiyam/)
 - [நாட்காட்டி](ttak_date_time)
+- [Latest Releases](release_notes)
 
 மேற்கண்ட ஏதேனும் ஒரு மென்பொருளை தங்களின் தேவைக்கு ஏற்ப பயன்படுத்திக் கொள்ள முடியும்.
 
