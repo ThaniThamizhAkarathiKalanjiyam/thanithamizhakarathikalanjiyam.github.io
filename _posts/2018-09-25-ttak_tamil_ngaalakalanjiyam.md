@@ -80,7 +80,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal{{ post.url }}.slob"> Download </a></td>	
 	
-	{% if tag != "அகராதிகள்" %}	
+	{% if tag != "அகராதிகள்" and tag != "released" %}	
 		<td class="Item" align="center">"{{ post.title }}/"</td>	
 	{% endif %}
 	</tr>
