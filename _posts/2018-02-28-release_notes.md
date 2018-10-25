@@ -10,8 +10,8 @@ tags:
 permalink: release_notes
 featured: /images/ttak-48.png
 ---
-{% for tag in site.posts %}
-{% for tag in page.tags %}
+{% for post in site.posts %}
+{% for tag in post.tags %}
 {% if tag == "relesed" %}
 
 <div class="post">
