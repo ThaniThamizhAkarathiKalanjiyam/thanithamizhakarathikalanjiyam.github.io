@@ -71,9 +71,10 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 {% endcomment %}
 {% assign tag_counter = 1 %}
 {% for tag in tags %}
+{% if tag != "released" %}
 		<a href="#{{ tag }}">{{ tag }}</a><br/>
-		{% endfor %}
-
+{% endif %}		
+{% endfor %}
 </P>
 
 </TD>
