@@ -4,7 +4,7 @@
     
 
     
-    <title>Ruby Programming Language</title>
+    
     
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,11 +16,12 @@
     <link rel="stylesheet" type="text/css" href="assets/Ruby_files/mobile.css">
     <link rel="stylesheet" type="text/css" href="assets/Ruby_files/print.css">
     <link href="assets/Ruby_files/css" rel="stylesheet" type="text/css">
-    <link rel="canonical" href="https://www.ruby-lang.org/en/">
+    <link rel="canonical" href="https://thanithamizhakarathikalanjiyam.github.io/">
 
-    <link rel="shortcut icon" type="image/x-icon" href="https://www.ruby-lang.org/favicon.ico">
+    <meta property="og:image" content="{{ site.baseurl }}/images/ttak-32.png"/>
+	<link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/images/ttak-32.png"/>
     
-    <link href="https://www.ruby-lang.org/en/feeds/news.rss" rel="alternate" title="Recent News (RSS)" type="application/rss+xml">
+    <link href="{{ site.baseurl }}/feed" rel="alternate" title="Recent News (RSS)" type="application/rss+xml">
 
 
     <script type="text/javascript" async="" src="assets/Ruby_files/ga.js"></script><script type="text/javascript" src="assets/Ruby_files/jquery.min.js"></script>
@@ -29,7 +30,8 @@
     
     <script type="text/javascript" src="assets/Ruby_files/examples.js"></script>
     
-    
+<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
+{% seo %}
   </head>
 
   
@@ -37,32 +39,14 @@
   <body id="home-page-layout">
     <div id="header">
       <div id="header_content" class="container">
-        <a href="https://www.ruby-lang.org/en/">
-          <h1>Ruby</h1>
-          <h2>A Programmer's Best Friend</h2>
+        <a href= "{{site.url}}">
+          <h1>{{site.short_name}}</h1>
+          <h2>{{site.description_short}}</h2>
         </a>
 
         <div class="site-links">
-          <a href="https://www.ruby-lang.org/en/" class="home selected">Home</a>
-          
-
-  <a href="https://www.ruby-lang.org/en/downloads/">Downloads</a>
-
-  <a href="https://www.ruby-lang.org/en/documentation/">Documentation</a>
-
-  <a href="https://www.ruby-lang.org/en/libraries/">Libraries</a>
-
-  <a href="https://www.ruby-lang.org/en/community/">Community</a>
-
-  <a href="https://www.ruby-lang.org/en/news/">News</a>
-
-  <a href="https://www.ruby-lang.org/en/security/">Security</a>
-
-  <a href="https://www.ruby-lang.org/en/about/">About Ruby</a>
-
-
-          <a href="https://www.ruby-lang.org/en/#" class="menu selected">Menu</a>
-        </div>
+          {% include site-links.html %}
+		</div>
 
         <div id="search-box">
           
@@ -73,7 +57,7 @@
         <input class="field" type="text" name="q" size="31" style="background: white url(//www.google.com/coop/intl/en/images/google_custom_search_watermark.gif) left no-repeat" onfocus="this.style.background=&#39;white&#39;" onblur="if (/^\s*$/.test(this.value)) this.style.background=&#39;white url(//www.google.com/coop/intl/en/images/google_custom_search_watermark.gif) left no-repeat&#39;">
       </td>
       <td>
-        <input type="hidden" name="cx" value="013598269713424429640:g5orptiw95w">
+        <input type="hidden" name="cx" value="007131993471906034329:sa5kmh5dgko">
         <input type="hidden" name="ie" value="UTF-8">
         <input class="button" type="submit" name="sa" value="Search">
       </td>
@@ -91,17 +75,15 @@
   <div class="container">
     <div id="intro-wrapper">
   <div id="intro">
-    <h1>Ruby is...</h1>
+    <h1>{{ site.title }}</h1>
 
     <p>
-    A dynamic, open source programming language with a focus on
-    simplicity and productivity. It has an elegant syntax that is
-    natural to read and easy to write.
+    {{ site.description }}
     </p>
 
-    <a href="https://www.ruby-lang.org/en/downloads/" class="download-link">Download Ruby</a>
+    <a href="{{ site.url }}/release_notes" class="download-link">Download {{ site.short_name }}</a>
     or
-    <a href="https://www.ruby-lang.org/en/about/">Read More...</a>
+    <a href="{{ site.url }}/about">Read More...</a>
 
   </div>
   <div id="code">
