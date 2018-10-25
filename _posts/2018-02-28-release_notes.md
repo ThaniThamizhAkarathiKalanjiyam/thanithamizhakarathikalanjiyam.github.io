@@ -12,8 +12,13 @@ featured: /images/ttak-48.png
 ---
 
 {% for post in site.posts %}
-{% for tag in post.tags | join:'|' | append:'|' %}
+{% for tag in post.tags %}
+
+{{ tag }}
+
 {% if tag == "relesed" %}
+
+
 
 <div class="post">
   <h3><a href="https://www.ttak-lang.org/en/news/2018/10/18/ttak-2-5-3-released/">ttak 2.5.3 Test Released</a></h3>
