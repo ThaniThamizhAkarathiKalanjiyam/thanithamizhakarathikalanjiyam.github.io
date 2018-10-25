@@ -46,6 +46,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 {% endcomment %}
 {% assign tag_counter = 1 %}
 {% for tag in tags %}
+{% if tag != "released" %}	
 <P><B>{{ tag_counter }} <a name="{{ tag }}">{{ tag }}</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
@@ -80,7 +81,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal{{ post.url }}.slob"> Download </a></td>	
 	
-	{% if tag != "அகராதிகள்" and tag != "released" %}	
+	{% if tag != "அகராதிகள்" %}	
 		<td class="Item" align="center">"{{ post.title }}/"</td>	
 	{% endif %}
 	</tr>
@@ -93,6 +94,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
   </tbody>
 </table>
 {% assign tag_counter = tag_counter | plus:1 %}
+{% endif %}
 {% endfor %}
 
 <a name="niruval"> கைப்பேசியில் நிறுவல் முறை</a>
