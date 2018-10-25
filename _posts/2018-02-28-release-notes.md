@@ -10,6 +10,19 @@ tags:
 permalink: release_notes
 featured: /images/ttak-48.png
 ---
+
+<div class="post">
+  <h3><a href="https://www.ruby-lang.org/en/news/2018/10/18/ruby-2-5-3-released/">Ruby 2.5.3 Released</a></h3>
+
+  <p>Ruby 2.5.3 has been released.</p>
+
+
+
+  <p class="post-link"><a href="https://www.ruby-lang.org/en/news/2018/10/18/ruby-2-5-3-released/">Continue Reading...</a></p>
+
+  <p class="post-info">Posted by nagachika on 18 Oct 2018</p>
+</div>
+
 <section class="wrapper style1">
 <h3>வெளியீடுகள்</h3>
 	<div class="container">
