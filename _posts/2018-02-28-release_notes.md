@@ -14,17 +14,18 @@ featured: /images/ttak-48.png
 {% for post in site.posts %}
 {% for tag in post.tags %}
 
-{{ tag }}
-
-{% if tag == "relesed" %}
+{% if tag == "released" %}
 
 
 
 <div class="post">
-  <h3><a href="https://www.ttak-lang.org/en/news/2018/10/18/ttak-2-5-3-released/">ttak 2.5.3 Test Released</a></h3>
-  <p>ttak 2.5.3 has been released.</p>
-  <p class="post-link"><a href="https://www.ttak-lang.org/en/news/2018/10/18/ttak-2-5-3-released/">Continue Reading...</a></p>
-  <p class="post-info">Posted by nagachika on 18 Oct 2018</p>
+  <h3><a href="{{ post.permalink }}">{{ post.permalink }} Released</a></h3>
+  <p>{{ post.permalink }} has been released.
+  <br/>
+  {{ post.description }}
+  </p>
+  <p class="post-link"><a href="{{ post.permalink }}">Continue Reading...</a></p>
+  <p class="post-info">Posted by {{ post.author }} on {{ post.date | date_to_string }}</p>
 </div>
 
 {% endif %}
