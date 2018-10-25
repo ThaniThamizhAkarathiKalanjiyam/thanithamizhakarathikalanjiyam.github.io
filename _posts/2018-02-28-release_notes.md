@@ -12,7 +12,7 @@ featured: /images/ttak-48.png
 ---
 
 {% for post in site.posts %}
-{% for tag in post.tags | "" %}
+{% for tag in post.tags | join:'|' | append:'|' %}
 {% if tag == "relesed" %}
 
 <div class="post">
@@ -22,7 +22,7 @@ featured: /images/ttak-48.png
   <p class="post-info">Posted by nagachika on 18 Oct 2018</p>
 </div>
 
-{ endif %}
+{% endif %}
 {% endfor %}
 {% endfor %}
 
