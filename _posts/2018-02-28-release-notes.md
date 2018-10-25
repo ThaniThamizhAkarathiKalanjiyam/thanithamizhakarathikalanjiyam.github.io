@@ -4,7 +4,7 @@ title: வெளியீடுகள்
 keywords: Releases, Notes
 description: தனித்தமிழகராதிக்களஞ்சியத்தின் வெளியீடுகள் பற்றி தெரிந்து கொள்ளலாம்
 author: Tamilan
-layout: default
+layout: Ruby
 tags:
  
 permalink: release_notes
