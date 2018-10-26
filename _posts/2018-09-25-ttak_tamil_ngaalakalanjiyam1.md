@@ -10,9 +10,7 @@ tags:
 permalink: ttak_tamil_ngaalakalanjiyam1 
 featured: /images/noolkal_96_6.png 
 --- 
-{% if site.tags != "" %}
-  {% include collecttags.html %}
-{% endif %} 
+
  
  
 <span>[
