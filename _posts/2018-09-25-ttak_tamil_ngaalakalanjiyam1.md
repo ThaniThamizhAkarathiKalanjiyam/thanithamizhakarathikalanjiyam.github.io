@@ -6,6 +6,7 @@ description: தமிழறிஞர்களின் நூல்கள் , 
 author: Tamilan 
 layout: Ruby 
 tags:  
+- அருணகிரிநாதர்
 permalink: ttak_tamil_ngaalakalanjiyam1 
 featured: /images/noolkal_96_6.png 
 --- 
