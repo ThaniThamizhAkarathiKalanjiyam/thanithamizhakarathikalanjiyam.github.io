@@ -5,6 +5,7 @@ author: Tamilan
 layout: Ruby    
 tags:    
 - பொன்.சரவணன்     
+- அகராதிகள்
 permalink: pon_saravanan  
 featured: /images/ttak-48.png    
 keywords: உணவு, கலைச்சொற்கள்  
