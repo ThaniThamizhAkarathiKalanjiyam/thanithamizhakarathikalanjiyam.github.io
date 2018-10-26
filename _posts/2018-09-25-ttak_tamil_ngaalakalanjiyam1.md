@@ -16,10 +16,10 @@ featured: /images/noolkal_96_6.png
  
  
 <span>[
-  {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/books/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
+{% for tag in page.tags %}
+{% capture tag_name %}{{ tag }}{% endcapture %}
+<a href="/books/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+{% endfor %}
 ]</span>
  
 <a name="niruval"> கைப்பேசியில் நிறுவல் முறை</a>
