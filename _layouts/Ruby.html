@@ -118,6 +118,9 @@
   
 <h1>{{ page.title }}</h1>
 <hr/>
+{% if page.date == nil %}
+{% assign page.date = "2018-10-12"%}
+{% endif %}
 பதிவுற்ற நாள் {{ page.date | date_to_string }} | 
 {% for tag in page.tags %}
 {% capture tag_name %}{{ tag }}{% endcapture %}
