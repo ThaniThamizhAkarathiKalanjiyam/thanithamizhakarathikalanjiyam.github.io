@@ -11,9 +11,10 @@
 {% endfor %}
 
 {% for tag in page.tags %}
-
-{{tag}} <br/>
-
+{% for post in site.tags[tag] %}
+<a href="{{ site.url }}/{{ post.permalink }}">  
+  post.title</a></p>
+{% endfor %}
 {% endfor %}
 
 
