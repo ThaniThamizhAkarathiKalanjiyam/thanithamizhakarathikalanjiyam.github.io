@@ -1,0 +1,158 @@
+
+
+<h3>தேடு சொற்கள்: </h3>
+
+{{ page.keywords }}
+</div>
+</div>
+<hr class="hidden-modern">
+
+<div id="sidebar-wrapper">
+  <div id="sidebar">
+
+<div class="navigation">
+  <h3><strong>களஞ்சியம்</strong>, மிகு எளிது!</h3>
+
+  <ul class="menu">
+  
+{% for link in site.get_started_links %}  
+{% assign loc_name_urls = link | split: ", " %}
+  <li><a href="{{ loc_name_urls[1] }}" 
+  {% if current[1] == loc_name_urls[1] %}class="selected"{% endif %}
+  >{{ loc_name_urls[0] }}</a></li>  
+{% endfor %}
+
+  </ul>
+</div>
+
+
+
+<div class="navigation">
+  <h3><strong>புதிய</strong> தமிழ் உலகம் படைப்போம்…</h3>
+  <ul class="menu">
+    
+    <li><a href="documentation">Documentation</a></li>
+    
+
+    
+
+    
+    <li><a href="ttakbib">Academic Research</a></li>
+    
+
+    
+    <li><a href="libraries">Libraries</a></li>
+    
+
+    
+    <!--li><a href="https://www.Ttak-lang.org/en/documentation/success-stories/">Success Stories</a></li-->
+    
+  </ul>
+</div>
+
+
+
+<div class="navigation">
+  <h3><strong>பங்கேருங்கள்</strong> தோழமையான மற்றும் வளர்ந்து கொண்டிருக்கும் தனித்தமிழ் குமுதாயத்தில்.</h3>
+  <ul>
+    
+    <li><a href="https://groups.yahoo.com/neo/groups/isaiyini/info">Mailing Lists</a>: Talk about Ttak with programmers from all around the world.
+</li>
+    
+
+    
+    <li><a href="https://groups.yahoo.com/neo/groups/isaiyini/info">User Groups</a>: Get in contact with Ttakists in your area.
+</li>
+    
+
+    
+    <li><a href="blog">Weblogs</a>: Read about what’s happening right now in the Ttak community.
+</li>
+    
+
+    
+  </ul>
+</div>
+
+
+
+
+
+
+    <h3>Syndicate</h3>
+    <p><a href="feed">Recent News (RSS)</a></p>
+
+	    
+<div class="navigation">
+
+  <h3><strong>498A & DV Act</strong> Legal Terrorism In India</h3>
+<br/>
+<a href="false498a">  
+<img width="137" src="{{site.url}}/images/498a_legal_terrorism_in_india.jpg" alt="498a_legal_terrorism_in_india"/></a>
+<br/>
+</div>
+
+
+  </div>
+</div>
+<hr class="hidden-modern">
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div id="footer">
+        <div class="site-links">
+			{% include site-links.html %}
+        </div>
+
+        <p>
+
+  <!--This site in other languages:
+
+<a href="https://www.ruby-lang.org/bg/">Български</a>,
+<a href="https://www.ruby-lang.org/de/">Deutsch</a>,
+<a href="https://www.ruby-lang.org/en/">English</a>,
+<a href="https://www.ruby-lang.org/es/">Español</a>,
+<a href="https://www.ruby-lang.org/fr/">Français</a>,
+<a href="https://www.ruby-lang.org/id/">Bahasa Indonesia</a>,
+<a href="https://www.ruby-lang.org/it/">Italiano</a>,
+<a href="https://www.ruby-lang.org/ja/">日本語</a>,
+<a href="https://www.ruby-lang.org/ko/">한국어</a>,
+<a href="https://www.ruby-lang.org/pl/">polski</a>,
+<a href="https://www.ruby-lang.org/pt/">Português</a>,
+<a href="https://www.ruby-lang.org/ru/">Русский</a>,
+<a href="https://www.ruby-lang.org/tr/">Türkçe</a>,
+<a href="https://www.ruby-lang.org/vi/">Tiếng Việt</a>,
+<a href="https://www.ruby-lang.org/zh_cn/">简体中文</a>,
+<a href="https://www.ruby-lang.org/zh_tw/">繁體中文</a>.
+</p-->
+
+        
+  <p>
+  
+  <a href="https://groups.yahoo.com/neo/groups/isaiyini/info">This website</a> is proudly maintained by members of the Isaiyini community.
+  
+  
+  
+</p>
+
+
+      </div>
+    </div>
+
+    <!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119554313-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());  
+
+	gtag('config', 'UA-119554313-1');
+	</script>
+
+  
+
+</body></html>
