@@ -19,20 +19,20 @@ logo: '/images/ttak.png'
 # name: Ben Balter   
 links:
 - வாடிவாசல், /
-- தரவிறக்கம், {{ site.url }}/documentation
-- பதிவுகள், {{ site.url }}/blog
-- ஞாலக் களஞ்சியம், {{ site.url }}/ttak_tamil_ngaalakalanjiyam
-- எம்மைப்பற்றி, {{ site.url }}/about
+- தரவிறக்கம், documentation
+- பதிவுகள், blog
+- ஞாலக் களஞ்சியம், ttak_tamil_ngaalakalanjiyam
+- எம்மைப்பற்றி, about
 get_started_links:
-- வழிகாட்டி, {{ site.url }}/ttak_2018_windows
-- Android , {{ site.url }}/android
-- Windows, {{ site.url }}/ttak-web
+- வழிகாட்டி, ttak_2018_windows
+- Android , android
+- Windows, ttak-web
 - Firefox, https://addons.mozilla.org/en-US/firefox/addon/thanithamizhakarathikalanjiyam/
-- சொல் உருவாக்கி, {{ site.url }}/ttak_online
-- கிரந்த நீக்கி, {{ site.url }}/ttak_online
-- நாட்காட்டி, {{ site.url }}/ttak_date_time
-- பண்பலை, {{ site.url }}/isaiyinifm/
-- தனிதமிழ் சிறுபொழுது, {{ site.url }}/ttak_tamil_time_promo
+- சொல் உருவாக்கி, ttak_online
+- கிரந்த நீக்கி, ttak_online
+- நாட்காட்டி, ttak_date_time
+- பண்பலை, isaiyinifm/
+- தனிதமிழ் சிறுபொழுது, ttak_tamil_time_promo
 - நன்றிகள், https://www.tamilinternetconference.org/selected-papers/
 
 #webmaster_verifications:
