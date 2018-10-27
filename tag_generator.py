@@ -51,7 +51,7 @@ if not os.path.exists(tag_dir):
     os.makedirs(tag_dir)
 
 for tag in total_tags:
-    tag_filename = tag_dir + tag + '.md'
+    tag_filename = tag_dir + tag.strip() + '.md'
     f = codecs.open(tag_filename, 'a', "utf-8")
     write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
     f.write(write_str)
