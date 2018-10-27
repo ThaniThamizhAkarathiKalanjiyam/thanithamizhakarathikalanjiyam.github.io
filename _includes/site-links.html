@@ -1,7 +1,7 @@
 {% assign current = page.url | downcase | split: '/' %}	
 {% assign loc_current_page = current[1] %}
 
-<a href="/" class="selected">வாடிவாசல்</a>
+<a href="/" class="selected"></a>
 {% for link in site.links %}  
 {% assign loc_name_urls = link | split: ", " %}
   <a href="{{site.url}}/{{ loc_name_urls[1] }}" 
