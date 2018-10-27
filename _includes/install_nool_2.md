@@ -6,7 +6,7 @@
 ![ttak_mobi_refresh_higligt.png](https://thanithamizhakarathikalanjiyam.github.io/images/ttak_mobi_refresh_higligt.png)
 - 4\. எந்த நூலை தரவிரக்கினர்களோ அந்நூலின் பெயரை "**நூலின்_பெயர்/**" (Nool Name with slash symbol) என சொல்லை தேடுங்கள். நூலின் பொருளடக்கம் வரும்.  வேண்டுமென்றால் BookMark செய்து கொள்ளுங்கள். பின்னர் நூலை படிக்க ஆரம்பியுங்கள்.
 
-**குறிப்பு:** **
->அகராதி நூல்கள் சொற்களாக மட்டுமே காணும்** தன்மை பெற்றவை. நூலாக படிக்க முடியாது.
+**குறிப்பு:**
+>அகராதி நூல்கள் சொற்களாக மட்டுமே காணும் தன்மை பெற்றவை. நூலாக படிக்க முடியாது.
 
 [மேலும் நூல்கள்](https://thanithamizhakarathikalanjiyam.github.io/more_books)

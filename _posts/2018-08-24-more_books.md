@@ -60,7 +60,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 {% assign tag_counter = 1 %}
 {% for tag in tags %}
 {% if tag != "released" %}
-		<a href="#{{ tag }}">{{ tag }}</a>
+		<a href="{{ site.url }}/tag/{{ tag }}">{{ tag }}</a>
 {% endif %}		
 {% endfor %}
 </P>
