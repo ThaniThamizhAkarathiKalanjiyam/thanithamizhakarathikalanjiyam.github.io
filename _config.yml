@@ -13,7 +13,7 @@ author: Pitchaimuthu
 # app_id: 1234
 # publisher: 1234
 # admins: 1234
-baseurl: 'https://thanithamizhakarathikalanjiyam.github.io/' Do not enable this line
+baseurl: 'https://thanithamizhakarathikalanjiyam.github.io' Do not enable this line
 logo: '/images/ttak.png'
 #social:
 # name: Ben Balter   
