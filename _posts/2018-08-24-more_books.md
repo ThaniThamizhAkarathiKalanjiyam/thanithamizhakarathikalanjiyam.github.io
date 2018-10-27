@@ -4,7 +4,7 @@ title: தமிழ்நூல்கள்
 keywords: More, Tamil, Books
 description: மேலும் தமிழ் நூல்கள்
 author: Tamilan
-layout: default
+layout: Ruby 
 tags:
  
 permalink: more_books
