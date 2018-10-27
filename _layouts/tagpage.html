@@ -2,8 +2,8 @@
 
 {% for post in site.tags[page.tag] %}
 <div class="post">
-  <h3><a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }} நூல்/மென்பொருள் </a></h3>
-  <p>{{ post.date }} வெளியிடப் பட்டுள்ளது.</p>
+  <h2><a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a></h2>
+  <p>{{ page.date | date_to_string }} அன்று வெளியிடப்பட்டது.</p>
   <p class="post-link">
   {{ post.description }}
   <a href="{{ site.url }}/{{ post.permalink }}">  
