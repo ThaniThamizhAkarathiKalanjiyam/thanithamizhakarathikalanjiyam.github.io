@@ -11,10 +11,6 @@ permalink: more_books
 featured: /images/ttak-48.png
 ---
 
-### நூலாசிரியர்கள்
-
-**Contact Us:** isaiyini AT yahoogroups DOT com
-
 {% comment %}
 =======================
 The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
@@ -55,7 +51,6 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 - [{{ tag }}]({{ site.url }}/tag/{{ tag }})
 {% endif %}		
 {% endfor %}
-</P>
 
 {% include install_nool_2.md %}
 
