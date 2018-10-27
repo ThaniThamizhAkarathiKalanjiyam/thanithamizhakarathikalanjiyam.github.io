@@ -1,6 +1,6 @@
 ---
 categories: blog
-title: அகராதி வெளியிடுகள்
+title: குறிஞ்சி தூத்துக்குடி (Windows)
 keywords: அகராதி வெளியிடுகள்
 description: அகராதி வெளியிடுகள் பற்றி அறிந்து கொள்ளலாம்.
 author: Tamilan
