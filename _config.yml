@@ -4,7 +4,7 @@ title: தனித் தமிழகராதிக் களஞ்சிய�
 description: தமிழ் உலகின் இலவச தமிழ் ஆங்கில அகராதி. தனித்தமிழ் இயக்கத்தின் அடுத்த முனைப்பு.
 description_short: தனித்தமிழ் இயக்கத்தின் முனைப்பு.
 keywords: அஃக ததஅக தனித் தமிழகராதிக் களஞ்சியம் தனித்தமிழகராதிக்களஞ்சியம் Tamil Dictionary - Apps on Google Play offline tamil dictionary for windows அஃக தனித்தமிழகராதிக்களஞ்சியம் English-To-Tamil-Dictionary-and-Translation Tamil English Dictionary ThaniTamil offline-tamil-dictionary windows-7 Thani Iyakkam Akarathi Agarathi Kalanjiyam Meaning Tamil-Meaning தமிழ் தனித்தமிழ் இயக்கம் அகராதி அகரமுதலி தமிழகராதி களஞ்சியம் தமிழகராதிக்களஞ்சியம் தனித்தமிழகராதிக்களஞ்சியம் மின்னகராதி சொல்லுருவாக்கி வடமொழியாக்கம் வட மொழியாக்கம் கிரந்தம் கிரந்த நீக்கி சொல் உருவாக்கி தமிழில் சொற்களஞ்சியம் ஆங்கிலம் tamil-dictionary-for-windows English-English-Tamil-dictionary offline tamil dictionary wikipedia wiktionary wikiquote reader dictionary slob
-url: 'https://thanithamizhakarathikalanjiyam.github.io'
+url: https://thanithamizhakarathikalanjiyam.github.io
 author: Pitchaimuthu
 #twitter:
 # username: benbalter
@@ -13,7 +13,7 @@ author: Pitchaimuthu
 # app_id: 1234
 # publisher: 1234
 # admins: 1234
-#baseurl: 'https://thanithamizhakarathikalanjiyam.github.io' Do not enable this line
+baseurl: https://thanithamizhakarathikalanjiyam.github.io
 logo: '/images/ttak.png'
 #social:
 # name: Ben Balter   
