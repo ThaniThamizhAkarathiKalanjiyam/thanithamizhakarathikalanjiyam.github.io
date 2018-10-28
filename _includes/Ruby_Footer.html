@@ -1,14 +1,19 @@
-## தொடர்புடைய நூல்கள்/அகராதிகள்
+<h2>தொடர்புடைய நூல்கள்/அகராதிகள்</h2>
+<ol>
 {% for tag in page.tags %}
 {% for post in site.tags[tag] %}
-- 1. [{{ post.title }}]({{ site.url }}/{{ post.permalink }})  
+<li><a href ="({{ site.url }}/{{ post.permalink }})">
+{{ post.title }}</a>  </li>
 {% endfor %}
 {% endfor %}
+</ol>
 
-## தேடு சொற்கள்
+<h2>தேடு சொற்கள்</h2>
+<ol>
 {% for keyword in page.keywords %}
-- 1. {{ keyword }}
+<li> {{ keyword }}</li>
 {% endfor %}
+</ol>
 
 </div>
 </div>
