@@ -15,14 +15,18 @@ featured: /images/ttak-48.png
 
 <h2>கிரந்தச் சொல்லை இங்கு இடுங்கள்</h2>
 
-<input type="text" id="kirantha_word" text="கிரந்தச் சொல் (புஷ்கர்)" />
+<textarea id="kirantha_word" rows="4" cols="50">
+கிரந்தச் சொல் (புஷ்கர்)
+</textarea>
 
 <br/>
 <button class="button" onclick="ChangetToTamil()">Click</button>
 
 <h2>தமிழ்ச் சொல்லை இங்கு பாருங்கள்</h2>
 
-<input type="text" id="tamil_word" text="தமிழ்ச் சொல் (புட்கர்)" />
+<textarea id="tamil_word" rows="4" cols="50">
+தமிழ்ச் சொல் (புட்கர்)
+</textarea>
 
 <address>குறிப்பு: <br>
 </address>
@@ -38,7 +42,7 @@ href="https://thanithamizhakarathikalanjiyam.github.io/tamilin-kirantham">கி
 <script>
 function ChangetToTamil()
 {
-var input = $("#kirantha_word").val(); 
+var input = $("#kirantha_word").val().trim(); 
 
 
 	input = input
