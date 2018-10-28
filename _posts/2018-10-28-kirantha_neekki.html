@@ -1,6 +1,6 @@
 ---
 categories: blog
-title: இயங்கலை கிரந்த நீக்கி
+title: இயங்கலை கிரந்த நீக்கி (சோதனை ஓட்டம்)
 keywords: 
 - கிரந்த நீக்கி
 - கிரந்தம்
@@ -13,10 +13,20 @@ permalink: kirantha_neekki
 featured: /images/ttak-48.png
 ---
 
+## கிரந்தச் சொல்லை இங்கு இடுங்கள்
+
 <textarea id="kirantha_word" rows="4" cols="50">
 At w3schools.com you will learn how to make a website. We offer free tutorials in all web development technologies. 
 </textarea>
 
+## தமிழ்ச் சொல்லை இங்கு பாருங்கள்
+
 <textarea id="tamil_word" rows="4" cols="50">
 At w3schools.com you will learn how to make a website. We offer free tutorials in all web development technologies. 
 </textarea>
+
+<script>
+$('#kirantha_word').keyup(function(){
+    $('#tamil_word').val(this.value);
+});
+</script>
