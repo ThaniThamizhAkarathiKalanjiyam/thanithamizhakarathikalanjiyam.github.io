@@ -7,6 +7,7 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - இளங்கோ அடிகள்
+- ஐம்பெருங் காப்பியங்கள்
 permalink: silapathikaaram  
 featured: /images/noolkal_96_6.png  
 ---  

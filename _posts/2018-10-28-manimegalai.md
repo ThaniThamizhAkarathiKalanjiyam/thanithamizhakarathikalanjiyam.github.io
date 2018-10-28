@@ -7,6 +7,7 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - சீத்தலைச்சாத்தனார்
+- ஐம்பெருங் காப்பியங்கள்
 permalink: manimegalai  
 featured: /images/noolkal_96_6.png  
 ---  

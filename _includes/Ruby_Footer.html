@@ -1,15 +1,15 @@
-<h2>தொடர்புடைய நூல்கள்/அகராதிகள்:</h2>
-
+## தொடர்புடைய நூல்கள்/அகராதிகள்
 {% for tag in page.tags %}
 {% for post in site.tags[tag] %}
-<a href="{{ site.url }}/{{ post.permalink }}">  
-  {{ post.title }}</a>
+- 1. [{{ post.title }}]({{ site.url }}/{{ post.permalink }})  
 {% endfor %}
 {% endfor %}
 
-<h3>தேடு சொற்கள்</h3>
+## தேடு சொற்கள்
+{% for keyword in page.keywords %}
+- 1. {{ keyword }}
+{% endfor %}
 
-{{ page.keywords }}
 </div>
 </div>
 <hr class="hidden-modern">
