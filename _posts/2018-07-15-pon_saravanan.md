@@ -11,10 +11,11 @@ featured: /images/ttak-48.png
 keywords: உணவு, கலைச்சொற்கள்  
 description: உணவுக்கலைச் சொற்கள்  
 ---   
+நன்றிகள் [திருத்தம் பொன். சரவணன்](https://plus.google.com/u/0/101042941706747484716)
+
+{% include install_nool.md %}  
 
 # உணவகப் பட்டியல்
-
-நன்றிகள் [திருத்தம் பொன். சரவணன்](https://plus.google.com/u/0/101042941706747484716)
 
 ### Fried rice நிமிரல் உணவுகள்
 
