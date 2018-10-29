@@ -1,10 +1,14 @@
 <h2>தொடர்புடைய நூல்கள்/அகராதிகள்</h2>
 <ol>
 {% for tag in page.tags %}
+<li>
+</ol>
 {% for post in site.tags[tag] %}
 <li><a href ="{{ site.url }}/{{ post.permalink }}">
 {{ post.title }}</a>  </li>
 {% endfor %}
+</ol>
+</li>
 {% endfor %}
 </ol>
 
