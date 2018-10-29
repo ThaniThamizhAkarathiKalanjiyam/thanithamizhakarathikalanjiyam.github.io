@@ -1,6 +1,6 @@
 ---
 categories: blog
-title: இயங்கலை கிரந்த நீக்கி (சோதனை ஓட்டம்)
+title: கிரந்த நீக்கி (For Developers)
 keywords: 
 - கிரந்த நீக்கி
 - கிரந்தம்
