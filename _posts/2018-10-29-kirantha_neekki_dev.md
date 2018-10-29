@@ -12,10 +12,10 @@ tags:
 permalink: kirantha_neekki_dev
 featured: /images/ttak-48.png
 ---
+டெஸ்ட்
 
 
-
-```<h2>கிரந்தச் சொல்லை இங்கு இடுங்கள்</h2>
+	<h2>கிரந்தச் சொல்லை இங்கு இடுங்கள்</h2>
 <textarea id="kirantha_word" rows="4" cols="50">
 கிரந்தச் சொல் (புஷ்கர்)
 </textarea>
@@ -286,4 +286,3 @@ var input = $("#kirantha_word").val().trim();
 	$("#tamil_word").val(input1);
 }
 </script>
-```
