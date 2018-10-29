@@ -2,7 +2,8 @@
 <ol>
 {% for tag in page.tags %}
 <li>
-</ol>
+{{ tag }}
+<ol>
 {% for post in site.tags[tag] %}
 <li><a href ="{{ site.url }}/{{ post.permalink }}">
 {{ post.title }}</a>  </li>
