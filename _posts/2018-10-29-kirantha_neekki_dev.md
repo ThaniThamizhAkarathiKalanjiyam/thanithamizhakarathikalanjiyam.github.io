@@ -4,7 +4,7 @@ title: இயங்கலை கிரந்த நீக்கி (சோதன
 keywords: 
 - கிரந்த நீக்கி
 - கிரந்தம்
-description: தமிழ் மொழியில் பின்வருபவனவற்றுள் ஏதேனும் ஒன்றில் Academic Research செய்ய முடியும்
+description: நிரலர்கள் பின்வரும் நிரலைப் பயன்படுத்தி அவரர் இணையத் தளங்களில் கிரந்தப் பயன்பாட்டை குறைக்க முடியும். முடிந்தால் இந்த நிரலை மேம்படுத்த முயலாலாம்.
 author: Tamilan
 layout: Ruby
 tags: 
@@ -13,7 +13,9 @@ permalink: kirantha_neekki_dev
 featured: /images/ttak-48.png
 ---
 
-><h2>கிரந்தச் சொல்லை இங்கு இடுங்கள்</h2>
+
+
+```<h2>கிரந்தச் சொல்லை இங்கு இடுங்கள்</h2>
 <textarea id="kirantha_word" rows="4" cols="50">
 கிரந்தச் சொல் (புஷ்கர்)
 </textarea>
@@ -284,3 +286,4 @@ var input = $("#kirantha_word").val().trim();
 	$("#tamil_word").val(input1);
 }
 </script>
+```
