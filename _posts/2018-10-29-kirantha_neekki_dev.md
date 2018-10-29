@@ -12,8 +12,12 @@ tags:
 permalink: kirantha_neekki_dev
 featured: /images/ttak-48.png
 ---
+## பொருளடக்கம்
 
+1. Javascript/jQuery
+2. C#
 
+## Javascript/jQuery:
 
 	<h2>கிரந்தச் சொல்லை இங்கு இடுங்கள்</h2>
 	<textarea id="kirantha_word" rows="4" cols="50">
@@ -286,3 +290,280 @@ featured: /images/ttak-48.png
 		$("#tamil_word").val(input1);
 	}
 	</script>
+
+## C#:
+
+public string ChangetToTamil(string input)
+{
+	input = input.Trim()
+		.Replace("ஸ்ரீ", "திரு")
+		.Replace("க்ல", "க்கில")
+		.Replace("க்ர", "க்கிர")
+		.Replace("்ம", "ும")
+		.Replace("்வ", "ுவ");
+
+	string input1 = input;
+	char lastChar = ' ',
+	nextChar = ' ',
+	curChar = ' ';
+	int CharIndex = 0,
+		lastIndex = 0,
+		nextIndex = 0;
+	try
+	{
+		log.Info("692018125837PM1 started");
+		//string FinalString = "";
+		for (CharIndex = 0; CharIndex < input.Length; CharIndex++)
+		{
+			lastIndex = CharIndex - 1;
+			nextIndex = CharIndex + 1;
+			if (lastIndex >= 0)
+			{
+				lastChar = input[lastIndex];
+			}
+			//if (CharIndex)
+			//{
+			curChar = input[CharIndex];
+			//}
+			if (nextIndex < input.Length)
+			{
+				nextChar = input[nextIndex];
+			}
+			else
+			{
+				nextChar = ' ';
+			}
+
+			string theWholeString = "" + lastChar + curChar + nextChar;
+
+
+
+			if (CharIndex == 0)
+			{
+				if (theWholeString == " ர்")
+				{
+					input1 = input1.Replace(input1.Substring(0, 2),
+					   "இ");
+				}
+				else if ((theWholeString == " ஷா" ||
+				   theWholeString == " ஸா"))
+				{
+					input1 = input1.Replace(input1.Substring(0, 2),
+					   "சா");
+				}
+				else if ((input1.Substring(0, 3) == "க்ஷ"))
+				{
+					input1 = input1.Replace(input1.Substring(0, 3),
+					   "க");
+				}
+				else if ((input[CharIndex] == 'ஷ' ||
+					input[CharIndex] == 'ஸ' ||
+					input[CharIndex] == 'ஜ'))
+				{
+					if (input1.Substring(0, 3) == "ஸ்வ"
+						|| input1.Substring(0, 3) == "ஷ்வ"
+						)
+					{
+						input1 = input1.Replace(input1.Substring(0, 3),
+						   "சுவ");
+					}
+					else if (input1.Substring(0, 3) == "ஸ்த"
+							|| input1.Substring(0, 3) == "ஷ்த")
+					{
+						input1 = input1.Replace(input1.Substring(0, 3),
+						   "த");
+					}
+					else if (input1.Substring(0, 3) == "ஸ்க"
+							|| input1.Substring(0, 3) == "ஷ்க")
+					{
+						input1 = input1.Replace(input1.Substring(0, 3),
+						   "க");
+					}
+					else if (input1.Substring(0, 3) == "ஸ்ட"
+							|| input1.Substring(0, 3) == "ஷ்ட")
+					{
+						input1 = input1.Replace(input1.Substring(0, 3),
+						   "ச");
+					}
+					else if (input1.Substring(0, 3) == "ஸ்ப"
+							|| input1.Substring(0, 3) == "ஷ்ப")
+					{
+						input1 = input1.Replace(input1.Substring(0, 3),
+						   "ப");
+					}
+					else
+					{
+						input1 = input1.Replace(input1.Substring(0, 1),
+						   "ச");
+					}
+				}
+				else if ((input[CharIndex] == 'ஹ'))
+				{
+					if (input1.Substring(0, 2) == ("ஹௌ"))
+					{
+
+						input1 = input1.Replace(input1.Substring(0, 2), "ஔ");
+					}
+					// .Replace("ஹோ", "ஓ")
+					else if (input1.Substring(0, 2) == ("ஹோ"))
+					{
+
+						input1 = input1.Replace(input1.Substring(0, 2), "ஓ");
+					}
+					// .Replace("ஹொ", "ஒ")
+					else if (input1.Substring(0, 2) == ("ஹொ"))
+					{
+
+						input1 = input1.Replace(input1.Substring(0, 2), "ஒ");
+					}
+					// .Replace("ஹை", "ஐ")
+					else if (input1.Substring(0, 2) == ("ஹை"))
+					{
+
+						input1 = input1.Replace(input1.Substring(0, 2), "ஐ");
+					}
+					// .Replace("ஹே", "ஏ")
+					else if (input1.Substring(0, 2) == ("ஹே"))
+					{
+
+						input1 = input1.Replace(input1.Substring(0, 2), "ஏ");
+					}
+					// .Replace("ஹே", "எ")
+					else if (input1.Substring(0, 2) == ("ஹே"))
+					{
+
+						input1 = input1.Replace(input1.Substring(0, 2), "எ");
+					}
+					// .Replace("ஹூ", "ஊ")
+					else if (input1.Substring(0, 2) == ("ஹூ"))
+					{
+
+						input1 = input1.Replace(input1.Substring(0, 2), "ஊ");
+					}
+					// .Replace("ஹு", "உ")
+					else if (input1.Substring(0, 2) == ("ஹு"))
+					{
+
+						input1 = input1.Replace(input1.Substring(0, 2), "உ");
+					}
+					// .Replace("ஹீ", "ஈ")
+					else if (input1.Substring(0, 2) == ("ஹீ"))
+					{
+
+						input1 = input1.Replace(input1.Substring(0, 2), "ஈ");
+					}
+					// .Replace("ஹி", "இ")
+					else if (input1.Substring(0, 2) == ("ஹி"))
+					{
+
+						input1 = input1.Replace(input1.Substring(0, 2), "இ");
+					}
+					// .Replace("ஹா", "ஆ")
+					else if (input1.Substring(0, 2) == ("ஹா"))
+					{
+
+						input1 = input1.Replace(input1.Substring(0, 2), "ஆ");
+					}
+					//.Replace("ஹ", "அ")
+					else
+					{
+						input1 = input1.Replace(input1.Substring(0, 1),
+						 "அ");
+					}
+				}
+				else if ((theWholeString == " ரொ"))
+				{
+					input1 = input1.Replace(input1.Substring(0, 2),
+					   "உரொ");
+				}
+				else if ((theWholeString == " ரோ"))
+				{
+					input1 = input1.Replace(input1.Substring(0, 2),
+					   "உரோ");
+				}
+				else if ((theWholeString == " ரி"))
+				{
+					input1 = input1.Replace(input1.Substring(0, 2),
+					   "இ");
+				}
+				else if ((theWholeString == " ரா"))
+				{
+					input1 = input1.Replace(input1.Substring(0, 2),
+					   "இரா");
+				}
+				else if ((input[CharIndex] == 'ர'))
+				{
+					input1 = input1.Replace(input1.Substring(0, 1),
+					   "அர");
+				}
+				//--------------------
+				else if ((theWholeString == " லொ"))
+				{
+					input1 = input1.Replace(input1.Substring(0, 2),
+					   "உலொ");
+				}
+				else if ((theWholeString == " லோ"))
+				{
+					input1 = input1.Replace(input1.Substring(0, 2),
+					   "உலோ");
+				}
+				else if ((theWholeString == " லி"))
+				{
+					input1 = input1.Replace(input1.Substring(0, 2),
+					   "இலி");
+				}
+				else if ((theWholeString == " லா"))
+				{
+					input1 = input1.Replace(input1.Substring(0, 2),
+					   "இலா");
+				}
+				else if ((input[CharIndex] == 'ல'))
+				{
+					input1 = input1.Replace(input1.Substring(0, 1),
+					   "அல");
+				}
+			}
+			else if (CharIndex == input1.Length - 1 && input1[CharIndex] == 'ா')
+			{
+				//input1 = input[CharIndex];
+				input1 = input1.Substring(0, (CharIndex))
+					+ "ை";
+			}
+			else if (CharIndex == 2 && theWholeString == "ிர்")
+			{
+				//input1 = input[CharIndex];
+				input1 = input1.Replace(input1.Substring(0, 4),
+					input1.Substring(0, 3) + "ு");
+			}
+			else
+			{
+				input1 = input1
+					.Replace("க்ஷ", "க்க")
+					.Replace("ஜ", "ய")
+					.Replace("ஷ", "ட")
+					.Replace("ஸ", "ச")
+					.Replace("ஹ", "க")
+					.Replace("்ந", "ன")
+					;
+			}
+
+			//MessageBox.Show("CharIndex: " 
+			//+ CharIndex + ", " 
+			//+ theWholeString + ":: \nlastChar: " 
+			//+ lastChar
+			//    + "\n curChar: " + curChar
+			//    + "\n nextChar: " + nextChar);
+		}
+
+		log.Info("692018125837PM2 end");
+	}
+	catch (Exception ex)
+	{
+		log.Error(string.Format("692018125837PM3 {0}", ex.Message));
+	}
+	finally
+	{
+		log.Info("692018125837PM4 Process is done.");
+	}
+	return input1.ToString();
+}
