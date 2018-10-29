@@ -13,50 +13,27 @@ permalink: kirantha_neekki
 featured: /images/ttak-48.png
 ---
 
-<h2>கிரந்தச் சொல்லை இங்கு இடுங்கள்</h2>
-
+><h2>கிரந்தச் சொல்லை இங்கு இடுங்கள்</h2>
 <textarea id="kirantha_word" rows="4" cols="50">
 கிரந்தச் சொல் (புஷ்கர்)
 </textarea>
-
 <br/>
 <button class="button" onclick="ChangetToTamil()">Click</button>
-
 <h2>தமிழ்ச் சொல்லை இங்கு பாருங்கள்</h2>
-
 <textarea id="tamil_word" rows="4" cols="50">
 தமிழ்ச் சொல் (புட்கர்)
 </textarea>
-
-<address>குறிப்பு: <br>
-</address>
-<ol>
-<li><a
-href="https://thanithamizhakarathikalanjiyam.github.io/tamilin-kirantham">கிரந்தம்
-நீக்கும் முறை வழிகாட்டி</a>
-</li>
-<li><a
-href="https://thanithamizhakarathikalanjiyam.github.io/kirantha_neekki_dev">For Developers</a>
-</li>
-<li>ஏதேனும் கிரந்தச் சொல் தவறாக மாற்றம் பெற்றால் எங்களுக்கு
-மின்னஞ்சல் செய்யுங்கள் <b>isaiyini@yahoogroups.com</b> </li>
-</ol>
-
 <script>
 function ChangetToTamil()
 {
 var input = $("#kirantha_word").val().trim(); 
-
-
 	input = input
 		.replace("ஸ்ரீ", "திரு")
 		.replace("க்ல", "க்கில")
 		.replace("க்ர", "க்கிர")
 		.replace("்ம", "ும")
 		.replace("்வ", "ுவ");
-
 		
-
 	var input1 = input;
 	var lastChar = ' ',
 	nextChar = ' ',
@@ -88,11 +65,7 @@ var input = $("#kirantha_word").val().trim();
 			{
 				nextChar = ' ';
 			}
-
 			var theWholeString = "" + lastChar + curChar + nextChar;
-
-
-
 			if (CharIndex == 0)
 			{
 				if (theWholeString == " ர்")
@@ -156,67 +129,56 @@ var input = $("#kirantha_word").val().trim();
 				{
 					if (input1.substring(0, 2) == ("ஹௌ"))
 					{
-
 						input1 = input1.replace(input1.substring(0, 2), "ஔ");
 					}
 					// .replace("ஹோ", "ஓ")
 					else if (input1.substring(0, 2) == ("ஹோ"))
 					{
-
 						input1 = input1.replace(input1.substring(0, 2), "ஓ");
 					}
 					// .replace("ஹொ", "ஒ")
 					else if (input1.substring(0, 2) == ("ஹொ"))
 					{
-
 						input1 = input1.replace(input1.substring(0, 2), "ஒ");
 					}
 					// .replace("ஹை", "ஐ")
 					else if (input1.substring(0, 2) == ("ஹை"))
 					{
-
 						input1 = input1.replace(input1.substring(0, 2), "ஐ");
 					}
 					// .replace("ஹே", "ஏ")
 					else if (input1.substring(0, 2) == ("ஹே"))
 					{
-
 						input1 = input1.replace(input1.substring(0, 2), "ஏ");
 					}
 					// .replace("ஹே", "எ")
 					else if (input1.substring(0, 2) == ("ஹே"))
 					{
-
 						input1 = input1.replace(input1.substring(0, 2), "எ");
 					}
 					// .replace("ஹூ", "ஊ")
 					else if (input1.substring(0, 2) == ("ஹூ"))
 					{
-
 						input1 = input1.replace(input1.substring(0, 2), "ஊ");
 					}
 					// .replace("ஹு", "உ")
 					else if (input1.substring(0, 2) == ("ஹு"))
 					{
-
 						input1 = input1.replace(input1.substring(0, 2), "உ");
 					}
 					// .replace("ஹீ", "ஈ")
 					else if (input1.substring(0, 2) == ("ஹீ"))
 					{
-
 						input1 = input1.replace(input1.substring(0, 2), "ஈ");
 					}
 					// .replace("ஹி", "இ")
 					else if (input1.substring(0, 2) == ("ஹி"))
 					{
-
 						input1 = input1.replace(input1.substring(0, 2), "இ");
 					}
 					// .replace("ஹா", "ஆ")
 					else if (input1.substring(0, 2) == ("ஹா"))
 					{
-
 						input1 = input1.replace(input1.substring(0, 2), "ஆ");
 					}
 					//.replace("ஹ", "அ")
@@ -301,7 +263,6 @@ var input = $("#kirantha_word").val().trim();
 					.replace("்ந", "ன")
 					;
 			}
-
 			//MessageBox.Show("CharIndex: " 
 			//+ CharIndex + ", " 
 			//+ theWholeString + ":: \nlastChar: " 
@@ -309,7 +270,6 @@ var input = $("#kirantha_word").val().trim();
 			//    + "\n curChar: " + curChar
 			//    + "\n nextChar: " + nextChar);
 		}
-
 		//log.Info("692018125837PM2 end");
 	}
 	catch (err)
@@ -324,4 +284,3 @@ var input = $("#kirantha_word").val().trim();
 	$("#tamil_word").val(input1);
 }
 </script>
-  
