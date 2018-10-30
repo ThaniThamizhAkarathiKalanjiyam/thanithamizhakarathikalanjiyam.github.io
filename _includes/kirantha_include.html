@@ -52,6 +52,8 @@ var input = $("#kirantha_word").val().trim();
 				nextChar = ' ';
 			}
 			var theWholeString = "" + lastChar + curChar + nextChar;
+			
+			alert("Test message");
 			if (CharIndex == 0)
 			{
 				if (theWholeString == " ர்")
@@ -228,6 +230,7 @@ var input = $("#kirantha_word").val().trim();
 			}
 			else if (CharIndex == (input1.Length - 1) && input1[CharIndex] == 'ா')
 			{
+			
 				//input1 = input[CharIndex];
 				input1 = input1.substring(0, (CharIndex))
 					+ "ை";
