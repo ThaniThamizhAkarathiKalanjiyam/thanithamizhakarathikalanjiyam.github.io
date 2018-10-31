@@ -270,7 +270,7 @@ function kirantham_nekki(word)
 			{
 				_ta_letters[i] = _ta_letters[i].replace("ஷ்","சு");
 			}
-			if(_ta_letters[i].indexOf("ஷ") >= 0 ||
+			else if(_ta_letters[i].indexOf("ஷ") >= 0 ||
 			_ta_letters[i].indexOf("ஸ") >= 0 ||
 			_ta_letters[i].indexOf("ஜ") >= 0
 			)
@@ -287,10 +287,17 @@ function kirantham_nekki(word)
 		else
 		{
 			//middle characters
-			_ta_letters[i] = _ta_letters[i].replace("ஷ","ச/ய");			
-			_ta_letters[i] = _ta_letters[i].replace("க்ஷ", "க்க")	
-			_ta_letters[i] = _ta_letters[i].replace("ஸ","ச/த");
-			_ta_letters[i] = _ta_letters[i].replace("ஜ","ச");
+			if(_ta_letters[i].indexOf("ஷ்") >= 0)
+			{
+				_ta_letters[i] = _ta_letters[i].replace("ஷ்","ட்");
+			}
+			else 
+			{
+				_ta_letters[i] = _ta_letters[i].replace("ஷ","ச/ய");			
+				_ta_letters[i] = _ta_letters[i].replace("க்ஷ", "க்க")	
+				_ta_letters[i] = _ta_letters[i].replace("ஸ","ச/த");
+				_ta_letters[i] = _ta_letters[i].replace("ஜ","ச");
+			}
 		}
 	}	
 	
