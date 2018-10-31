@@ -17,7 +17,7 @@ featured: /images/ttak-48.png
 - At your web page add the following section into your HEAD section:
 
 
-```<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.js"></script>```
+```<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>```
 
 Note: Please add the above code for kirantha neekki **integrated around the wrold wide** webpages.	
 
