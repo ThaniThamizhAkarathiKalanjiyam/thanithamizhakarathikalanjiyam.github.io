@@ -248,10 +248,9 @@ $( "<p>" ).html("Please wait .. I am working").appendTo( "#info" );
 
 
 
-$( "#selectable" ).selectable();
-
-
-
+$( "#selectable" ).selectable({
+  autoRefresh: false
+});
 
 $( function() { 
 
@@ -260,6 +259,7 @@ for(i =0; i < lbxMuthal.length; i++)
 	$( "#selectable" ).selectable( "option", "appendTo", lbxMuthal[i] );
 }
 
+$( "#selectable" ).selectable( "refresh");
 
 });
 
