@@ -259,7 +259,7 @@ $( "#selectable" ).selectable({
         var text = $(this).children(".ui-selected").map(function () {
             return $(this).text();
         }).get().join('; ');
-        $("#txtSol").text(text);
+        $("#txtSol").val(text);
 		}
 });
 
