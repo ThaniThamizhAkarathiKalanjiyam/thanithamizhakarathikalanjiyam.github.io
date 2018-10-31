@@ -249,7 +249,14 @@ $( "<p>" ).html("Please wait .. I am working").appendTo( "#info" );
 $( function() { 
 
 $( "#selectable" ).selectable({
-  autoRefresh: false
+  autoRefresh: false,
+  stop: function() {
+        var result = $( "#txtSol" ).empty();
+        $( ".ui-selected", this ).each(function() {
+          var index = $( "#selectable li" ).index( this );
+          result.append( " #" + ( index + 1 ) );
+        });
+      }
 });
 
 for(i =0; i < lbxMuthal.length; i++)
