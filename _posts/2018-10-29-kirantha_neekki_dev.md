@@ -16,14 +16,16 @@ featured: /images/ttak-48.png
 
 - At your web page add the following section into your HEAD section:
 
-	```<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.js"></script>```
+
+```<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.js"></script>```
 
 Note: Please add the above code for kirantha neekki **integrated around the wrold wide** webpages.	
 
 - then which HTML elemnt you want to remove just use the following section appropriately.	
 
-	```var word = $("#kirantha_word_containg_element_name").val().trim();
-	alert(kirantham_nekki(word)) //word is a string contains the kirantha letters```
+
+```var word = $("#kirantha_word_containg_element_name").val().trim();
+alert(kirantham_nekki(word)) //word is a string contains the kirantha letters```
 	
 	
 Enjoy the ThaniTamil at your webpage.
