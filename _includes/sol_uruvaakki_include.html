@@ -13,13 +13,6 @@
 <tr>
 <td colspan="1" rowspan="2" valign="top">
 <ol id="selectable">
-<li class="ui-widget-content">Item 1</li>
-<li class="ui-widget-content">Item 2</li>
-<li class="ui-widget-content">Item 3</li>
-<li class="ui-widget-content">Item 4</li>
-<li class="ui-widget-content">Item 5</li>
-<li class="ui-widget-content">Item 6</li>
-<li class="ui-widget-content">Item 7</li>
 </ol>
 </td>
 <td valign="top"><br>
@@ -55,3 +48,21 @@
 </tr>
 </tbody>
 </table>
+
+<script>
+$( function() { 
+
+$( "#selectable" ).selectable({
+  autoRefresh: false
+});
+
+for(i =0; i < lbxMuthal.length; i++)
+{
+	$('#selectable')
+         .append($("<li class='ui-widget-content'>"+lbxMuthal[i]+"</li>"); 	
+}
+
+$( "#selectable" ).selectable( "refresh");
+
+});
+</script>
