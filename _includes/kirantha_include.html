@@ -37,10 +37,10 @@ function runTest()
 	
 	for(test_count = 0; test_count < testWords.length; test_count++)
 	{
-		result += testWords[test_count] + ": " + kirantham_nekki(testWords[test_count]) + "<br/>";
+		result += testWords[test_count] + ": " + kirantham_nekki(testWords[test_count]) + "\n";
 	}
 	
-	$("#tamil_word").html(result);
+	$("#tamil_word").val(result);
 }	
 	
 function ChangetToTamil()
