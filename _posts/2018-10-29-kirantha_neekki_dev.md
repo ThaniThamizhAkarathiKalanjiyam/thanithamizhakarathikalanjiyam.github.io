@@ -30,10 +30,10 @@ alert(kirantham_nekki(word)) //word is a string contains the kirantha letters```
 
 ## Idea on contribution?
 
-- 1. Go to https://github.com/ThaniThamizhAkarathiKalanjiyam/ttakJs
-- 2. Make a **Fork** from the repository, 
-- 3. Do changes and push to your cloned repository
-- 4. Then make **Pull Request** to merge.
+1. Go to https://github.com/ThaniThamizhAkarathiKalanjiyam/ttakJs
+2. Make a **Fork** from the repository, 
+3. Do changes and push to your cloned repository
+4. Then make **Pull Request** to merge.
 
 Thus we can remove the Kirantha world from the world-wide webpages.
 	
