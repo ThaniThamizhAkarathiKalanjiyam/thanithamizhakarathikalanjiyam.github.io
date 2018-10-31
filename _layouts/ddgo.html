@@ -246,6 +246,22 @@ $( "<p>" ).html("Please wait .. I am working").appendTo( "#info" );
     });
 });
 
+$( function() { 
+
+$( "#selectable" ).selectable({
+  autoRefresh: false
+});
+
+for(i =0; i < lbxMuthal.length; i++)
+{
+	$('#selectable')
+         .append($("<li class='ui-widget-content'>"+lbxMuthal[i]+"</li>")); 	
+}
+
+$( "#selectable" ).selectable( "refresh");
+
+});
+
 </script>
  
 </body>

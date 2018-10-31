@@ -49,20 +49,3 @@
 </tbody>
 </table>
 
-<script>
-$( function() { 
-
-$( "#selectable" ).selectable({
-  autoRefresh: false
-});
-
-for(i =0; i < lbxMuthal.length; i++)
-{
-	$('#selectable')
-         .append($("<li class='ui-widget-content'>"+lbxMuthal[i]+"</li>")); 	
-}
-
-$( "#selectable" ).selectable( "refresh");
-
-});
-</script>
