@@ -256,7 +256,7 @@ $( function() {
 
 for(i =0; i < lbxMuthal.length; i++)
 {
-	$( "#selectable" ).selectable( "option", "appendTo", lbxMuthal[i] );
+	$( "#selectable" ).selectable( "option", "appendTo", "<li class='ui-widget-content'>" + lbxMuthal[i] + "</li>" );
 }
 
 $( "#selectable" ).selectable( "refresh");
