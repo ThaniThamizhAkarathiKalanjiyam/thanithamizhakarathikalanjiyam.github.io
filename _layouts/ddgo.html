@@ -255,13 +255,12 @@ for(i =0; i < lbxMuthal.length; i++)
 }
 
 $( "#selectable" ).selectable({  
-  stop: function() {
-        var result = $( "#txtSol" ).empty();
-        $( ".ui-selected", this ).each(function() {
-          var index = $( "#selectable li" ).index( this );
-          result.append( " #" + ( index + 1 ) );
-        });
-      }
+  stop: function () {
+        var text = $(this).children(".ui-selected").map(function () {
+            return $(this).text();
+        }).get().join('; ');
+        $("#txtSol").text(text);
+		}
 });
 
 
