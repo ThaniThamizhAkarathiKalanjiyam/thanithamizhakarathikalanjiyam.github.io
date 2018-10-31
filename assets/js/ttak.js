@@ -265,7 +265,11 @@ function kirantham_nekki(word)
 		}
 		else if(i == (_ta_letters.length - 1))
 		{
-			//lastCharList					
+			//lastCharList
+			if(_ta_letters[i].indexOf("ஷ்") >= 0)
+			{
+				_ta_letters[i] = _ta_letters[i].replace("ஷ்","சு");
+			}
 			if(_ta_letters[i].indexOf("ஷ") >= 0 ||
 			_ta_letters[i].indexOf("ஸ") >= 0 ||
 			_ta_letters[i].indexOf("ஜ") >= 0
