@@ -11,4 +11,4 @@ tags:
 permalink: innaa_narpathu  
 featured: /images/noolkal_96_6.png  
 ---  
-{% include install_nool.md %}  
+{% include install_nool_2.md %} 
