@@ -251,6 +251,19 @@ $( "<p>" ).html("Please wait .. I am working").appendTo( "#info" );
 $( "#selectable" ).selectable();
 
 
+
+
+$( function() { 
+
+for(i =0; i < lbxMuthal.length; i++)
+{
+	$( "#selectable" ).selectable( "option", "appendTo", lbxMuthal[i] );
+}
+
+
+});
+
+
 </script>
  
 </body>
