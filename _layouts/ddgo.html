@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">	
 	<link href="../assets/jquery-ui/jquery-ui.css" rel="stylesheet">
-	<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>
+	
 	<style>
 	body{
 		font-family: "Trebuchet MS", sans-serif;
@@ -83,15 +83,14 @@
 
 <script src="../assets/jquery-ui/external/jquery/jquery.js"></script>
 <script src="../assets/jquery-ui/jquery-ui.js"></script>
+<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>
 <script>
 
 $( "#accordion" ).accordion();
 
 
 
-$( function() {
-$( "#selectable" ).selectable();
-} );
+
 
 
 
@@ -238,6 +237,11 @@ $( "<p>" ).html("Please wait .. I am working").appendTo( "#info" );
 		$('#autocomplete').autocomplete("option", { source: titles });
     });
 });
+
+
+
+$( "#selectable" ).selectable();
+
 
 </script>
  
