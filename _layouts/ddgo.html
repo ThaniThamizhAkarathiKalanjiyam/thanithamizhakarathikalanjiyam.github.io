@@ -50,9 +50,9 @@
 	</style>
 	<style>
 	  #feedback { font-size: 1.4em; }
-	  #selectable .ui-selecting { background: #FECA40; }
-	  #selectable .ui-selected { background: #F39814; color: white; }
-	  #selectable { list-style-type: none; margin: 0; padding: 0; width: 100%; }	  
+	  .selectablePM .ui-selecting { background: #FECA40; }
+	  .selectablePM .ui-selected { background: #F39814; color: white; }
+	  .selectablePM { list-style-type: none; margin: 0; padding: 0; width: 100%; }	  
 	 .ui-widget input{	height: 25px;	}
 	.selectable-wrapper {  border-radius: 5px; height: 200px;  max-height: 200px;  overflow-y: auto; border: 1px solid #D1D1D1;}
 
@@ -258,7 +258,13 @@ for(i =0; i < lbxMuthal.length; i++)
          .append($("<li class='ui-widget-content'>"+lbxMuthal[i]+"</li>")); 	
 }
 
-$( "#selectable" ).selectable({  
+for(i =0; i < lstWholeMey.length; i++)
+{
+	$('#selWholeMey')
+         .append($("<li class='ui-widget-content'>"+lstWholeMey[i]+"</li>")); 	
+}
+
+$( "#selectable, #selWholeMey" ).selectable({  
   stop: function () {
         var text = $(this).children(".ui-selected").map(function () {
             return $(this).text();
