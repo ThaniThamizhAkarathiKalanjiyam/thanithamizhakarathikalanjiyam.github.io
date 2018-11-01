@@ -7,6 +7,7 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - கண்மணி 
+- அகராதிகள்
 permalink: maruthuva_sorkal  
 featured: /images/noolkal_96_6.png  
 ---  
