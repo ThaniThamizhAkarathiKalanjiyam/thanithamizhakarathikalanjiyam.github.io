@@ -264,6 +264,12 @@ for(i =0; i < lstWholeMey.length; i++)
          .append($("<li class='ui-widget-content'>"+lstWholeMey[i]+"</li>")); 	
 }
 
+for(i =0; i < lbxEeru.length; i++)
+{
+	$('#selEeru')
+         .append($("<li class='ui-widget-content'>"+lbxEeru[i]+"</li>")); 	
+}
+
 $( "#selectable, #selWholeMey" ).selectable({  
   stop: function () {
         var text = $(this).children(".ui-selected").map(function () {
