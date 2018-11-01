@@ -19,7 +19,7 @@
 function runTest()
 {
 	var result = "";
-	var testWords = ["ர்ஷபம் ",
+	var testWords = ["ர்ஷபம்",
 	"மிர்கம்","நாஹம்","ஹாக்கி", "பங்கஜம்",
 	"ஷங்கரன்", "தேஷம்", "பாஷம்",
 	"ஷண்முகம்","விஷம்","ஷாஷி",
@@ -32,12 +32,13 @@ function runTest()
 	"ஜைன", "ஜீவன்", "அஜீரணம்", "காளைராஜன்",
 	"ராஜன்", "லக்ஷணம்", "லோஹம்", "ஹோமம்",
 	"சபாஷ்", "ராக்ஷஸன்", "பாஷை", "ராஹம்", "ரோஷம்",
-	"ராஜா"
+	"ராஜா", "சுபாஷினி", "ரஜினி", "அஜித்", "விஜய்",
+	"ஜெயபாரதன்", "ஜெயமோகன்"
 	];
 	
 	for(test_count = 0; test_count < testWords.length; test_count++)
 	{
-		result += testWords[test_count] + ": " + kirantham_nekki(testWords[test_count]) + "\n";
+		result += kirantham_nekki(testWords[test_count]) + "\n";
 	}
 	
 	$("#tamil_word").val(result);

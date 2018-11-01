@@ -54,7 +54,7 @@
 	  .selectablePM .ui-selected { background: #F39814; color: white; }
 	  .selectablePM { list-style-type: none; margin: 0; padding: 0; width: 100%; }	  
 	 .ui-widget input{	height: 25px;	}
-	.selectable-wrapper {  border-radius: 5px; height: 200px;  max-height: 200px;  overflow-y: auto; border: 1px solid #D1D1D1;}
+	.selectable-wrapper {  border-radius: 5px; height: 50px;  max-height: 200px;  overflow-y: auto; border: 1px solid #D1D1D1;}
 
   </style>
 <!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
@@ -270,7 +270,7 @@ for(i =0; i < lbxEeru.length; i++)
          .append($("<li class='ui-widget-content'>"+lbxEeru[i]+"</li>")); 	
 }
 
-$( "#selectable, #selWholeMey" ).selectable({  
+$( "#selectable, #selWholeMey, #selMayankuMey, #selSuggested" ).selectable({  
   stop: function () {
         var text = $(this).children(".ui-selected").map(function () {
             return $(this).text();
