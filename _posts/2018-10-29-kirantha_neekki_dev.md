@@ -46,7 +46,7 @@ alert(kirantham_nekki(word)) //word is a string contains the kirantha letters```
 ```var word = $("#kirantha_word_containg_element_name").val().trim();
 alert(kirantham_nekki_thanithamizh(word)) //word is a string contains the kirantha letters```
 
-Note: Please add the above code for kirantha neekki **integrated around the wrold wide** webpages.	
+Note: Please add the above code for kirantha neekki **integrated around the wrold wide** webpages. Please use the  github integrated Javascript file only (means https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js and https://thanithamizhakarathikalanjiyam.github.io/ttakJs/vadam.tamil.pairs.js), maximum avoid use from local we site.
 
 ## தமிழ் அறிஞர்கள் கவனத்திற்கு
 
