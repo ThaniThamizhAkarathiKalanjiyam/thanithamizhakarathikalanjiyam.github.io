@@ -59,6 +59,6 @@ Note: Please add the above code for kirantha neekki **integrated around the wrol
 3. Do changes and push to your cloned repository
 4. Then make **Pull Request** to merge world-wide kirantha-nekka-thittam.
 
-Thus we can remove the Kirantha world from the world-wide webpages.
-	
-Enjoy the ThaniTamil at your webpage.
+Thus we can remove the Kirantha world from the world-wide webpages. Enjoy the ThaniTamil at your webpage.
+
+# தனித்தமிழ் கலை கொண்டு பிறமொழிகளை களை
