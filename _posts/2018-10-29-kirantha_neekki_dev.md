@@ -23,22 +23,24 @@ Note: Please add the above code for kirantha neekki **integrated around the wrol
 
 ## வடமொழி (கிரந்த) எழுத்துகளை மட்டும் மாற்ற:
 
-- then which HTML elemnt you want to remove just use the following section appropriately.	
+- then which HTML element you want to remove just use the following section appropriately.	
 
+**kirantham_nekki(word)**
 
 ```var word = $("#kirantha_word_containg_element_name").val().trim();
-alert(**kirantham_nekki**(word)) //word is a string contains the kirantha letters```
+alert(kirantham_nekki(word)) //word is a string contains the kirantha letters```
 
 ## வடமொழி (கிரந்த) சொற்களை தமிழ்ச் சொற்களாக மாற்ற:
 
-- then which HTML elemnt you want to remove just use the following section appropriately.	
+- then which HTML element you want to remove just use the following section appropriately.	
 
+**kirantham_nekki_thanithamizh(word)**
 
 ```var word = $("#kirantha_word_containg_element_name").val().trim();
-alert(**kirantham_nekki_thanithamizh**(word)) //word is a string contains the kirantha letters```
+alert(kirantham_nekki_thanithamizh(word)) //word is a string contains the kirantha letters```
 
 
-## Hvae Idea to contribute?
+## Have Idea to contribute?
 
 1. Go to https://github.com/ThaniThamizhAkarathiKalanjiyam/ttakJs
 2. Make a **Fork** from the repository, 
