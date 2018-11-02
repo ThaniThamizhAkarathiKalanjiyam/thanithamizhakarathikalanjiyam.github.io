@@ -13,10 +13,16 @@ permalink: kirantha_neekki_dev
 featured: /images/ttak-48.png
 ---
 
+உங்களது வலைத் தளங்களை கிரந்த எழுத்துகளை நீக்கி எழுத/காண்பிக்க விழைகின்றீர்களா? உங்களுக்கான கட்டுரைதான் இது.
+
+உங்களது இணையத் தளத்தில் உள்ள HTML கோப்பில் இரண்டு மாற்றங்களைச் செய்தாலே போதும். உங்களது இணையத் தல பயனர் கிரந்த சொற்கள் கொடுத்து பதிந்தாலும் அவை தனித்தமிழ்ச் சொற்களாக மாற்றப் படும். உதாரணமாக பின்வரும் எடுத்துக்காட்டை பாருங்கள். index.html என்னும் கோப்பை எடுத்துக் கொள்வோம்.
+
+index.html:
+	
+
+ - At your web page add the following section into your HEAD section:
+
 ## வடமொழி (கிரந்த) எழுத்துகளை மட்டும் மாற்ற:
-
-- At your web page add the following section into your HEAD section:
-
 **HEAD Section Part:**
 
 ```<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>```
