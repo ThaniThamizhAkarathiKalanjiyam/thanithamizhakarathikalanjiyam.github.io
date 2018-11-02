@@ -12,16 +12,16 @@ tags:
 permalink: kirantha_neekki_dev
 featured: /images/ttak-48.png
 ---
-## பொருளடக்கம்
+
+## வடமொழி (கிரந்த) எழுத்துகளை மட்டும் மாற்ற:
 
 - At your web page add the following section into your HEAD section:
 
+**HEAD Section Part:**
 
 ```<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>```
 
-Note: Please add the above code for kirantha neekki **integrated around the wrold wide** webpages.	
-
-## வடமொழி (கிரந்த) எழுத்துகளை மட்டும் மாற்ற:
+**How to use:**
 
 - then which HTML element you want to remove just use the following section appropriately.	
 
@@ -37,12 +37,16 @@ alert(kirantham_nekki(word)) //word is a string contains the kirantha letters```
 ```<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>
 <script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/vadam.tamil.pairs.js"></script>```
 
+**How to use:**
+
 - then which HTML element you want to remove just use the following section appropriately.	
 
 **kirantham_nekki_thanithamizh(word)**
 
 ```var word = $("#kirantha_word_containg_element_name").val().trim();
 alert(kirantham_nekki_thanithamizh(word)) //word is a string contains the kirantha letters```
+
+Note: Please add the above code for kirantha neekki **integrated around the wrold wide** webpages.	
 
 ## தமிழ் அறிஞர்கள் கவனத்திற்கு
 
