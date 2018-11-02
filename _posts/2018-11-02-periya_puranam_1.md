@@ -1,12 +1,12 @@
 ---  
 categories: blog  
-title: பெரிய புராணம்/01 திருமலைச் சருக்கம்
+title: பெரியபுராணம் 1
 keywords: More, Tamil, Books  
-description: பெரிய புராணம்/01 திருமலைச் சருக்கம்
+description: பெரியபுராணம் 1
 author: Tamilan  
 layout: Ruby  
 tags:     
-- பெரிய புராணம்
+- சேக்கிழார்
 permalink: periya_puranam_1  
 featured: /images/noolkal_96_6.png  
 ---  

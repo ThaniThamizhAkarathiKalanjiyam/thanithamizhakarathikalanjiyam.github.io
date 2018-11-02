@@ -1,12 +1,12 @@
 ---  
 categories: blog  
-title: பெரிய புராணம்/02 தில்லை வாழ் அந்தணர் சருக்கம்
+title: பெரியபுராணம் 2
 keywords: More, Tamil, Books  
-description: பெரிய புராணம்/02 தில்லை வாழ் அந்தணர் சருக்கம்
+description: பெரியபுராணம் 2
 author: Tamilan  
 layout: Ruby  
 tags:     
-- பெரிய புராணம்
+- சேக்கிழார்
 permalink: periya_puranam_2  
 featured: /images/noolkal_96_6.png  
 ---  
