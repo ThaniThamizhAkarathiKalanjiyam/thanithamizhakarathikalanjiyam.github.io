@@ -39,10 +39,13 @@ alert(kirantham_nekki(word)) //word is a string contains the kirantha letters```
 ```var word = $("#kirantha_word_containg_element_name").val().trim();
 alert(kirantham_nekki_thanithamizh(word)) //word is a string contains the kirantha letters```
 
+## தமிழ் அறிஞர்கள் கவனத்திற்கு
+
+இந்தத் திட்டத்தில் தமிழ் ஆசிரியர்கள், அறிஞர்கள் பங்கெடுக்க அழைக்கிறோம். வடமொழிச் சொற்கள் தமிழ் மொழியினுள் புகுத்தப் பட்டு இருப்பின் அந்தச் சொற்களுக்கு இணையான தமிழ்ச் சொற்களை சேர்க்க உதவலாம். வடம் தமிழ் இணைச் சொற்கள் [சேர்க்கும் இடமாக இங்கு உள்ளது](https://github.com/ThaniThamizhAkarathiKalanjiyam/ttakJs/blob/master/vadam.tamil.pairs.js).
 
 ## Have Idea to contribute?
 
-1. Go to https://github.com/ThaniThamizhAkarathiKalanjiyam/ttakJs
+1. Go to [GitHub](https://github.com/ThaniThamizhAkarathiKalanjiyam/ttakJs)
 2. Make a **Fork** from the repository, 
 3. Do changes and push to your cloned repository
 4. Then make **Pull Request** to merge.
