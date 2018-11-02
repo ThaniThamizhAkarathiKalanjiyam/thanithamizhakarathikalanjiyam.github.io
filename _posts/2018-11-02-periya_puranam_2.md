@@ -8,7 +8,6 @@ layout: Ruby
 tags:     
 - சேக்கிழார்
 - பன்னிரு திருமுறை
-- பன்னிரு திருமுறை
 - பன்னிரண்டாம் திருமுறை
 permalink: periya_puranam_2  
 featured: /images/noolkal_96_6.png  
