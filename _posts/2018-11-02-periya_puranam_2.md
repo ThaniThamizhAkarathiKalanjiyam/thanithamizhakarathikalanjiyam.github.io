@@ -2,7 +2,7 @@
 categories: blog  
 title: பெரியபுராணம் 2
 keywords: More, Tamil, Books  
-description: பெரியபுராணம் 2
+description: பெரியபுராணம் 2 (தில்லை வாழ் அந்தணர் புராணம்)
 author: Tamilan  
 layout: Ruby  
 tags:     
