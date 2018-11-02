@@ -21,7 +21,7 @@ featured: /images/ttak-48.png
 
 Note: Please add the above code for kirantha neekki **integrated around the wrold wide** webpages.	
 
-## வாடமொழி (கிரந்த) எழுத்துகளை மட்டும் மாற்ற:
+## வடமொழி (கிரந்த) எழுத்துகளை மட்டும் மாற்ற:
 
 - then which HTML elemnt you want to remove just use the following section appropriately.	
 
@@ -29,7 +29,7 @@ Note: Please add the above code for kirantha neekki **integrated around the wrol
 ```var word = $("#kirantha_word_containg_element_name").val().trim();
 alert(**kirantham_nekki**(word)) //word is a string contains the kirantha letters```
 
-## வாடமொழி (கிரந்த) சொற்களை தமிழ்ச் சொற்களாக மாற்ற:
+## வடமொழி (கிரந்த) சொற்களை தமிழ்ச் சொற்களாக மாற்ற:
 
 - then which HTML elemnt you want to remove just use the following section appropriately.	
 
