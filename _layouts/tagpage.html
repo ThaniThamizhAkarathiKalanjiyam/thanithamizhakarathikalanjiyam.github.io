@@ -3,8 +3,8 @@
 {% for post in site.tags[page.tag] %}
 <div class="post">
   <h2><a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a></h2>
-  {% if page.date %}
-  <p>{{ page.date | date_to_string }} அன்று வெளியிடப்பட்டது.</p>
+  {% if post.date %}
+  <p>{{ post.date | date_to_string }} அன்று வெளியிடப்பட்டது.</p>
   {% endif %}
   <p class="post-link">
   {{ post.description }}
