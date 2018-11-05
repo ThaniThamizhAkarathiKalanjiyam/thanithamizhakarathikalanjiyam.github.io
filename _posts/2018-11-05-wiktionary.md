@@ -7,7 +7,7 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - அகராதிகள்
-permalink: wiktionary  
+permalink: wiktionary
 featured: /images/noolkal_96_6.png  
 ---  
 
