@@ -8,15 +8,16 @@ layout: Ruby
 tags: 
 - released
 
-
 permalink: ttak_kurinji_thoothukudi
+software_image: /images/kurinji_2860_scrn.jpg
 version: 2.8.6.1
 version_name: Ttak குறிஞ்சி தூத்துக்குடி (Windows)
-
+archive: v2.8.6.1.zip
 
 featured: /images/ttak-48.png
 ---
+{% include win_software.md %}
 
-- 1பிழையில்லா பதிப்பு
-- 2Splash screen
-- 3Multiple application run restricted
+- 1 பிழையில்லா பதிப்பு
+- 2 Splash screen
+- 3 Multiple application run restricted

@@ -8,10 +8,15 @@ layout: Ruby
 tags: 
 - released
 permalink: ttak_kandhal
+
+software_image: /images/seventeen.jpg
 version: 2.8.2.39264 
 version_name: Ttak காந்தள் (Windows)
+archive: v2.8.2.zip
+
 featured: /images/ttak-48.png
 ---
+{% include win_software.md %}
 
 - 1 வழுசேகரிப்பு
 - 2 வட மொழியாக்கம் மென்பொருள் கூறு.

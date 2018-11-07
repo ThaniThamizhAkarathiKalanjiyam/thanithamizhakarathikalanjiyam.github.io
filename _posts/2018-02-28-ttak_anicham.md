@@ -10,12 +10,17 @@ tags:
 
 
 permalink: ttak_anicham
+
+software_image: /images/ttak284_solluruvakki_muthal_eeru_test.JPG
 version: 2.8.4.31333
 version_name: Ttak அனிச்சம் (Windows)
+archive: v2.8.4.zip
 
 
 featured: /images/ttak-48.png
 ---
+
+{% include win_software.md %}
 
 - சொல்லுருவாக்கியில் இடைநிலை எழுத்துக்கள் மற்றும் மெய்மயக்கம் வசதி சேர்ப்பு.
 - PDF 2017 பதிப்பு மெனு இணையத்துடன் இணைப்பு
