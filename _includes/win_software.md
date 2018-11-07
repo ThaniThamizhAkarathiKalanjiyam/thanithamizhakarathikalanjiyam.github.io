@@ -6,6 +6,6 @@
 
 **பதிப்பு எண்**:{{ page.version }}
 
-<a href="{{ site.baseurl }}/{{ page.archive }}" class="button3">Download {{ page.version }}</a> version for Windows
+<a href="{{ site.baseurl }}/{{ page.archive }}" class="button button3">Download {{ page.version }}</a> version for Windows
 
 ### பதிப்பு பற்றிய மேலதிகத் தகவல்
