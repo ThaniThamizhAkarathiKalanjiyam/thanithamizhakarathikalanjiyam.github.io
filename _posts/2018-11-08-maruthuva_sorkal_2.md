@@ -1,8 +1,8 @@
 ---  
 categories: blog  
-title: மருத்துவக் கலைச்சொற்கள்
+title: மருத்துவக் கலைக் களஞ்சியம்
 keywords: More, Tamil, Books  
-description: மருத்துவக் கலைச்சொற்கள்
+description: மருத்துவக் கலைக் களஞ்சியம்
 author: Tamilan  
 layout: Ruby  
 tags:     
