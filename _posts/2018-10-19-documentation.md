@@ -11,6 +11,20 @@ permalink: documentation
 featured: /images/ttak-48.png
 ---
 
+## Android
+
+- Download
+- Releases
+- Documentation
+- Issues
+
+## Desktop
+
+- ### Download for Windows
+- ### Releases
+- ### Documentation
+- ### Issues
+
 - [Windows](ttak_2018_windows)
 - [Android](android)
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/thanithamizhakarathikalanjiyam/)
