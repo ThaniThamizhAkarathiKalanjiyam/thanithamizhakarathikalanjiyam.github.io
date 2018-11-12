@@ -7,7 +7,7 @@ author: Tamilan
 layout: Ruby
 tags: 
  
-permalink: documentation
+permalink: download
 featured: /images/ttak-48.png
 ---
 
@@ -23,8 +23,8 @@ featured: /images/ttak-48.png
 - [Releases]({{ site.baseurl }}/release_notes)
 - [Documentation]({{ site.baseurl }}/ttak_2018_windows)
 - Issues
-- Desktop
-	- [நாட்காட்டி](ttak_date_time)
+- நாட்காட்டி
+	- [Download]({{ site.baseurl }}/ttak_date_time)
 
 ## Firefox Addon
 - [Download](https://addons.mozilla.org/en-US/firefox/addon/thanithamizhakarathikalanjiyam/)
