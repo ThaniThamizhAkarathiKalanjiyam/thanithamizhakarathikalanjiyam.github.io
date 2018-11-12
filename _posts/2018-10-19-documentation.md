@@ -1,8 +1,8 @@
 ---
 categories: blog
-title: அ‍ஃக | ததஅக | பயன்படுத்துதல்
+title: அ‍ஃக | ததஅக | Download
 keywords: அ‍ஃக, ததஅக, பயன்படுத்துதல், Windows, Android, Firefox, TTAK softwares
-description: அ‍ஃக களஞ்சியம் எவ்வாறு பயன்படுத்தலாம் என்பது பற்றி இங்கு அறிந்து கொள்ளலாம்.
+description: அ‍ஃக களஞ்சியம் தரவிறக்கம் பற்றி இங்கு அறிந்து கொள்ளலாம்.
 author: Tamilan
 layout: Ruby
 tags: 
@@ -10,20 +10,17 @@ tags:
 permalink: documentation
 featured: /images/ttak-48.png
 ---
-
 ## Android
-
-- Download
-- Releases
-- Documentation
+- [Download](https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk)
+- [Download Dictionary for Android]
+- [Download Books for Android]({{ site.baseurl }}/tag/அகராதிகள்)
+- [Documentation]({{ site.baseurl }}/android)
 - Issues
-
 ## Desktop
-
-- ### Download for Windows
-- ### Releases
-- ### Documentation
-- ### Issues
+- [Download for Windows](https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/archive/master.zip)
+- [Releases]({{ site.baseurl }}/release_notes)
+- [Documentation]({{ site.baseurl }}/ttak_2018_windows)
+- Issues
 
 - [Windows](ttak_2018_windows)
 - [Android](android)
