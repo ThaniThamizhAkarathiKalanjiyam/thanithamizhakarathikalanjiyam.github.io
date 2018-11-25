@@ -4,7 +4,7 @@ title: aa | தனித்தமிழகராதி
 keywords: aa
 description: aa 
 author: Tamilan  
-layout: dict  
+layout: Ruby  
 tags:  
 
 featured: /images/ttak-48.png  
