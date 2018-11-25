@@ -1,6 +1,6 @@
 {% include Ruby_header.html %}
 
-TEST
+TEST2
 
 {{ page.content }}
 
