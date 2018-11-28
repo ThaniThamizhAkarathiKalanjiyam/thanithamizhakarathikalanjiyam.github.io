@@ -1,6 +1,6 @@
 ---  
 categories: blog  
-title: தனித் தமிழகராதிக் களஞ்சியம்
+title: தனித் தமிழகராதிக் களஞ்சியம் (தமிழ்->தமிழ்)
 keywords: More, Tamil, Books  
 description: தனித் தமிழகராதிக் களஞ்சியம் (தமிழ்->தமிழ்)
 author: Tamilan  
