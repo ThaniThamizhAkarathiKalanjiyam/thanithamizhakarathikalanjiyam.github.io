@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag:  released"
+title: "released"
 tag:  released
 description: released
 robots: noindex
