@@ -7,6 +7,7 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - அகராதிகள்
+- இசையினி குழுமம்
 permalink: ttak_eng_tam  
 featured: /images/noolkal_96_6.png  
 ---  
