@@ -2,7 +2,7 @@
 categories: blog  
 title: தனித் தமிழகராதிக் களஞ்சியம் (ஆங்கிலம்->தமிழ்)
 keywords: More, Tamil, Books  
-description: தனித் தமிழகராதிக் களஞ்சியம் (ஆங்கிலம்->தமிழ்)
+description: தனித் தமிழகராதிக் களஞ்சியம் (ஆங்கிலம்->தமிழ்) 2019 - ல் புதிய சொற்களுடன் வெளியிடப்படுகிறது.
 author: Tamilan  
 layout: Ruby  
 tags:     
