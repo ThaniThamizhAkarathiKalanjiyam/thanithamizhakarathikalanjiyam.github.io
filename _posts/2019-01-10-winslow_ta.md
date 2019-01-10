@@ -1,8 +1,8 @@
 ---  
 categories: blog  
-title: மிரோன் வின்சுலோ
+title: வின்சுலோ
 keywords: More, Tamil, Books  
-description: மிரோன் வின்சுலோ
+description: வின்சுலோ
 author: Tamilan  
 layout: Ruby  
 tags:     
