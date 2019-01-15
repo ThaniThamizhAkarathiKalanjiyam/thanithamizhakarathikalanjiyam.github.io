@@ -7,7 +7,6 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - அகராதிகள்
-- கண்மணிப்புகழ் 
 - கண்மணிகணேசன்
 - புகழேந்திப்பாண்டியன்
 permalink: maruthuva_sorkal_1
