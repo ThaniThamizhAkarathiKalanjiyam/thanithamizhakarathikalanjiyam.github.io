@@ -10,7 +10,7 @@ tags:
 - கண்மணிப்புகழ் 
 - கண்மணிகணேசன்
 - புகழேந்திப்பாண்டியன்
-permalink: maruthuva_sorkal_1  
+permalink: maruthuva_sorkal_1
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %}  
