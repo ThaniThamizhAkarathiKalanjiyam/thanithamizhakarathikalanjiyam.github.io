@@ -5,6 +5,7 @@ author: Tamilan
 layout: Ruby  
 tags:  
 - பதினெண்கீழ்க்கணக்கு  
+- திருக்குறள்
 permalink: thirukural  
 featured: /images/ttak-48.png  
 keywords: இலக்கியம், திருக்குறள்  
