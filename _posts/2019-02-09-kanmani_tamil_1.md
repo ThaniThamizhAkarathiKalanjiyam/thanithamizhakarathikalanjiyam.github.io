@@ -1,12 +1,12 @@
 ---  
 categories: blog  
-title: கண்மணிதமிழ் கட்டுரைத் தொகுப்புகள்
+title: தற்காலத் தமிழ் இலக்கியங்களில் கிராமப்புறப் பெண்களின் வாழ்வியல் நிலை  
 keywords: More, Tamil, Books  
 description: கண்மணிதமிழ் கட்டுரைத் தொகுப்புகள்
 author: Tamilan  
 layout: Ruby  
 tags:     
-- கண்மணிகணேசன்
+- கண்மணிதமிழ் கட்டுரைத் தொகுப்புகள்  
 - கட்டுரைகள்
 permalink: kanmani_tamil_1  
 featured: /images/noolkal_96_6.png  
