@@ -7,7 +7,7 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - கண்மணிகணேசன்
-- பெண்கள்
+- வாழ்வியல் நிலை
 - பல்கலைக்கழக நிதி நல்கைக் குழு
 permalink: kanmani_tamil_katturaikal_1  
 featured: /images/noolkal_96_6.png  
