@@ -12,5 +12,5 @@ permalink: kanmani_kulanthai_pattukal
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %}  
-{% include_relative dtl/{{ page.permalink }}.md %}
+
 
