@@ -11,4 +11,4 @@
 
 [மேலும் நூல்கள்](https://thanithamizhakarathikalanjiyam.github.io/more_books)
 
-{% include_relative dtl/{{ page.title }}.md %}
+{% include_relative dtl/{{ page.permalink }}.md %}
