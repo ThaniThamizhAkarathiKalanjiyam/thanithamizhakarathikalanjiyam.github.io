@@ -8,7 +8,6 @@ layout: Ruby
 tags:     
 - agarathi  
 - கட்டுரைகள்
-permalink: search  
 featured: /images/noolkal_96_6.png  
 --- 
 
