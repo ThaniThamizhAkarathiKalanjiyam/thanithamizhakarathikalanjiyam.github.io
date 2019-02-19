@@ -7,7 +7,10 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - கண்மணிகணேசன்
+- கட்டுரைத் தொகுப்புகள்
+
 permalink: kanmani_tamil_katturaikal_1  
 featured: /images/noolkal_96_6.png  
 ---  
-{% include install_nool.md %}  
+{% include install_nool.md %} 
+{% include_relative dtl/kanmani_tamil_katturaikal_1.md %} 
