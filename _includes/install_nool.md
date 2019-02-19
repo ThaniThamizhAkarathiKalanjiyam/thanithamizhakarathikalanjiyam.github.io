@@ -10,3 +10,5 @@
 *   4\.2\. **அகராதி** எனில் அகராதி பற்றிய குறிப்பு மட்டும் வரும், பொருள் காண வேண்டிய சொல்லை தேடினால் அதற்குரிய பொருள் வரும்.
 
 [மேலும் நூல்கள்](https://thanithamizhakarathikalanjiyam.github.io/more_books)
+
+{% include_relative dtl/{{ page.title }}.md %}
