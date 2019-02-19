@@ -12,4 +12,5 @@ permalink: kanmani_tamil_katturaikal_1
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool3.md %} 
+{% include_relative dtl/{{ page.permalink }}.md %}
 
