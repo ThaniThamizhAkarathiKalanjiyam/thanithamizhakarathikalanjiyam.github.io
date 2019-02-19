@@ -7,6 +7,7 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - கண்மணிகணேசன்
+- குழந்தை இலக்கியம்
 permalink: kanmani_kulanthai_pattukal  
 featured: /images/noolkal_96_6.png  
 ---  
