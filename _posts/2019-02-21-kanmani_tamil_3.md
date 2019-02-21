@@ -9,6 +9,7 @@ tags:
 - கண்மணிகணேசன்
 - வாழ்வியல் முறை
 - மின்தமிழ்மேடை
+- ஒளவை
 permalink: kanmani_tamil_3  
 featured: /images/noolkal_96_6.png  
 ---  
