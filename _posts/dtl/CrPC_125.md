@@ -23,10 +23,10 @@ Provided further that the Magistrate may, during the pendency of the Proceeding 
 
 Provided also that an application for the monthly allowance for the interim maintenance and expenses for proceeding under the second proviso shall, as far as possible, be disposed of within sixty days from the date of the service of notice of the application to such person
 
-Explanation. For the purposes of this Chapter.
+**Explanation.** For the purposes of this Chapter.
 
-	- (a) minor means a person who, under the provisions of the Indian Majority Act, 1975 (9 of 1875) is deemed not to have attained his majority;
-	- (b) “Wife” includes a woman who has been divorced by, or has obtained a divorce from, her husband and has not remarried.
+- (a) minor means a person who, under the provisions of the Indian Majority Act, 1975 (9 of 1875) is deemed not to have attained his majority;
+- (b) “Wife” includes a woman who has been divorced by, or has obtained a divorce from, her husband and has not remarried.
 
 - (2) Any Such allowance for the maintenance or interim maintenance and expenses for proceeding shall be payable from the date of the order, or, if so ordered, from the date of the application for maintenance or interim maintenance and expenses of proceeding, as the case may be.
 
