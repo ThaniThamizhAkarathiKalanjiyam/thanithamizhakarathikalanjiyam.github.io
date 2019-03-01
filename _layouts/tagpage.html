@@ -2,10 +2,6 @@
 {% assign post_titles = "" %}
 {% for post in site.tags[page.tag] %}
 
-{% assign title_check = post.title | append:'|' %}
-{% if post_titles contains title_check %}
-	<br/>
-{% else %}
 	<div class="post">
 	  <h2><a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a></h2>
 	  {% if post.date %}
@@ -17,9 +13,6 @@
 	  மேலும் அறிய...</a></p>
 	  <p class="post-info">Posted by {{ post.author }} on {{ post.date | date_to_string }}</p>
 	</div>
-{% endif %}
-
-{% assign post_titles = post_titles | append:post.title | append:'|' %}
 
 {% endfor %}
 
