@@ -25,7 +25,7 @@ index.html:
 ## வடமொழி (கிரந்த) எழுத்துகளை மட்டும் மாற்ற:
 **HEAD Section Part:**
 
-```<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>```
+```<script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>```
 
 **How to use:**
 
@@ -40,8 +40,8 @@ alert(kirantham_nekki(word)) //word is a string contains the kirantha letters```
 
 **HEAD Section Part:**
 
-```<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>
-<script type="text/javascript" src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/vadam.tamil.pairs.js"></script>```
+```<script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>
+<script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/vadam.tamil.pairs.js"></script>```
 
 **How to use:**
 
