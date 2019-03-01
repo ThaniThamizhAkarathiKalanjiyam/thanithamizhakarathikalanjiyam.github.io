@@ -47,18 +47,11 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 =======================
 {% endcomment %}
 {% assign tag_counter = 1 %}
-
-<ol>
-
 {% for tag in tags %}
 {% if tag != "released" %}
-<li>
-<a href"{{ site.url }}/tag/{{ tag }}">{{ tag }}</a>
-</li>
+- 1. [{{ tag }}]({{ site.url }}/tag/{{ tag }})
 {% endif %}		
 {% endfor %}
-
-</ol>
 
 {% include install_nool_2.md %}
 
