@@ -6,6 +6,7 @@
 {{ tag }}
 </a></h5>
 <ol>
+{% assign post_titles = "" %}
 {% for post in site.tags[tag] %}
 {% assign title_check = post.title | append:'|' %}
 {% if post_titles contains title_check %}
