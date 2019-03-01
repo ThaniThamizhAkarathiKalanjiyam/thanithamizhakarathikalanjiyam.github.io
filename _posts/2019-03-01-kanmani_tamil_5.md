@@ -1,8 +1,8 @@
 ---  
 categories: blog  
-title: சிலப்பதிகாரம் காட்டும் வழிபாட்டிடங்கள்2
+title: சிலப்பதிகாரம் காட்டும் வழிபாட்டிடங்கள்
 keywords: More, Tamil, Books  
-description: சிலப்பதிகாரம் காட்டும் வழிபாட்டிடங்கள்2
+description: சிலப்பதிகாரம் காட்டும் வழிபாட்டிடங்கள்
 author: Tamilan  
 layout: Ruby  
 tags:     
