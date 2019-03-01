@@ -1,9 +1,9 @@
 {% include Ruby_header.html %}
-{% assign beatles = "" %}
+{% assign post_titles = "" %}
 {% for post in site.tags[page.tag] %}
 
 {% assign title_check = post.title | append:'|' %}
-{% if beatles contains title_check %}
+{% if post_titles contains title_check %}
 	&nbsp;
 {% else %}
 	<div class="post">
@@ -19,7 +19,7 @@
 	</div>
 {% endif %}
 
-{% assign beatles = beatles | append:post.title | append:'|' %}
+{% assign post_titles = post_titles | append:post.title | append:'|' %}
 
 {% endfor %}
 
