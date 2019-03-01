@@ -8,11 +8,6 @@ layout: Ruby
 tags:     
 - கண்மணிகணேசன்
 - கண்மணித்தமிழ்
-- பதிற்றுப்பத்து
-- காக்கைப்பாடினியார்
-- எம் ஏ சுசீலா
-- சங்ககாலம்
-- அரசியல்நிலை
 permalink: kanmani_tamil_8  
 featured: /images/noolkal_96_6.png  
 ---  

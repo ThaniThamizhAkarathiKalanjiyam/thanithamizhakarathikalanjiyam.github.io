@@ -8,9 +8,6 @@ layout: Ruby
 tags:     
 - கண்மணிகணேசன்
 - கண்மணித்தமிழ்
-- வாழ்வியல் முறை
-- சாதி
-- திணை மாந்தர்
 permalink: kanmani_tamil_4  
 featured: /images/noolkal_96_6.png  
 ---  

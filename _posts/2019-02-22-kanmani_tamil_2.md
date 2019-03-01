@@ -8,8 +8,6 @@ layout: Ruby
 tags:     
 - கண்மணிகணேசன்
 - கண்மணித்தமிழ்
-- வாழ்வியல் முறை
-- தமிழியல் ஆய்வு 1997
 permalink: kanmani_tamil_2  
 featured: /images/noolkal_96_6.png  
 ---  
