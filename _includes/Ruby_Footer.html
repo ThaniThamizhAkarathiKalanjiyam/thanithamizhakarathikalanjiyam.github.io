@@ -19,6 +19,9 @@
 {% endif %}
 
 {% assign post_titles = post_titles | append:post.title | append:'|' %}
+
+{{ post_titles }}
+
 {% endfor %}
 </ol>
 
