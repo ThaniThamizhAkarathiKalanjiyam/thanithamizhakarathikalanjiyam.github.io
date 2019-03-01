@@ -7,7 +7,6 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - இந்தியச் சட்டங்கள்
-- Bare Acts
 permalink: domestic_violence_act_2005  
 featured: /images/noolkal_96_6.png  
 ---  

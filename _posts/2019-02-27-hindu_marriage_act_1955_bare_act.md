@@ -7,7 +7,6 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - இந்தியச் சட்டங்கள்
-- Bare Acts
 - ஆய்தொடியார்
 permalink: hindu_marriage_act_1955_bare_act  
 featured: /images/noolkal_96_6.png  
