@@ -52,7 +52,9 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 
 {% for tag in tags %}
 {% if tag != "released" %}
-<li>[{{ tag }}]({{ site.url }}/tag/{{ tag }})</li>
+<li>
+<a href"{{ site.url }}/tag/{{ tag }}">{{ tag }}</a>
+</li>
 {% endif %}		
 {% endfor %}
 
