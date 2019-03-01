@@ -1,13 +1,14 @@
 {% include Ruby_header.html %}
 {% assign post_titles = "" %}
 {% for post in site.tags[page.tag] %}
-
+{% assign count = 0 %}
 {% assign title_check = post.title | append:'|' %}
 {% if post_titles contains title_check %}
 	&nbsp;
 {% else %}
+{% increment count %}
 	<div class="post">
-	  <h2><a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a></h2>
+	  <h2><a href="{{ site.url }}/{{ post.permalink }}">{{ count }}. {{ post.title }}</a></h2>
 	  {% if post.date %}
 	  <p>{{ post.date | date_to_string }} அன்று வெளியிடப்பட்டது.</p>
 	  {% endif %}
