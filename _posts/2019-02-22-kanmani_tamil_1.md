@@ -9,7 +9,6 @@ tags:
 - கண்மணிகணேசன்
 - கண்மணித்தமிழ்
 - வாழ்வியல் நிலை
-- பல்கலைக்கழக நிதி நல்கைக் குழு
 permalink: kanmani_tamil_1  
 featured: /images/noolkal_96_6.png  
 ---  
