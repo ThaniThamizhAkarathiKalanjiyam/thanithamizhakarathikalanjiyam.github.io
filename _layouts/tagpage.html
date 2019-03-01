@@ -1,6 +1,10 @@
 {% include Ruby_header.html %}
 
 {% for post in site.tags[page.tag] %}
+
+
+{% assign beatles = post.title | join:'|' | append:'|' %}
+{{ beatles }}
 <div class="post">
   <h2><a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a></h2>
   {% if post.date %}
