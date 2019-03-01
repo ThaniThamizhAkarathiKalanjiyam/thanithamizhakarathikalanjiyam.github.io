@@ -1,31 +1,31 @@
 {% include Ruby_header.html %}
 {% assign post_titles = "" %}
-
-{% for post in site.tags[page.tag] %}
 <ol>
-{% assign title_check = post.title | append:'|' %}
-{% if post_titles contains title_check %}
-	&nbsp;
-{% else %}
-	<!--div class="post">
-	  <h2><a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a></h2>
-	  {% if post.date %}
-	  <p>{{ post.date | date_to_string }} அன்று வெளியிடப்பட்டது.</p>
-	  {% endif %}
-	  <p class="post-link">
-	  {{ post.description }}
-	  <a href="{{ site.url }}/{{ post.permalink }}">  
-	  மேலும் அறிய...</a></p>
-	  <p class="post-info">Posted by {{ post.author }} on {{ post.date | date_to_string }}</p>
-	</div-->
-	<li> {{ post.date | date_to_string }} | 
-	<a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a>
-	</li>
-{% endif %}
+{% for post in site.tags[page.tag] %}
+	{% assign title_check = post.title | append:'|' %}
+	
+	{% if post_titles contains title_check %}
+		&nbsp;
+	{% else %}
+		<!--div class="post">
+		  <h2><a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a></h2>
+		  {% if post.date %}
+		  <p>{{ post.date | date_to_string }} அன்று வெளியிடப்பட்டது.</p>
+		  {% endif %}
+		  <p class="post-link">
+		  {{ post.description }}
+		  <a href="{{ site.url }}/{{ post.permalink }}">  
+		  மேலும் அறிய...</a></p>
+		  <p class="post-info">Posted by {{ post.author }} on {{ post.date | date_to_string }}</p>
+		</div-->
+		<li> {{ post.date | date_to_string }} | 
+		<a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a>
+		</li>
+	{% endif %}
 
-{% assign post_titles = post_titles | append:post.title | append:'|' %}
-</ol>
+	{% assign post_titles = post_titles | append:post.title | append:'|' %}
+
 {% endfor %}
-
+</ol>
 
 {% include Ruby_Footer.html %}
