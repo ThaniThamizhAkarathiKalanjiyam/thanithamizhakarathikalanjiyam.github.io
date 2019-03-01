@@ -49,7 +49,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 {% assign tag_counter = 1 %}
 {% for tag in tags %}
 {% if tag != "released" %}
-- 1. [{{ tag }}]({{ site.url }}/tag/{{ tag }})
+1. [{{ tag }}]({{ site.url }}/tag/{{ tag }})
 {% endif %}		
 {% endfor %}
 
