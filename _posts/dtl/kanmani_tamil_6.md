@@ -144,12 +144,12 @@
  
 படம் 1:  
   
-![kanmani_tamil_6_1.jpg](kanmani_tamil_6_1.jpg)
+![kanmani_tamil_6_1.jpg](/images/kanmani_tamil_6_1.jpg)
   
 படம் 2:  
   
-![kanmani_tamil_6_2.jpg](kanmani_tamil_6_2.jpg)
+![kanmani_tamil_6_2.jpg](/images/kanmani_tamil_6_2.jpg)
   
 படம் 3:  
 
-![kanmani_tamil_6_3.jpg](kanmani_tamil_6_3.jpg)
+![kanmani_tamil_6_3.jpg](/images/kanmani_tamil_6_3.jpg)
