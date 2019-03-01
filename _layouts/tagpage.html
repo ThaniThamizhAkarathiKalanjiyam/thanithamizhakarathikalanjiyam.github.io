@@ -3,7 +3,7 @@
 {% for post in site.tags[page.tag] %}
 
 
-{% assign beatles = post.title | join:'|' | append:'|' %}
+{% assign beatles = beatles | append:post.title %}
 {{ beatles }}
 <div class="post">
   <h2><a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a></h2>
