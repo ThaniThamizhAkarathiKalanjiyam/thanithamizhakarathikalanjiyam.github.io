@@ -1,7 +1,8 @@
 {% include Ruby_header.html %}
 {% assign post_titles = "" %}
-{% for post in site.tags[page.tag] %}
 {% assign count = 0 %}
+
+{% for post in site.tags[page.tag] %}
 {% assign title_check = post.title | append:'|' %}
 {% if post_titles contains title_check %}
 	&nbsp;
