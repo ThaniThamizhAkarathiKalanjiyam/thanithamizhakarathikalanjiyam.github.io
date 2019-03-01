@@ -4,7 +4,7 @@
 
 {% assign title_check = post.title | append:'|' %}
 {% if beatles contains title_check %}
-	<br/>
+	&nbsp;
 {% else %}
 	<div class="post">
 	  <h2><a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a></h2>
