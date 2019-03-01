@@ -10,7 +10,7 @@
 {% for post in site.tags[tag] %}
 	{% assign title_check = post.title | append:'|' %}
 	{% if post_titles contains title_check %}
-		&nbsp;
+		{% assign empty = "" %}
 	{% else %}
 		<li><a href ="{{ site.url }}/{{ post.permalink }}">
 		{{ post.title }}</a>  </li>
