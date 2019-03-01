@@ -4,7 +4,7 @@
 
 {% assign title_check = post.title | append:'|' %}
 {% if post_titles contains title_check %}
-	&nbsp;
+	<br/>
 {% else %}
 	<div class="post">
 	  <h2><a href="{{ site.url }}/{{ post.permalink }}">{{ post.title }}</a></h2>
