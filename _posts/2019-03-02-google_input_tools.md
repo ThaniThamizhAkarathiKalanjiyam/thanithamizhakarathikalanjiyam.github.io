@@ -1,8 +1,8 @@
 ---
 categories: blog
-title: அ‍ஃக | ததஅக | Download
-keywords: அ‍ஃக, ததஅக, பயன்படுத்துதல், Windows, Android, Firefox, TTAK softwares
-description: அ‍ஃக களஞ்சியம் தரவிறக்கம் பற்றி இங்கு அறிந்து கொள்ளலாம்.
+title: கூகிள் உள்ளீட்டுக் கருவி Download
+keywords: கூகிள் உள்ளீட்டுக் கருவி, பயன்படுத்துதல், Windows, TTAK softwares
+description: கூகிள் உள்ளீட்டுக் கருவி தரவிறக்கம் பற்றி இங்கு அறிந்து கொள்ளலாம்.
 author: Tamilan
 layout: Ruby
 tags: 
