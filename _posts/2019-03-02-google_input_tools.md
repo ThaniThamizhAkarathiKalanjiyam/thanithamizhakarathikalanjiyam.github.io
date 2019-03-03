@@ -6,7 +6,7 @@ description: அ‍ஃக களஞ்சியம் தரவிறக்க�
 author: Tamilan
 layout: Ruby
 tags: 
- 
+- Windows
 permalink: google_input_tools
 featured: /images/ttak-48.png
 ---

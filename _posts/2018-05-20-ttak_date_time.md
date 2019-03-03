@@ -6,7 +6,7 @@ description: தனித்தமிழ் நாளிகை (விண்ட�
 author: Tamilan
 layout: Ruby
 tags: 
- 
+- Windows
 permalink: ttak_date_time
 featured: /images/ttak-48.png
 ---
