@@ -11,6 +11,14 @@ permalink: google_input_tools
 featured: /images/ttak-48.png
 ---
 
+1) Download [Google input tools](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Collections/google_input_tools/GoogleInputTools.exe)
+2) Download [Google input tools for tamil package](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Collections/google_input_tools/GoogleInputTamil.exe)
+3) Install Google input tools and Google input tools follow the instructions below.
+
+
+
+[toolzshare.blogspot.com](https://toolzshare.blogspot.com/2015/10/google-input-tools-tamil-offline.html)
+
 How to install :
 ================
 
