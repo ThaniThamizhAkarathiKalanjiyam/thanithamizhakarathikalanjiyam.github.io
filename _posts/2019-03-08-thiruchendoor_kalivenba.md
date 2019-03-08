@@ -7,7 +7,7 @@ author: Tamilan
 layout: Ruby  
 tags:     
 -  குமரகுருபரர்
--மதுரை தமிழ் இலக்கிய மின்தொகுப்புத் திட்டம்
+- மதுரை தமிழ் இலக்கிய மின்தொகுப்புத் திட்டம்
 permalink: thiruchendoor_kalivenba  
 featured: /images/noolkal_96_6.png  
 ---  
