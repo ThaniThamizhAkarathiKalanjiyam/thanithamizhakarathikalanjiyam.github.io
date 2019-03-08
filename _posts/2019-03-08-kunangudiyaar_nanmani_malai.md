@@ -7,7 +7,7 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - சரவணப்பெருமாளையர் 
-- சரவணப்பெருமாளையர் 
+- குணங்குடியார் 
 permalink: kunangudiyaar_nanmani_malai  
 featured: /images/noolkal_96_6.png  
 ---  
