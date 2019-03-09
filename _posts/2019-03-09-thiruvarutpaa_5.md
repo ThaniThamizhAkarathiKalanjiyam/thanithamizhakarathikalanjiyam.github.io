@@ -6,7 +6,7 @@ description: திருவருட்பா 5
 author: Tamilan  
 layout: Ruby  
 tags:     
-- வள்ளலார்
+- திருவருட் பிரகாச வள்ளலார்
 
 permalink: thiruvarutpaa_5  
 featured: /images/noolkal_96_6.png  
