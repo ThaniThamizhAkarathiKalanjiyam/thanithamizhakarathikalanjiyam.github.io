@@ -9,4 +9,6 @@
    
   
 பதிப்பு  
-{{ include.publish_date }}  
+{{ include.publish_date }} 
+
+ 
