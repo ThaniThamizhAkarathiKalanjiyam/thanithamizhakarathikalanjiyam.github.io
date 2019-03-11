@@ -1,4 +1,4 @@
-## அறிமுகம்  
+## கைப்பேசி அறிமுகம்  
   
 **{{ include.author }} நூல்கள்**  
   
@@ -10,5 +10,7 @@
   
 பதிப்பு  
 {{ include.publish_date }} 
+
+[{{ page.title }} - Download this book for Android](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ include.permalink }}.slob)
 
  
