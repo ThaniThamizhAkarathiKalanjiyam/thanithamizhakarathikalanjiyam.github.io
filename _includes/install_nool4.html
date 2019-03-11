@@ -1,11 +1,18 @@
 <div id="intro-wrapper">
   <div id="intro">
-    <h1>Ruby is...</h1>
+    <h1>கைப்பேசி நூல் அறிமுகம்</h1>
 
     <p>
-    A dynamic, open source programming language with a focus on
-    simplicity and productivity. It has an elegant syntax that is
-    natural to read and easy to write.
+	**{{ include.author }} நூல்கள்**  
+
+	# {{ include.book_name }}  
+
+	>ஆசிரியர்  
+	**{{ include.author }}**  
+
+
+	பதிப்பு  
+	{{ include.publish_date }} 
     </p>
 
     <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ include.permalink }}.slob" class="download-link">
@@ -17,18 +24,8 @@
   </div>
 </div>
 
-## கைப்பேசி அறிமுகம்  
   
-**{{ include.author }} நூல்கள்**  
   
-# {{ include.book_name }}  
-  
->ஆசிரியர்  
-**{{ include.author }}**  
-   
-  
-பதிப்பு  
-{{ include.publish_date }} 
 
 [{{ page.title }} - Download this book for Android](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ include.permalink }}.slob)
 
