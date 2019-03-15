@@ -46,6 +46,17 @@ get_extern_links:
 lang: ta_in
 paginate: 10
 
+#image:
+#  path: /images/ttak.png
+#  height: 320
+#  width: 320
+  
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/ttak.png
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
