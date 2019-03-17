@@ -55,7 +55,12 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /images/ttak.png
+      /images/ttak.png
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
 
 plugins:
  - jekyll-feed
@@ -66,9 +71,3 @@ collections:
  authors:
   output: true
   
-defaults:
- - scope:
-  path: ""
-  type: "authors"
- values:
-  layout: "Ruby"
