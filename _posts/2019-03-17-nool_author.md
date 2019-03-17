@@ -10,14 +10,8 @@ tags:
 permalink: nool_author
 featured: /images/noolkal_96_6.png  
 ---
-<h1>Staff</h1>
-
-<ul>
-  {% for author in site.authors %}
-    <li>
-      <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
-      <h3>{{ author.position }}</h3>
-      <p>{{ author.content | markdownify }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% for author in site.authors %}
+- <a href="{{ author.url }}">{{ author.name }}</a>
+	- {{ author.position }}
+<!--p>{{ author.content | markdownify }}</p-->
+{% endfor %}

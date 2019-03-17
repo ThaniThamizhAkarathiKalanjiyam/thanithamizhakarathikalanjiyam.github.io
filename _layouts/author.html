@@ -2,7 +2,7 @@
 
 {{ content }}
 
-<h2>Posts</h2>
+<h2>{{ page.short_name }} எழுதியவை</h2>
 <ul>
   {% assign filtered_posts = site.posts | where: 'tags', page.short_name %}
   {% for post in filtered_posts %}
