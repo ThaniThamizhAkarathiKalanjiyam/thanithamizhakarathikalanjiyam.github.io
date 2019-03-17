@@ -6,8 +6,8 @@ description: யசோதர காவியம்/அறிமுகம்
 author: Tamilan  
 layout: Ruby  
 tags:     
-- யசோதர காவியம் ஆசிரியர்
-- ஐஞ்சிறு காப்பியங்கள்
+
+
 permalink: yasodara_kaaviyam1  
 featured: /images/noolkal_96_6.png  
 is_book: 1
@@ -24,6 +24,8 @@ is_book: 1
 பதிப்பு  
 2019-03-17-
 
-[<< யசோதர காவியம்/](yasodara_kaaviyam0) [<< யசோதர காவியம்/கைபேசி தொகுப்புரை](yasodara_kaaviyam2)
+[<< யசோதர காவியம்/](yasodara_kaaviyam0)  
+  
+[>> யசோதர காவியம்/கைபேசி தொகுப்புரை](yasodara_kaaviyam2)
 
 

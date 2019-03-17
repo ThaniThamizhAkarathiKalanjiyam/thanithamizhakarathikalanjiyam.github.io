@@ -6,8 +6,8 @@ description: யசோதர காவியம்/மன்னன், மனை
 author: Tamilan  
 layout: Ruby  
 tags:     
-- யசோதர காவியம் ஆசிரியர்
-- ஐஞ்சிறு காப்பியங்கள்
+
+
 permalink: yasodara_kaaviyam85  
 featured: /images/noolkal_96_6.png  
 is_book: 1

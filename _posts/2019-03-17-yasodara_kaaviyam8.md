@@ -6,8 +6,8 @@ description: யசோதர காவியம்/நூல் நுவல் 
 author: Tamilan  
 layout: Ruby  
 tags:     
-- யசோதர காவியம் ஆசிரியர்
-- ஐஞ்சிறு காப்பியங்கள்
+
+
 permalink: yasodara_kaaviyam8  
 featured: /images/noolkal_96_6.png  
 is_book: 1
@@ -21,6 +21,8 @@ is_book: 1
 வெருவு செய்யும் வினைப்பய னிற்றெனத்  
 தெரிவு றுப்பதுஞ் செப்புத லுற்றதே.
 
-[<< யசோதர காவியம்/அவையடக்கம்](yasodara_kaaviyam7) [<< யசோதர காவியம்/நூல்](yasodara_kaaviyam9)
+[<< யசோதர காவியம்/அவையடக்கம்](yasodara_kaaviyam7)  
+  
+[>> யசோதர காவியம்/நூல்](yasodara_kaaviyam9)
 
 

@@ -6,8 +6,8 @@ description: யசோதர காவியம்/வேந்தன், கர
 author: Tamilan  
 layout: Ruby  
 tags:     
-- யசோதர காவியம் ஆசிரியர்
-- ஐஞ்சிறு காப்பியங்கள்
+
+
 permalink: yasodara_kaaviyam50  
 featured: /images/noolkal_96_6.png  
 is_book: 1

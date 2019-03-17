@@ -6,8 +6,8 @@ description: யசோதர காவியம்/தேவ நரக யாக
 author: Tamilan  
 layout: Ruby  
 tags:     
-- யசோதர காவியம் ஆசிரியர்
-- ஐஞ்சிறு காப்பியங்கள்
+
+
 permalink: yasodara_kaaviyam33  
 featured: /images/noolkal_96_6.png  
 is_book: 1
@@ -36,6 +36,8 @@ is_book: 1
 நாடினெவ் வகையு மஃதே நமதிறப் பொடுபி றப்பும்  
 பாடுவ தினியென் நங்கை பரிவொழிந் திடுக வென்றான்.
 
-[<< யசோதர காவியம்/தேவகதி வரலாறு](yasodara_kaaviyam32) [<< யசோதர காவியம்/அபயமதி தன் உள்ளக்கிடக்கையே வெளியிடல்](yasodara_kaaviyam34)
+[<< யசோதர காவியம்/தேவகதி வரலாறு](yasodara_kaaviyam32)  
+  
+[>> யசோதர காவியம்/அபயமதி தன் உள்ளக்கிடக்கையே வெளியிடல்](yasodara_kaaviyam34)
 
 

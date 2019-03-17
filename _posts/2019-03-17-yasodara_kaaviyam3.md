@@ -6,8 +6,8 @@ description: யசோதர காவியம்/Creative Commons Public Licen
 author: Tamilan  
 layout: Ruby  
 tags:     
-- யசோதர காவியம் ஆசிரியர்
-- ஐஞ்சிறு காப்பியங்கள்
+
+
 permalink: yasodara_kaaviyam3  
 featured: /images/noolkal_96_6.png  
 is_book: 1
@@ -19,6 +19,8 @@ is_book: 1
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)  
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 
-[<< யசோதர காவியம்/கைபேசி தொகுப்புரை](yasodara_kaaviyam2) [<< யசோதர காவியம்/ஐஞ்சிறு காப்பியங்கள் - யசோதர காவியம்](yasodara_kaaviyam4)
+[<< யசோதர காவியம்/கைபேசி தொகுப்புரை](yasodara_kaaviyam2)  
+  
+[>> யசோதர காவியம்/ஐஞ்சிறு காப்பியங்கள் - யசோதர காவியம்](yasodara_kaaviyam4)
 
 
