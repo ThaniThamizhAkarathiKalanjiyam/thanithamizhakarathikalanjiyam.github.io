@@ -11,6 +11,5 @@ permalink: nool_author
 featured: /images/noolkal_96_6.png  
 ---
 {% for author in site.authors %}
-- <a href="{{ author.url }}">{{ author.name }}</a>
-	- {{ author.position }}
+- <a href="{{ author.url }}">{{ author.name }}</a>	
 {% endfor %}
