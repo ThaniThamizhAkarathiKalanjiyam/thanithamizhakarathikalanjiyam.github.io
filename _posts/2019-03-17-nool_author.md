@@ -13,5 +13,4 @@ featured: /images/noolkal_96_6.png
 {% for author in site.authors %}
 - <a href="{{ author.url }}">{{ author.name }}</a>
 	- {{ author.position }}
-<!--p>{{ author.content | markdownify }}</p-->
 {% endfor %}
