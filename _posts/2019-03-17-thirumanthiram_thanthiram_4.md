@@ -1,8 +1,8 @@
 ---  
 categories: blog  
-title: திருமந்திரம்
+title: திருமந்திரம் நான்காம் தந்திரம்
 keywords: More, Tamil, Books  
-description: திருமந்திரம்
+description: திருமந்திரம் நான்காம் தந்திரம்
 author: Tamilan  
 layout: Ruby  
 tags:     
