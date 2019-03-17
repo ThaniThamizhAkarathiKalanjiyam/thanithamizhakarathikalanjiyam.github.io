@@ -32,7 +32,11 @@
 <hr class="hidden-modern">
 <div id="sidebar-wrapper">
   <div id="sidebar">
+  
 <div class="navigation">
+  {% if page.short_name %}
+			Author page
+		{% else %}
   <h3><strong>களஞ்சியம்</strong>, மிகு எளிது!</h3>
   <ul class="menu">
 {% for link in site.get_started_links %}
@@ -42,7 +46,10 @@
   >{{ loc_name_urls[0] }}</a></li>
 {% endfor %}
   </ul>
+{% endif %}
 </div>
+
+
 <div class="navigation">
   <h3><strong>புதிய</strong> தமிழ் உலகம் படைப்போம்…</h3>
   <ul class="menu">
