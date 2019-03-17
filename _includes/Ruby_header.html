@@ -65,7 +65,11 @@
         </a>
 
         <div class="site-links">
+		{% if page.short_name %}
+			Author page
+		{% else %}
           {% include site-links.html %}
+		{% endif %}
 		</div>
 
         <div id="search-box">
