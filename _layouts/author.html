@@ -1,8 +1,4 @@
----
-layout: Ruby
----
-<h1>{{ page.name }}</h1>
-<h2>{{ page.position }}</h2>
+{% include Ruby_header.html %}
 
 {{ content }}
 
@@ -13,3 +9,5 @@ layout: Ruby
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+{% include Ruby_Footer.html %}
