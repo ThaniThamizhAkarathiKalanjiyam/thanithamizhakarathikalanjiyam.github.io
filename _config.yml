@@ -62,5 +62,6 @@ plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
  
- collections:
-    authors:
+collections:
+ authors:
+  output: true
