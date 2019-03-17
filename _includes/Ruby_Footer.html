@@ -32,7 +32,9 @@
 <hr class="hidden-modern">
 <div id="sidebar-wrapper">
   <div id="sidebar">
-  
+{% if page.is_book %}
+Book Index
+{% else %}  
 <div class="navigation">
   {% if page.short_name %}
 			Author page
@@ -79,6 +81,7 @@
 <img width="137" src="{{site.url}}/images/498a_legal_terrorism_in_india.jpg" alt="498a_legal_terrorism_in_india"/></a>
 <br/>
 </div>
+{% endif %}
   </div>
 </div>
 <hr class="hidden-modern">
