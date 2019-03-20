@@ -11,10 +11,10 @@ permalink: anytafont2utf8
 featured: /images/noolkal_96_6.png  
 ---  
 [To Download the Software](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Collections/AnyTaFont2UTF8.zip) செய்து கொள்ளுங்கள்
+
 ![](/images/ta2utf8_7.JPG)
-## எப்படி இந்த மென்பொருளைப் பயன் படுத்துவது
-வெறும் மூன்றே படிநிலைகள் உள்ளன
 ## மென்பொருள் தரவிறக்க:
+வெறும் மூன்றே படிநிலைகள் உள்ளன
 ### தரவிறக்கம்
  - Download for wondows [இங்கு தரவிறக்கம்](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Collections/AnyTaFont2UTF8.zip) செய்து கொள்ளுங்கள்
 ### Extract All செய்யுங்கள்
