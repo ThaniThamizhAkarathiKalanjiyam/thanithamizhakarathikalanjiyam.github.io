@@ -1,8 +1,8 @@
 ---  
 categories: blog  
 title: ஒருங்குறி மாற்றி UTF8
-keywords: More, Tamil, Books  
-description: ஒருங்குறி மாற்றி எந்த ஒரு Tamil Font இருந்தும் UTF8 ஆக மாற்றும் கருவி
+keywords: tamil font to UTF8  
+description: Aishwarya font to utf8, ஒருங்குறி மாற்றி, Tamil Font இருந்து UTF8 ஆக மாற்றும் கருவி, Tamil Font to UTF8
 author: Tamilan  
 layout: Ruby  
 tags:     
