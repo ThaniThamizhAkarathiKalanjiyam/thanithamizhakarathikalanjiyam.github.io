@@ -7,10 +7,10 @@ author: Tamilan
 layout: Ruby  
 tags:     
 - windows
-permalink: any_font_to_utf8  
+permalink: any_font2utf8  
 featured: /images/noolkal_96_6.png  
 ---  
-{% include any_font_to_utf8.html %} 
+{% include any_font2utf8.html %} 
 
 To Download 4
 

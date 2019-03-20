@@ -1,12 +1,12 @@
 <br/><br/><b>கிரந்தச் சொல்லை இங்கு இடுங்கள்</b><br/>
-<textarea id="kirantha_word" rows="4" cols="50">
+<textarea id="givenFontWords" rows="4" cols="50">
 புஷ்கர்
 </textarea>
 <br/>
 <button class="button" onclick="ChangetToTamil()">Click</button>
 <button class="button" onclick="runTest()">Run Test</button>
 <br/><b>கிரந்தமற்ற தமிழ்ச் சொல்:</b><br/>
-<textarea id="tamil_without_kirantham" rows="4" cols="50">
+<textarea id="utf8ConvertedWord" rows="4" cols="50">
 புட்கர்
 </textarea>
 <br/><b>தனித்தமிழ்ச் சொல்:</b><br/>
@@ -63,8 +63,8 @@ function runTest()
 function ChangetToTamil()
 {
 
-	var word = $("#kirantha_word").val().trim();
-	$("#tamil_without_kirantham").val(aiswarya_to_utf8[word]);
+	var word = $("#givenFontWords").val().trim();
+	$("#utf8ConvertedWord").val(aiswarya_to_utf8[word]);
 	//$("#tamil_word").val(kirantham_nekki_thanithamizh(word));
 
 }
