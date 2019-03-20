@@ -3,7 +3,7 @@
 
 </textarea>
 <br/>
-<button class="button" onclick="ChangetToTamil()">Click</button>
+<button class="button" onclick="ChangetToTamil()">Convert UTF8</button>
 <button class="button" onclick="runTest()">Run Test</button>
 <br/><b>UTF8 ஆக மாற்றம் பெற்ற உரை:</b><br/>
 <textarea id="utf8ConvertedWord" rows="4" cols="50">
@@ -61,7 +61,8 @@ function ChangetToTamil()
 	var word = $("#givenFontWords").val().trim();
 	var len = aiswarya_to_utf8.length;	
 	for (i=0; i<len; ++i) {
-	  word = word.replace(aiswarya_to_utf8[i],aiswarya_to_utf8[word]);
+	  symbol = aiswarya_to_utf8[i];
+	  word = word.replace(symbol,aiswarya_to_utf8[symbol]);
 	}
 	$("#utf8ConvertedWord").val(word);
 }
