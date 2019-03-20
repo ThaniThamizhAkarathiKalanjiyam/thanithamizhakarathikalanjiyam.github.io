@@ -57,12 +57,9 @@ function runTest()
 	
 function ChangetToTamil()
 {
-
-	var word = $("#givenFontWords").val().trim();
-	var len = aiswarya_to_utf8.length;	
-	for (i=0; i<len; ++i) {
-	  symbol = aiswarya_to_utf8[i];
-	  word = word.replace(symbol,aiswarya_to_utf8[symbol]);
+	var word = $("#givenFontWords").val().trim();	
+	for (var key in aiswarya_to_utf8) { 	  
+	  word = word.replace(key,aiswarya_to_utf8[key]);
 	}
 	$("#utf8ConvertedWord").val(word);
 }
