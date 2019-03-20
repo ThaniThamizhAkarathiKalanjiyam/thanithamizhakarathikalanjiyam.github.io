@@ -5,7 +5,7 @@
 <br/>
 <button class="button" onclick="ChangetToTamil()">Convert UTF8</button>
 <button class="button" onclick="runTest()">Run Test</button>
-<br/><b>UTF8 ஆக மாற்றம் பெற்ற உரை:</b><br/>
+<br/><b>Test UTF8 ஆக மாற்றம் பெற்ற உரை:</b><br/>
 <textarea id="utf8ConvertedWord" rows="4" cols="50">
 Resulted UTF8
 </textarea>
@@ -57,16 +57,12 @@ function runTest()
 	
 function ChangetToTamil()
 {
-	//var word = $("#givenFontWords").val().trim();	
-	//for (var key in aiswarya_to_utf8) { 	  
-	//  //word = word.replace(key,aiswarya_to_utf8[key]);
-	//}
-	////$("#utf8ConvertedWord").val(word);
-			
-	for (var key in aiswarya_to_utf8) { 	  	  
-	  $("#givenFontWords").val($("#givenFontWords").val().trim().replace(key,aiswarya_to_utf8[key]));
+	var word = $("#givenFontWords").val().trim();
+	var res = word;
+	for (var key in aiswarya_to_utf8) { 	  
+	  res = res.replace(key,aiswarya_to_utf8[key]);
 	}
-	//$("#utf8ConvertedWord").val(word);
+	$("#utf8ConvertedWord").val(word);	
 }
 
 var aiswarya_to_utf8 = {
