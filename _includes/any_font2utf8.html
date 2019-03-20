@@ -57,11 +57,16 @@ function runTest()
 	
 function ChangetToTamil()
 {
-	var word = $("#givenFontWords").val().trim();	
-	for (var key in aiswarya_to_utf8) { 	  
-	  word = word.replace(key,aiswarya_to_utf8[key]);
+	//var word = $("#givenFontWords").val().trim();	
+	//for (var key in aiswarya_to_utf8) { 	  
+	//  //word = word.replace(key,aiswarya_to_utf8[key]);
+	//}
+	////$("#utf8ConvertedWord").val(word);
+			
+	for (var key in aiswarya_to_utf8) { 	  	  
+	  $("#givenFontWords").val($("#givenFontWords").val().trim().replace(key,aiswarya_to_utf8[key]));
 	}
-	$("#utf8ConvertedWord").val(word);
+	//$("#utf8ConvertedWord").val(word);
 }
 
 var aiswarya_to_utf8 = {
