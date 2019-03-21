@@ -6,7 +6,7 @@ description: Aishwarya tamil font to utf8, ஒருங்குறி மாற
 author: Tamilan  
 layout: Ruby  
 tags:     
-- released
+- Windows 
 permalink: anytafont2utf8  
 featured: /images/noolkal_96_6.png  
 ---  
