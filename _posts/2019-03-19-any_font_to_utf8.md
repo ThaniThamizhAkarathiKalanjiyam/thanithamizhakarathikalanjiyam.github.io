@@ -2,7 +2,7 @@
 categories: blog  
 title: ஒருங்குறி மாற்றி UTF8
 keywords: tamil font to UTF8  
-description: Aishwarya font to utf8, ஒருங்குறி மாற்றி, Tamil Font இருந்து UTF8 ஆக மாற்றும் கருவி, Tamil Font to UTF8
+description: Aishwarya font to utf8, ஒருங்குறி மாற்றி, Tamil Font இருந்து UTF8 ஆக மாற்றும் கருவி, Tamil Font to UTF8, any tamil font to utf8, Tamil Unicode Converter
 author: Tamilan  
 layout: Ruby  
 tags:     
@@ -15,10 +15,13 @@ featured: /images/noolkal_96_6.png
 ![](/images/ta2utf8_7.JPG)
 ## மென்பொருள் தரவிறக்க:
 வெறும் மூன்றே படிநிலைகள் உள்ளன
+
 ### தரவிறக்கம்
  - Download for wondows [இங்கு தரவிறக்கம்](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Collections/AnyTaFont2UTF8.zip) செய்து கொள்ளுங்கள்
+
 ### Extract All செய்யுங்கள்
 - ஒரு Folder'ல் extract செய்து கொள்ளவும். பின்னர் செயலியை இயக்கிட வேண்டியதுதான்
+
 ### பயன்படுத்தல்
  - Extract செய்த folder'ல் உள்ள **AnyTaFont2UTF8.exe** என்னும் கோப்பை இயக்கினால் உங்களின் தேவை முடிவு பெரும் என எண்ணுகிறேன்.
  
@@ -32,12 +35,16 @@ featured: /images/noolkal_96_6.png
 
 ## செயலி பயன் படுத்தல்
 - முதலில் தாங்கள் வைத்துள்ள கோப்பின் வகையை தேர்வு செய்து கொள்ளுங்கள். இங்கு நான் tamil_aishwarya எழுத்துருவை UTF8 ஆக மாற்ற விரும்புகிறேன் ஆகவே அதனை தேர்வு செய்து கொண்டேன்
+
 ![](/images/ta2utf8_3.JPG)
 - பின்னர் என்னிடம் உள்ள கோப்பில் உள்ள ஒண்ணுமே புரியாத உரையை முதலில் உள்ள பெரிய TextBox-ல் இட்டுக் கொள்ள வேண்டும்.
+
 ![](/images/ta2utf8_4.JPG)
 - அதனைத் தொடர்ந்து உள்ள "To UTF8" எனும் பொத்தானை அழுத்தவும்.
+
 ![](/images/ta2utf8_5.JPG)
 - நமக்குத் தேவையான ஒருங்குறி ஆக்கம் கிடைத்து விடும்.
+
 ![](/images/ta2utf8_7.JPG)
 
 ## இதுவரை உள்ள மாறுபட்ட தமிழ் Fonts
