@@ -12,7 +12,7 @@ featured: /images/noolkal_96_6.png
 ---  
 [To Download the Software](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Collections/AnyTaFont2UTF8_V2.zip) செய்து கொள்ளுங்கள்
 
-![](/images/ta2utf8_7.JPG)
+![](/images/AnyTaFont2UTF8_V2e.JPG)
 ## மென்பொருள் தரவிறக்க:
 வெறும் மூன்றே படிநிலைகள் உள்ளன
 
