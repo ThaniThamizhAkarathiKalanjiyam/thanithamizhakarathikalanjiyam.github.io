@@ -13,6 +13,17 @@ featured: /images/noolkal_96_6.png
 [To Download the Software](https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Collections/AnyTaFont2UTF8_V2.zip) செய்து கொள்ளுங்கள்
 
 ![](/images/AnyTaFont2UTF8_V2e.JPG)
+
+## பயன்படுத்தல்
+
+- ௧. முதலில் தேவையான உரையை ஒன்றாவது கட்டத்தினுள் இடவும்
+- ௨. உரையின் encoding format தெரிந்தால் அதனை தேர்வு செய்து கொள்ளவும்
+- ௩. பின்னர் To UTF8 என்பதைக் கிளிக் செய்தால் தங்களின் உரை தயாராகிவிடும்.
+
+அப்புறம் நீங்கள் ஒரு நபருக்கு இந்த மென்பொருளை அறிமுகம் செய்யுங்கள்.
+
+இணையத்தில் இந்த Encoding Formats வைத்து பல கோடிகள் புரளுகின்றன. அவற்றை எல்லாம் இலவசமாக மாற்றிக் கொள்ளுங்கள்.
+
 ## மென்பொருள் தரவிறக்க:
 வெறும் மூன்றே படிநிலைகள் உள்ளன
 
