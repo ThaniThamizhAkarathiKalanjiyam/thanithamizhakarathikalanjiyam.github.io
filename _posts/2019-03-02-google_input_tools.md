@@ -55,12 +55,15 @@ Apply all settings, then try to display the language bar as described in the pre
 Windows XP
 ---------------------
 
-Go to Control Panel > Regional and Language Options > Languages tab > Text services and input languages (Details)> Advanced tab.
-Make sure that under System configuration, the option Turn off advanced text services is not checked.
-Go to Control Panel > Regional and Language Options > Languages tab > Text services and input languages (Details)> Settings tab.
-Click Language Bar.
-Select Show the Language bar on the desktop. Click OK.
+- Go to Control Panel > Regional and Language Options > Languages tab > Text services and input languages (Details)> Advanced tab.
+- Make sure that under System configuration, the option Turn off advanced text services is not checked.
+- Go to Control Panel > Regional and Language Options > Languages tab > Text services and input languages (Details)> Settings tab.
+- Click Language Bar.
+- Select Show the Language bar on the desktop. Click OK.
 
-Go to Control Panel > Regional and Language Options > Languages Tab.
+- Go to Control Panel > Regional and Language Options > Languages Tab.
 
-Make sure that the option Install files for East Asian languages is checked in the checkboxes. This requires the installation of system files and the system will prompt for you to insert the Operating System Disc.If you are going to install IME for Indict languages or right-to-left languages, also make sure that the option Install files for complex scripts and right to left languages are checked in the checkboxes. This requires an installation of system files and the system will prompt for you to insert the Operating System Disc.Apply all settings and try to display language bar as described in the previous section.
+- Make sure that the option Install files for East Asian languages is checked in the checkboxes. 
+- This requires the installation of system files and the system will prompt for you to insert the Operating System Disc.
+- If you are going to install IME for Indict languages or right-to-left languages, also make sure that the option Install files for complex scripts and right to left languages are checked in the checkboxes. 
+- This requires an installation of system files and the system will prompt for you to insert the Operating System Disc.Apply all settings and try to display language bar as described in the previous section.
