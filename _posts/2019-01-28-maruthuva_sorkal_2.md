@@ -13,3 +13,4 @@ permalink: maruthuva_sorkal_2
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %}  
+{% include_relative dtl/maruthuva_sorkal_2.md %} 
