@@ -1,0 +1,126 @@
+/* mozilla.org MezzoTan DevMo Template Styles
+ *
+ */
+
+/* Link Navigation */
+
+  #tNavTop,
+  #tNavBottom {
+    list-style: none;
+    text-align: right;
+  }
+  #tNavTop > li,
+  #tNavBottom > li {
+    display: block;
+  }
+  #tNavTop:before,
+  #tNavBottom:after {
+    clear: both;
+  }
+
+  #tNavTop a[rel="prev"],
+  #tNavBottom a[rel="prev"] {
+    float: left;
+    text-align: left;
+  }
+
+  #tNavTop a[rel="toc"] {
+    display: block;
+    text-align: center;
+  }
+
+  #tNavTop a[rel="next"],
+  #tNavBottom a[rel="next"] {
+    float: right;
+  }
+
+/* Main Page Area */
+
+  #mBody {
+    clear: both;
+    padding: 0 0 1em 0;
+  }
+
+  #side {
+    float: left;
+    width: 23%;
+    margin-bottom: 1em;
+    margin-top: 0;
+  }
+
+  #mainContent {
+    float: right;
+    width: 74%;
+    margin-bottom: 3em;
+  }
+
+  .nomenu #mainContent {
+    float: none;
+    width: 100%;
+  }
+
+  .bodyleft {
+    float: right !important;
+    width: 74% !important;
+  }
+
+  #mainContent.right {
+    float: left;
+    width: 62%;
+    margin-bottom: 2em;
+  }
+
+  #side.right {
+    float: right;
+    width: 35%;
+    margin-bottom: 2em;
+    margin-top: 0;
+  }
+
+/* Footer */
+
+  #footer {
+    clear: both;
+    margin-top: 1em;
+  }
+
+  #footer ul {
+    margin: 1em 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  #footer li {
+    display: inline;
+    padding: 0 1em;
+    margin: 0;
+    white-space: nowrap;
+  }
+
+  #footer ul#footer-menu {
+    margin: 0 0 1em 0;
+  }
+
+  #footer p {
+    margin: 0.6em 0;
+  }
+
+  .tLicense {
+    font-size: smaller;
+  }
+
+/* Sidebar */
+
+  #getcd {
+    margin: 1em 0 0 45px;
+  }
+
+/*accessibility tweaks*/
+  .skipLink {
+    position: absolute;
+    left: -999px;
+    width: 990px;
+  }
+  hr.hide {
+    display: none;
+  }

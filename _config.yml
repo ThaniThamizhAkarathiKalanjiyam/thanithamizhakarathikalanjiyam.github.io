@@ -1,0 +1,73 @@
+name: ததஅக
+short_name: அஃக
+title: தனித் தமிழகராதிக் களஞ்சியம்
+description: தமிழ் உலகின் இலவச தமிழ் ஆங்கில அகராதி. தனித்தமிழ் இயக்கத்தின் அடுத்த முனைப்பு.
+description_short: தனித்தமிழ் இயக்கத்தின் முனைப்பு.
+keywords: அஃக ததஅக தனித் தமிழகராதிக் களஞ்சியம் தனித்தமிழகராதிக்களஞ்சியம் Tamil Dictionary - Apps on Google Play offline tamil dictionary for windows அஃக தனித்தமிழகராதிக்களஞ்சியம் English-To-Tamil-Dictionary-and-Translation Tamil English Dictionary ThaniTamil offline-tamil-dictionary windows-7 Thani Iyakkam Akarathi Agarathi Kalanjiyam Meaning Tamil-Meaning தமிழ் தனித்தமிழ் இயக்கம் அகராதி அகரமுதலி தமிழகராதி களஞ்சியம் தமிழகராதிக்களஞ்சியம் தனித்தமிழகராதிக்களஞ்சியம் மின்னகராதி சொல்லுருவாக்கி வடமொழியாக்கம் வட மொழியாக்கம் கிரந்தம் கிரந்த நீக்கி சொல் உருவாக்கி தமிழில் சொற்களஞ்சியம் ஆங்கிலம் tamil-dictionary-for-windows English-English-Tamil-dictionary offline tamil dictionary wikipedia wiktionary wikiquote reader dictionary slob
+url: https://thanithamizhakarathikalanjiyam.github.io
+author: Pitchaimuthu
+#twitter:
+# username: benbalter
+# card: summary
+#facebook:
+# app_id: 1234
+# publisher: 1234
+# admins: 1234
+baseurl: ""
+logo: '/images/ttak.png'
+#social:
+# name: Ben Balter   
+links:
+- தரவிறக்கம், download
+- அகராதி, agarathi
+- ஞாலக் களஞ்சியம், more_books
+- எம்மைப்பற்றி, about
+get_started_links:
+- வழிகாட்டி, ttak_2018_windows
+- Android , android
+- Windows, ttak-web
+- சொல் உருவாக்கி, ttak_online
+- கிரந்த நீக்கி, kirantha_neekki
+- வேர்ச்சொற்கள், tag/வேர்ச்சொற்கள்
+- முதல் ஈறு எழுத்துக்கள், windows_283
+- இடை எழுத்துக்கள், tamil_idaieluthukkal
+- நாட்காட்டி, ttak_date_time
+- பண்பலை, isaiyinifm/
+- தனிதமிழ் சிறுபொழுது, ttak_tamil_time_promo
+get_extern_links:
+- Firefox, https://addons.mozilla.org/en-US/firefox/addon/thanithamizhakarathikalanjiyam/
+- நன்றிகள், https://www.tamilinternetconference.org/selected-papers/
+#webmaster_verifications:
+# google: 1234
+# bing: 1234
+# alexa: 1234
+# yandex: 1234
+# baidu: 1234
+lang: ta_in
+paginate: 10
+
+#image:
+#  path: /images/ttak.png
+#  height: 320
+#  width: 320
+  
+defaults:
+  - scope:
+      path: ""
+    values:
+      /images/ttak.png
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-sitemap
+ 
+collections:
+ authors:
+  output: true
+  

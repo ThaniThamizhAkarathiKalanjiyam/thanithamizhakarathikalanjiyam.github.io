@@ -1,0 +1,13 @@
+{% include Ruby_header.html %}
+
+{{ content }}
+
+<h2>{{ page.short_name }} எழுதியவை</h2>
+<ul>
+  {% assign filtered_posts = site.posts | where: 'tags', page.short_name %}
+  {% for post in filtered_posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+{% include Ruby_Footer.html %}

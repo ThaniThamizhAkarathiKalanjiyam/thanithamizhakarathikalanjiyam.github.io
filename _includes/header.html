@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<!--
+	Arcana by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html lang="ta">
+	<head>
+        <meta property="og:image" content="{{ site.baseurl }}/images/ttak-32.png"/>
+		<link rel="shortcut icon" type="image/png" href="{{ site.baseurl }}/images/ttak-32.png"/>
+		<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119554313-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-119554313-1');
+		</script>
+
+		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
+		<script src="{{ site.baseurl }}/assets/js/init.js"></script>
+
+		<noscript>
+			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skel.css" />
+			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
+			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style-wide.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
+		{% seo %}	
+<meta name="keywords" content="{{page.keywords}}">
+<meta name="author" content="Pitchaimuthu">	
+<link href="assets/Ruby_files/css" rel="stylesheet" type="text/css">	
+	</head>
+	<body class="is-preload">
+	<div id="page-wrapper">
+		<!-- Header -->
+			<div id="header">
+				<!-- Logo -->
+					<h1>
+					<a href="{{ site.url }}/">
+					<em>{{ site.name }}</em></a>
+					</h1>
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							{% assign current = page.url | downcase | split: '/' %}													
+							<li {% if current[1] == Nil %}class="current"{% endif %}><a href="index.html">வாடிவாசல்</a></li>							
+							<li {% if current[1] == 'ttakmembership' %}class="current"{% endif %}><a href="{{ site.baseurl }}/ttakmembership">உறுப்பினராதல்</a></li>
+							<li {% if current[1] == 'release_notes' or
+									  current[1] == 'ttak-web' or
+									  current[1] == 'android' %}class="current"{% endif %}>
+							<a href="{{ site.baseurl }}/release_notes">வெளியீடுகள்</a>
+								<ul>
+									<li><a href="{{ site.baseurl }}/ttak-web">விண்டோசு</a></li>									
+							 		<li><a href="{{ site.baseurl }}/android">ஆண்ட்ராய்டு</a></li>									
+								</ul>
+							</li>
+							<li {% if current[1] == 'blog' %}class="current"{% endif %}><a href="{{ site.baseurl }}/blog">பதிவுகள்</a></li>
+						</ul>
+					</nav>
+
+			</div>
