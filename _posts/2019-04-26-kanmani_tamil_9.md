@@ -11,4 +11,5 @@ tags:
 permalink: kanmani_tamil_9  
 featured: /images/noolkal_96_6.png  
 ---  
-dfgfdgdfgf
+
+{% include_relative dtl/kanmani_tamil_9.md %} 
