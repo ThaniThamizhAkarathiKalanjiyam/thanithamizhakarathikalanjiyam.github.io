@@ -8,6 +8,7 @@ layout: Ruby
 tags:     
 - கண்மணிகணேசன்
 - கண்மணித்தமிழ்
+- கண்மணிகணேசன்
 permalink: kanmani_tamil_9  
 featured: /images/noolkal_96_6.png  
 ---  
