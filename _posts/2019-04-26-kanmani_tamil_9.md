@@ -14,4 +14,4 @@ featured: /images/noolkal_96_6.png
 
 {% include install_nool.md %} 
 
-{% include_relative angum_inkum.md %} 
+{% include_relative dtl/angum_inkum.md %} 
