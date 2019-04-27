@@ -12,4 +12,4 @@ permalink: manu_murai_kanda_vasakam
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include_relative dtl/manu_murai_kanda_vasakam.md %} 
+{% include manu_murai_kanda_vasakam.md %} 

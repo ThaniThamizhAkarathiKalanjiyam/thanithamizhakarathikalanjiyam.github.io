@@ -12,4 +12,4 @@ permalink: jeeva_karunya_olukkam
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include_relative dtl/jeeva_karunya_olukkam.md %} 
+{% include jeeva_karunya_olukkam.md %} 

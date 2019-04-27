@@ -12,4 +12,4 @@ permalink: valaiyapathi
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include_relative dtl/valaiyapathi.md %} 
+{% include valaiyapathi.md %} 

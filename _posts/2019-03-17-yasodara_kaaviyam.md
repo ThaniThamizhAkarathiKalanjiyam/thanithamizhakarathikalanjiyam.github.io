@@ -12,4 +12,4 @@ permalink: yasodara_kaaviyam
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include_relative dtl/yasodara_kaaviyam.md %} 
+{% include yasodara_kaaviyam.md %} 

@@ -12,4 +12,4 @@ permalink: seevaga_chintamani
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include_relative dtl/seevaga_chintamani.md %} 
+{% include seevaga_chintamani.md %} 

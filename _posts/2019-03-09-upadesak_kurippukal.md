@@ -12,4 +12,4 @@ permalink: upadesak_kurippukal
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include_relative dtl/upadesak_kurippukal.md %} 
+{% include upadesak_kurippukal.md %} 

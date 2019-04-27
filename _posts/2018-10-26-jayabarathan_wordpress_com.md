@@ -12,4 +12,4 @@ permalink: jayabarathan_wordpress_com
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %}  
-{% include_relative dtl/jayabarathan_wordpress_com.md %} 
+{% include jayabarathan_wordpress_com.md %} 

@@ -12,4 +12,4 @@ permalink: naga_kumara_kaaviyam
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include_relative dtl/naga_kumara_kaaviyam.md %} 
+{% include naga_kumara_kaaviyam.md %} 

@@ -12,4 +12,4 @@ permalink: oor_poorva_puthtanin_satchiyam
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include_relative dtl/oor_poorva_puthtanin_satchiyam.md %} 
+{% include oor_poorva_puthtanin_satchiyam.md %} 
