@@ -1,15 +1,15 @@
----  
-categories: blog  
+---
+categories: blog
 title: ஆற்றுப்படையும் ஆறுபடையும்
-keywords: More, Tamil, Books  
+keywords: More, Tamil, Books
 description: ஆற்றுப்படையும் ஆறுபடையும்
-author: Tamilan  
-layout: Ruby  
-tags:     
+author: Tamilan
+layout: Ruby
+tags:
 - கண்மணிகணேசன்
 - கண்மணித்தமிழ்
-permalink: kanmani_tamil_9  
-featured: /images/noolkal_96_6.png  
----  
-{% include install_nool.md %} 
-{% include kanmani_tamil_9.md %} 
+permalink: kanmani_tamil_9
+featured: /images/noolkal_96_6.png
+---
+{% include install_nool.md %}
+{% include kanmani_tamil_9.md %}
