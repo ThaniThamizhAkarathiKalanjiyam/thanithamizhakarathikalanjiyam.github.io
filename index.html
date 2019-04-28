@@ -3,18 +3,15 @@ layout: Ruby
 ---
 <h1>இவை புதுசு</h1>
 
+{% for post in site.posts limit:1 %}
 <div class="post">
-<h3><a href="/en/news/2019/04/23/move-to-git-from-svn/">Ruby Repository Moved to Git from Subversion</a></h3>
-<p>Today, the canonical repository of the Ruby programming language was moved to Git from Subversion.</p>
-<p class="post-link"><a href="/en/news/2019/04/23/move-to-git-from-svn/">Continue Reading...</a></p>
-<p class="post-info">Posted by hsbt on 23 Apr 2019</p>
+<h3><a href="/en/news/2019/04/23/move-to-git-from-svn/">{{ post.title }}</a></h3>
+<p>{{ post.description }}</p>
+<p class="post-link"><a href="/en/news/2019/04/23/move-to-git-from-svn/">{{ post.url }}</a></p>
+<p class="post-info">Posted by on {{ post.date }}</p>
 </div>
-<div class="post">
-<h3><a href="/en/news/2019/04/17/ruby-2-6-3-released/">Ruby 2.6.3 Released</a></h3>
-<p>Ruby 2.6.3 has been released.</p>
-<p class="post-link"><a href="/en/news/2019/04/17/ruby-2-6-3-released/">Continue Reading...</a></p>
-<p class="post-info">Posted by naruse on 17 Apr 2019</p>
-</div>
+{% endfor %}
+
 
 <h1>தமிழ்க் களஞ்சியம்</h1>
 <ul>
