@@ -1,7 +1,7 @@
 ---
 layout: Ruby
 ---
-<h1>இவை புதுசு</h1>
+<h1>இவை புதுசு2</h1>
 
 {% for post in site.posts limit:1 %}
 <div class="post">
