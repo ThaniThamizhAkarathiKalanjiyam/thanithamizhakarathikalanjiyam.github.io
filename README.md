@@ -1,12 +1,13 @@
-# On construction
-
-<h1>இவை புதுசு2</h1>
+---
+layout: Ruby
+---
+<h1>இவை புதுசு</h1>
 
 {% for post in site.posts limit:1 %}
 <div class="post">
-<h3><a href="/en/news/2019/04/23/move-to-git-from-svn/">{{ post.title }}</a></h3>
+<h3><a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a></h3>
 <p>{{ post.description }}</p>
-<p class="post-link"><a href="/en/news/2019/04/23/move-to-git-from-svn/">{{ post.url }}</a></p>
+<p class="post-link"><a href="{{ site.url }}/{{ post.url }}">Read more</a></p>
 <p class="post-info">Posted by on {{ post.date }}</p>
 </div>
 {% endfor %}
