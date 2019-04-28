@@ -1,6 +1,12 @@
 ## கைப்பேசி நூல்: "{{ page.title }}"
 
-[Read book Online]({{ page.url }})  | | [To download more books](https://thanithamizhakarathikalanjiyam.github.io/more_books)
+<h2><a href="{{ site.url }}/{{ page.permalink }}" class="button button1">
+Read book Online
+</a></h2>
+
+<h2><a href="{{ site.url }}/more_books" class="button button1">
+To download more books
+</a></h2>
 
 ## Read book on Android mobile
 
