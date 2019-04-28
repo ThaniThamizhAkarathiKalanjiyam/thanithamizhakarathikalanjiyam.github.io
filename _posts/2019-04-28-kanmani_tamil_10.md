@@ -1,8 +1,8 @@
 ---
 categories: blog
-title: ஜெயபாரதன் கவிதைகள்-ஓர் ஆய்வு
+title: ஜெயபாரதன் கவிதைகள் ஓர் ஆய்வு
 keywords: More, Tamil, Books
-description: ஜெயபாரதன் கவிதைகள்-ஓர் ஆய்வு
+description: ஜெயபாரதன் கவிதைகள் ஓர் ஆய்வு
 author: Tamilan
 layout: Ruby
 tags:
