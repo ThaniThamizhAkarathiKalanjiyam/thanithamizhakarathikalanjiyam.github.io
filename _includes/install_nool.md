@@ -1,5 +1,7 @@
 ## கைப்பேசி நூல்: "{{ page.title }}"
 
+{% include note.html content="This is my sample note." %}
+
 <h2><a href="{{ site.url }}/{{ page.permalink }}" class="button button1">
 Read book Online
 </a></h2>
