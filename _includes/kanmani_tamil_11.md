@@ -9,7 +9,7 @@
    
   
 பதிப்பு  
-2019-04-28-    
+2019-05-01-    
   
 ## கைபேசி தொகுப்புரை  
 
@@ -19,11 +19,12 @@
   
 **கைபேசியாக்கம்,  
 மு.பிச்சைமுத்து**  
-2019-04-28-
+2019-05-01-
 
 ## Creative Commons Public Licenses
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 ## கூத்தராற்றுப்படையில் உணவும் உருக்காட்சியும்      
 **முன்னுரை**  
 
@@ -160,10 +161,9 @@
 
 ## குறிப்புகள்  
 
-1.	https  
-//en.wikipedia.org/wiki/Congee  
+1.	https://en.wikipedia.org/wiki/Congee  
 2.	பெருமழைப்புலவர் பொ.வே.சோமசுந்தரனார்(உ.ஆ.)-பத்துப்பாட்டு  
-மூலமும் உரையும்- தொகுதிii -மலைபடுகடாம் -பக்.154      
+மூலமும் உரையும்- தொகுதி-மலைபடுகடாம் -பக்.154      
 3,4,5.   https  
 //en.wikipedia.org/wiki/Congee         
 6.	https  
@@ -172,7 +172,7 @@
 ## துணைநூற்பட்டியல்  
 
 1.   	பெருமழைப்புலவர் பொ.வே.சோமசுந்தரனார்(உ.ஆ.)-பத்துப்பாட்டு   
-மூலமும் உரையும்- தொகுதிii- கழக வெளியீடு-2008  
+மூலமும் உரையும்- தொகுதி- கழக வெளியீடு-2008  
 2.	 ஒளவை சு.துரைசாமிப்பிள்ளை (உ.ஆ.)- பதிற்றுப்பத்து- கழக   
 வெளியீடு-2007  
 3.	தமிழண்ணல்- சங்க இலக்கிய ஒப்பீடு இலக்கியக் கொள்கைகள்- 3ம் பதிப்பு-2011   
