@@ -1,6 +1,3 @@
-## கைப்பேசி நூல்: "{{ page.title }}"
-
-{% include note.html content="This is my sample note." %}
 ## Read book Online mode
 <h2><a href="{{ site.url }}/{{ page.permalink }}" class="button button1">
 Read book Online
@@ -9,7 +6,7 @@ Read book Online
 <h2><a href="(https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.slob)" class="button button3">
 Download book as SLOB - To Read Offline on Android Mobile
 </a></h2>
-<h2><a href="(https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.slob)" class="button button3">
+<h2><a href="(https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.pdf)" class="button button3">
 Download book as PDF - To Read Offline
 </a></h2>
 ## Read more books
