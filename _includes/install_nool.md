@@ -1,3 +1,8 @@
+நூல் : {{ page.title }}
+ஆசிரியர் : {{ page.author }}
+மின்னஞ்சல் : {{ page.author_email }}
+தமிழ்ஞால உரிமை : Creative Commons Attribution-NonCommercial-ShareAlike
+
 ## Read book Online mode
 <h2><a href="{{ site.url }}/{{ page.permalink }}" class="button button1">
 Read book Online
