@@ -9,7 +9,7 @@ Download {{ page.title }} as slob - {{ page.permalink }}.slob
 ### புது கிண்டில் கருவிகளில் படிக்க
 
 ### குனூ/லினக்ஸ், விண்டோஸ் கணிணிகளில் படிக்க
-<h2><a href="(https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}_A4.pdf)" class="button button3">
+<h2><a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}_A4.pdf" class="button button1">
 Download {{ page.title }} as PDF - {{ page.permalink }}_A4.pdf
 </a></h2>
 ### பழைய கிண்டில்,நூக் கருவிகளில் படிக்க
