@@ -1,17 +1,19 @@
 **ஆசிரியர்** : {{ page.author }}  
 **மின்னஞ்சல்** : {{ page.author_email }}  
-**தமிழ்ஞாலவுரிமை* : Creative Commons Attribution-NonCommercial-ShareAlike  
-## தரவிறக்கு
-### ஆன்ட்ராய்டு(அஃக செயலி மூலம்) கருவிகளில் படிக்க
-<h2><a href="(https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.slob)" class="button button3">
-Download {{ page.title }} as slob - {{ page.permalink }}.slob
+**தமிழ்ஞாலவுரிமை** : Creative Commons Attribution-NonCommercial-ShareAlike  
+# தரவிறக்கு
+# ஆன்ட்ராய்டு(அஃக செயலி மூலம்) கருவிகளில் படிக்க
+<h2><a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.slob" class="button button3">
+Download {{ page.title }} as slob <br/> {{ page.permalink }}.slob
 </a></h2>
-### புது கிண்டில் கருவிகளில் படிக்க
-
-### குனூ/லினக்ஸ், விண்டோஸ் கணிணிகளில் படிக்க
+# குனூ/லினக்ஸ், விண்டோஸ் கணிணிகளில் படிக்க
 <h2><a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}_A4.pdf" class="button button1">
 Download {{ page.title }} as PDF - {{ page.permalink }}_A4.pdf
 </a></h2>
+
+### புது கிண்டில் கருவிகளில் படிக்க
+
+
 ### பழைய கிண்டில்,நூக் கருவிகளில் படிக்க
 
 ## Read book Online mode
