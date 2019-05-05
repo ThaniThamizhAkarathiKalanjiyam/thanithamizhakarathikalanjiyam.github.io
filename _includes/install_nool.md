@@ -1,6 +1,18 @@
 **ஆசிரியர்** : {{ page.author }}  
 **மின்னஞ்சல்** : {{ page.author_email }}  
 **தமிழ்ஞாலவுரிமை* : Creative Commons Attribution-NonCommercial-ShareAlike  
+## தரவிறக்கு
+### ஆன்ட்ராய்டு(அஃக செயலி மூலம்) கருவிகளில் படிக்க
+<h2><a href="(https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.slob)" class="button button3">
+Download {{ page.title }} as slob - {{ page.permalink }}.slob
+</a></h2>
+### புது கிண்டில் கருவிகளில் படிக்க
+
+### குனூ/லினக்ஸ், விண்டோஸ் கணிணிகளில் படிக்க
+<h2><a href="(https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}_A4.pdf)" class="button button3">
+Download {{ page.title }} as PDF - {{ page.permalink }}_A4.pdf
+</a></h2>
+### பழைய கிண்டில்,நூக் கருவிகளில் படிக்க
 
 ## Read book Online mode
 <h2><a href="{{ site.url }}/{{ page.permalink }}" class="button button1">
@@ -10,9 +22,7 @@ Read book Online
 <h2><a href="(https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.slob)" class="button button3">
 Download book as SLOB - To Read Offline on Android Mobile
 </a></h2>
-<h2><a href="(https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.pdf)" class="button button3">
-Download book as PDF - To Read Offline
-</a></h2>
+
 ## Read more books
 <h2><a href="{{ site.url }}/more_books" class="button button2">
 To download more books
