@@ -1,7 +1,12 @@
 **ஆசிரியர்** : {{ page.author }}  
 **மின்னஞ்சல்** : {{ page.author_email }}  
 **தமிழ்ஞாலவுரிமை** : Creative Commons Attribution-NonCommercial-ShareAlike  
-# தரவிறக்கு
+<div class="post">
+<h2><a href="{{ site.url}}/{{ post.url }}">{{ post.title }}</a></h2>
+<p>{{ post.description }}</p>
+<p class="post-link"><a href="{{ site.url}}/{{ post.url }}">இயங்கலையில் படிக்க . . .</a></p>
+<p class="post-info">இறுதியாக பதிப்பித்த நாள் {{ post.date }}</p>
+</div>
 # ஆன்ட்ராய்டு(அஃக செயலி மூலம்) கருவிகளில் படிக்க
 <h2><a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.slob" class="button button3">
 Download {{ page.title }} as slob <br/> 
