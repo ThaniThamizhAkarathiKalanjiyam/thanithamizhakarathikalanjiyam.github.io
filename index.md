@@ -2,7 +2,7 @@
 layout: Ruby
 --- 
 {% assign post_titles = "" %}
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:11 %}
 {% assign title_check = post.title | append:'|' %}
 	{% if post_titles contains title_check %}
 		{% assign empty = "" %}
