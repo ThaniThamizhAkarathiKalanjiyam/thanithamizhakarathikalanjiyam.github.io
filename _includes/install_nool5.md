@@ -9,3 +9,8 @@ Download {{ page.title }} as slob <br/>
 Download {{ page.title }} as PDF <br/> 
 {{ page.permalink }}_A4.pdf
 </a></h2>
+# KINDLE /SAMRT Phone போன்ற சிறு கருவிகளில் படிக்க
+<h2><a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}_6inch.pdf" class="button button1">
+Download {{ page.title }} as 6inch PDF <br/> 
+{{ page.permalink }}_6inch.pdf
+</a></h2>
