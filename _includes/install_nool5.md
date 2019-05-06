@@ -4,6 +4,7 @@ Sorry for inconvinience THIS PAGE is UNDER CONSTRUCTION.
 Download {{ page.title }} as slob <br/> 
 {{ page.permalink }}.slob
 </a></h2>
+"அஃக செயலி" (ஆன்ட்ராய்டு) தரவிறக்க [தரவிறக்கம்](download) பக்கத்தைக் காணவும்.
 # குனூ/லினக்ஸ், விண்டோஸ் கணிணிகளில் படிக்க
 <h2><a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}_A4.pdf" class="button button1">
 Download {{ page.title }} as PDF <br/> 
