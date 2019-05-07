@@ -5,11 +5,11 @@
 # பண்டைத் தமிழகப் பரதவரிடம்- திணை மாந்தரிடம் தோன்றிய சாதிப் பிரிவினை  
   
 >ஆசிரியர்  
-**முனைவர் திருமதி ச.கண்மணிகணேசன்**  
+**கண்மணிகணேசன்**  
    
   
 பதிப்பு  
-2019-03-07-    
+2019-05-07-    
   
 ## கைபேசி தொகுப்புரை  
 
@@ -19,11 +19,12 @@
   
 **கைபேசியாக்கம்,  
 மு.பிச்சைமுத்து**  
-2019-03-07-
+2019-05-07-
 
 ## Creative Commons Public Licenses
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 ## முன்னுரை
 சங்க காலச் சமூகநிலை பற்றி  கருத்து வேறுபாடுகள் உள்ளன.சாதி வேறுபாடு இருந்தது என்போரும் உளர். இல்லை; தொழில் சார் பிரிவு மட்டுமே இருந்தது  என்போரும் உளர். பாடலாசிரியரின் பெயர் அறியப்படாத நற்றிணை-45ம் பாடல் சங்க காலச் சமுதாய நிலையை அறிந்து கொள்ளத் துணை செய்கிறது. விளக்க முறை ஆய்வைப் பயன்படுத்தி  இப்பாடல் எவ்வாறு திருமண பந்தத்தை வரையறுக்கிறது என்பதைக் காண்பதே இக்கட்டுரையின் நோக்கமாகும். எட்டுத்தொகையும், பத்துப்பாட்டும், இரட்டைக் காப்பியங்களும் திணை மாந்தர், வருணம், தொழில்சார் பிரிவு, திருமணம் என்ற நிறுவனம்  முதலியவற்றை விளக்க சான்றாதாரங்களாக அமைகின்றன.
 

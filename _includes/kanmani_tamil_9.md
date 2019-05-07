@@ -9,7 +9,7 @@
    
   
 பதிப்பு  
-2019-04-27-    
+2019-05-07-    
   
 ## கைபேசி தொகுப்புரை  
 
@@ -19,11 +19,12 @@
   
 **கைபேசியாக்கம்,  
 மு.பிச்சைமுத்து**  
-2019-04-27-
+2019-05-07-
 
 ## Creative Commons Public Licenses
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 ## ஆற்றுப்படையும் ஆறுபடையும்
 
 ## முன்னுரை
@@ -111,6 +112,11 @@
 -  பிலோ இருதயநாத்- மக்கள் வணங்கும் ஆலயம்- முதல் பதிப்பு- 1965
 - 	மின்தமிழ் மேடை- காட்சி 14- ஜூலை 2018
 
+
+>ச.கண்மணி கணேசன்  
+முதல்வர்&தமிழ்த்துறைத் தலைவர்(ஒய்வு),   
+ஸ்ரீகாளீஸ்வரி கல்லூரி,   
+சிவகாசி.  
 
 
 			

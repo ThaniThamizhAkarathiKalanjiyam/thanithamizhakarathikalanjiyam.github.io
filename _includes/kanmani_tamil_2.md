@@ -5,11 +5,11 @@
 # காமம் கண்ணிய மரபுமுதல் காமம்மிக்க கழிபடர் கிளவிவரை  
   
 >ஆசிரியர்  
-**முனைவர் திருமதி ச.கண்மணிகணேசன்**  
+**கண்மணிகணேசன்**  
    
   
 பதிப்பு  
-2019-03-07-    
+2019-05-07-    
   
 ## கைபேசி தொகுப்புரை  
 
@@ -19,11 +19,12 @@
   
 **கைபேசியாக்கம்,  
 மு.பிச்சைமுத்து**  
-2019-03-07-
+2019-05-07-
 
 ## Creative Commons Public Licenses
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 ## கருத்தரங்கக் கட்டுரை பற்றி
 
 மதுரை பல்கலைநகரின்; ஞாலத்தமிழ்ப் பண்பாட்டு ஆய்வு மன்றம் 1997ம் ஆண்டு மேமாதம்; திருச்செந்தூர் சி.பா.ஆதித்தனார் கலைக்கல்லூரியில் நடத்திய கருத்தரங்கில் வாசித்தளித்த ‘காலந்தோறும் காமம்மிக்க கழிபடர் கிளவி’ என்ற ஆய்வுக்கட்டுரை அப்போது வெளியிடப்பட்ட “தமிழியல் ஆய்வு 1997” என்னும் கருத்தரங்கக் கட்டுரைத் தொகுப்பில் பதிப்பிக்கப்பட்டது. இன்று வலைத்தளத்தில் ‘காமம் கண்ணிய மரபுமுதல் காமம்மிக்க கழிபடர் கிளவிவரை’ என்ற தலைப்பில்   அதைப் பதிகிறேன். பெயர்மாற்றம் காலத்தால் ஏற்பட்ட கருத்துத் தெளிவின் விளைவே ஆகும்.  

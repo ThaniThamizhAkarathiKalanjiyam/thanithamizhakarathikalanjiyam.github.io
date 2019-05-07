@@ -5,11 +5,11 @@
 # பண்டைய மதுரையின் இருபெரு நியமங்கள்  
   
 >ஆசிரியர்  
-**முனைவர் திருமதி ச.கண்மணிகணேசன்**  
+**கண்மணிகணேசன்**  
    
   
 பதிப்பு  
-2019-03-07-    
+2019-05-07-    
   
 ## கைபேசி தொகுப்புரை  
 
@@ -19,11 +19,12 @@
   
 **கைபேசியாக்கம்,  
 மு.பிச்சைமுத்து**  
-2019-03-07-
+2019-05-07-
 
 ## Creative Commons Public Licenses
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 ## கட்டுரை பற்றி  
    மின்தமிழ் மேடை என்னும் மின்னிதழில்(காட்சி 6- ஜனவரி-19)வெளியிடப்பட்டது 	  
 பண்டைய மதுரையின் இருபெரு நியமங்கள்   
@@ -103,16 +104,16 @@
 திரட்டு அடிகள் மூலம் தெரிய வருகின்றது. அத்துடன் வையையின் போக்கில் மதுரைக்கு முன்னரே இருந்தையூர் இருந்ததென்பதும் புலனாகிறது. இவ்வூரின் சுற்றுப்புறமும் சூழலும் குறித்து இதே பாடல் மேலும் உரைப்பதாவது:  
 
 > “ஒருசார் அணிமலர் வேங்கை மராஅ மகிழும்   
-……………………………………………………………..  
+.........................  
 மணிநிறங் கொண்ட மலை  
 ஒருசார் தண்ணறுந் தாமரைப் பூவின் இடையிடை   
-………………………………………………………………..  
+..........................  
 கண் வீற்றிருக்கும் கயம்   
 ஒருசார் சாறுகொள் ஒதத்து இசையொடு மாறுற்று   
-…………………………………………………………………  
+.........................  
 திருநயத்தக்க வயல்   
 ஒருசார் அறத்தொடு வேதம்   
-……………………………………………………………………  
+..........................  
 அறத்தில் திரியாப் பதி “. 
 
 
@@ -170,12 +171,14 @@
  
 படம் 1:  
   
-<img alt="kanmani_tamil_6_1.jpg" src="/images/kanmani_tamil_6_1.jpg" width="340" height="340" />
+<img alt="kanmani_tamil_6_1.jpg" src="/images/kanmani_tamil_6_1.jpg" width="340" height="340" >
 
 படம் 2:  
   
-<img alt="kanmani_tamil_6_2.jpg" src="/images/kanmani_tamil_6_2.jpg" width="340" height="340" />
+<img alt="kanmani_tamil_6_2.jpg" src="/images/kanmani_tamil_6_2.jpg" width="340" height="340" >
   
 படம் 3:  
 
-<img alt="kanmani_tamil_6_3.jpg" src="/images/kanmani_tamil_6_3.jpg" width="340" height="340" />
+<img alt="kanmani_tamil_6_3.jpg" src="/images/kanmani_tamil_6_3.jpg" width="340" height="340" >
+
+
