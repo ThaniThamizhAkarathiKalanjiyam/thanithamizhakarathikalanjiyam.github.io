@@ -1,4 +1,3 @@
-Sorry for inconvinience THIS PAGE is UNDER CONSTRUCTION.
 # ஆன்ட்ராய்டு(அஃக செயலி மூலம்) கருவிகளில் படிக்க
 <h2><a class="post-link" href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.slob" class="button button2">
 Download {{ page.title }} as slob <br/> 
