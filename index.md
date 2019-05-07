@@ -1,7 +1,8 @@
 ---
 layout: Ruby
 --- 
-# புதிய நூல்கள் /கட்டுரைகள்
+**புதிய நூல்கள் /கட்டுரைகள்**
+
 {% assign post_titles = "" %}
 {% for post in site.posts limit:11 %}
 {% assign title_check = post.title | append:'|' %}
@@ -19,8 +20,8 @@ layout: Ruby
 {% endfor %}
 
 
-{% if page.date %}
-<p class="post-info">பதிவுற்ற நாள் {{ page.date | date_to_string }} | 
+{% if post.date %}
+<p class="post-info">பதிவுற்ற நாள் {{ post.date | date_to_string }} | 
 </p>
 {% endif %}
 
