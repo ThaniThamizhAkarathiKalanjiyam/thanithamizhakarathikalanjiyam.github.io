@@ -16,3 +16,7 @@ Download {{ page.title }} as PDF <br/>
 Download {{ page.title }} as 6inch PDF <br/> 
 {{ page.permalink }}_6inch.pdf
 </a></h2>
+
+[மேலும் அதிக நூல்களைப் படிக்க ஆசையா](more_books)
+
+<hr>
