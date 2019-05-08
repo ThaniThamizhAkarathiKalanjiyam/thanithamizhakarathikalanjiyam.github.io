@@ -7,8 +7,8 @@ author: Tamilan
 layout: Ruby
 tags:
 - திருவள்ளுவர்
-- விக்கிமூலம்
 - பதினெண்கீழ்க்கணக்கு
+- விக்கிமூலம்
 permalink: thirukural
 featured: /images/noolkal_96_6.png
 ---
