@@ -4,7 +4,7 @@ layout: Ruby
 --- 
 **அஃக செயலியை நிறுவுவதன் மூலம் ..**
 
-<p>உங்களது ஆன்ட்ராய்டு கைப்பேசியில் <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk">அஃக செயலி மூலம்</a>, உங்களால் கட்டுரைகளையும், தமிழ் அகராதியையும் படிக்க முடியும். மேலும் <a href="android/">நிறுவல் வழிகாட்டியை காணவும்</a></p>
+<p>உங்களது ஆன்ட்ராய்டு கைப்பேசியில் அஃக செயலி <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk">Download</a> மூலம், உங்களால் கட்டுரைகளையும், தமிழ் அகராதியையும் படிக்க முடியும். மேலும் <a href="android/">நிறுவல் வழிகாட்டியை காணவும்</a></p>
 
 **புதிய நூல்கள் /கட்டுரைகள்**
 
