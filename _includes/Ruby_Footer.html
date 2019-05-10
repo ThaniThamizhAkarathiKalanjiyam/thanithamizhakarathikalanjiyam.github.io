@@ -37,14 +37,14 @@
 {% assign post_titles = "" %}
 {% for post in site.posts %}
 {% if post.title == page.title %}
-	{% assign title_check = post.title | append:'|' %}
+	{% assign title_check = post.sub_title | append:'|' %}
 	{% if post_titles contains title_check %}
 		{% assign empty = "" %}
 	{% else %}
 		<li><a href ="{{ site.url }}/{{ post.permalink }}">
-		{{ post.title }}</a>  </li>
+		{{ post.sub_title }}</a>  </li>
 	{% endif %}
-	{% assign post_titles = post_titles | append:post.title | append:'|' %}
+	{% assign post_titles = post_titles | append:post.sub_title | append:'|' %}
 {% endif %}
 {% endfor %}
 </ol>
