@@ -1,6 +1,7 @@
 ---
 categories: blog
 title: அங்கும் இங்கும்
+sub_title: 1. விஞ்ஞான விவசாயம்
 keywords: More, Tamil, Books
 description: அங்கும் இங்கும்
 author: Tamilan
@@ -13,7 +14,7 @@ featured: /images/noolkal_96_6.png
 ---
 
 
-1\. விஞ்ஞான விவசாயம்
+## 1. விஞ்ஞான விவசாயம்
 
 நான் மாணவனாக இருந்த போது பாரதியாரின் "புதிய ருஷியா" என்னும் கவிதை என்னைக் கவர்ந்தது.
 

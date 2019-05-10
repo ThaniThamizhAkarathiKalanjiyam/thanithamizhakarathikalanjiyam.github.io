@@ -1,6 +1,7 @@
 ---
 categories: blog
 title: அங்கும் இங்கும்
+sub_title: Creative Commons Public Licenses
 keywords: More, Tamil, Books
 description: அங்கும் இங்கும்
 author: Tamilan
@@ -13,7 +14,7 @@ featured: /images/noolkal_96_6.png
 ---
 
 
-Creative Commons Public Licenses
+## Creative Commons Public Licenses
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)  
 This work is licensed under a Creative Commons Attribution 4.0 International License.

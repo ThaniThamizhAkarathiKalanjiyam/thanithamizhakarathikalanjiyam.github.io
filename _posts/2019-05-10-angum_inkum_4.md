@@ -1,6 +1,7 @@
 ---
 categories: blog
 title: அங்கும் இங்கும்
+sub_title: விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
 keywords: More, Tamil, Books
 description: அங்கும் இங்கும்
 author: Tamilan
@@ -13,7 +14,7 @@ featured: /images/noolkal_96_6.png
 ---
 
 
-விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
+## விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
 
 **﻿அங்கும் இங்கும்**
 

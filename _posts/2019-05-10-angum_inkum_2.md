@@ -1,6 +1,7 @@
 ---
 categories: blog
 title: அங்கும் இங்கும்
+sub_title: கைபேசி தொகுப்புரை
 keywords: More, Tamil, Books
 description: அங்கும் இங்கும்
 author: Tamilan
@@ -13,7 +14,7 @@ featured: /images/noolkal_96_6.png
 ---
 
 
-கைபேசி தொகுப்புரை
+## கைபேசி தொகுப்புரை
 
 தமிழ் நூல்கள் அனைத்தையும் அவரவர் கைப்பேசிகளில் கொண்டு சேர்த்திட வேண்டும் என்பது நமது ஆவல்.
 
