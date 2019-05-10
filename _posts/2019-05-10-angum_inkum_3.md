@@ -13,8 +13,6 @@ permalink: angum_inkum_3
 featured: /images/noolkal_96_6.png
 order: 3
 ---
-
-
 ## Creative Commons Public Licenses
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)  

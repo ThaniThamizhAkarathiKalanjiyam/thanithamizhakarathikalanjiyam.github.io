@@ -13,8 +13,6 @@ permalink: angum_inkum_4
 featured: /images/noolkal_96_6.png
 order: 4
 ---
-
-
 ## விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
 
 **﻿அங்கும் இங்கும்**

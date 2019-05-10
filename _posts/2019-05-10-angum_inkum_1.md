@@ -13,8 +13,6 @@ permalink: angum_inkum_1
 featured: /images/noolkal_96_6.png
 order: 1
 ---
-
-
 ## அறிமுகம்
 
 **டாக்டர் நெ. து. சுந்தரவடிவேலு நூல்கள்**
