@@ -37,7 +37,6 @@
 {% assign post_titles = "" %}
 {% assign sorted_pages = (site.posts | post.title == page.title | sort:"order") %}
 {% for post in  sorted_pages%}
-- 
 	{% assign title_check = post.sub_title | append:'|' %}
 	{% if post_titles contains title_check %}
 		{% assign empty = "" %}
@@ -46,7 +45,6 @@
 		{{ post.sub_title }}</a>  </li>
 	{% endif %}
 	{% assign post_titles = post_titles | append:post.sub_title | append:'|' %}
-
 {% endfor %}
 </ul>
 {% else %}  
