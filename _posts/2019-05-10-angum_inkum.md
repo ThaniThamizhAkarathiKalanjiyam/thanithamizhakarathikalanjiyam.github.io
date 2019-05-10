@@ -11,6 +11,7 @@ tags:
 - விக்கிமூலம்
 permalink: angum_inkum
 featured: /images/noolkal_96_6.png
+order: 
 ---
 {% include install_nool5.md %}
 {% include angum_inkum.md %}

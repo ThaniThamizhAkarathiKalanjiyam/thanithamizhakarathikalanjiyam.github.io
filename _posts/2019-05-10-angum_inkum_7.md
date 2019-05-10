@@ -11,6 +11,7 @@ tags:
 is_book: 1
 permalink: angum_inkum_7
 featured: /images/noolkal_96_6.png
+order: 7
 ---
 
 
