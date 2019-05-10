@@ -147,6 +147,10 @@
 <hr/>
   <div id="content">
 <b>
-	{{ page.description }}
+{% if page.is_book %}
+{{ page.description }} - நூலை இயங்கலையில் படித்துக் கொண்டு இருக்கிறீர்கள் . . . 
+{% else %}
+{{ page.description }}
+{% endif %}
 </b>
 
