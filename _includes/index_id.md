@@ -7,6 +7,7 @@
 {% assign post_titles = "" %}
 {% assign posts_loc = (site.posts | post.is_book != 1  ) %}
 {% for post in posts_loc limit:11  %}
+{% if post.is_book != 1 %}
 {% assign title_check = post.title | append:'|' %}
 	{% if post_titles contains title_check %}
 		{% assign empty = "" %}
@@ -31,6 +32,7 @@ Download: {{ post.is_book }} <a href="https://github.com/ThaniThamizhAkarathiKal
 
 {% endif %}
 {% assign post_titles = post_titles | append:post.title | append:'|' %}
+{% endif %}
 {% endfor %}
 
 <h2><a class="post-link" href="more_books" class="button button2">Get more books ..
