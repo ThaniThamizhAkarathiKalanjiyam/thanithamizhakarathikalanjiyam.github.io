@@ -9,7 +9,7 @@
 {% assign posts_loc = (site.posts | post.is_book != 1  ) %}
 {% for post in posts_loc %}
 {% if post.is_book != 1 and post_count < 11 %}
-{% assign post_count = post_count + 1 %}
+{% assign post_count = post_count | plus:1 %}
 {% assign title_check = post.title | append:'|' %}
 	{% if post_titles contains title_check %}
 		{% assign empty = "" %}
@@ -17,7 +17,7 @@
 <div class="post">
 <h2><a href="{{ site.url}}/{{ post.url }}">{{ post.title }}</a></h2>
 <p class="post-link">
-Download: {{ post.is_book }} <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}.slob">slob</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_A4.pdf">PDF</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_6inch.pdf">pdf</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_utf8.html">HTML (UTF8)</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_tace16.html">HTML (TACE16)</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_tace.txt">.txt</a>
+Download: {{ post_count }} <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}.slob">slob</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_A4.pdf">PDF</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_6inch.pdf">pdf</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_utf8.html">HTML (UTF8)</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_tace16.html">HTML (TACE16)</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_tace.txt">.txt</a>
 </p>
 <!--p class="post-link"><a href="{{ site.url}}/{{ post.url }}">இயங்கலையில் படிக்க . . .</a></p-->
 
