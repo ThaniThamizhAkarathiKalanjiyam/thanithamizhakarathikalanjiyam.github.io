@@ -1,5 +1,8 @@
 # கைபேசி நூல் - {{ page.title }}
 இந்நூலைப் படிக்க பின்வரும் ஏதேனும் முறைகளைத் தேர்தெடுத்து; உங்களின் கருவிகளில் வசதிக்கேற்ப படிக்கலாம்.
+
+==>> [Start Read Online]({{ page.permalink }}_1)
+
 ## ஆன்ட்ராய்டு(அஃக செயலி மூலம்) கருவிகளில் படிக்க
 <h2><a class="post-link" href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.slob" class="button button2">
 Download {{ page.title }} as slob <br/> 
