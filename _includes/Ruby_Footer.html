@@ -33,7 +33,7 @@
 <div id="sidebar-wrapper">
   <div id="sidebar">
 {% if page.is_book %}
-<ol>
+<ul>
 {% assign post_titles = "" %}
 {% for post in site.posts %}
 {% if post.title == page.title %}
@@ -47,7 +47,7 @@
 	{% assign post_titles = post_titles | append:post.sub_title | append:'|' %}
 {% endif %}
 {% endfor %}
-</ol>
+</ul>
 {% else %}  
 <div class="navigation">
 <h3>To Read <strong>slob</strong>, Files on Android mobiles</h3>
