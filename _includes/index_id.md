@@ -12,7 +12,15 @@
 	{% else %}
 <div class="post">
 <h2><a href="{{ site.url}}/{{ post.url }}">{{ post.title }}</a></h2>
-<p class="post-link">slob | PDF | pdf | HTML (UTF8) | HTML (TACE16) | .txt</p>
+<p class="post-link">
+
+
+
+<a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}.slob">slob</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}_A4.pdf">PDF</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}_6inch.pdf">pdf</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}_utf8.html">HTML (UTF8)</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}_tace16.html">HTML (TACE16)</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ page.permalink }}_tace16.txt">.txt</a>
+
+
+
+</p>
 <!--p class="post-link"><a href="{{ site.url}}/{{ post.url }}">இயங்கலையில் படிக்க . . .</a></p-->
 
 {% for tag in post.tags %}
