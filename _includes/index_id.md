@@ -5,8 +5,8 @@
 **புதிய நூல்கள் /கட்டுரைகள்**
 
 {% assign post_titles = "" %}
-{% assign posts_loc = site.posts | post.is_book != 1   %}
-{% for post in posts_loc limit:11 %}
+{% assign posts_loc = site.posts    %}
+{% for post in posts_loc limit:11 | post.is_book != 1 %}
 {% assign title_check = post.title | append:'|' %}
 	{% if post_titles contains title_check %}
 		{% assign empty = "" %}
