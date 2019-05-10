@@ -8,26 +8,14 @@ layout: Ruby
 tags:
 - டாக்டர் நெ. து. சுந்தரவடிவேலு
 is_book: 1
-permalink: angum_inkum_1
+permalink: angum_inkum_3
 featured: /images/noolkal_96_6.png
 ---
-{% include install_nool5.md %}
 
-## அங்கும் இங்கும்/கைபேசி தொகுப்புரை அங்கும் இங்கும்/கைபேசி தொகுப்புரைஅங்கும் இங்கும்-பொருளடக்கம்
 
-### அங்கும் இங்கும்/கைபேசி தொகுப்புரை
+Creative Commons Public Licenses
 
-தமிழ் நூல்கள் அனைத்தையும் அவரவர் கைப்பேசிகளில் கொண்டு சேர்த்திட வேண்டும் என்பது நமது ஆவல்.
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)  
+This work is licensed under a Creative Commons Attribution 4.0 International License.
 
-அதனை நனவாக்கிட விக்கி மூலத்தில் உள்ள நூல்களை கைபேசி வடிவத்தில் கொண்டு வருகிறோம்.
-
-விக்கிமூலத்திற்கு நன்றிகள் பல.
-
-**கைபேசியாக்கம்,  
-மு.பிச்சைமுத்து**  
-2019-05-10-
-
-<< அங்கும் இங்கும்/அறிமுகம்  
-  
->> அங்கும் இங்கும்/Creative Commons Public Licenses  
-
+[அடுத்த பக்கம்](angum_inkum_4)
