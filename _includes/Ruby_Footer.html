@@ -35,8 +35,8 @@
 {% if page.is_book %}
 <ul>
 {% assign post_titles = "" %}
-{% for post in site.posts | post.title == page.title | sort:"order" %}
-
+{% for post in (site.posts | post.title == page.title | sort:"order") %}
+- 
 	{% assign title_check = post.sub_title | append:'|' %}
 	{% if post_titles contains title_check %}
 		{% assign empty = "" %}
