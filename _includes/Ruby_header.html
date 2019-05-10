@@ -131,7 +131,7 @@
         <div id="main">
           <div id="content-wrapper">
   
-<h1>{{ page.title }}</h1>
+<h1>{{ page.title }} {{ page.sub_title }}</h1>
 <hr/>
 {% if page.date %}
 பதிவுற்ற நாள் {{ page.date | date_to_string }} | 
@@ -148,7 +148,7 @@
   <div id="content">
 <b>
 {% if page.is_book %}
-{{ page.description }} - நூலை இயங்கலையில் படித்துக் கொண்டு இருக்கிறீர்கள் . . . 
+{{ page.description }} >> {{ page.sub_title }} - நூலை இயங்கலையில் படித்துக் கொண்டு இருக்கிறீர்கள் . . . 
 {% else %}
 {{ page.description }}
 {% endif %}
