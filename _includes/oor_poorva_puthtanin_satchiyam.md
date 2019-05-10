@@ -59,7 +59,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 *******
 
 இது, உலகத் தமிழ் விக்கியூடகச் சமூகமும் ( https://ta.wikisource.org ), தமிழ் இணையக் கல்விக் கழகமும் ( http://tamilvu.org ) இணைந்த கூட்டுமுயற்சியில், பதிவேற்றிய நூல்களில் ஒன்று. இக்கூட்டு முயற்சியைப் பற்றி, https://ta.wikisource.org/s/4kx என்ற முகவரியில் விரிவாகக் காணலாம்.  |  |
----|---|---
+
 
 **Universal ( CC0 1.0) Public Domain Dedication**
 
