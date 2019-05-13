@@ -6,9 +6,9 @@
 
 {% assign post_titles = "" %}
 {% assign post_count = 0 %}
-{% assign posts_loc = (site.posts | post.is_book != 1  ) %}
+{% assign posts_loc = (site.posts  ) %}
 {% for post in posts_loc %}
-{% if post.is_book != 1 and post_count < 11 %}
+{% if post.is_book != 1 and post_count < 11 and post.title != Nil %}
 {% assign post_count = post_count | plus:1 %}
 {% assign title_check = post.title | append:'|' %}
 	{% if post_titles contains title_check %}
