@@ -15,9 +15,11 @@
 		{% assign empty = "" %}
 	{% else %}
 <div class="post">
-<h2><a href="{{ site.url}}/{{ post.url }}">{{ post.title }}</a></h2>
+<h2><a href="{{ site.url}}{{ post.url }}">{{ post.title }}</a></h2>
 <p class="post-link">
-Download: {{ post_count }} <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}.slob">slob</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_A4.pdf">PDF</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_6inch.pdf">pdf</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_utf8.html">HTML (UTF8)</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_tace16.html">HTML (TACE16)</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_tace.txt">.txt</a>
+
+Download: [Read Online]({{ site.url}}{{ post.url }}_1) | 
+<a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}.slob">slob</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_A4.pdf">PDF</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_6inch.pdf">pdf</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_utf8.html">HTML (UTF8)</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_tace16.html">HTML (TACE16)</a> | <a href="https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/{{ post.permalink }}_tace.txt">.txt</a>
 </p>
 <!--p class="post-link"><a href="{{ site.url}}/{{ post.url }}">இயங்கலையில் படிக்க . . .</a></p-->
 
