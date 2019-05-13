@@ -10,7 +10,7 @@
 
 	 
 பதிப்பு    
-2019-03-16-      
+2019-05-13-      
     
 ## கைபேசி தொகுப்புரை    
 
@@ -22,11 +22,13 @@
     
 **கைபேசியாக்கம்,    
 மு.பிச்சைமுத்து**    
-2019-03-16-  
+2019-05-13-  
   
 ## Creative Commons Public Licenses  
   
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.  
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 ## வளையாபதி நூல் பற்றி
 
 வளையாபதியின் ஆசிரியர் பெயர், இயற்றப் பட்ட காலம், அக்காவியத் தலைவன் பெயர், காவியத்தின் கதை போன்றவை தெரியவில்லை. இக்காவியத்தின் 72 பாடல்கள் தான் கிடைத்துள்ளன. அவற்றில் 66 பாடல்கள் 14-ஆம் நூற்றாண்டில் தோன்றிய புறத்திரட்டிலும், 3 பாடல்கள் சிலம்பின் அடியார்க்கு நல்லார் உரையில் மேற்கோளாகவும், 2 பாடல்கள் யாப்பருங்கலக்காரிகை என்னும் இலக்கண நூலின் பெயர்தெரியாத ஓர் அறிஞரால் இயற்றப்பட்ட விருத்தியுரையில் மேற்கோளாகவும், இளம்பூரணரின் தொல்காப்பிய உரையில் மேற்கோளாக் காணப்படுவதும் கடவுள் வாழ்த்துப் பாடலென்று கருதப்படுவதுமாகிய எஞ்சிய 1 பாடல் நச்சினார்க்கினியர் உரையில் மேற்கோளாகவும் கிடைத்துள்ளன. இது ஒரு சமண சமய நூல். 
