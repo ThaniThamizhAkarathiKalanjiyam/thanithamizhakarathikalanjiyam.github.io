@@ -7,7 +7,7 @@ description: சிறுவர் தமிழ்
 author: Tamilan
 layout: Ruby
 tags:
-- வளையாபதி ஆசிரியர்
+- கண்மணிகணேசன்
 is_book: 1
 permalink: siruvar_tamil_1
 featured: /images/noolkal_96_6.png
@@ -15,7 +15,7 @@ order: 1
 ---
 ## அறிமுகம்
 
-**வளையாபதி ஆசிரியர் நூல்கள்**
+**கண்மணிகணேசன் நூல்கள்**
 
 # சிறுவர் தமிழ்
 
