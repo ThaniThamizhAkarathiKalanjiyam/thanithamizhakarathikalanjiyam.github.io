@@ -1,15 +1,44 @@
 ---
 categories: blog
-keywords: ttak_online
-description: தமிழ் மொழியில் பின்வருபவனவற்றுள் ஏதேனும் ஒன்றில் Academic Research செய்ய முடியும்
+keywords: Tamil To English Dictionary
+description: 
 author: Tamilan
 layout: Ruby
 tags: 
 featured: /images/ttak-48.png
+is_dict_search: 1
 ---
 
 <label for="suggestion">தேடு: </label>
-<input id="suggestion">
+<input id="suggestion" />
 <button id="btnSearch" type="button">Search</button>
 
-TEST
+<script>
+var availableTags = [
+	"ActionScript",
+	"AppleScript",
+	"Asp",
+	"BASIC",
+	"C",
+	"C++",
+	"Clojure",
+	"COBOL",
+	"ColdFusion",
+	"Erlang",
+	"Fortran",
+	"Groovy",
+	"Haskell",
+	"Java",
+	"JavaScript",
+	"Lisp",
+	"Perl",
+	"PHP",
+	"Python",
+	"Ruby",
+	"Scala",
+	"Scheme"
+];
+	$( "#suggestion" ).autocomplete({
+		source: availableTags
+	});
+</script>
