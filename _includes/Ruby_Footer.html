@@ -33,6 +33,7 @@
 <div id="sidebar-wrapper">
   <div id="sidebar">
 {% if page.is_book %}
+<h3>நூல் <strong>பொருளடக்கம்</strong></h3>
 <ul>
 {% assign post_titles = "" %}
 {% assign sorted_pages = (site.posts | sort:"order") %}
@@ -49,6 +50,8 @@
 {% endif %}
 {% endfor %}
 </ul>
+{% elsif %}
+<h3>தொடர்புடைய <strong>சொற்கள்</strong></h3>
 {% else %}  
 <div class="navigation">
 <h3>To Read <strong>slob</strong>, Files on Android mobiles</h3>
