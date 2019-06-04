@@ -59,13 +59,13 @@ $("#btnSearch").click(function() {
 	
 	function AjaxError(x, e) {
 	  if (x.status == 0) {
-		alert(' Check Your Network.');
+		$( "#ResultDict" ).html(' Check Your Network.');
 	  } else if (x.status == 404) {
-		alert('Requested URL not found.');
+		$( "#ResultDict" ).html('Requested URL not found.');
 	  } else if (x.status == 500) {
-		alert('Internel Server Error.');
+		$( "#ResultDict" ).html('Internel Server Error.');
 	  }  else {
-		 alert('Unknow Error.\n' + x.responseText);
+		 $( "#ResultDict" ).html('Unknow Error.\n' + x.responseText);
 	  }
 	}
 
