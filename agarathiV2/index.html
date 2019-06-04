@@ -13,8 +13,10 @@ is_dict_search: 1
 <label for="suggestion">தேடுசொல்: </label>
 <input id="suggestion" />
 <button id="btnSearch" type="button">தேடு</button>
-
+<div id="ResultDict">தேடு சொல்லை இடவும். பின்னர் பொத்தானை அழுத்தவும்.</div>
 <script>
+$(document).ready(function() {
+
 var availableTags = [
 	"ActionScript",
 	"AppleScript",
@@ -42,4 +44,17 @@ var availableTags = [
 	$( "#suggestion" ).autocomplete({
 		source: availableTags
 	});
+	
+	
+$("#btnSearch").click(function() {
+$( "#ResultDict" ).html( "Please wait 2 . . . " );
+  $.get( "https://raw.githubusercontent.com/ThaniThamizhAkarathiKalanjiyam/agarathi/gh-pages/search/"+$("#suggestion").val()+".md", 
+  
+	function( data ) {
+	  $( "#ResultDict" ).html( data );	  
+	});
+	
+});
+
+});
 </script>
