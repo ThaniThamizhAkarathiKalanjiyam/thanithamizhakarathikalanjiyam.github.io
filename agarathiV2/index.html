@@ -48,10 +48,15 @@ var availableTags = [
 	
 $("#btnSearch").click(function() {
 $( "#ResultDict" ).html( "Please wait 2 . . . " );
-  $.get( "https://raw.githubusercontent.com/ThaniThamizhAkarathiKalanjiyam/agarathi/gh-pages/search/"+$("#suggestion").val()+".md", 
+  $.get( "https://raw.githubusercontent.com/ThaniThamizhAkarathiKalanjiyam/agarathi/gh-pages/search/"+$("#suggestion").val(), 
   
 	function( data ) {
-	  $( "#ResultDict" ).html( data );	  
+		if(data.length == 0)
+		{
+			$( "#ResultDict" ).html("The Result not available");	  
+		}else{
+			$( "#ResultDict" ).html( data );	  
+		}	  
 	});
 	
 });
