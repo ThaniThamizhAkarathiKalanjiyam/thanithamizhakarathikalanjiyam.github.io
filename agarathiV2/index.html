@@ -52,6 +52,24 @@ $("#btnSearch").click(function() {
 	$( "#ResultDict" ).html( "Please wait 2 . . . " );
 
 	var tamil_letters = get_tamil_letters($("#suggestion").val());
+
+	$.ajaxSetup({
+        error: AjaxError
+    });
+	
+	function AjaxError(x, e) {
+	  if (x.status == 0) {
+		alert(' Check Your Network.');
+	  } else if (x.status == 404) {
+		alert('Requested URL not found.');
+	  } else if (x.status == 500) {
+		alert('Internel Server Error.');
+	  }  else {
+		 alert('Unknow Error.\n' + x.responseText);
+	  }
+	}
+
+
 	$.get( "https://raw.githubusercontent.com/ThaniThamizhAkarathiKalanjiyam/agarathi/gh-pages/search/"+tamil_letters[0]+"/"+$("#suggestion").val(), 
   
 	function( data ) {
