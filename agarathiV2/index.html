@@ -45,7 +45,8 @@ var availableTags = [
 		source: availableTags
 	});
 	
-var md = new MarkdownIt();
+var MarkdownIt = require('markdown-it'),
+    md = new MarkdownIt();
 
 
 $("#btnSearch").click(function() {
