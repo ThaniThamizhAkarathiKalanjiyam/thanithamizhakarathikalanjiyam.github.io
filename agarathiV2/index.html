@@ -45,7 +45,9 @@ var availableTags = [
 		source: availableTags
 	});
 	
-	
+var md = new MarkdownIt();
+
+
 $("#btnSearch").click(function() {
 	$( "#ResultDict" ).html( "Please wait 2 . . . " );
 
@@ -57,7 +59,8 @@ $("#btnSearch").click(function() {
 		{
 			$( "#ResultDict" ).html("The Result not available");	  
 		}else{
-			$( "#ResultDict" ).html( data );	  
+			var result = md.render(data);
+			$( "#ResultDict" ).html( result );	  
 		}	  
 	});
 	
