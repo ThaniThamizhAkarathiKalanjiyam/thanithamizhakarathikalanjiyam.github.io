@@ -51,53 +51,17 @@
 {% endfor %}
 </ul>
 {% elsif page.is_dict_search == 1%}
-
+<ul>
+<script>
+    jQuery(function($) {
+      $("#rss-feeds").rss("https://github.com/ThaniThamizhAkarathiKalanjiyam/agarathi/commits/gh-pages.atom",
+      {
+        entryTemplate:'<li><a href="{url}">[{author}@{date}] {title}</a><br/>{teaserImage}{shortBodyPlain}</li>'
+      })
+    })
+  </script>
+  </ul>
 <h3>தொடர்புடைய <strong>சொற்கள்</strong></h3>
-
-<script type="text/javascript">
-jQuery(function() {
-    jQuery.getFeed({
-        url: 'https://github.com/ThaniThamizhAkarathiKalanjiyam/agarathi/commits/gh-pages.atom',
-        success: function(feed) {
-        
-            jQuery('#result').append('<h2>'
-            + '<a href="'
-            + feed.link
-            + '">'
-            + feed.title
-            + '</a>'
-            + '</h2>');
-            
-            var html = '';
-            
-            for(var i = 0; i < feed.items.length && i < 5; i++) {
-            
-                var item = feed.items[i];
-                
-                html += '<h3>'
-                + '<a href="'
-                + item.link
-                + '">'
-                + item.title
-                + '</a>'
-                + '</h3>';
-                
-                html += '<div class="updated">'
-                + item.updated
-                + '</div>';
-                
-                html += '<div>'
-                + item.description
-                + '</div>';
-            }
-            
-            jQuery('#result').append(html);
-        }    
-    });
-});
-</script>
-<div id="result" />
-
 {% else %}  
 <div class="navigation">
 <h3>To Read <strong>slob</strong>, Files on Android mobiles</h3>
