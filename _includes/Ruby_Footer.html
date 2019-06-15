@@ -52,6 +52,8 @@
 </ul>
 {% elsif page.is_dict_search == 1%}
 <ul>
+  <div id="rss-feeds"></div>
+  </ul>
 <script>
     jQuery(function($) {
       $("#rss-feeds").rss("https://github.com/ThaniThamizhAkarathiKalanjiyam/agarathi/commits/gh-pages.atom",
@@ -60,7 +62,6 @@
       })
     })
   </script>
-  </ul>
 <h3>தொடர்புடைய <strong>சொற்கள்</strong></h3>
 {% else %}  
 <div class="navigation">
