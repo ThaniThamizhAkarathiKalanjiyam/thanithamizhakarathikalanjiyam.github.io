@@ -15,7 +15,7 @@ order: 4
 ---
 ## விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
 
-**﻿உலகளாவிய பொதுக் கள உரிமம் ( CC0 1.0)**
+**உலகளாவிய பொதுக் கள உரிமம் ( CC0 1.0)**
 
 இது சட்ட ஏற்புடைய உரிமத்தின் சுருக்கம் மட்டுமே. முழு உரையை https://creativecommons.org/publicdomain/zero/1.0/legalcode என்ற முகவரியில் காணலாம்.
 
@@ -67,7 +67,7 @@ This book is uploaded as part of the collaboration between Global Tamil Wikimedi
 
 வடக்குவீதி, தஞ்சாவூர்-1
 
-﻿அல்லி வெளியீடு **3**
+அல்லி வெளியீடு **3**
 
 இரண்டாம் பதிப்பு 1979
 
@@ -78,7 +78,5 @@ This book is uploaded as part of the collaboration between Global Tamil Wikimedi
 * * *
 
 அச்சிட்டோர்: திருவள்ளுவர் அச்சகம், தஞ்சாவூர்.
-
-﻿
 
 [அடுத்த பக்கம்](antarciic_perungkaldal_5)
