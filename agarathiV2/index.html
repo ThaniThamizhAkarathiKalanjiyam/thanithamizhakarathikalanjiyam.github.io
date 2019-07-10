@@ -69,8 +69,9 @@ $("#btnSearch").click(function() {
 	  }
 	}
 
+var gitHubUrl = "https://raw.githubusercontent.com/ThaniThamizhAkarathiKalanjiyam/agarathi/gh-pages/search/"+tamil_letters[0]+"/"+$("#suggestion").val()
 
-	$.get( "https://raw.githubusercontent.com/ThaniThamizhAkarathiKalanjiyam/agarathi/gh-pages/search/"+tamil_letters[0]+"/"+$("#suggestion").val(), 
+	$.get(gitHubUrl , 
   
 	function( data ) {
 		if(data.length == 0)
@@ -78,6 +79,7 @@ $("#btnSearch").click(function() {
 			$( "#ResultDict" ).html("The Result not available");	  
 		}else{
 			var result = md.render(data);
+			result += "<br/>Thanks <a href="+gitHubUrl+">Open Sourced Tamil Dictionary</a>"
 			$( "#ResultDict" ).html( result );	  
 		}	  
 	});
