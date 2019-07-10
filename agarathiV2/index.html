@@ -69,7 +69,7 @@ $("#btnSearch").click(function() {
 	  }
 	}
 
-var gitHubUrl = "https://raw.githubusercontent.com/ThaniThamizhAkarathiKalanjiyam/agarathi/gh-pages/search/"+tamil_letters[0]+"/"+$("#suggestion").val()
+var gitHubUrl = "https://raw.githubusercontent.com/ThaniThamizhAkarathiKalanjiyam/agarathi/gh-pages/search/"+tamil_letters[0]+"/"+$("#suggestion").val().lower()
 
 	$.get(gitHubUrl , 
   
