@@ -14,7 +14,8 @@ featured: /images/noolkal_96_6.png
 order: 1
 ---
 
-{% include install_nool3.md %}## அறிமுகம்
+
+## அறிமுகம்
 
 **கண்மணிகணேசன் நூல்கள்**
 

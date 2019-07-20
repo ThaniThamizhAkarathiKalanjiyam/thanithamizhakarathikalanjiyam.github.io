@@ -14,6 +14,7 @@ featured: /images/noolkal_96_6.png
 order: 4
 ---
 
-{% include install_nool3.md %}## பண்டைத் தமிழ் வேளாளரில் இருவகையினர்
+
+## பண்டைத் தமிழ் வேளாளரில் இருவகையினர்
 
 [அடுத்த பக்கம்](kanmani_tamil_12_5)

@@ -14,7 +14,8 @@ featured: /images/noolkal_96_6.png
 order: 3
 ---
 
-{% include install_nool3.md %}## Creative Commons Public Licenses
+
+## Creative Commons Public Licenses
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)  
 This work is licensed under a Creative Commons Attribution 4.0 International License.
