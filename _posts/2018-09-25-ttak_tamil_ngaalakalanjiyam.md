@@ -68,11 +68,16 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
   <tbody>
   
 {% assign post_counter = 1 %}
+{% assign post_titles = "" %}
 {% for post in site.posts %}
 {% if post.is_book != 1 and post.tags contains tag %}
 {% assign tag_counter_mod = forloop.index | modulo: 2 %}
 
-
+{% assign title_check = post.title | append:'|' %}
+{% if post_titles contains title_check %}
+	{% assign empty = "" %}
+{% else %}
+	
 	<tr id="id_{{ tag_counter }}" >
 	<td class="Item">
 	
@@ -85,7 +90,9 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 		<td class="Item" align="center">"{{ post.title }}/"</td>	
 	{% endif %}
 	</tr>
-
+{% endif %}
+	{% assign post_titles = post_titles | append:post.title | append:'|' %}
+{% endif %}
 
 {% assign post_counter = post_counter | plus:1 %}
 {% endif %}
