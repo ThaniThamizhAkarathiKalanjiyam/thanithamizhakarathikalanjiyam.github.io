@@ -92,7 +92,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 	</tr>
 {% endif %}
 	{% assign post_titles = post_titles | append:post.title | append:'|' %}
-{% endif %}
+
 
 {% assign post_counter = post_counter | plus:1 %}
 {% endif %}
