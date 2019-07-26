@@ -69,7 +69,7 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
   
 {% assign post_counter = 1 %}
 {% for post in site.posts %}
-{% if post.tags contains tag %}
+{% if post.is_book != 1 and post.tags contains tag %}
 {% assign tag_counter_mod = forloop.index | modulo: 2 %}
 
 
