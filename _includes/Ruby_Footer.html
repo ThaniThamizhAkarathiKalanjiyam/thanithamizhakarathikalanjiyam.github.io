@@ -8,6 +8,7 @@
 <ol>
 {% assign post_titles = "" %}
 {% for post in site.tags[tag] %}
+{% if post.is_book != 1 %}
 	{% assign title_check = post.title | append:'|' %}
 	{% if post_titles contains title_check %}
 		{% assign empty = "" %}
@@ -16,6 +17,7 @@
 		{{ post.title }}</a>  </li>
 	{% endif %}
 	{% assign post_titles = post_titles | append:post.title | append:'|' %}
+{% endif %}
 {% endfor %}
 </ol>
 </li>
