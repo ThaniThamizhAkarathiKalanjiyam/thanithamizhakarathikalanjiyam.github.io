@@ -2,13 +2,15 @@
 <h4>தொடர்புடையவை</h4>
 <div id="tabs">
   <ul>
+  {% assign post_id = 1 %}
   {% for tag in page.tags %}
-    <li><a href="#{{ tag }}">{{ tag }}</a></li>
+    <li><a href="#tag{{ post_id }}">{{ tag }}</a></li>
+	{% assign post_id = post_id | plus: 1 %}
   {% endfor %}
   </ul>
+  {% assign post_id = 1 %}
   {% for tag in page.tags %}
-  <div id="{{ tag }}">
-  
+  <div id="#tag{{ post_id }}">
 <ol>
 		{% assign post_titles = "" %}
 		{% for post in site.tags[tag] %}
@@ -26,6 +28,7 @@
 </ol>
 	
   </div>  
+  {% assign post_id = post_id | plus: 1 %}
   {% endfor %}
 </div>
 
