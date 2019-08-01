@@ -10,7 +10,7 @@
   </ul>
   {% assign post_id = 1 %}
   {% for tag in page.tags %}
-  <div id="#tag{{ post_id }}">
+  <div id="tag{{ post_id }}">
 <ol>
 		{% assign post_titles = "" %}
 		{% for post in site.tags[tag] %}
