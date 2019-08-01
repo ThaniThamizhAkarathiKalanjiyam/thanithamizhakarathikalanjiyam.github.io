@@ -8,8 +8,8 @@
   </ul>
   {% for tag in page.tags %}
   <div id="{{ tag }}">
-    <p>
-	<ol>
+  
+<ol>
 		{% assign post_titles = "" %}
 		{% for post in site.tags[tag] %}
 			{% if post.is_book != 1 %}
@@ -17,14 +17,14 @@
 			{% if post_titles contains title_check %}
 				{% assign empty = "" %}
 			{% else %}
-				<li><a href ="{{ site.url }}/{{ post.permalink }}">
+<li><a href ="{{ site.url }}/{{ post.permalink }}">
 				{{ post.title }}</a>  </li>
 			{% endif %}
 			{% assign post_titles = post_titles | append:post.title | append:'|' %}
 			{% endif %}
 		{% endfor %}
-	</ol>
-	</p>
+</ol>
+	
   </div>  
   {% endfor %}
 </div>
