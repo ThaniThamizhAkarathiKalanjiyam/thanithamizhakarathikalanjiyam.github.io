@@ -10,19 +10,19 @@
   <div id="{{ tag }}">
     <p>
 	<ol>
-	{% assign post_titles = "" %}
-{% for post in site.tags[tag] %}
-{% if post.is_book != 1 %}
-	{% assign title_check = post.title | append:'|' %}
-	{% if post_titles contains title_check %}
-		{% assign empty = "" %}
-	{% else %}
-		<li><a href ="{{ site.url }}/{{ post.permalink }}">
-		{{ post.title }}</a>  </li>
-	{% endif %}
-	{% assign post_titles = post_titles | append:post.title | append:'|' %}
-{% endif %}
-{% endfor %}
+		{% assign post_titles = "" %}
+		{% for post in site.tags[tag] %}
+			{% if post.is_book != 1 %}
+			{% assign title_check = post.title | append:'|' %}
+			{% if post_titles contains title_check %}
+				{% assign empty = "" %}
+			{% else %}
+				<li><a href ="{{ site.url }}/{{ post.permalink }}">
+				{{ post.title }}</a>  </li>
+			{% endif %}
+			{% assign post_titles = post_titles | append:post.title | append:'|' %}
+			{% endif %}
+		{% endfor %}
 	</ol>
 	</p>
   </div>  
@@ -35,7 +35,7 @@
   } );
   </script>
 
-<ol>
+<!--ol>
 {% for tag in page.tags %}
 <li><h5><a href ="{{ site.url }}/tag/{{ tag }}">
 {{ tag }}
@@ -57,7 +57,8 @@
 </ol>
 </li>
 {% endfor %}
-</ol>
+</ol-->
+
 <h5>தேடு சொற்கள்</h5>
 <ol>
 {% for keyword in page.keywords %}
