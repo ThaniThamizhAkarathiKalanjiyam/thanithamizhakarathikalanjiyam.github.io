@@ -7,7 +7,7 @@ description: சிலப்பதிகாரம்
 author: Tamilan
 layout: Ruby
 tags:
-- கண்மணிகணேசன்
+- இளங்கோ அடிகள்
 is_book: 1
 permalink: silapathikaaram_23
 featured: /images/noolkal_96_6.png

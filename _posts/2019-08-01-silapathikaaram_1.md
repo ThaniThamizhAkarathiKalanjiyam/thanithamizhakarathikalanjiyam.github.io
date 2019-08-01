@@ -7,7 +7,7 @@ description: சிலப்பதிகாரம்
 author: Tamilan
 layout: Ruby
 tags:
-- கண்மணிகணேசன்
+- இளங்கோ அடிகள்
 is_book: 1
 permalink: silapathikaaram_1
 featured: /images/noolkal_96_6.png
@@ -22,7 +22,7 @@ order: 1
 # சிலப்பதிகாரம்
 
 > ஆசிரியர்  
->  **கண்மணிகணேசன்**
+>  **இளங்கோ அடிகள்**
 
 கைபேசியாக்கம் பிச்சைமுத்து மு. தமிழ்நாடு.
 
