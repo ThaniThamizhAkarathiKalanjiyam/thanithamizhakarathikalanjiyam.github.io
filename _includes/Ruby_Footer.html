@@ -1,5 +1,33 @@
 <hr/>
 <h4>தொடர்புடையவை</h4>
+
+<div id="accordion">
+{% for tag in page.tags %}
+<h3><a href ="{{ site.url }}/tag/{{ tag }}">
+{{ tag }}
+</a><h3>
+<div>
+<p>
+<ol>
+{% assign post_titles = "" %}
+{% for post in site.tags[tag] %}
+{% if post.is_book != 1 %}
+	{% assign title_check = post.title | append:'|' %}
+	{% if post_titles contains title_check %}
+		{% assign empty = "" %}
+	{% else %}
+		<li><a href ="{{ site.url }}/{{ post.permalink }}">
+		{{ post.title }}</a>  </li>
+	{% endif %}
+	{% assign post_titles = post_titles | append:post.title | append:'|' %}
+{% endif %}
+{% endfor %}
+</ol>
+</p>
+</div>
+{% endfor %}
+</div>
+
 <div id="tabs">
   <ul>
   {% assign post_id = 1 %}
@@ -35,6 +63,7 @@
 <script>
   $( function() {
     $( "#tabs" ).tabs();
+	$( "#accordion" ).accordion();
   } );
   </script>
 
