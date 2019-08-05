@@ -85,7 +85,8 @@ $( "#datepicker" ).datepicker({
 });
 
 $( "#datepicker_ta" ).datepicker_ta({
-	inline: true
+	inline: true,
+	showButtonPanel: true 
 });
 
 });
