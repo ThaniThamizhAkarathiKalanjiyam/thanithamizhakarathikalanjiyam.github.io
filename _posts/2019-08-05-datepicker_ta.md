@@ -31,15 +31,16 @@ featured: /images/noolkal_96_6.png
 	  <link rel="stylesheet" href="/resources/demos/style.css">
 	  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 	  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	  <script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>
 	  <script>
 	  $( function() {
-		$( "#datepicker" ).datepicker();
+		$( "#datepicker_tamil" ).datepicker();
 	  } );
 	  </script>
 	</head>
 	<body>
 	 
-	<p>Date: <input type="text" id="datepicker"></p>
+	<div id="datepicker_tamil"></div>
 	 
 	 
 	</body>
