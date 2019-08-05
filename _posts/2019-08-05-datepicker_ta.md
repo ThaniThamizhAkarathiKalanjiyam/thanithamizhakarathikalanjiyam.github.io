@@ -20,14 +20,17 @@ featured: /images/noolkal_96_6.png
 
 ## Try this at your websites
 You can make this plugin workable at your site in three steps.
+
 ### 1. Add following sections at your HEAD tag
 	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 	
 	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>
+	
 ### 2. Add following code at your BODY section where you needed
 	<div id="datepicker_tamil"></div>
+
 ### 3. Make the tamil date at your site live 
 Just add following section at bottom of your site before closing tag of your site body tag.
 	<script>
