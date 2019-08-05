@@ -12,13 +12,17 @@ featured: /images/noolkal_96_6.png
 ---  
 ## தமிழ் நாட்காட்டியின் மாதிரி வடிவம்
 
-<div id="datepicker_ta"></div>
-
+<div id="datepicker"></div>
+<div id="datepicker"></div>
 
 <script>
 $(function(){
 
-$( "#datepicker_ta" ).datepicker({
+$( "#datepicker" ).datepicker({
+	inline: true
+});
+
+$( "#datepicker" ).datepicker_ta({
 	inline: true
 });
 
