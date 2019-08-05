@@ -16,10 +16,10 @@ featured: /images/noolkal_96_6.png
 
 ## தமிழ் நாட்காட்டியின் மாதிரி வடிவம்
 <div id="datepicker_ta"></div>
+[More details see google spreadsheet](https://docs.google.com/spreadsheets/d/1dpVwd7wg_EOewXOLZUX56y7k3y_QW9s8kTjFrBzAYFI/edit?usp=sharing_eip&ts=5d47af24)
+## இணையத் தளங்களில் பயன்படுத்தும் முறை
 
-## இனிய தளங்களில் பயன்படுத்தும் முறை
-
-A model HTML file
+A model HTML file (see the sections inside **. And while deployment remove the *'s from your html file)
 
 	<!doctype html>
 	<html lang="en">
@@ -31,12 +31,12 @@ A model HTML file
 	  <link rel="stylesheet" href="/resources/demos/style.css">
 	  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 	  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-	  **<script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>**
+	  **<script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>
 	  <script>
 	  $( function() {
 		$( "#datepicker_tamil" ).datepicker();
 	  } );
-	  </script>
+	  </script>**
 	</head>
 	<body>
 	 
