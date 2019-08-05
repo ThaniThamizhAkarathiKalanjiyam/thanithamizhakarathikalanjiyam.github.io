@@ -28,12 +28,20 @@ You can make this plugin workable at your site in three steps.
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>
 	
+**Dependencies:**
+
+- jquery-ui.css(https://jqueryui.com)
+- jquery-ui.js(https://jqueryui.com)
+- jQuery(https://jquery.com) (1.7+)
+
+	
 ### 2. Add following code at your BODY section where you needed
 	<div id="datepicker_tamil"></div>
 
 ### 3. Make the tamil date at your site live 
 Just add following section at bottom of your site before closing tag of your site body tag.
-	<script>
+	
+	-<-script>
 	$( function() {
 		$( "#datepicker_tamil" ).datepicker();
 	} );
@@ -57,7 +65,7 @@ A model HTML file (see the sections inside **. And while deployment remove the *
 	  **<script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>
 	  <script>
 	  $( function() {
-		$( "#datepicker_tamil" ).datepicker();
+		$( "#datepicker_tamil" ).datepicker_ta();
 	  } );
 	  </script>**
 	</head>
