@@ -19,6 +19,7 @@ featured: /images/noolkal_96_6.png
 <div id="datepicker_ta"></div>
 [More details see google spreadsheet](https://docs.google.com/spreadsheets/d/1dpVwd7wg_EOewXOLZUX56y7k3y_QW9s8kTjFrBzAYFI/edit?usp=sharing_eip&ts=5d47af24)
 
+
 ## Try this at your websites
 You can make this plugin workable at your site in three steps.
 

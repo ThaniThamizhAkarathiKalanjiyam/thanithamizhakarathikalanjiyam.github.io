@@ -404,3 +404,264 @@ https://ssd.jpl.nasa.gov/horizons.cgi
 - 6 நவம்பர் செவ்வாய்கிழமை தீபாவளி
 - 21 நவம்பர் புதன்கிழமை மீலாதுன் நபி
 - 25 டிசம்பர் செவ்வாய்கிழமை கிருஸ்துமஸ்
+
+## Chronological Tables
+Thanks to Ravi Annaswamy 
+
+[Taken from southindianchron00krisrich](https://archive.org/details/southindianchron00krisrich/page/n9)
+![{{site.url}}/images/chrono_table_a.jpg]
+<table xmlns="http://www.w3.org/1999/xhtml" dir="ltr"
+cellspacing="0" cellpadding="0" border="1">
+<colgroup><col width="28"><col width="100"><col width="100"><col
+width="30"><col width="31"><col width="100"><col width="100"><col
+width="34"><col width="27"><col width="100"><col width="31"></colgroup><tbody>
+<tr>
+<td rowspan="1" colspan="11">Chronological tables Table A</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">Part I</td>
+<td rowspan="1" colspan="4">Part II</td>
+<td rowspan="1" colspan="3">Part III</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">Solar Year</td>
+<td rowspan="1" colspan="4">Luni-Solar Year</td>
+<td rowspan="1" colspan="3">Hijra Year</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">Months</td>
+<td rowspan="2" colspan="1"><span>
+<div>Collective <br>
+duration</div>
+</span></td>
+<td rowspan="1" colspan="3">Months
+in their <br>
+order of successive in ordinary year</td>
+<td rowspan="2" colspan="1"><span>
+<div>Collective <br>
+Duration</div>
+</span></td>
+<td rowspan="1" colspan="2">Months</td>
+<td rowspan="2" colspan="1"><span>
+<div>Collective <br>
+Duration</div>
+</span></td>
+</tr>
+<tr>
+<td>SL. <br>
+NO.</td>
+<td>Tamil Name</td>
+<td>Malayalam <br>
+equivalent</td>
+<td>SL. <br>
+NO.</td>
+<td>Telugu Name</td>
+<td>Tulu equivalent</td>
+<td>SL. <br>
+NO.</td>
+<td>Name</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr>
+<tr>
+<td>1</td>
+<td>chiththirai</td>
+<td>Modam</td>
+<td>31</td>
+<td>1</td>
+<td>Chaitru</td>
+<td>Paggu</td>
+<td>30</td>
+<td>1</td>
+<td>Mohram</td>
+<td>30</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Vaikaasi</td>
+<td>Edavam</td>
+<td>62</td>
+<td>2</td>
+<td>Vaisakka</td>
+<td>Besa</td>
+<td>59</td>
+<td>2</td>
+<td>Safur</td>
+<td>59</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ani</td>
+<td>Midhunam</td>
+<td>94</td>
+<td>3</td>
+<td>Jeshtha</td>
+<td>Kartelu</td>
+<td>89</td>
+<td>3</td>
+<td>Rabi al awwal</td>
+<td>89</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Adi</td>
+<td>Karkadakam</td>
+<td>125</td>
+<td>4</td>
+<td>Ashadha</td>
+<td>Ati</td>
+<td>118</td>
+<td>4</td>
+<td>Rabiu s sani</td>
+<td>118</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Avani</td>
+<td>Chingam</td>
+<td>156</td>
+<td>5</td>
+<td>Sravana</td>
+<td>Sonu</td>
+<td>148</td>
+<td>5</td>
+<td>Jamadi l awwal</td>
+<td>148</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Purattaasi</td>
+<td>Kanni</td>
+<td>187</td>
+<td>6</td>
+<td>Bhadrapada</td>
+<td>Nirnala</td>
+<td>177</td>
+<td>6</td>
+<td>Jamadi u s sani</td>
+<td>177</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Aippasi</td>
+<td>Thulaam</td>
+<td>217</td>
+<td>7</td>
+<td>Asvayuja</td>
+<td>Bontelu</td>
+<td>207</td>
+<td>7</td>
+<td>Rajab</td>
+<td>207</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Karthikai</td>
+<td>Viruchikam</td>
+<td>246</td>
+<td>8</td>
+<td>Karthika</td>
+<td>Jarde</td>
+<td>236</td>
+<td>8</td>
+<td>Shuban</td>
+<td>236</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Markazhi</td>
+<td>Dhanur</td>
+<td>276</td>
+<td>9</td>
+<td>Margasirm</td>
+<td>Perarde</td>
+<td>266</td>
+<td>9</td>
+<td>Ramazan</td>
+<td>266</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Thai</td>
+<td>Makaram</td>
+<td>305</td>
+<td>10</td>
+<td>Pushya</td>
+<td>Puntelu</td>
+<td>295</td>
+<td>10</td>
+<td>Shawwal</td>
+<td>295</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Maasi</td>
+<td>Kumbam</td>
+<td>335</td>
+<td>11</td>
+<td>Magha</td>
+<td>Mayi</td>
+<td>325</td>
+<td>11</td>
+<td>Zhul qa dah</td>
+<td>325</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Panguni</td>
+<td>Meenam</td>
+<td>365</td>
+<td>12</td>
+<td>Phalguna</td>
+<td>Suggi</td>
+<td>354</td>
+<td>12</td>
+<td>Zul hasa</td>
+<td>354</td>
+</tr>
+<tr>
+<td><br>
+</td>
+<td><br>
+</td>
+<td><br>
+</td>
+<td><br>
+</td>
+<td>13</td>
+<td>In intercalary year</td>
+<td>In intercalary year</td>
+<td>384</td>
+<td><br>
+</td>
+<td>In intercalary year</td>
+<td>355</td>
+</tr>
+</tbody>
+</table>
+![{{site.url}}/images/chrono_table_b1.jpg]
+![{{site.url}}/images/chrono_table_b2.jpg]
+![{{site.url}}/images/chrono_table_c.jpg]
+
+
+
+formula =mod(EngYear+53,60)+1
+
+is the year number in 60 year cycle.
+
+For example
+2019 April 14
+->
+2019+53 modulo 60 = 33
+33rd is Vikari
