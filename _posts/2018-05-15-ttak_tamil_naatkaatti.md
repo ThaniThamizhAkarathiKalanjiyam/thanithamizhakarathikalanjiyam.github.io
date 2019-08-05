@@ -6,7 +6,7 @@ description:  தனிதமிழ் நாட்காட்டி பெய�
 author: Tamilan
 layout: Ruby
 tags: 
- 
+- நாட்காட்டி
 permalink: ttak_tamil_naatkaatti
 featured: /images/ttak-48.png
 ---
