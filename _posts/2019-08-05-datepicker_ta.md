@@ -15,6 +15,7 @@ featured: /images/noolkal_96_6.png
 <div id="datepicker"></div>
 
 ## தமிழ் நாட்காட்டியின் மாதிரி வடிவம்
+[Demo](https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/demos/datepicker_ta/)
 <div id="datepicker_ta"></div>
 [More details see google spreadsheet](https://docs.google.com/spreadsheets/d/1dpVwd7wg_EOewXOLZUX56y7k3y_QW9s8kTjFrBzAYFI/edit?usp=sharing_eip&ts=5d47af24)
 
@@ -22,17 +23,14 @@ featured: /images/noolkal_96_6.png
 You can make this plugin workable at your site in three steps.
 
 ### 1. Add following sections at your HEAD tag
-	<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 	
-	<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-	<script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>
+	<-script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>
 	
 **Dependencies:**
 
-- jquery-ui.css(https://jqueryui.com)
-- jquery-ui.js(https://jqueryui.com)
-- jQuery(https://jquery.com) (1.7+)
+- [jquery-ui.css](https://jqueryui.com)
+- [jquery-ui.js](https://jqueryui.com)
+- [jQuery](https://jquery.com) (1.7+)
 
 	
 ### 2. Add following code at your BODY section where you needed
@@ -43,7 +41,7 @@ Just add following section at bottom of your site before closing tag of your sit
 	
 	-<-script>
 	$( function() {
-		$( "#datepicker_tamil" ).datepicker();
+		$( "#datepicker_tamil" ).datepicker_ta();
 	} );
 	</script>
 
