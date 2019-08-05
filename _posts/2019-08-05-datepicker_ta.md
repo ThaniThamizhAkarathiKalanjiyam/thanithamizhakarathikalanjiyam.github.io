@@ -10,9 +10,11 @@ tags:
 permalink: datepicker_ta  
 featured: /images/noolkal_96_6.png  
 ---  
-## தமிழ் நாட்காட்டியின் மாதிரி வடிவம்
+## ஆங்கில நாட்காட்டியின் மாதிரி வடிவம்
 
 <div id="datepicker"></div>
+
+## தமிழ் நாட்காட்டியின் மாதிரி வடிவம்
 <div id="datepicker_ta"></div>
 
 <script>
