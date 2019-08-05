@@ -19,7 +19,7 @@ featured: /images/noolkal_96_6.png
 
 ## இனிய தளங்களில் பயன்படுத்தும் முறை
 
-### At head section of your file
+A model HTML file
 
 	<!doctype html>
 	<html lang="en">
@@ -31,7 +31,7 @@ featured: /images/noolkal_96_6.png
 	  <link rel="stylesheet" href="/resources/demos/style.css">
 	  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 	  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-	  <script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>
+	  **<script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>**
 	  <script>
 	  $( function() {
 		$( "#datepicker_tamil" ).datepicker();
@@ -40,7 +40,7 @@ featured: /images/noolkal_96_6.png
 	</head>
 	<body>
 	 
-	<div id="datepicker_tamil"></div>
+	**<div id="datepicker_tamil"></div>**
 	 
 	 
 	</body>
