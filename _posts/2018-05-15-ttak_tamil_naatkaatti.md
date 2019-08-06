@@ -420,9 +420,8 @@ https://ssd.jpl.nasa.gov/horizons.cgi
 Thanks to Ravi Annaswamy 
 
 [Taken from southindianchron00krisrich](https://archive.org/details/southindianchron00krisrich/page/n9)
-![]({{site.url}}/images/chrono_table_a.jpg)
-<table xmlns="http://www.w3.org/1999/xhtml" dir="ltr"
-cellspacing="0" cellpadding="0" border="1">
+[View Table A]({{site.url}}/images/chrono_table_a.jpg)
+ <table cellspacing="0" cellpadding="0" border="1">
 <colgroup><col width="28"><col width="100"><col width="100"><col
 width="30"><col width="31"><col width="100"><col width="100"><col
 width="34"><col width="27"><col width="100"><col width="31"></colgroup><tbody>
@@ -661,7 +660,7 @@ NO.</td>
 </tr>
 </tbody>
 </table>
-![]({{site.url}}/images/chrono_table_b1.jpg)
+[View Table B Part1]({{site.url}}/images/chrono_table_b1.jpg)
 <table>
 <tbody>
 <tr>
@@ -1238,8 +1237,8 @@ NO.</td>
 </tr>
 </tbody>
 </table>
-![]({{site.url}}/images/chrono_table_b2.jpg)
- <table>
+[View Table B Part2]({{site.url}}/images/chrono_table_b2.jpg)
+ <table cellspacing="0" cellpadding="0" border="1">
 <tbody>
 <tr>
 <td><b><br>
