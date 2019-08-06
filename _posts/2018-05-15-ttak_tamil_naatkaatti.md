@@ -1789,6 +1789,9 @@ NO.</td>
 </tr>
 </tbody>
 </table>
+
+[Table C - More details available]({{site.url}}/table_c)
+
 ![]({{site.url}}/images/chrono_table_c.jpg)
 
 
@@ -1809,22 +1812,22 @@ For example
 
 Not too easy to do. A lot of problems between the two systems.
 
-Today: 2 / 11 / 2008, is: Sunday 4 Thw al-Qi`dah 1429 A.H. +/- one day on the lunar calendar as a "Hijri " date or: 3 Dhu al-Qada 1429 +/- one day, by some other reckonings. No lunar dates are truly convertable!
+Today: 2 / 11 / 2008, is: Sunday 4 Thw al-Qi'dah 1429 A.H. +/- one day on the lunar calendar as a "Hijri " date or: 3 Dhu al-Qada 1429 +/- one day, by some other reckonings. No lunar dates are truly convertable!
 
 The Islamic (Hijri) year consists of twelve (purely lunar) months as words not numbers.
 They are: 
 
 (1) MuHarram, 30 days
 (2) Safar, 29 days
-(3) Raby` al-awal or [Rabi'al-Awwal], 30 days
-(4) Raby` al-THaany or [Rabi'ath-Thani], 29 days
+(3) Raby' al-awal or [Rabi'al-Awwal], 30 days
+(4) Raby' al-THaany or [Rabi'ath-Thani], 29 days
 (5) Jumaada al-awal or [Jumada l-Ula], 30 days
 (6) Jumaada al-THaany or [Jumada t-Tania], 29 days
 (7) Rajab, 30 days
-(8) SHa`baan or [Sha`ban], 29 days
+(8) SHa'baan or [Sha'ban], 29 days
 (9) RamaDHaan or [Ramadan], 30 days
 (10) SHawwal, 29 days
-(11) Thw al-Qi`dah or [Dhu al-Qada or Dhu 'l-Qa`da], 30 days
+(11) Thw al-Qi'dah or [Dhu al-Qada or Dhu 'l-Qa'da], 30 days
 (12) Thw al-Hijjah or [Dhu 'l-Hijja], 29 days, but 30 days in years 2, 5, 7, 10,
 13, 16, 18, 21, 24, 26, and 29, for leep years.
 
@@ -1834,7 +1837,7 @@ The beginning of a Hijri month is marked not by the start of a new moon, like ot
 
 Islamic leep years; Islamic Astronomers have a fixed a 30 year cycle that has the 2nd, 5th, 7th, 10th, 13th, 16th, 18th, 21st, 24th, 26th, and 29th years, marked as leap years of 355 days, remember that the Islamic day starts at sunset and ends on the next sunset, so time and the moon are both used to fix a date!
 
-The Hijri was first introduced in 638 CE by the close companion of the Prophet Muhammad and the second Caliph, `Umar ibn Al-Khattab (586-644 CE). As an attempt to rationalize the various systems in use at that time. It was agreed that the most appropriate reference point for the Islamic Calendar was the Hijra (Hijrah, Hegira). The actual starting date for the Calendar "Epoch" was chosen -on the basis of purely lunar years, counting backwards- to be the first day of the first month "1st of Muharram" of the year of the Hijra. The Islamic (Hijri) Calendar -with dates that fall within the Muslim Era- is usually abbreviated AH in Western languages from the Latinized Anno Hejirae "In the year of the Hijra." 1st of Muharram, AH 1 corresponds to Friday July 16th, 622 CE in the Julian Calendar.
+The Hijri was first introduced in 638 CE by the close companion of the Prophet Muhammad and the second Caliph, 'Umar ibn Al-Khattab (586-644 CE). As an attempt to rationalize the various systems in use at that time. It was agreed that the most appropriate reference point for the Islamic Calendar was the Hijra (Hijrah, Hegira). The actual starting date for the Calendar "Epoch" was chosen -on the basis of purely lunar years, counting backwards- to be the first day of the first month "1st of Muharram" of the year of the Hijra. The Islamic (Hijri) Calendar -with dates that fall within the Muslim Era- is usually abbreviated AH in Western languages from the Latinized Anno Hejirae "In the year of the Hijra." 1st of Muharram, AH 1 corresponds to Friday July 16th, 622 CE in the Julian Calendar.
 
 A formula to convert an Islamic date into a Gregorian one is, divide the Hejira date by 33.7, subtract the result from the Hejira date and then add 622 or for an approximate equivalent, add 583 to the Hejira date. Because the Islamic year is a lunar year, it is shorter than the western solar year. Therefore you cannot just add or subtract 622 years for a start date.
 
