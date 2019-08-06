@@ -101,6 +101,9 @@ Name of Tamil Twelve Months: The Tamil new year usually falls in mid-April and t
 
 29, 30, 31, 32
 
+![]({{site.url}}/images/month_general_raasi.jpg)
+![]({{site.url}}/images/IMG_20190806_065858.jpg)
+
 | No | Tamil month | in English | Start date | Days |
 |---|---|---|---|---|
 |10|தை|Thai|January|30|
@@ -108,16 +111,18 @@ Name of Tamil Twelve Months: The Tamil new year usually falls in mid-April and t
 |12|பங்குனி|Panguni|March| 30|
 |1|சித்திரை|Chiththirai|April| 31|
 |2|வைகாசி|Vaikasi|May| 31|
-|3|ஆணி|Aani|June| 32|
+|3|ஆனி|Aani|June| 32|
 |4|ஆடி|Aadi|July| 31|
 |5|ஆவணி|Aavani|August| 31|
 |6|புரட்டாசி|Purattasi|September| 31|
 |7|ஐப்பசி|Aippasi|October| 31|
 |8|கார்த்திகை|Karthikai|November| 29|
 |9|மார்கழி|Markazhi|December|29|
+![]({{site.url}}/images/sun_moon_path.jpg)
 
 Thai 1  Pongal Festival&nbsp; and Tamil New Year's Day
 
+![]({{site.url}}/images/kadaka_makara_rekai.jpg)
 
 #### தமிழ் வருடங்கள்: List<TamilYear> getTamilYears ()
 
@@ -201,6 +206,7 @@ TamilYear என்பது ஆண்டுசுழற்சிவரிசை
 - 4.கூதிர்.  (ஐப்பசி, கார்த்திகை)
 - 5.முன்பனி.  (மார்கழி, தை)
 - 6.பின்பனி  (மாசி, பங்குனி)
+![]({{site.url}}/images/Seasons.png)
 
 ஆனால் கார் பொழுதை தொலகப்பியர் ஏன் முதலில் வைத்தார்? எனத் தெரிந்தால் கூறுங்கள். ஆனால் நடைமுறையில் இளவேனில் முதலில் வைக்கப்பட்டு கூறப்படுகிறது!
 
@@ -409,7 +415,7 @@ https://ssd.jpl.nasa.gov/horizons.cgi
 Thanks to Ravi Annaswamy 
 
 [Taken from southindianchron00krisrich](https://archive.org/details/southindianchron00krisrich/page/n9)
-![{{site.url}}/images/chrono_table_a.jpg]
+![]({{site.url}}/images/chrono_table_a.jpg)
 <table xmlns="http://www.w3.org/1999/xhtml" dir="ltr"
 cellspacing="0" cellpadding="0" border="1">
 <colgroup><col width="28"><col width="100"><col width="100"><col
@@ -665,3 +671,4 @@ For example
 ->
 2019+53 modulo 60 = 33
 33rd is Vikari
+
