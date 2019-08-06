@@ -420,8 +420,10 @@ https://ssd.jpl.nasa.gov/horizons.cgi
 Thanks to Ravi Annaswamy 
 
 [Taken from southindianchron00krisrich](https://archive.org/details/southindianchron00krisrich/page/n9)
+
 [View Table A]({{site.url}}/images/chrono_table_a.jpg)
- <table cellspacing="0" cellpadding="0" border="1">
+ 
+<table cellspacing="1" cellpadding="1" border="1">
 <colgroup><col width="28"><col width="100"><col width="100"><col
 width="30"><col width="31"><col width="100"><col width="100"><col
 width="34"><col width="27"><col width="100"><col width="31"></colgroup><tbody>
@@ -660,8 +662,10 @@ NO.</td>
 </tr>
 </tbody>
 </table>
+
 [View Table B Part1]({{site.url}}/images/chrono_table_b1.jpg)
-<table>
+
+<table cellspacing="1" cellpadding="1" border="1">
 <tbody>
 <tr>
 <td><b><br>
@@ -1237,8 +1241,10 @@ NO.</td>
 </tr>
 </tbody>
 </table>
+
 [View Table B Part2]({{site.url}}/images/chrono_table_b2.jpg)
- <table cellspacing="0" cellpadding="0" border="1">
+
+<table cellspacing="1" cellpadding="1" border="1">
 <tbody>
 <tr>
 <td><b><br>
@@ -1797,3 +1803,97 @@ For example
 2019+53 modulo 60 = 33
 33rd is Vikari
 
+## Gregorian date into Islamic date
+
+[Thanks mrexcel](https://www.mrexcel.com/forum/excel-questions/350697-conversion-gregorian-date-into-islamic-date.html)
+
+Not too easy to do. A lot of problems between the two systems.
+
+Today: 2 / 11 / 2008, is: Sunday 4 Thw al-Qi`dah 1429 A.H. +/- one day on the lunar calendar as a "Hijri " date or: 3 Dhu al-Qada 1429 +/- one day, by some other reckonings. No lunar dates are truly convertable!
+
+The Islamic (Hijri) year consists of twelve (purely lunar) months as words not numbers.
+They are: 
+
+(1) MuHarram, 30 days
+(2) Safar, 29 days
+(3) Raby` al-awal or [Rabi'al-Awwal], 30 days
+(4) Raby` al-THaany or [Rabi'ath-Thani], 29 days
+(5) Jumaada al-awal or [Jumada l-Ula], 30 days
+(6) Jumaada al-THaany or [Jumada t-Tania], 29 days
+(7) Rajab, 30 days
+(8) SHa`baan or [Sha`ban], 29 days
+(9) RamaDHaan or [Ramadan], 30 days
+(10) SHawwal, 29 days
+(11) Thw al-Qi`dah or [Dhu al-Qada or Dhu 'l-Qa`da], 30 days
+(12) Thw al-Hijjah or [Dhu 'l-Hijja], 29 days, but 30 days in years 2, 5, 7, 10,
+13, 16, 18, 21, 24, 26, and 29, for leep years.
+
+The Islamic calendar is purely lunar, as apposed to solar or some luni-solar, the Muslim (Hijri) year is shorter than the Gregorian year by about 11 days, and months in the Islamic (Hijri) year are not related to any seasons at all, seasons are related to the solar cycle not the lunar ones. Due to this, it is a long cycle date system: a 33 year cycle of lunar months is needed for a month to take a complete turn and fall during the same season again. Do not confuse the month cycle of 33 months with the 30 year leep cycle!
+
+The beginning of a Hijri month is marked not by the start of a new moon, like other lunar calendars, but by the actual physical sighting of the first new crescent moon. So, due to this; The same Gregorian date may have two to four Hijri equivalent dates according to the place and time of the crecent sighting.
+
+Islamic leep years; Islamic Astronomers have a fixed a 30 year cycle that has the 2nd, 5th, 7th, 10th, 13th, 16th, 18th, 21st, 24th, 26th, and 29th years, marked as leap years of 355 days, remember that the Islamic day starts at sunset and ends on the next sunset, so time and the moon are both used to fix a date!
+
+The Hijri was first introduced in 638 CE by the close companion of the Prophet Muhammad and the second Caliph, `Umar ibn Al-Khattab (586-644 CE). As an attempt to rationalize the various systems in use at that time. It was agreed that the most appropriate reference point for the Islamic Calendar was the Hijra (Hijrah, Hegira). The actual starting date for the Calendar "Epoch" was chosen -on the basis of purely lunar years, counting backwards- to be the first day of the first month "1st of Muharram" of the year of the Hijra. The Islamic (Hijri) Calendar -with dates that fall within the Muslim Era- is usually abbreviated AH in Western languages from the Latinized Anno Hejirae "In the year of the Hijra." 1st of Muharram, AH 1 corresponds to Friday July 16th, 622 CE in the Julian Calendar.
+
+A formula to convert an Islamic date into a Gregorian one is, divide the Hejira date by 33.7, subtract the result from the Hejira date and then add 622 or for an approximate equivalent, add 583 to the Hejira date. Because the Islamic year is a lunar year, it is shorter than the western solar year. Therefore you cannot just add or subtract 622 years for a start date.
+
+
+### Java Function: (Gregorian date into Islamic date)
+
+	"function J2I() {
+	 var Y = document.calc.Year.value;
+	 var M = document.calc.Month.value;
+	 var D = document.calc.Day.value;
+	 if (D>=32) {
+	  alert("Gregorian and Julian months never have more than 31 days.\n Try again.");
+	  document.calc.Day.value="";
+	  document.calc.Day.focus();
+	  return; 
+	 }
+	 else if ( (D==31)&&( (M==2)||(M==4)||(M==6)||(M==7)||(M==11) ) ){
+	  alert("This month doesn't have 31 days. \n Try again.");
+	  document.calc.Day.value=" ";
+	  document.calc.Day.focus();
+	  return;
+	 }
+	 else if ((M==2)&&(D==30)) {
+	  alert("February never has 30 days. \n Try again.");
+	  document.calc.Day.value=" ";
+	  document.calc.Day.focus();
+	  return;
+	 } 
+	 else if ((M==2) && (D==29)){ //check for leap years
+		  var Leap = false;
+		  if (Y%4==0) {Leap = true};
+		  if ((Y%100==0) && (Y%400>0)) {Leap = false};
+		  if (Y%4000==0) {Leap = false};
+		  if (Leap==false) {
+		   alert(Y + " is not a leap year in the Gregorian calendar. Please enter a real date.");
+		   document.calc.Day.value=" ";
+		document.calc.Day.focus();
+		return;
+		  }
+		}
+	 var G = document.calc.GorJ[0].checked; 
+	 document.calc.IslamOut.value= GregOrJul2Islamic(D,M,Y,G);
+	}
+	function I2J() {
+	 var Y = document.Icalc.IYear.value;
+	 var M = document.Icalc.IMonth.value;
+	 var D = document.Icalc.IDay.value;
+	 if (D>30) {
+	  alert("Islamic months never have more than 30 days.\n Try again.");
+	  document.Icalc.IDay.value=" ";
+	  document.Icalc.IDay.focus();
+	  return; 
+	 }
+	 else if ( (D==30)&&(M<12)&&((M%2)==0) ){
+	  alert("This month doesn't have 30 days. \n Try again.");
+	  document.Icalc.IDay.value="";
+	  document.Icalc.IDay.focus();
+	  return;
+	 }
+	 var G = document.Icalc.GorJ[0].checked; 
+	 document.Icalc.GregOut.value = Islamic2GregOrJul(D,M,Y,G);
+	}
