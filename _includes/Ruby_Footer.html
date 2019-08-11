@@ -134,6 +134,7 @@
   </script-->
 <h3>தொடர்புடைய <strong>சொற்கள்</strong></h3>
 {% else %}  
+<div id="taDate" ></div>
 <div class="navigation">
 <h3>To Read <strong>slob</strong>, Files on Android mobiles</h3>
 <ul class="menu"><li>
@@ -231,5 +232,14 @@
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
 	gtag('config', 'UA-119554313-1');
+	
+	$(document).ready(function(){
+		$("#taDate").datepicker_ta({
+			showButtonPanel: true
+		});
+	
+	});
+	
+	
 	</script>
 </body></html>
