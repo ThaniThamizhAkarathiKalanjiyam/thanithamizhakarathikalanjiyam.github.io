@@ -82,4 +82,18 @@ A model HTML file (see the sections inside **. And while deployment remove the *
 		</script>    
     </body>
     </html>
+	
+## இந்த நிரல்-சொருகி (JQuery-ui Plugin) உருவாக உதவியவர்கள்
+
+மின்தமிழ் குழும உறுப்பினர்களின் உதவியால் இந்த சோதனை ஓட்ட JQuery-ui Plugin for Tamil Datepicker உருவாக்கம் பெற்று உள்ளது
+
+- இரவிஅண்ணாசாமி
+- இன்னம்பூரான்
+- தேமொழி
+- கந்தன்
+- சேதுராமன் 
+- கண்மணி
+
+அனைவருக்கும் இசையினி குழுமத்தின் சார்பாக நன்றிகள் பல.
+
 
