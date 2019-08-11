@@ -58,42 +58,28 @@ Just add following section at bottom of your site before closing tag of your sit
 
 A model HTML file (see the sections inside **. And while deployment remove the *'s from your html file)
 
-	&nbsp;&nbsp;&nbsp; &lt;!doctype html&gt;<br>
-	&nbsp;&nbsp; &nbsp;&lt;html lang="en"&gt;<br>
-	&nbsp;&nbsp; &nbsp;&lt;head&gt;<br>
-	&nbsp;&nbsp; &nbsp;&nbsp; &lt;meta charset="utf-8"&gt;<br>
-	&nbsp;&nbsp; &nbsp;&nbsp; &lt;meta name="viewport"
-	content="width=device-width, initial-scale=1"&gt;<br>
-	&nbsp;&nbsp; &nbsp;&nbsp; &lt;title&gt;jQuery UI Datepicker -
-	Default functionality&lt;/title&gt;<br>
-	&nbsp;&nbsp; &nbsp;&nbsp; &lt;link rel="stylesheet"
-	href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"&gt;<br>
-	&nbsp;&nbsp; &nbsp;&nbsp; &lt;!--link rel="stylesheet"
-	href="/resources/demos/style.css"--&gt;<br>
-	&nbsp;&nbsp; &nbsp;&nbsp; &lt;script
-	src="https://code.jquery.com/jquery-1.12.4.js"&gt;&lt;/script&gt;<br>
-	&nbsp;&nbsp; &nbsp;&nbsp; &lt;script
-	src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"&gt;&lt;/script&gt;<br>
-	&nbsp;&nbsp; &nbsp;&nbsp; &lt;script
-	src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/external/TamilCalendar/calendar_ta.js"&gt;&lt;/script&gt;<br>
-	&nbsp;&nbsp; &nbsp;&nbsp; &lt;script
-	src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"&gt;&lt;/script&gt;<br>
-	&nbsp;&nbsp; &nbsp;<br>
-	&nbsp;&nbsp; &nbsp;&lt;/head&gt;<br>
-	&nbsp;&nbsp; &nbsp;&lt;body&gt;<br>
-	&nbsp;&nbsp; &nbsp; <br>
-	&nbsp;&nbsp; &nbsp;&lt;div id="datepicker_tamil"&gt;&lt;/div&gt;<br>
-	<br>
-	&nbsp;&nbsp; &nbsp;&lt;script&gt;<br>
-	&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;$(function(){<br>
-	&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;$(
-	"#datepicker_tamil" ).datepicker_ta({<br>
-	&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-	&nbsp;&nbsp;&nbsp; &nbsp;inline: true,&nbsp;&nbsp; &nbsp;<br>
-	&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;});<br>
-	&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;});<br>
-	&nbsp;&nbsp; &nbsp;&lt;/script&gt;<br>
-	&nbsp;&nbsp; &nbsp; <br>
-	&nbsp;&nbsp; &nbsp;&lt;/body&gt;<br>
-	&nbsp;&nbsp; &nbsp;&lt;/html&gt;
+	<!doctype html>
+    <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>jQuery UI Datepicker - Default functionality</title>
+      <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+      <!--link rel="stylesheet" href="/resources/demos/style.css"-->
+      <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+      <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+      <script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/external/TamilCalendar/calendar_ta.js"></script>
+      <script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>    
+    </head>
+    <body>    
+		<div id="datepicker_tamil"></div>
+		<script>
+			$(function(){
+				$( "#datepicker_tamil" ).datepicker_ta({
+					inline: true,    
+				});
+			});
+		</script>    
+    </body>
+    </html>
 
