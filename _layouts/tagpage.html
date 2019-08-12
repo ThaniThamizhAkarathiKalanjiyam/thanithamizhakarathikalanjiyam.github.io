@@ -1,4 +1,9 @@
 {% include Ruby_header.html %}
+<div id="accordion_tag">
+<h3>நூல்களின் பட்டியல்</h3>
+<div>
+	<p>
+
 {% assign post_titles = "" %}
 <ol>
 {% for post in site.tags[page.tag] %}
@@ -27,5 +32,27 @@
 
 {% endfor %}
 </ol>
+
+</p>
+</div>
+
+<h3>ஆசிரியர் குறிப்பு</h3>
+<div>
+	<p>
+		{% include {{page.tag}}.md %}
+	</p>
+</div>
+</div>
+<script>
+
+$(document).ready(function(){
+
+	$("#accordion_tag").accordion({
+		collapse: true
+	});
+
+});
+
+</script>
 
 {% include Ruby_Footer.html %}
