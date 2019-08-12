@@ -93,6 +93,8 @@ A model HTML file (see the sections inside **. And while deployment remove the *
 - கந்தன்
 - சேதுராமன் 
 - கண்மணி
+- சுப்புராஜ்
+- மற்றும் பலர்
 
 அனைவருக்கும் இசையினி குழுமத்தின் சார்பாக நன்றிகள் பல. 
 

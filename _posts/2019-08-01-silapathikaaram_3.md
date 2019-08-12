@@ -1,13 +1,13 @@
 ---
 categories: blog
 title: சிலப்பதிகாரம்
-sub_title: இளங்கோ அடிகள் இயற்றிய சிலப்பதிகாரம்
+sub_title: இளங்கோவடிகள் இயற்றிய சிலப்பதிகாரம்
 keywords: More, Tamil, Books
 description: சிலப்பதிகாரம்
 author: Tamilan
 layout: Ruby
 tags:
-- இளங்கோ அடிகள்
+- இளங்கோவடிகள்
 is_book: 1
 permalink: silapathikaaram_3
 featured: /images/noolkal_96_6.png
@@ -15,7 +15,7 @@ order: 3
 ---
 
 
-## இளங்கோ அடிகள் இயற்றிய சிலப்பதிகாரம்
+## இளங்கோவடிகள் இயற்றிய சிலப்பதிகாரம்
 
 பதிகம்
 
