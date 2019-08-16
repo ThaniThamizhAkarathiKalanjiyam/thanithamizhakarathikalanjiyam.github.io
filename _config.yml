@@ -70,4 +70,5 @@ plugins:
 collections:
  authors:
   output: true
+noolkal: 'https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal'
   
