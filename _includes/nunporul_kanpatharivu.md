@@ -12,7 +12,7 @@
    
   
 பதிப்பு  
-2019-08-02-    
+2019-08-16-    
   
 ## கைபேசி தொகுப்புரை    
   
@@ -108,7 +108,7 @@ http://www.washingtonpost.com/blogs/wonkblog/wp/2015/03/25/scientists-have-figur
 நன்றி:
 
 http://siragu.com/அடுக்களை-அறிவியல்-சோற்ற/ 
----
+
 
 
 
@@ -245,7 +245,7 @@ http://www.tamilvu.org/slet/l1200/l1200uri.jsp?book_id=22&song_no=13
 நன்றி:
 
 http://siragu.com/அன்புடை-நெஞ்சங்களில்-நிக/ 
----
+
 
 
 
@@ -532,7 +532,7 @@ Blooms taxonomy of https://homework-writer.com educational objectives may be hel
 நன்றி:
 
 http://siragu.com/ஆட்டிசம்-ஆய்விற்கு-உதவும/ 
----
+
 
 
 
@@ -622,7 +622,7 @@ http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3049418
 
 http://siragu.com/ஆணின்-மூளைக்கும்-பெண்ணின/ 
   
----
+
 
 
 
@@ -874,7 +874,7 @@ https://youtu.be/R6LzbKszKhQ
 நன்றி:
 
 http://siragu.com/ஆஸ்திரேலியப்-பழங்குடியி/ 
----
+
 
 
 
@@ -1137,7 +1137,7 @@ https://pbs.twimg.com/media/CxfHVr3UUAEAHTw.jpg
 
 http://siragu.com/இரண்டாம்-பசுமைப்புரட்சி/ 
   
----
+
 
 
 
@@ -1182,7 +1182,7 @@ http://www.medicaldaily.com/blood-type-and-brain-health-type-o-protects-against-
 நன்றி:
 
 http://siragu.com/இரத்த-வகைகளுக்கும்-மூளைய/ 
----
+
 
 
 
@@ -1290,7 +1290,7 @@ http://www.thedailymeal.com/news/healthy-eating/whole30-paleo-and-dukan-are-wors
 நன்றி:  
 http://siragu.com/உடல்நலத்திற்கு-நன்மையளி/ 
   
----
+
 
 
 
@@ -1377,7 +1377,7 @@ http://siragu.com/உடல்நலத்திற்கு-நன்மைய�
 நன்றி:
 
 http://www.vallamai.com/?p=29406 
----
+
 
 
 
@@ -1472,7 +1472,7 @@ http://www.livescience.com/48731-genome-sequence-oldest-people.html
 நன்றி:
 
 http://siragu.com/ஒரு-சிலர்-மட்டும்-அதிகநா/ 
----
+
 
 
 
@@ -1622,7 +1622,7 @@ VIDEOS:
 
 http://siragu.com/கச்சா-எண்ணெய்-இயற்கை-எரி/ 
   
----
+
 
 
 
@@ -1693,7 +1693,7 @@ https://www.livescience.com/50379-dead-sea-sinkholes.html
 நன்றி:
 
 http://siragu.com/கச்சா-எண்ணெய்-இயற்கை-எரி-2/ 
----
+
 
 
 
@@ -1740,7 +1740,7 @@ http://news.discovery.com/human/videos/do-we-need-to-think-less-to-learn-more-vi
 நன்றி:
 
 http://siragu.com/கற்கும்பொழுது-மூளை-அதிகம/ 
----
+
 
 
 
@@ -2480,7 +2480,7 @@ http://www.bitrebels.com/wp-content/uploads/2011/07/The-Smartphone-History-Timel
 நன்றி:
 
 http://siragu.com/திறன்பேசியின்-வளர்ச்சி/ 
----
+
 
 
 
@@ -2549,7 +2549,7 @@ http://www.tamilvu.org/library/technical_glossary/html/techindex.
 நன்றி:
 
 http://siragu.com/துவக்கநிலை-புரோஸ்டேட்-ப/ 
----
+
 
 
 
@@ -2588,7 +2588,7 @@ Weisstein, Eric W. “Honeycomb Conjecture.” From MathWorld–A Wolfram Web Re
 நன்றி:
 
 http://siragu.com/தேன்கூட்டின்-கட்டமைப்பு/ 
----
+
 
 
 
@@ -2673,7 +2673,7 @@ Lunar Reconnaissance Orbiter  – http://www.nasa.gov/sites/default/files/styles
 
 http://www.vallamai.com/?p=38738 
   
----
+
 
 
 
@@ -2922,7 +2922,7 @@ http://research.microsoft.com/en-us/um/people/gray/moore_law.html
 நன்றி:
 
 http://siragu.com/பட்டறிவும்-விதிகளும்/ 
----
+
 
 
 
@@ -3030,7 +3030,7 @@ Web Access – https://www.nature.com/articles/s41467-018-07214-w
 
 http://siragu.com/புற்றுநோயைக்-கண்டறியும்/ 
   
----
+
 
 
 
@@ -3090,7 +3090,7 @@ http://www.hiram.edu/images/pdfs/psychology/SeligmanRashidParks2006.pdf
 
 http://siragu.com/மகிழ்ச்சி-என்றால்-என்ன-அ/ 
   
----
+
 
 
 
@@ -3226,7 +3226,7 @@ http://www. forbes. com/sites/curtissilver/2016/07/04/nobel-laureates-line-up-to
 நன்றி:
 
 http://siragu.com/மரபணு-மாற்றம்-செய்த-உணவு/ 
----
+
 
 
 
@@ -3427,7 +3427,7 @@ The chatbot will see you now: AI may play doctor in the future of healthcare;   
 
 http://siragu.com/மருத்துவத்தில்-நோய்-கண்ட/ 
   
----
+
 
 
 
@@ -3521,7 +3521,7 @@ http://www.news-medical.net/health/What-are-Stem-Cells.aspx
 நன்றி:
 
 http://www.vallamai.com/?p=38494 
----
+
 
 
 
@@ -3576,7 +3576,7 @@ Dr. Judy Willis, M.D., M.Ed. in Radical Teaching, Psychology Today, November 22,
 http://keetru.com/index.php/2014-03-08-04-35-27/2014-03-08-12-18-14/25425-2013-11-10-10-56-43 
   
   
----
+
 
 
 
