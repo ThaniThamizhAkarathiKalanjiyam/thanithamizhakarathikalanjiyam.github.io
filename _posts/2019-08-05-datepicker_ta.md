@@ -9,6 +9,7 @@ tags:
 - நாட்காட்டி
 permalink: datepicker_ta  
 featured: /images/noolkal_96_6.png  
+not_index_list: 1
 ---  
 
 ## தமிழ் நாட்காட்டியின் மாதிரி வடிவம்

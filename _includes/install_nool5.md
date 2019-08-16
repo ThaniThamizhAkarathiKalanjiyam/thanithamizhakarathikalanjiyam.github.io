@@ -1,6 +1,9 @@
-![](/images/{{ page.permalink }}.jpg)
 # கைபேசி நூல் - {{ page.title }}
 இந்நூலைப் படிக்க பின்வரும் ஏதேனும் முறைகளைத் தேர்தெடுத்து; உங்களின் கருவிகளில் வசதிக்கேற்ப படிக்கலாம்.
+
+![](/images/books/{{ page.permalink }}.jpg)
+
+நூலாசிரியர்: post.tags[0]
 
 ==>> [Start Read Online]({{ page.permalink }}_1)
 
