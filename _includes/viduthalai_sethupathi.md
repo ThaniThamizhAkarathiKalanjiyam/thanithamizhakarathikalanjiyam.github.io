@@ -29,7 +29,9 @@
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-## உலகளாவிய பொதுக் கள உரிமம் 
+## விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
+
+உலகளாவிய பொதுக் கள உரிமம் 
 
 ( CC0 1.0)
 

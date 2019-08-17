@@ -1,15 +1,15 @@
 ---
 categories: blog
-title: விடுதலைப்போரில் சேதுபதி மன்னர்
+title: பண்டிதரின் கொடை
 sub_title: விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
 keywords: More, Tamil, Books
-description: விடுதலைப்போரில் சேதுபதி மன்னர்
+description: பண்டிதரின் கொடை
 author: Tamilan
 layout: Ruby
 tags:
-- எஸ். எம். கமால்
+- கௌதம சன்னா
 is_book: 1
-permalink: viduthalai_sethupathi_4
+permalink: panditharin_kodai_4
 featured: /images/noolkal_96_6.png
 order: 4
 ---
@@ -45,63 +45,16 @@ You can copy, modify, distribute and perform the work even for commercial purpos
 
 This book is uploaded as part of the collaboration between Global Tamil Wikimedia Community ( https://ta.wikisource.org ) and Tamil Virtual Academy ( http://tamilvu.org ). More details about this collaboration can be found at https://ta.wikisource.org/s/4kx.
 
-இந்திய விடுதலைப் பொன்விழா ஆண்டு வெளியீடு
+பண்டிதரின் கொடை-விகிதாச்சார உரிமை எனும் சமூகநீதிக் கொள்கை
 
-* * *
+![பண்டிதரின் கொடை-விகிதாச்சார உரிமை எனும் சமூகநீதிக்
 
-**விடுதலைப் போரில்**
+கொள்கை.pdf](//upload.wikimedia.org/wikipedia/commons/thumb/4/44/%E0%AE%AA%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%A4%E0%AE%B0%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%95%E0%AF%8A%E0%AE%9F%E0%AF%88-%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AE%BF%E0%AE%A4%E0%AE%BE%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BE%E0%AE%B0_%E0%AE%89%E0%AE%B0%E0%AE%BF%E0%AE%AE%E0%AF%88_%E0%AE%8E%E0%AE%A9%E0%AF%81%E0%AE%AE%E0%AF%8D_%E0%AE%9A%E0%AE%AE%E0%AF%82%E0%AE%95%E0%AE%A8%E0%AF%80%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%95%E0%AF%88.pdf/page1
 
-**சேதுபதி மன்னர்**
+-240px-thumbnail.pdf.jpg)
 
-**டாக்டர் எஸ். எம். கமால்**
+# ஆசிரியர்:கௌதம சன்னா
 
-வெளியீடு :
+None
 
-**ஷர்மிளா பதிப்பகம்**
-
-21, ஈசா பள்ளிவாசல் தெரு
-
-இராமநாதபுரம் - 623 501
-
-முதற் பதிப்பு : மார்ச், 1987
-
-இரண்டாவது பதிப்பு : 1997
-
-© டாக்டர் S. M. கமால்
-
-**விலை** : ரூ. 50-00
-
-**அட்டைப்படம்**
-
-இராமேசுவரம் திருக்கோயிலின் மூன்றாம் பிரகாரத் திருப்பணியை முற்றுவித்ததன் காரணமாக, அந்தக்கோயிலின் மேற்கு கோபுர வாசல் தூணில் பொறிக்கப்பட்டு இருக்கும். மன்னர் முத்துராமலிங்க சேதுபதியின் திருவுருவம்.
-
-அச்சிட்டோர் : உதயபிரியா அச்சகம், மதுரை - 10.
-
-**Bibliographical Data**
-
-1, Title : VIDUDHALAI PORIL SETHUРАТHY МАNNAR  
-2, Author : Dr. S. M. Kamal  
-21, Esa Pallivasal Street  
-Ramanathapuram-623 501  
-3, Language : Tamil  
-4, Edition : Second  
-5, Publication : November, 1997  
-6, Сорyright : Author  
-7, Paper used for Text: Cream Wove 13.7 kg.  
-8, Size of the Book : 21.5 >< 14 Cms  
-9, Type used for Text : 10pt. Tamil Roman  
-10, Pages : 14+206  
-11, No. of copies : 1000  
-12, Printers : Udhayapriya Achchaham  
-28-A, Janaki Narayanan Street  
-S.S. Colony, Madurai-625 O1 O.  
-13, Publishers : Sharmila Pathippagam  
-21\. Esa Pallivas a Street.  
-Ramanathapuram-623 501  
-14, Binding : Раper pack
-
-இந்திய விடுதலை இயக்க முன்னோடியும் மறவர் சீமையின் மகத்தான தியாகியுமான முத்துராமலிங்க விஜய ரகுநாத சேதுபதியின் வழி வழியினரும், இந்த நூலின் பதிப்புக்குரியவருமான
-
-திரு. **நாகேந்திர குமரன் சேதுபதி** அவர்கள்
-
-[அடுத்த பக்கம்](viduthalai_sethupathi_5)
+[அடுத்த பக்கம்](panditharin_kodai_5)

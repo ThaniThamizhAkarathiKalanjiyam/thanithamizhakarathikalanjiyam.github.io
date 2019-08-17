@@ -1,15 +1,15 @@
 ---
 categories: blog
-title: விடுதலைப்போரில் சேதுபதி மன்னர்
+title: ஈரோட்டுத் தாத்தா
 sub_title: விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
 keywords: More, Tamil, Books
-description: விடுதலைப்போரில் சேதுபதி மன்னர்
+description: ஈரோட்டுத் தாத்தா
 author: Tamilan
 layout: Ruby
 tags:
-- எஸ். எம். கமால்
+- நாரா. நாச்சியப்பன்
 is_book: 1
-permalink: viduthalai_sethupathi_4
+permalink: eerottu_thaaththa_4
 featured: /images/noolkal_96_6.png
 order: 4
 ---
@@ -45,63 +45,10 @@ You can copy, modify, distribute and perform the work even for commercial purpos
 
 This book is uploaded as part of the collaboration between Global Tamil Wikimedia Community ( https://ta.wikisource.org ) and Tamil Virtual Academy ( http://tamilvu.org ). More details about this collaboration can be found at https://ta.wikisource.org/s/4kx.
 
-இந்திய விடுதலைப் பொன்விழா ஆண்டு வெளியீடு
+**பதிப்பகம்**
 
-* * *
+அன்னை நாகம்மை பதிப்பகம் 2/141 கந்தசாமிநகர், பாலவாக்கம் சென்னை 600 041
 
-**விடுதலைப் போரில்**
+பெரியார் 117வது பிறந்தநாள் வெளியீடு விலை ரூ.4.00 கவின் கலை அச்சகம்,2, 141 கந்தசாமி நகர் பால வாக்கம், சென்னை 600 04l
 
-**சேதுபதி மன்னர்**
-
-**டாக்டர் எஸ். எம். கமால்**
-
-வெளியீடு :
-
-**ஷர்மிளா பதிப்பகம்**
-
-21, ஈசா பள்ளிவாசல் தெரு
-
-இராமநாதபுரம் - 623 501
-
-முதற் பதிப்பு : மார்ச், 1987
-
-இரண்டாவது பதிப்பு : 1997
-
-© டாக்டர் S. M. கமால்
-
-**விலை** : ரூ. 50-00
-
-**அட்டைப்படம்**
-
-இராமேசுவரம் திருக்கோயிலின் மூன்றாம் பிரகாரத் திருப்பணியை முற்றுவித்ததன் காரணமாக, அந்தக்கோயிலின் மேற்கு கோபுர வாசல் தூணில் பொறிக்கப்பட்டு இருக்கும். மன்னர் முத்துராமலிங்க சேதுபதியின் திருவுருவம்.
-
-அச்சிட்டோர் : உதயபிரியா அச்சகம், மதுரை - 10.
-
-**Bibliographical Data**
-
-1, Title : VIDUDHALAI PORIL SETHUРАТHY МАNNAR  
-2, Author : Dr. S. M. Kamal  
-21, Esa Pallivasal Street  
-Ramanathapuram-623 501  
-3, Language : Tamil  
-4, Edition : Second  
-5, Publication : November, 1997  
-6, Сорyright : Author  
-7, Paper used for Text: Cream Wove 13.7 kg.  
-8, Size of the Book : 21.5 >< 14 Cms  
-9, Type used for Text : 10pt. Tamil Roman  
-10, Pages : 14+206  
-11, No. of copies : 1000  
-12, Printers : Udhayapriya Achchaham  
-28-A, Janaki Narayanan Street  
-S.S. Colony, Madurai-625 O1 O.  
-13, Publishers : Sharmila Pathippagam  
-21\. Esa Pallivas a Street.  
-Ramanathapuram-623 501  
-14, Binding : Раper pack
-
-இந்திய விடுதலை இயக்க முன்னோடியும் மறவர் சீமையின் மகத்தான தியாகியுமான முத்துராமலிங்க விஜய ரகுநாத சேதுபதியின் வழி வழியினரும், இந்த நூலின் பதிப்புக்குரியவருமான
-
-திரு. **நாகேந்திர குமரன் சேதுபதி** அவர்கள்
-
-[அடுத்த பக்கம்](viduthalai_sethupathi_5)
+[அடுத்த பக்கம்](eerottu_thaaththa_5)

@@ -10,7 +10,7 @@
 
 	 
 பதிப்பு    
-2019-06-02-      
+2019-08-17-      
     
 ## கைபேசி தொகுப்புரை    
 
@@ -22,14 +22,47 @@
     
 **கைபேசியாக்கம்,    
 மு.பிச்சைமுத்து**    
-2019-06-02-  
+2019-08-17-  
   
 ## Creative Commons Public Licenses  
   
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-## பதிப்பகம்
+## விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
+
+உலகளாவிய பொதுக் கள உரிமம் 
+
+( CC0 1.0)
+
+இது சட்ட ஏற்புடைய உரிமத்தின் சுருக்கம் மட்டுமே. முழு உரையை https://creativecommons.org/publicdomain/zero/1.0/legalcode என்ற முகவரியில் காணலாம்.
+
+**பதிப்புரிமை அற்றது**  
+இந்த ஆக்கத்துடன் தொடர்புடையவர்கள், உலகளளாவிய பொதுப் பயன்பாட்டுக்கு என பதிப்புரிமைச் சட்டத்துக்கு உட்பட்டு, தங்கள் அனைத்துப் பதிப்புரிமைகளையும் விடுவித்துள்ளனர்.
+
+நீங்கள் இவ்வாக்கத்தைப் படியெடுக்கலாம்; மேம்படுத்தலாம்; பகிரலாம்; வேறு வடிவமாக மாற்றலாம்; வணிகப் பயன்களும் அடையலாம். இவற்றுக்கு நீங்கள் ஒப்புதல் ஏதும் கோரத் தேவையில்லை.
+
+*******
+
+இது, உலகத் தமிழ் விக்கியூடகச் சமூகமும் ( https://ta.wikisource.org ), தமிழ் இணையக் கல்விக் கழகமும் ( http://tamilvu.org ) இணைந்த கூட்டுமுயற்சியில், பதிவேற்றிய நூல்களில் ஒன்று. இக்கூட்டு முயற்சியைப் பற்றி, https://ta.wikisource.org/s/4kx என்ற முகவரியில் விரிவாகக் காணலாம்.  |  |  
+---|---|---  
+**Universal ( CC0 1.0) Public Domain Dedication**
+
+This is a human readable summary of the legal code found at https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+**No Copyright**  
+The person who associated a work with this deed has **dedicated** the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law including all related and neighboring rights, to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work even for commercial purposes, all without asking permission.
+
+*******
+
+This book is uploaded as part of the collaboration between Global Tamil Wikimedia Community ( https://ta.wikisource.org ) and Tamil Virtual Academy ( http://tamilvu.org ). More details about this collaboration can be found at https://ta.wikisource.org/s/4kx.
+
+
+
+**பதிப்பகம்**
+
 அன்னை நாகம்மை பதிப்பகம்
 2/141 கந்தசாமிநகர், பாலவாக்கம்
 சென்னை 600 041
@@ -54,7 +87,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 நாரா. நாச்சியப்பன். பொன்னி என்ற இதழில் துணையாசிரியராக பணியாற்றியவர். ஐங்கரன் எனும் கைபிரதி ஏட்டினை நடத்தியவர்.
 
 
-## வாழ்வளிக்க வந்தார்
+## 01 வாழ்வளிக்க வந்தார்
 
 **வாழ்வளிக்க வந்தார்**
 
@@ -119,7 +152,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ஈரோட்டுத் தாத்தா! தமிழர்  
 பாராட்டும் பெரியார் இராம சாமியே!
 
-## செயற்கரிய செயல்கள்
+## 02 செயற்கரிய செயல்கள்
 
 
 
@@ -175,7 +208,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 'தாலிஎங்கே?’ எனக்கேலி செய்தபெண்கள்  
 தமைக்கண்டு சினந்தார் அம்மை!
 
-## உரிமை வேட்கை
+## 03 உரிமை வேட்கை
 
 
 
@@ -283,7 +316,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 சொன்னாலும் வெட்கம்வரும் கம்பன் பாடல்  
 சூழ்ச்சிசொலும் புராணங்கள் எரிக்கச் சொன்னார்!
 
-## ஆரியத்தின் வைரி
+## 04 ஆரியத்தின் வைரி
 
 
 ﻿ **ஆரியத்தின் வைரி**
@@ -337,7 +370,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 பேரியக்கம் கண்டோன்! நல்ல.  
 பெரியார் ஈரோட்டுத் தாத்தா!
 
-## தமிழ்காத்த போராட்டம்
+## 05 தமிழ்காத்த போராட்டம்
 
 
 **﻿தமிழ்காத்த போராட்டம்**
@@ -554,7 +587,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 பாயாத புதுவெள்ளம், பரவாத  
 பெருநெருப்புப் பார்த்த துண்டோ?
 
-## சொல்லின் செல்வர்
+## 06 சொல்லின் செல்வர்
 
 
 ﻿
@@ -608,7 +641,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 கருத்துடையார் தடைப்படுவர் எனப்பேசிப்  
 புதுமைமிக்க கருத்து ரைப்பார்!
 
-## அவர்தம் ஆற்றல்
+## 07 அவர்தம் ஆற்றல்
 
 
 ﻿ **அவர்தம் ஆற்றல்**
@@ -664,7 +697,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 
 
-## வாழ்வளிக்க வந்தார்
+## 08 வாழ்வளிக்க வந்தார்
 
 
 **﻿ஈரோட்டுத் தாத்தா**
