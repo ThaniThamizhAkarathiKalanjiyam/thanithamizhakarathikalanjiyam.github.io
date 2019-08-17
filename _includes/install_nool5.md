@@ -3,7 +3,7 @@
 
 ![](/images/books/{{ page.permalink }}.jpg)
 
-நூலாசிரியர்: post.tags[0]
+நூலாசிரியர்: {{ post.tags[0] }}
 
 ==>> [Start Read Online]({{ page.permalink }}_1)
 
