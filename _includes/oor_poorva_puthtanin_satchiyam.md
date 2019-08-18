@@ -29,14 +29,6 @@
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-# ஒரு பூர்வ பௌத்தனின் சாட்சியம்
-
-### பண்டிதர் க. அயோத்திதாசர்
-
-![](./ஒரு பூர்வ பௌத்தனின் சாட்சியம்_files/000000.png)
-
-#### 2006
-
 ## விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
 
 **ஒரு பூர்வ பௌத்தனின் சாட்சியம்**

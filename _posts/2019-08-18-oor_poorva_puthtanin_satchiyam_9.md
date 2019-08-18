@@ -12,6 +12,7 @@ is_book: 1
 permalink: oor_poorva_puthtanin_satchiyam_9
 featured: /images/noolkal_96_6.png
 order: 9
+nool_publiser: கல்லாத்தி
 ---
 
 
