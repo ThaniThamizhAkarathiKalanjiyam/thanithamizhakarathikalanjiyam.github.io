@@ -8,7 +8,7 @@ author: Tamilan
 layout: Ruby
 tags:
 - எஸ். எம். கமால்
-விக்கிமூலம்
+- விக்கிமூலம்
 permalink: sethupathi_varalaru
 featured: /images/noolkal_96_6.png
 order: 

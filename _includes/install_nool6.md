@@ -3,8 +3,8 @@
 
 ![](/images/books/{{ page.permalink }}.jpg)
 
-**நூலாசிரியர்:** {{ page.tags[0] }}
-**பதிப்பகம்:** {{ page.nool_publiser }}
+**நூலாசிரியர்:** {{ page.tags[0] }}  
+**பதிப்பகம்:** {{ page.nool_publiser }}  
 
 ==>> [Start Read Online]({{ page.permalink }}_1)
 
