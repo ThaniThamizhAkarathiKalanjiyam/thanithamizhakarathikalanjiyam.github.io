@@ -4,7 +4,7 @@
 ![](/images/books/{{ page.permalink }}.jpg)
 
 **நூலாசிரியர்:** {{ page.tags[0] }}  
-**பதிப்பகம்:** {{ page.nool_publiser }}  
+**பதிப்பகம் /கைபேசியாக்கம்:** {{ page.nool_publiser }}  
 
 ==>> [Start Read Online]({{ page.permalink }}_1)
 
