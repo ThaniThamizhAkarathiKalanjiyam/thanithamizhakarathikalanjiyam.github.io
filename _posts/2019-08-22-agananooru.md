@@ -9,7 +9,8 @@ author: Tamilan
 layout: Ruby
 tags:
 - தமிழ்ப் புலவர்கள்
-- -விக்கிமூலம்-எட்டுத்தொகை
+- விக்கிமூலம்
+- எட்டுத்தொகை
 permalink: agananooru
 featured: /images/noolkal_96_6.png
 order: 
