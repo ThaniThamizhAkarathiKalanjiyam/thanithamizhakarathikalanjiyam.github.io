@@ -1,14 +1,15 @@
 ---
 categories: blog
-title: அகநானூறு
+title: அகநானூறு 
 sub_title: 002 குறிஞ்சி
 keywords: More, Tamil, Books
-description: அகநானூறு
+description: அகநானூறு 
 nool_publiser: இசையினி குழுமம்
 author: Tamilan
 layout: Ruby
-tags:
-- தமிழ்ப் புலவர்கள்
+tags: 
+- தமிழ்ப் புலவர்கள் 
+
 is_book: 1
 permalink: agananooru_7
 featured: /images/noolkal_96_6.png
