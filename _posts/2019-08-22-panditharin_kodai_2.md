@@ -4,16 +4,17 @@ title: பண்டிதரின் கொடை
 sub_title: கைபேசி தொகுப்புரை
 keywords: More, Tamil, Books
 description: பண்டிதரின் கொடை
+nool_publiser: XXXPUBLISHERXXX
 author: Tamilan
 layout: Ruby
-tags:
+tags: 
 - கௌதம சன்னா
 is_book: 1
 permalink: panditharin_kodai_2
 featured: /images/noolkal_96_6.png
 order: 2
 ---
-
+{% include install_nool6.md %}
 
 ## கைபேசி தொகுப்புரை
 
@@ -25,6 +26,6 @@ order: 2
 
 **கைபேசியாக்கம்,  
 மு.பிச்சைமுத்து**  
-2019-08-17-
+2019-08-22-
 
 [அடுத்த பக்கம்](panditharin_kodai_3)

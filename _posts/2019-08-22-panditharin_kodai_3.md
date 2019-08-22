@@ -1,0 +1,24 @@
+---
+categories: blog
+title: பண்டிதரின் கொடை
+sub_title: Creative Commons Public Licenses
+keywords: More, Tamil, Books
+description: பண்டிதரின் கொடை
+nool_publiser: XXXPUBLISHERXXX
+author: Tamilan
+layout: Ruby
+tags: 
+- கௌதம சன்னா
+is_book: 1
+permalink: panditharin_kodai_3
+featured: /images/noolkal_96_6.png
+order: 3
+---
+{% include install_nool6.md %}
+
+## Creative Commons Public Licenses
+
+![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)  
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+[அடுத்த பக்கம்](panditharin_kodai_4)

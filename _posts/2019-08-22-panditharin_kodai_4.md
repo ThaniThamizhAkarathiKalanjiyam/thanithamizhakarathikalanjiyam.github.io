@@ -4,16 +4,17 @@ title: பண்டிதரின் கொடை
 sub_title: விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
 keywords: More, Tamil, Books
 description: பண்டிதரின் கொடை
+nool_publiser: XXXPUBLISHERXXX
 author: Tamilan
 layout: Ruby
-tags:
+tags: 
 - கௌதம சன்னா
 is_book: 1
 permalink: panditharin_kodai_4
 featured: /images/noolkal_96_6.png
 order: 4
 ---
-
+{% include install_nool6.md %}
 
 ## விக்கிமூலத்தில் இருந்து பதிவிறக்கப்பட்டது
 
@@ -53,8 +54,6 @@ This book is uploaded as part of the collaboration between Global Tamil Wikimedi
 
 -240px-thumbnail.pdf.jpg)
 
-# ஆசிரியர்:கௌதம சன்னா
-
-None
+ஆசிரியர்:கௌதம சன்னா
 
 [அடுத்த பக்கம்](panditharin_kodai_5)

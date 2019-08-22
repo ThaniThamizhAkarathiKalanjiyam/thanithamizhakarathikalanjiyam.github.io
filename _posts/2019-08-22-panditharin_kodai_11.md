@@ -4,16 +4,17 @@ title: பண்டிதரின் கொடை
 sub_title: 06 இடஒதுக்கீடு எனும் சமூகநீதிக் கொள்கை முகிழ்த்தது
 keywords: More, Tamil, Books
 description: பண்டிதரின் கொடை
+nool_publiser: XXXPUBLISHERXXX
 author: Tamilan
 layout: Ruby
-tags:
+tags: 
 - கௌதம சன்னா
 is_book: 1
 permalink: panditharin_kodai_11
 featured: /images/noolkal_96_6.png
 order: 11
 ---
-
+{% include install_nool6.md %}
 
 ## 06 இடஒதுக்கீடு எனும் சமூகநீதிக் கொள்கை முகிழ்த்தது
 

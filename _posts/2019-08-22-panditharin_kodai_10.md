@@ -4,16 +4,17 @@ title: பண்டிதரின் கொடை
 sub_title: 05 இந்து முஸ்லீம் ஒற்றுமை எனும்
 keywords: More, Tamil, Books
 description: பண்டிதரின் கொடை
+nool_publiser: XXXPUBLISHERXXX
 author: Tamilan
 layout: Ruby
-tags:
+tags: 
 - கௌதம சன்னா
 is_book: 1
 permalink: panditharin_kodai_10
 featured: /images/noolkal_96_6.png
 order: 10
 ---
-
+{% include install_nool6.md %}
 
 ## 05 இந்து முஸ்லீம் ஒற்றுமை எனும்
 

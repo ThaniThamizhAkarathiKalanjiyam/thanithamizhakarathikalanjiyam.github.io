@@ -4,16 +4,17 @@ title: பண்டிதரின் கொடை
 sub_title: 08 அனைத்து சமூக நீதியின் முகங்கள்
 keywords: More, Tamil, Books
 description: பண்டிதரின் கொடை
+nool_publiser: XXXPUBLISHERXXX
 author: Tamilan
 layout: Ruby
-tags:
+tags: 
 - கௌதம சன்னா
 is_book: 1
 permalink: panditharin_kodai_13
 featured: /images/noolkal_96_6.png
 order: 13
 ---
-
+{% include install_nool6.md %}
 
 ## 08 அனைத்து சமூக நீதியின் முகங்கள்
 
