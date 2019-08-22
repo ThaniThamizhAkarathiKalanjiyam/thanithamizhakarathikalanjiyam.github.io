@@ -8,12 +8,13 @@ nool_publiser: தென்மொழி பதிப்பகம்
 author: Tamilan
 layout: Ruby
 tags: 
-- பாவலரேறு பெருஞ்சித்திரனார்
-- விக்கிமூலம்
+- பாவலரேறு பெருஞ்சித்திரனார் 
+- விக்கிமூலம் 
 - பெருஞ்சித்திரனார் 
+
 permalink: aar_paarp_kot
 featured: /images/noolkal_96_6.png
 order: 
 ---
-{% include install_nool6.md %}
+{% include install_nool5.md %}
 {% include install_nool3.md %}

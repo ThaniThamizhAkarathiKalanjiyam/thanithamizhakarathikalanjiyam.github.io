@@ -3,8 +3,6 @@
 
 ![](/images/books/{{ page.permalink }}.jpg)
 
-நூலாசிரியர்: {{ page.tags[0] }}
-
 ==>> [Start Read Online]({{ page.permalink }}_1)
 
 ## ஆன்ட்ராய்டு(அஃக செயலி மூலம்) கருவிகளில் படிக்க
