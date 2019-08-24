@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_18
 featured: /images/noolkal_96_6.png
 order: 18
 ---
-{% header_nav.md %}
+
 
 ## 14. சர் அலெக்ஸாண்டர் ஃபிளெமிங் (discovery of penicillin)
 
@@ -65,4 +65,4 @@ _*
 
 _* _உங்கள் மாணவன்_ *_
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_19)

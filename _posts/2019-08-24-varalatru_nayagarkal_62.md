@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_62
 featured: /images/noolkal_96_6.png
 order: 62
 ---
-{% header_nav.md %}
+
 
 ## 58. முகமது அலி (உலக குத்துச்சண்டை வீரர்)
 
@@ -56,4 +56,4 @@ _"வீரர்கள் வெறும் உடற்பயிற்சி 
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_63)

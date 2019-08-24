@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_50
 featured: /images/noolkal_96_6.png
 order: 50
 ---
-{% header_nav.md %}
+
 
 ## 46. புளோரன்ஸ் நைட்டிங்கேல் (The Lady with the Lamp)
 
@@ -62,4 +62,4 @@ order: 50
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_51)

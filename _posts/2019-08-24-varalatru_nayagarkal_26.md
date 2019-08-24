@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_26
 featured: /images/noolkal_96_6.png
 order: 26
 ---
-{% header_nav.md %}
+
 
 ## 22. சார்லஸ் டார்வின் ( பரிணாமவியலாரின் தந்தை)
 
@@ -85,4 +85,4 @@ _"உலகை கூர்ந்து கவனிப்பதையும்,
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_27)

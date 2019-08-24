@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_54
 featured: /images/noolkal_96_6.png
 order: 54
 ---
-{% header_nav.md %}
+
 
 ## 50. மகாகவி பாரதியார்
 
@@ -117,4 +117,4 @@ _"இறுதி ஊர்வலத்தின் எண்ணிக்கை 
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_55)

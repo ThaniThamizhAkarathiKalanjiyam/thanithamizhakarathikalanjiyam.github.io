@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_78
 featured: /images/noolkal_96_6.png
 order: 78
 ---
-{% header_nav.md %}
+
 
 ## 74. வாஸ்கோட காமா
 
@@ -58,4 +58,4 @@ order: 78
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_79)

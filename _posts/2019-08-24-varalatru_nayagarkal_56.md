@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_56
 featured: /images/noolkal_96_6.png
 order: 56
 ---
-{% header_nav.md %}
+
 
 ## 52. மஹாத்மா காந்தியடிகள் (இந்தியாவின் தேசப்பிதா) - பாகம் 2
 
@@ -78,4 +78,4 @@ _*
 **என்றும் நட்புடன்  
 உங்கள். மாணவன**
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_57)

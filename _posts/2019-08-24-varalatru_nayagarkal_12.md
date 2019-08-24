@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_12
 featured: /images/noolkal_96_6.png
 order: 12
 ---
-{% header_nav.md %}
+
 
 ## 08. கல்வியின் நாயகன் (காமராஜர்)
 
@@ -80,4 +80,4 @@ _*இவரைப் போன்றத் தலைவர்கள் தமி
 
 _ **உங்கள் மாணவன்** _
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_13)

@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_77
 featured: /images/noolkal_96_6.png
 order: 77
 ---
-{% header_nav.md %}
+
 
 ## 73. வால்ட் டிஸ்னி
 
@@ -60,4 +60,4 @@ order: 77
 என்றும் நட்புடன்  
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_78)

@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_33
 featured: /images/noolkal_96_6.png
 order: 33
 ---
-{% header_nav.md %}
+
 
 ## 29. ஜூலியஸ் சீசர் ( The Great Roman Empire)
 
@@ -65,4 +65,4 @@ _* _பாராட்டுகளை விரும்பாத மனித�
 
 உங்கள். **மாணவன்**
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_34)

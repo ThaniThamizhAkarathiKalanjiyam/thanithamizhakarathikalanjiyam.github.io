@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_2
 featured: /images/noolkal_96_6.png
 order: 2
 ---
-{% header_nav.md %}
+
 
 ## கைபேசி தொகுப்புரை
 
@@ -38,4 +38,4 @@ order: 2
 மு.பிச்சைமுத்து**  
 2019-08-24-
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_3)

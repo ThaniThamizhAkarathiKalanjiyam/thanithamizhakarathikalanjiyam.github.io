@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_84
 featured: /images/noolkal_96_6.png
 order: 84
 ---
-{% header_nav.md %}
+
 
 ## 80. ஷி ஹூவாங்டி (உலக அதிசயம் சீனப் பெருஞ்சுவர் உருவான கதை)
 
@@ -60,4 +60,4 @@ order: 84
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_85)

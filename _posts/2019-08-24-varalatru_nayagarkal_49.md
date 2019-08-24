@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_49
 featured: /images/noolkal_96_6.png
 order: 49
 ---
-{% header_nav.md %}
+
 
 ## 45. புரூஸ் லீ (தற்காப்புக்கலையின் முடிசூடா மன்னன்)
 
@@ -70,4 +70,4 @@ _ _* **என்றும் நட்புடன்_ ***_
 
 _ _* *_ _உங்கள். மாணவன்_ _*_ *_
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_50)

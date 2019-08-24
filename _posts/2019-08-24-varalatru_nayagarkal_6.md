@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_6
 featured: /images/noolkal_96_6.png
 order: 6
 ---
-{% header_nav.md %}
+
 
 ## 02. ஆப்ரா வின்ஃப்ரெ (The Oprah Winfrey Show)
 
@@ -68,4 +68,4 @@ Nashville - நகரத்தின் Miss Fire Prevention - என்ற த�
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_7)

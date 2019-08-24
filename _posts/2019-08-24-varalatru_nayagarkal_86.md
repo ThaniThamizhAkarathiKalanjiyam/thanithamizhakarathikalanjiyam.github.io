@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_86
 featured: /images/noolkal_96_6.png
 order: 86
 ---
-{% header_nav.md %}
+
 
 ## 82. ஹமில்டன் நாகி (மருத்துவ உலகில் ஒரு மாறுபட்ட மனிதரின் கதை)
 
@@ -79,4 +79,4 @@ _ _* _ **_ __ *_ வாழ்க வளமுடன்****_
 _ _* **என்றும் நட்புடன்_ _**_  
 _ *_ **_*** _ _ *_ _* _உங்கள். மாணவன்_ *_ **_
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_87)

@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_39
 featured: /images/noolkal_96_6.png
 order: 39
 ---
-{% header_nav.md %}
+
 
 ## 35. தமிழ்க் கடல் மறைமலை அடிகள் (தனித்தமிழ் பிறந்த கதை)
 
@@ -56,4 +56,4 @@ order: 39
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_40)

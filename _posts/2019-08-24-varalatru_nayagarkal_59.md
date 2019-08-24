@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_59
 featured: /images/noolkal_96_6.png
 order: 59
 ---
-{% header_nav.md %}
+
 
 ## 55. மார்ட்டின் லூதர் கிங்
 
@@ -58,4 +58,4 @@ _
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_60)

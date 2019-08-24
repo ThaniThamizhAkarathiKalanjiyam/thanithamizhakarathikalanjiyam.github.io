@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_25
 featured: /images/noolkal_96_6.png
 order: 25
 ---
-{% header_nav.md %}
+
 
 ## 21. சாக்ரடீஸ் (தத்துவஞானிகளின் தந்தை)
 
@@ -62,4 +62,4 @@ _ _* **என்றும் நட்புடன்_ ***_
 
 _ _* *_ _உங்கள். மாணவன்_ _*_ *_
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_26)

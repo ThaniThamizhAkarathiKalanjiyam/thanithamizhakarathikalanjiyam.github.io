@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_73
 featured: /images/noolkal_96_6.png
 order: 73
 ---
-{% header_nav.md %}
+
 
 ## 69. லவாய்ஸியர் (இரசாயனவியலின் தந்தை)
 
@@ -66,4 +66,4 @@ _* __வாழ்க வளமுடன்_ *
 
 _* _ **மாணவன் *_ _**
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_74)

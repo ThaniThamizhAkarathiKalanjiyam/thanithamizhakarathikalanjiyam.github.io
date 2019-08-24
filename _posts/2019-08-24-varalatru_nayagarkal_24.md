@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_24
 featured: /images/noolkal_96_6.png
 order: 24
 ---
-{% header_nav.md %}
+
 
 ## 20. சர் ரோஜர் பேனிஸ்டர் ( The Miracle Mile Man)
 
@@ -64,4 +64,4 @@ _ _* **என்றும் நட்புடன்_ ***_
 
 _ _* *_ _உங்கள். மாணவன்_ _*_ *_
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_25)

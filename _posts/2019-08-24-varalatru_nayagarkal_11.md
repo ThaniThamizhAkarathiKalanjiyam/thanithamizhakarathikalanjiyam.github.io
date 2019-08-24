@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_11
 featured: /images/noolkal_96_6.png
 order: 11
 ---
-{% header_nav.md %}
+
 
 ## 07. கலிலியோ கலிலி (வானியல் சாஸ்திரத்தின் தந்தை)
 
@@ -52,4 +52,4 @@ order: 11
 என்றும் நட்புடன்  
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_12)

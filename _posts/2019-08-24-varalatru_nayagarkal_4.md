@@ -16,11 +16,11 @@ permalink: varalatru_nayagarkal_4
 featured: /images/noolkal_96_6.png
 order: 4
 ---
-{% header_nav.md %}
+
 
 ## Creative Commons Public Licenses
 
 ![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)  
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_5)

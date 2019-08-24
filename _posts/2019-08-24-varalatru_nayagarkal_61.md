@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_61
 featured: /images/noolkal_96_6.png
 order: 61
 ---
-{% header_nav.md %}
+
 
 ## 57. மிக்கைல் கொர்பசோவ்
 
@@ -64,4 +64,4 @@ order: 61
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_62)

@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_27
 featured: /images/noolkal_96_6.png
 order: 27
 ---
-{% header_nav.md %}
+
 
 ## 23. சார்லஸ் டிக்கென்ஸ்
 
@@ -56,4 +56,4 @@ order: 27
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_28)

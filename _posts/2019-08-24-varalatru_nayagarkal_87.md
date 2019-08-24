@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_87
 featured: /images/noolkal_96_6.png
 order: 87
 ---
-{% header_nav.md %}
+
 
 ## 83. ஹான்ஸ் கிரிஸ்டியன் ஆண்டர்சன்
 
@@ -52,4 +52,4 @@ Copenhagen தெருக்களில் பாட்டு பாடி ம
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_88)

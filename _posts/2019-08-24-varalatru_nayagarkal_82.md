@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_82
 featured: /images/noolkal_96_6.png
 order: 82
 ---
-{% header_nav.md %}
+
 
 ## 78. வில்லியம் ஹார்வி
 
@@ -60,4 +60,4 @@ order: 82
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_83)

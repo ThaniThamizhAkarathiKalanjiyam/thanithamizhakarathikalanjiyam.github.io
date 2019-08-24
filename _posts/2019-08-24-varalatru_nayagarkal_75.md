@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_75
 featured: /images/noolkal_96_6.png
 order: 75
 ---
-{% header_nav.md %}
+
 
 ## 71. லூயி பாஸ்ச்சர் (நுண்ணுயிரியலின் தந்தை)
 
@@ -54,4 +54,4 @@ order: 75
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_76)

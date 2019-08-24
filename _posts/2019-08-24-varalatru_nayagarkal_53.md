@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_53
 featured: /images/noolkal_96_6.png
 order: 53
 ---
-{% header_nav.md %}
+
 
 ## 49. பேரரசர் அசோகர் (The Great Indian Emperor)
 
@@ -64,4 +64,4 @@ _* _பாராட்டுகளை விரும்பாத மனித�
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_54)

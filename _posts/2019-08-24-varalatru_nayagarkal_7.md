@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_7
 featured: /images/noolkal_96_6.png
 order: 7
 ---
-{% header_nav.md %}
+
 
 ## 03. ஆல்ஃப்ரெட் நோபல் (நோபல் பரிசு உருவான கதை)
 
@@ -71,4 +71,4 @@ _ **_*_ *_ வாழ்க வளமுடன்**
 
 _* _உங்கள். மாணவன்_ *_
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_8)

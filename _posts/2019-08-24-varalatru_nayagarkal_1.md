@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_1
 featured: /images/noolkal_96_6.png
 order: 1
 ---
-{% header_nav.md %}
+
 
 ## அறிமுகம்
 
@@ -30,4 +30,4 @@ order: 1
 பதிப்பு  
 2019-08-24-
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_2)

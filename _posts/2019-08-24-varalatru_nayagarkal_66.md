@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_66
 featured: /images/noolkal_96_6.png
 order: 66
 ---
-{% header_nav.md %}
+
 
 ## 62. மோட்ஸார்ட் (இசை மேதை Mozart)
 
@@ -54,4 +54,4 @@ _* __வாழ்க வளமுடன்_ *
 
 _*உங்கள். மாணவன் *_
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_67)

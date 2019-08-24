@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_67
 featured: /images/noolkal_96_6.png
 order: 67
 ---
-{% header_nav.md %}
+
 
 ## 63. யூக்ளிட் (கணிதவியலின் தந்தை)
 
@@ -54,4 +54,4 @@ order: 67
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_68)

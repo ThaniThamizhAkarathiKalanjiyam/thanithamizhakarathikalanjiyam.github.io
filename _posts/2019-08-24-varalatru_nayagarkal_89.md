@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_89
 featured: /images/noolkal_96_6.png
 order: 89
 ---
-{% header_nav.md %}
+
 
 ## 85. ஹெலன் கெல்லர் (தன்னம்பிக்கையின் மறு உருவம்)
 
@@ -78,4 +78,4 @@ _* __வாழ்க வளமுடன்_ *
 
 _* _ **உங்கள். மாணவன் *_ _**
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_90)

@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_72
 featured: /images/noolkal_96_6.png
 order: 72
 ---
-{% header_nav.md %}
+
 
 ## 68. ரைட் சகோதரர்கள் (விமானம் உருவான கதை)
 
@@ -72,4 +72,4 @@ _* __வாழ்க வளமுடன்_ *
 
 _* _ **உங்கள். மாணவன் *_ _**
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_73)

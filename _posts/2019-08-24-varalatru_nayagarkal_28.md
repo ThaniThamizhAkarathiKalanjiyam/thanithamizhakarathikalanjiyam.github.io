@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_28
 featured: /images/noolkal_96_6.png
 order: 28
 ---
-{% header_nav.md %}
+
 
 ## 24. சார்லி சாப்ளின் (சிரிப்பு ஜீனியஸ்)
 
@@ -72,4 +72,4 @@ _* __வாழ்க வளமுடன்_ *
 
 _* _ **உங்கள். மாணவன் *_ _**
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_29)

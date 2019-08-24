@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_10
 featured: /images/noolkal_96_6.png
 order: 10
 ---
-{% header_nav.md %}
+
 
 ## 06. கன்பூசியஸ் (தத்துவ மேதை)
 
@@ -62,4 +62,4 @@ order: 10
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_11)

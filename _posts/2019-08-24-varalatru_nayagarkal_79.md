@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_79
 featured: /images/noolkal_96_6.png
 order: 79
 ---
-{% header_nav.md %}
+
 
 ## 75. வின்செண்ட் வான் கோ
 
@@ -58,4 +58,4 @@ order: 79
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_80)

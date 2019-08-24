@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_17
 featured: /images/noolkal_96_6.png
 order: 17
 ---
-{% header_nav.md %}
+
 
 ## 13. கெளதம புத்தர் (பகுத்தறிவின் கடவுள் பிறந்த கதை)
 
@@ -77,4 +77,4 @@ _ _* **என்றும் நட்புடன்_ ***_
 
 _ _* *_ _உங்கள். மாணவன்_ _*_ *_
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_18)

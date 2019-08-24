@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_46
 featured: /images/noolkal_96_6.png
 order: 46
 ---
-{% header_nav.md %}
+
 
 ## 42. பில் கேட்ஸ்
 
@@ -76,4 +76,4 @@ order: 46
 
 _ **உங்கள் மாணவன்** _
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_47)

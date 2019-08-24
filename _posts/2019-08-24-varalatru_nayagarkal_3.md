@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_3
 featured: /images/noolkal_96_6.png
 order: 3
 ---
-{% header_nav.md %}
+
 
 ## ஆசிரியர் பற்றி
 
@@ -26,4 +26,4 @@ order: 3
 
 வாழ்த்துகளுடன்..! மாணவன் சிலம்பு. ஆர்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_4)

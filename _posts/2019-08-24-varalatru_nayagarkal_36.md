@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_36
 featured: /images/noolkal_96_6.png
 order: 36
 ---
-{% header_nav.md %}
+
 
 ## 32. ஜொஹானேஸ் குட்டன்பெர்க் (அச்சியந்திரம் உருவான கதை)
 
@@ -62,4 +62,4 @@ order: 36
 என்றும் நட்புடன்  
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_37)

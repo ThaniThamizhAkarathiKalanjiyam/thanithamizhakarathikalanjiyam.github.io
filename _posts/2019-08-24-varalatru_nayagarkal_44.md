@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_44
 featured: /images/noolkal_96_6.png
 order: 44
 ---
-{% header_nav.md %}
+
 
 ## 40. பிராங்கிளின் ரூஸ்வெல்ட்
 
@@ -60,4 +60,4 @@ order: 44
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_45)

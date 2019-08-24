@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_69
 featured: /images/noolkal_96_6.png
 order: 69
 ---
-{% header_nav.md %}
+
 
 ## 65. ரிச்சர்ட் ட்ரெவிதிக் (இரயில் வண்டி உருவான கதை)
 
@@ -54,4 +54,4 @@ order: 69
 என்றும் நட்புடன்  
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_70)

@@ -16,7 +16,7 @@ permalink: varalatru_nayagarkal_40
 featured: /images/noolkal_96_6.png
 order: 40
 ---
-{% header_nav.md %}
+
 
 ## 36. தமிழ்த்தாத்தா டாக்டர் உ.வே. சாமிநாத ஐயர்
 
@@ -60,4 +60,4 @@ order: 40
 
 உங்கள். மாணவன்
 
-{% footer_nav.md %}
+[அடுத்த பக்கம்](varalatru_nayagarkal_41)
