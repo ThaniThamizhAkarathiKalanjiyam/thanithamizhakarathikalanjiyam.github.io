@@ -16,5 +16,6 @@ permalink: varalatru_nayagarkal
 featured: /images/noolkal_96_6.png
 order: 
 ---
-{% include install_nool5.md %}
+
+{% include install_nool6.md %}
 {% include install_nool3.md %}
