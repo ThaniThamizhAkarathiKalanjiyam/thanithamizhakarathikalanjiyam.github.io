@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_17
 featured: /images/noolkal_96_6.png
 order: 17
 ---
-{% include install_nool6.md %}
+
 
 ## ஒளவைக்குப் பிடித்தவை
 

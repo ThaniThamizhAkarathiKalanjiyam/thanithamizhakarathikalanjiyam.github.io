@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_2
 featured: /images/noolkal_96_6.png
 order: 2
 ---
-{% include install_nool6.md %}
+
 
 ## கைபேசி தொகுப்புரை
 

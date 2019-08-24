@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_14
 featured: /images/noolkal_96_6.png
 order: 14
 ---
-{% include install_nool6.md %}
+
 
 ## அரசியல் தொடர்பு
 

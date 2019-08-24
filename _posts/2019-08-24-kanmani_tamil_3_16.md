@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_16
 featured: /images/noolkal_96_6.png
 order: 16
 ---
-{% include install_nool6.md %}
+
 
 ## பாலிமொழி அறிந்தவள்
 

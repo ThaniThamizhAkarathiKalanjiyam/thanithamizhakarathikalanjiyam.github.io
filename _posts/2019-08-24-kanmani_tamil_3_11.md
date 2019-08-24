@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_11
 featured: /images/noolkal_96_6.png
 order: 11
 ---
-{% include install_nool6.md %}
+
 
 ## பெண்ணியவாதி ஒளவை
 

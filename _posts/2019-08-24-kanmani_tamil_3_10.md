@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_10
 featured: /images/noolkal_96_6.png
 order: 10
 ---
-{% include install_nool6.md %}
+
 
 ## ஒளவையும் வெள்ளிவீதியும்
 

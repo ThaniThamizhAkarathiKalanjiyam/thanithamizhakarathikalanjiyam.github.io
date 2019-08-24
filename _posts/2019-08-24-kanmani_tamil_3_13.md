@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_13
 featured: /images/noolkal_96_6.png
 order: 13
 ---
-{% include install_nool6.md %}
+
 
 ## கலைக்குழுத் தலைவியின் மேலாண்மைத் திறன்
 

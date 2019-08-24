@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_15
 featured: /images/noolkal_96_6.png
 order: 15
 ---
-{% include install_nool6.md %}
+
 
 ## ஒளவை அதியன் உறவு
 

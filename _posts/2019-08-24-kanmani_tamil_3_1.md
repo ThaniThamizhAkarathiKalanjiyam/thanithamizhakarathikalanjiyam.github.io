@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_1
 featured: /images/noolkal_96_6.png
 order: 1
 ---
-{% include install_nool6.md %}
+
 
 ## அறிமுகம்
 

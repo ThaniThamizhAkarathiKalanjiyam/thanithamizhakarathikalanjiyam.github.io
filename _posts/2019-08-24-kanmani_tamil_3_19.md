@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_19
 featured: /images/noolkal_96_6.png
 order: 19
 ---
-{% include install_nool6.md %}
+
 
 ## பயன்பட்ட நூல்கள்
 

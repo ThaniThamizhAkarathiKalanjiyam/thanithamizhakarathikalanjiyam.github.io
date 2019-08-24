@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_6
 featured: /images/noolkal_96_6.png
 order: 6
 ---
-{% include install_nool6.md %}
+
 
 ## பெயரின் பொருளும் காரணமும்
 

@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_7
 featured: /images/noolkal_96_6.png
 order: 7
 ---
-{% include install_nool6.md %}
+
 
 ## பிறப்பு
 

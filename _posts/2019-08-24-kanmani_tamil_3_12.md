@@ -16,7 +16,7 @@ permalink: kanmani_tamil_3_12
 featured: /images/noolkal_96_6.png
 order: 12
 ---
-{% include install_nool6.md %}
+
 
 ## தமிழ்ச் சமுதாயத்தின் பார்வையும் ஒளவையின் நிலையும்
 
