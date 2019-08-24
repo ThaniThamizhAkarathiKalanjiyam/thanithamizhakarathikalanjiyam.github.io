@@ -14,5 +14,5 @@ featured: /images/noolkal_96_6.png
 order: 
 nool_publiser: கல்லாத்தி
 ---
-{% include install_nool6.md %}
+{% include install_nool5.md %}
 {% include install_nool3.md %}

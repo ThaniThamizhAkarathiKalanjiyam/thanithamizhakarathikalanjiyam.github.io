@@ -3,7 +3,7 @@
 
 ![](/images/books/{{ page.permalink }}.jpg)
 
-**நூலாசிரியர்:** {{ page.tags[0] }}  
+**நூலாசிரியர்:** {{ page.nool_author }}   
 **பதிப்பகம் /கைபேசியாக்கம்:** {{ page.nool_publiser }}  
 
 ==>> [Start Read Online]({{ page.permalink }}_1)
