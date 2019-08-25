@@ -27,18 +27,4 @@ order: 49
 
 இப்படைப்பாக்கம், கட்டற்ற உரிமங்களோடு (பொதுகள /குனு -Commons /GNU FDL )[2][3] இலவசமாக அளிக்கப்படுகிறது. எனவே, இந்த உரையை நீங்கள் மற்றவரோடு பகிரலாம்; மாற்றி மேம்படுத்தலாம்; வணிக நோக்கத்தோடும், வணிக நோக்கமின்றியும் பயன்படுத்தலாம்
 
-இம்மின்னூல் சாத்தியமாவதற்கு பங்களித்தவர்கள் பின்வருமாறு;
-
-  * Balajijagadesh
-  * Ramnath61
-  * Info-farmer
-  * Thamizhpparithi Maari
-  * TVA ARUN
-
-* * *
-
-  1. ↑ http;//ta.wikisource.org
-  2. ↑ http;//creativecommons.org/licenses/by-sa/3.0/
-  3. ↑ http;//www.gnu.org/copyleft/fdl.html
-
 [அடுத்த பக்கம்](aar_paarp_kot_50)
