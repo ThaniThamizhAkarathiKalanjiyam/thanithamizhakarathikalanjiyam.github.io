@@ -8,7 +8,7 @@ author: Tamilan
 layout: Ruby
 nool_author: கண்மணிகணேசன்
 nool_publiser: கண்மணிகணேசன்
-tags:
+tags: 
 - கண்மணிகணேசன்
 
 is_book: 1
@@ -23,7 +23,7 @@ order: 1
 **கண்மணிகணேசன் நூல்கள்**
 
 # ஒளவை என்னும் ஆளுமை
-   
+
 > ஆசிரியர்  
 >  **கண்மணிகணேசன்**
 

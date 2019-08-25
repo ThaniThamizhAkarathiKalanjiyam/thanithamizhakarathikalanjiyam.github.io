@@ -8,7 +8,7 @@ author: Tamilan
 layout: Ruby
 nool_author: கண்மணிகணேசன்
 nool_publiser: கண்மணிகணேசன்
-tags:
+tags: 
 - கண்மணிகணேசன்
 - கண்மணிகணேசன்
 - கண்மணித்தமிழ்
