@@ -23,8 +23,7 @@ order: 4
 
 இது சட்ட ஏற்புடைய உரிமத்தின் சுருக்கம் மட்டுமே. முழு உரையை https;//creativecommons.org/publicdomain/zero/1.0/legalcode என்ற முகவரியில் காணலாம்.
 
-**பதிப்புரிமை அற்றது**  
-இந்த ஆக்கத்துடன் தொடர்புடையவர்கள், உலகளளாவிய பொதுப் பயன்பாட்டுக்கு என பதிப்புரிமைச் சட்டத்துக்கு உட்பட்டு, தங்கள் அனைத்துப் பதிப்புரிமைகளையும் விடுவித்துள்ளனர்.
+**பதிப்புரிமை அற்றது** இந்த ஆக்கத்துடன் தொடர்புடையவர்கள், உலகளளாவிய பொதுப் பயன்பாட்டுக்கு என பதிப்புரிமைச் சட்டத்துக்கு உட்பட்டு, தங்கள் அனைத்துப் பதிப்புரிமைகளையும் விடுவித்துள்ளனர்.
 
 நீங்கள் இவ்வாக்கத்தைப் படியெடுக்கலாம்; மேம்படுத்தலாம்; பகிரலாம்; வேறு வடிவமாக மாற்றலாம்; வணிகப் பயன்களும் அடையலாம். இவற்றுக்கு நீங்கள் ஒப்புதல் ஏதும் கோரத் தேவையில்லை.
 
@@ -37,8 +36,7 @@ order: 4
 
 This is a human readable summary of the legal code found at https;//creativecommons.org/publicdomain/zero/1.0/legalcode
 
-**No Copyright**  
-The person who associated a work with this deed has **dedicated** the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law including all related and neighboring rights, to the extent allowed by law.
+**No Copyright** The person who associated a work with this deed has **dedicated** the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law including all related and neighboring rights, to the extent allowed by law.
 
 You can copy, modify, distribute and perform the work even for commercial purposes, all without asking permission.
 
@@ -49,7 +47,7 @@ This book is uploaded as part of the collaboration between Global Tamil Wikimedi
 ﻿ **ஆரியப் பார்ப்பனரின்  
 அளவிறந்த கொட்டங்கள்**
 
-**\-- பாவலரேறு பெருஞ்சித்திரனார்**
+**பாவலரேறு பெருஞ்சித்திரனார்**
 
 பதிப்பு ;
 
