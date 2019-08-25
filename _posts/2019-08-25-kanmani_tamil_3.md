@@ -13,7 +13,6 @@ tags:
 - கண்மணிகணேசன்
 - கண்மணித்தமிழ்
 - வாழ்வியல் முறை
-
 permalink: kanmani_tamil_3
 featured: /images/noolkal_96_6.png
 order: 
