@@ -8,7 +8,7 @@ author: Tamilan
 layout: Ruby
 nool_author: சிலம்பு
 nool_publiser: சிலம்பு
-tags:
+tags: 
 - சிலம்பு
 
 is_book: 1
