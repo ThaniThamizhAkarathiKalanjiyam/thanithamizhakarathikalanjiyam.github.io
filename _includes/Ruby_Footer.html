@@ -28,68 +28,12 @@
 {% endfor %}
 </div>
 
-<!--div id="tabs">
-  <ul>
-  {% assign post_id = 1 %}
-  {% for tag in page.tags %}
-    <li><a href="#tag{{ post_id }}">{{ tag }}</a></li>
-	{% assign post_id = post_id | plus: 1 %}
-  {% endfor %}
-  </ul>
-  {% assign post_id = 1 %}
-  {% for tag in page.tags %}
-  <div id="tag{{ post_id }}">
-<ol>
-		{% assign post_titles = "" %}
-		{% for post in site.tags[tag] %}
-			{% if post.is_book != 1 %}
-			{% assign title_check = post.title | append:'|' %}
-			{% if post_titles contains title_check %}
-				{% assign empty = "" %}
-			{% else %}
-<li><a href ="{{ site.url }}/{{ post.permalink }}">
-				{{ post.title }}</a>  </li>
-			{% endif %}
-			{% assign post_titles = post_titles | append:post.title | append:'|' %}
-			{% endif %}
-		{% endfor %}
-</ol>
-	
-  </div>  
-  {% assign post_id = post_id | plus: 1 %}
-  {% endfor %}
-</div-->
-
 <script>
   $( function() {
     <!--$( "#tabs" ).tabs();-->
 	$( "#accordion" ).accordion();
   } );
   </script>
-
-<!--ol>
-{% for tag in page.tags %}
-<li><h5><a href ="{{ site.url }}/tag/{{ tag }}">
-{{ tag }}
-</a></h5>
-<ol>
-{% assign post_titles = "" %}
-{% for post in site.tags[tag] %}
-{% if post.is_book != 1 %}
-	{% assign title_check = post.title | append:'|' %}
-	{% if post_titles contains title_check %}
-		{% assign empty = "" %}
-	{% else %}
-		<li><a href ="{{ site.url }}/{{ post.permalink }}">
-		{{ post.title }}</a>  </li>
-	{% endif %}
-	{% assign post_titles = post_titles | append:post.title | append:'|' %}
-{% endif %}
-{% endfor %}
-</ol>
-</li>
-{% endfor %}
-</ol-->
 
 <h5>தேடு சொற்கள்</h5>
 <ol>
@@ -104,7 +48,7 @@
   <div id="sidebar">
 {% if page.is_book %}
 <h3>நூல் <strong>பொருளடக்கம்</strong></h3>
-<ul>
+<!--ul>
 {% assign post_titles = "" %}
 {% assign sorted_pages = (site.posts | sort:"order") %}
 {% for post in  sorted_pages%}
@@ -119,19 +63,8 @@
 	{% assign post_titles = post_titles | append:post.sub_title | append:'|' %}
 {% endif %}
 {% endfor %}
-</ul>
+</ul-->
 {% elsif page.is_dict_search == 1%}
-<ul>
-  <div id="rss-feeds"></div>
-  </ul>
-<!--script>
-    jQuery(function($) {
-      $("#rss-feeds").rss("https://github.com/ThaniThamizhAkarathiKalanjiyam/agarathi/commits/gh-pages.atom",
-      {
-        entryTemplate:'<li><a href="{url}">[{author}@{date}] {title}</a><br/>{teaserImage}{shortBodyPlain}</li>'
-      })
-    })
-  </script-->
 <h3>தொடர்புடைய <strong>சொற்கள்</strong></h3>
 {% else %}  
 
