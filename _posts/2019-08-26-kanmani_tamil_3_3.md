@@ -8,8 +8,7 @@ author: Tamilan
 layout: Ruby
 nool_author: கண்மணிகணேசன்
 nool_publiser: கண்மணிகணேசன்
-tags: 
-- கண்மணிகணேசன்
+tags: [கண்மணிகணேசன்]
 is_book: 1
 permalink: kanmani_tamil_3_3
 featured: /images/noolkal_96_6.png

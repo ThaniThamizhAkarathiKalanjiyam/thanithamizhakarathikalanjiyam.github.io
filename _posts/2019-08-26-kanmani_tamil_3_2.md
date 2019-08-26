@@ -8,8 +8,7 @@ author: Tamilan
 layout: Ruby
 nool_author: கண்மணிகணேசன்
 nool_publiser: கண்மணிகணேசன்
-tags: 
-- கண்மணிகணேசன்
+tags: [கண்மணிகணேசன்]
 is_book: 1
 permalink: kanmani_tamil_3_2
 featured: /images/noolkal_96_6.png
@@ -25,6 +24,6 @@ order: 2
 
 **கைபேசியாக்கம்,  
 மு.பிச்சைமுத்து**  
-2019-08-25-
+2019-08-26-
 
 [அடுத்த பக்கம்](kanmani_tamil_3_3)
