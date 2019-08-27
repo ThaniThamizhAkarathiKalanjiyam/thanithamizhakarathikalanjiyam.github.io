@@ -12,4 +12,4 @@ permalink: kunangudiyaar_nanmani_malai
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include kunangudiyaar_nanmani_malai.md %} 
+

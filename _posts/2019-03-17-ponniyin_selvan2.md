@@ -12,4 +12,4 @@ permalink: ponniyin_selvan2
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include ponniyin_selvan2.md %} 
+

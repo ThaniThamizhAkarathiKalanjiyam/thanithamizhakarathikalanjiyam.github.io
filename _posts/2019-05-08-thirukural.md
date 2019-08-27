@@ -13,4 +13,4 @@ permalink: thirukural
 featured: /images/noolkal_96_6.png
 ---
 {% include install_nool5.md %}
-{% include thirukural.md %}
+

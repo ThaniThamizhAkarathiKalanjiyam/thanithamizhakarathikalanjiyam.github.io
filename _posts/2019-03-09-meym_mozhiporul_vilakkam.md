@@ -12,4 +12,4 @@ permalink: meym_mozhiporul_vilakkam
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include meym_mozhiporul_vilakkam.md %} 
+

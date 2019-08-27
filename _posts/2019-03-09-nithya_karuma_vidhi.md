@@ -12,4 +12,4 @@ permalink: nithya_karuma_vidhi
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include nithya_karuma_vidhi.md %} 
+

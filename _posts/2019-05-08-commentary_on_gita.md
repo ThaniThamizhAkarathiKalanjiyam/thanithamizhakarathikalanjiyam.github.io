@@ -12,4 +12,4 @@ permalink: commentary_on_gita
 featured: /images/noolkal_96_6.png
 ---
 {% include install_nool5.md %}
-{% include commentary_on_gita.md %}
+

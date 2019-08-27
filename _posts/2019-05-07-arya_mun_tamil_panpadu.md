@@ -12,4 +12,4 @@ permalink: arya_mun_tamil_panpadu
 featured: /images/noolkal_96_6.png
 ---
 {% include install_nool5.md %}
-{% include arya_mun_tamil_panpadu.md %}
+

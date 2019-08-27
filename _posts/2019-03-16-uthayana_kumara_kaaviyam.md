@@ -12,4 +12,4 @@ permalink: uthayana_kumara_kaaviyam
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include uthayana_kumara_kaaviyam.md %} 
+

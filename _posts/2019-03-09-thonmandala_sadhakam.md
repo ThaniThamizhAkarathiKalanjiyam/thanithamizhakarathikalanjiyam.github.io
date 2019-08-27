@@ -12,4 +12,4 @@ permalink: thonmandala_sadhakam
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include thonmandala_sadhakam.md %} 
+

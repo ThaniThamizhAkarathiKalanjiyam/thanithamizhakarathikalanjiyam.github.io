@@ -12,4 +12,4 @@ permalink: thirumanthiram_thanthiram_8
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include thirumanthiram_thanthiram_8.md %} 
+

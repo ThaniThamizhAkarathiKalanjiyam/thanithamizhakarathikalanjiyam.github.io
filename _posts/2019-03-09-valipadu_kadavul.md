@@ -12,4 +12,4 @@ permalink: valipadu_kadavul
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include valipadu_kadavul.md %} 
+

@@ -15,4 +15,4 @@ permalink: siruvar_tamil
 featured: /images/noolkal_96_6.png
 ---
 {% include install_nool5.md %}
-{% include siruvar_tamil.md %}
+

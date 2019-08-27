@@ -12,4 +12,4 @@ permalink: thiruvarutpaa_5
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include thiruvarutpaa_5.md %} 
+
