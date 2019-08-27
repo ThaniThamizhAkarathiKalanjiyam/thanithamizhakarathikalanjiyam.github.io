@@ -12,4 +12,4 @@ permalink: hindu_marriage_act_1955_bare_act
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include hindu_marriage_act_1955_bare_act.md %} 
+
