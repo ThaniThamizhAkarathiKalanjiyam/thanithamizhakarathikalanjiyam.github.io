@@ -16,4 +16,3 @@ order: 0
 ---
 
 {% include install_nool5.md %}
-{% include install_nool3.md %}

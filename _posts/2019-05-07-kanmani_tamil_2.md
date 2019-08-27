@@ -13,4 +13,4 @@ permalink: kanmani_tamil_2
 featured: /images/noolkal_96_6.png
 ---
 {% include install_nool5.md %}
-{% include kanmani_tamil_2.md %}
+

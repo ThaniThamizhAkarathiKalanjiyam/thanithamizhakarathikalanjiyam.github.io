@@ -12,4 +12,4 @@ permalink: kanmani_tamil_8
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include kanmani_tamil_8.md %} 
+
