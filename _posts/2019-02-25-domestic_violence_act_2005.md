@@ -12,4 +12,4 @@ permalink: domestic_violence_act_2005
 featured: /images/noolkal_96_6.png  
 ---  
 {% include install_nool.md %} 
-{% include domestic_violence_act_2005.md %} 
+
