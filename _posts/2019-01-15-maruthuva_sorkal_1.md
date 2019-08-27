@@ -14,4 +14,5 @@ featured: /images/noolkal_96_6.png
 ---  
 இது அகராதி ஆதலால் மருத்துவம் சார்ந்த சொற்களைத் தேடும் போது அச்சொல்லுக்கான பொருள் வரும்.
 
-{% include maruthuva_sorkal_1.md %} 
+{% include install_nool.md %}  
+
