@@ -5,10 +5,8 @@ keywords: அகராதி வெளியிடுகள்
 description: அகராதி வெளியிடுகள் பற்றி அறிந்து கொள்ளலாம்.
 author: Tamilan
 layout: Ruby
-tags: 
-- released
+tags: [released]
 permalink: ttak_kandhal
-
 software_image: /images/seventeen.jpg
 version: 2.8.2.39264 
 version_name: Ttak காந்தள் (Windows)
