@@ -5,11 +5,7 @@ keywords: More, Tamil, Books
 description: பண்டைய மதுரையின் இருபெரு நியமங்கள்
 author: Tamilan  
 layout: Ruby  
-tags:     
-- கண்மணிகணேசன்
-- கண்மணித்தமிழ்
-- மாங்குடிமருதனார்
-- மதுரைக்காஞ்சி
+tags:     [கண்மணிகணேசன்,கண்மணித்தமிழ்,மாங்குடிமருதனார்,மதுரைக்காஞ்சி]
 permalink: kanmani_tamil_6  
 featured: /images/noolkal_96_6.png  
 ---  
