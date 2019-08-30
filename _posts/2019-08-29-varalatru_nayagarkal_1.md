@@ -14,8 +14,6 @@ permalink: varalatru_nayagarkal_1
 featured: /images/noolkal_96_6.png
 order: 1
 ---
-
-
 ## அறிமுகம்
 
 **சிலம்பு நூல்கள்**
