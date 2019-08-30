@@ -1,3 +1,10 @@
+<div class="row">
+  <div class="col-sm-4">கட்டுரைக்களஞ்சியம்</div>
+  <div class="col-sm-4">சங்கஇலக்கியக்களஞ்சியம்</div>
+  <div class="col-sm-4">இலக்கியக்களஞ்சியம்</div>
+</div>
+
+
 **புதிய நூல்கள் /கட்டுரைகள்** 
 
 {% assign post_titles = "" %}
