@@ -47,35 +47,35 @@ html{-webkit-text-size-adjust:100%;line-height:1.4;color:#fff;font:17px/1.4 'Ope
 <h1>{{ site.description }}</h1>
 <p class="description">{{ site.short_name }} உங்களின் கணினி அகராதி <strong>விரைவாக</strong>, <strong>துல்லியமாக</strong>, மற்றும் <strong>எளிதாக</strong> தமிழ் ஆங்கிலச் சொற்களுக்கான பொருளை காண முடியும்.</p>
 <div class="cta-option">
-<a class="btn btn-download" href="https://github.com/h5bp/html5-boilerplate/releases/download/v7.2.0/html5-boilerplate_v7.2.0.zip" data-ga-category="Download" data-ga-action="Download - top" data-ga-label="v7.2.0">
-<strong>Download</strong> <span class="version">v7.2.0</span> </a>
-<a class="last-update" href="https://github.com/h5bp/html5-boilerplate/blob/v7.2.0/CHANGELOG.md" data-ga-category="Outbound links" data-ga-action="See the CHANGELOG" data-ga-label="v7.2.0">See the CHANGELOG</a>
+<a class="btn btn-download" href="https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/archive/v2.8.6.3.zip" data-ga-category="Download" data-ga-action="Download - top" data-ga-label="v7.2.0">
+<strong>Download</strong> <span class="version">v2.8.6.3</span> </a>
+<a class="last-update" href="{{ site.url}}/release_notes" data-ga-category="Outbound links" data-ga-action="வெளியீடுகள்" data-ga-label="v7.2.0">வெளியீடுகளைப் பார்க்க</a>
 </div>
 </div>
 </div>
 <div class="site-section">
 <div class="container">
-<h2>Save time. Create with confidence.</h2>
+<h2>நேரத்தைச் குறைத்து தெளிவான பொருளைக் காணுங்கள்</h2>
 <div class="grid">
 <div class="grid-cell">
 <h3>
-<span class="star">★</span> Analytics, icons, and more</h3>
-<p>A lean, mobile-friendly HTML template; optimized Google Analytics snippet; placeholder touch-device icon; and docs covering dozens of extra tips and tricks.</p>
+<span class="star">★</span> சொல் தேடல்</h3>
+<p>சொற்களுக்குரிய பொருளைத் தேடுங்கள்</p>
 </div>
 <div class="grid-cell">
 <h3>
-<span class="star">★</span> Normalize.css and helpers</h3>
-<p>Includes <a href="https://necolas.github.io/normalize.css/">Normalize.css</a> — a modern, HTML5-ready alternative to CSS resets — and further base styles, helpers, media queries, and print styles.</p>
+<span class="star">★</span> சொல்உருவாக்கி</h3>
+<p>புதிய தமிழ்ச் சொற்களை மென்பொருளின் உதவி கொண்டு உருவாக்குங்கள்.</p>
 </div>
 <div class="grid-cell">
 <h3>
-<span class="star">★</span> jQuery and Modernizr</h3>
-<p>Get the latest minified versions of two best-of-breed libraries: <a href="https://jquery.org/">jQuery</a> (via jQuery’s CDN, with local fallback) and a custom build of the <a href="https://modernizr.com/">Modernizr</a> feature detection library.</p>
+<span class="star">★</span> jQuery மற்றும் நாட்காட்டி</h3>
+<p>உங்களின் இணைய தளங்களில் <a href="https://jquery.org/">jQuery</a> தமிழ் நாட்டி சொருகு நிரலை பயன்படுத்தி தமிழ் நாட்காட்டியை உருவாக்குங்கள்.</p>
 </div>
 <div class="grid-cell">
 <h3>
-<span class="star">★</span> High performance</h3>
-<p>Apache settings to help you deliver excellent site performance. We independently maintain <a href="https://github.com/h5bp/server-configs">server configs</a> for multiple platforms.</p>
+<span class="star">★</span> கிரந்தச்சொல் நீக்கி</h3>
+<p>மென்பொருளைப் பயன்படுத்தி கிரந்தச் சொற்களில் உள்ள கிரந்த எழுத்துக்களை இலக்கண வரம்புகளோடு நீக்கலாம்</p>
 </div>
 </div>
 </div>
