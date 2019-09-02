@@ -31,17 +31,11 @@ html{-webkit-text-size-adjust:100%;line-height:1.4;color:#fff;font:17px/1.4 'Ope
 <div class="container">
 <div class="site-header clearfix" role="banner">
 <div class="site-logo">{{ site.short_name }} <span class="star">★</span> {{ site.description_short }}</div>
-<ul class="site-nav inline-block-list">
-<li>
-<a href="https://github.com/h5bp/html5-boilerplate" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label="Source code">Source code</a>
-</li>
-<li>
-<a href="https://github.com/h5bp/html5-boilerplate/blob/v7.2.0/dist/doc/TOC.md" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label="Docs">Docs</a>
-</li>
-<li>
-<a href="https://h5bp.org/" data-ga-category="Outbound links" data-ga-action="Nav click" data-ga-label="Other projects">Other projects</a>
-</li>
-</ul>
+
+{% include site-links.html %}	
+
+
+
 </div>
 <div class="site-promo">
 <h1>{{ site.description }}</h1>
