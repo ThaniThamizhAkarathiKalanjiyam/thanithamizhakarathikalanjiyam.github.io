@@ -88,12 +88,16 @@ A model HTML file (see the sections inside **. And while deployment remove the *
 
 மின்தமிழ் குழும உறுப்பினர்களின் உதவியால் இந்த சோதனை ஓட்ட JQuery-ui Plugin for Tamil Datepicker உருவாக்கம் பெற்று உள்ளது
 
+- jayabarathans 
+- N. Ganesan
+- rathinam.chandramohan 
 - இரவிஅண்ணாசாமி
 - இன்னம்பூரான்
 - தேமொழி
 - கந்தன்
 - சேதுராமன் 
 - கண்மணி
+- சுப்புராஜ்
 - சுப்புராஜ்
 - மற்றும் பலர்
 
