@@ -1,0 +1,2632 @@
+<!DOCTYPE html>
+<!-- saved from url=(0029)https://www.ruby-lang.org/en/ -->
+<html lang="ta"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" type="text/css" href="https://thanithamizhakarathikalanjiyam.github.io/assets/Ruby_files/normalize.css">
+    <link rel="stylesheet" type="text/css" href="https://thanithamizhakarathikalanjiyam.github.io/assets/Ruby_files/main.css">
+    <link rel="stylesheet" type="text/css" href="https://thanithamizhakarathikalanjiyam.github.io/assets/Ruby_files/pygments.css">
+    <link rel="stylesheet" type="text/css" href="https://thanithamizhakarathikalanjiyam.github.io/assets/Ruby_files/mobile.css">
+    <link rel="stylesheet" type="text/css" href="https://thanithamizhakarathikalanjiyam.github.io/assets/Ruby_files/print.css">
+    <link rel="stylesheet" type="text/css" href="https://thanithamizhakarathikalanjiyam.github.io/assets/Ruby_files/css" >
+	<link rel="stylesheet" type="text/css" href="https://thanithamizhakarathikalanjiyam.github.io/assets/jquery-ui/jquery-ui.min.css">
+    <link rel="canonical" href="https://thanithamizhakarathikalanjiyam.github.io/">
+	<style>
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button2 {background-color: #008CBA;} /* Blue */
+.button3 {background-color: #f44336;} /* Red */ 
+.button4 {background-color: #e7e7e7; color: black;} /* Gray */ 
+.button5 {background-color: #555555;} /* Black */
+
+/* resize images */
+#content img {
+    max-width: 100%;
+    height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+</style>
+
+    <meta property="og:image" content="/images/ttak.png"/>
+	<link rel="shortcut icon" type="image/png" href="/images/ttak.png"/>
+    
+    <link href="/feed" rel="alternate" title="Recent News (RSS)" type="application/rss+xml">
+
+
+    <script async="" src="https://thanithamizhakarathikalanjiyam.github.io/assets/Ruby_files/ga.js"></script>
+	
+	<!--script src="https://thanithamizhakarathikalanjiyam.github.io/assets/Ruby_files/jquery.min.js"></script-->
+	<script src="https://code.jquery.com/jquery-1.9.1.js"></script>
+	
+	<script async="" src="https://thanithamizhakarathikalanjiyam.github.io/assets/Ruby_files/ga.js"></script>
+	<script async="" src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/external/TamilCalendar/calendar_ta.js"></script>
+	<script async="" src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>
+	
+	<script src="https://thanithamizhakarathikalanjiyam.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+	<script src="https://thanithamizhakarathikalanjiyam.github.io/jquery-ui/ui/widgets/datepicker_ta.js"></script>
+	
+    <script src="https://thanithamizhakarathikalanjiyam.github.io/assets/Ruby_files/page.js"></script>
+    
+    
+    <script src="https://thanithamizhakarathikalanjiyam.github.io/assets/Ruby_files/examples.js"></script>
+	<script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>
+	<script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/vadam.tamil.pairs.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.4.2/markdown-it.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.4/moment.min.js"></script>
+	<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-rss/3.3.0/jquery.rss.min.js"></script-->
+    
+<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie/v8.css" /><![endif]-->
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>நுண்பொருள் காண்பதறிவு | தனித் தமிழகராதிக் களஞ்சியம்</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="நுண்பொருள் காண்பதறிவு" />
+<meta name="author" content="Tamilan" />
+<meta property="og:locale" content="ta_in" />
+<meta name="description" content="நுண்பொருள் காண்பதறிவு" />
+<meta property="og:description" content="நுண்பொருள் காண்பதறிவு" />
+<link rel="canonical" href="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_8" />
+<meta property="og:url" content="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_8" />
+<meta property="og:site_name" content="தனித் தமிழகராதிக் களஞ்சியம்" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2019-08-16T00:00:00+05:30" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://thanithamizhakarathikalanjiyam.github.io/images/ttak.png"},"name":"Tamilan"},"url":"https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_8","author":{"@type":"Person","name":"Tamilan"},"headline":"நுண்பொருள் காண்பதறிவு","dateModified":"2019-08-16T00:00:00+05:30","datePublished":"2019-08-16T00:00:00+05:30","description":"நுண்பொருள் காண்பதறிவு","mainEntityOfPage":{"@type":"WebPage","@id":"https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_8"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+
+  
+
+
+
+
+
+ 
+
+  </head>
+
+  
+
+  <body id="home-page-layout">
+    <div id="header">
+      <div id="header_content" class="container">
+        <a href= "https://thanithamizhakarathikalanjiyam.github.io">
+          <h1>அஃக</h1>
+          <h2>தனித்தமிழ் இயக்கத்தின் முனைப்பு.</h2>
+        </a>
+
+        <div class="site-links">		
+          	
+
+
+<a href="/" class="selected">வாடிவாசல்</a>
+  
+
+  <a href="https://thanithamizhakarathikalanjiyam.github.io/download" 
+  
+  >தரவிறக்கம்</a>
+  
+  
+
+  <a href="https://thanithamizhakarathikalanjiyam.github.io/agarathiV2" 
+  
+  >அகராதி</a>
+  
+  
+
+  <a href="https://thanithamizhakarathikalanjiyam.github.io/v2/" 
+  
+  >கட்டுரைக்களஞ்சியம்</a>
+  
+  
+
+  <a href="https://thanithamizhakarathikalanjiyam.github.io/more_books" 
+  
+  >ஞாலக்களஞ்சியம்</a>
+  
+  
+
+  <a href="https://thanithamizhakarathikalanjiyam.github.io/about" 
+  
+  >எம்மைப்பற்றி</a>
+  
+
+
+<a href="feed" class="menu selected">RSS</a>
+
+
+		
+		</div>
+
+        <div id="search-box">
+          
+<form id="search-form" action="https://www.google.com/cse">
+  <table class="fieldset">
+    <tbody><tr>
+      <td>
+        <input class="field" type="text" name="q" size="31" style="background: white url(//www.google.com/coop/intl/en/images/google_custom_search_watermark.gif) left no-repeat" onfocus="this.style.background=&#39;white&#39;" onblur="if (/^\s*$/.test(this.value)) this.style.background=&#39;white url(//www.google.com/coop/intl/en/images/google_custom_search_watermark.gif) left no-repeat&#39;">
+      </td>
+      <td>
+        <input type="hidden" name="cx" value="007131993471906034329:z-f36_gsnoq">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input class="button" type="submit" name="sa" value="Search">
+      </td>
+    </tr>
+  </tbody></table>
+</form>
+
+        </div>
+      </div>
+    </div>
+
+    <div id="page">
+
+
+
+
+      <div id="main-wrapper" class="container">
+        <div id="main">
+          <div id="content-wrapper">
+  
+<h1>நுண்பொருள் காண்பதறிவு 05. ஆட்டிசம் ஆய்விற்கு உதவும் ஆப்பிள் செயலி</h1>
+<hr/>
+
+பதிவுற்ற நாள் 16 Aug 2019 | 
+
+
+
+<a href="/tag/தேமொழி"><code class="highligher-rouge"><nobr>தேமொழி</nobr></code>&nbsp;</a>
+
+
+
+<hr/>
+  <div id="content">
+<b>
+
+நுண்பொருள் காண்பதறிவு >> 05. ஆட்டிசம் ஆய்விற்கு உதவும் ஆப்பிள் செயலி - நூலை இயங்கலையில் படித்துக் கொண்டு இருக்கிறீர்கள் . . . 
+
+</b>
+
+
+
+<h2 id="05-ஆட்டிசம்-ஆய்விற்கு-உதவும்-ஆப்பிள்-செயலி">05. ஆட்டிசம் ஆய்விற்கு உதவும் ஆப்பிள் செயலி</h2>
+
+<p>2015-10-24T23:36:00.000-07:00</p>
+
+<p>இன்றைய நாட்களில், குழந்தைகளுக்கான தொலைக்காட்சி நிகழ்ச்சியில் “செசாமீ ஸ்ட்ரீட் நிகழ்ச்சியின் பாத்திரம் ஜூலியா” (Sesame Street’s Julia character with autism) வரை ஆட்டிசம் பற்றிய விழிப்புணர்வு வளர்ந்திருந்தாலும், முதன் முதலில், கால்நூற்றாண்டிற்கு முன்னர், “ஆட்டிசம்” (Autism, மதியிறுக்கம் அல்லது புற உலகச் சிந்தனைக் குறைபாடு) என்பதைப் பற்றி பலர் அறிந்தது 1988 ஆம் ஆண்டு வெளியான “ரெயின் மேன்” (Rain Man – 1988) என்ற திரைப்படத்தின் மூலம்தான். அதில் நாயகன் ரெயின் மேன் தனக்கு தரும் நச்சரிப்பைத் தாளமுடியாமல், அவரது தம்பி அவரை ஒரு மருத்துவரிடம் அழைத்துச் சென்று உதவி கேட்பார். தம்பியின் முறையீடுகளைப் பற்றிக் கேட்கும் மருத்துவரிடம் ரெயின் மேனின் தம்பி, தனது அண்ணன் எப்பொழுதும் எண்கள், தகவல்கள் ஆகியவற்றில் அதிக ஆர்வம் கொண்டு அவற்றைப் பற்றியே பேசிக்கொண்டிருப்பது தன்னை வெறுப்பேற்றுகிறது என்று குற்றம் சாட்டுவார்.</p>
+
+<p><img src="http://siragu.com/wp-content/uploads/2015/10/autism3.jpg" alt="autism3" />நிலைமையைப் புரிந்து கொண்ட மருத்துவர் சோதனையைத் துவக்குவார். ஒரு கால்குலேட்டர் கொண்டு 312 யும் 123 யும் பெருக்கினால் என்ன விடை என்று கேட்க, சற்றும் தாமதியாமல் 38,376 என்பார் நாயகன் ரெயின் மேன். அடுத்து, 4343 x 1234 எவ்வளவு என்றாலும் உடனே 5,359,262 என்று பதில் வரும். தொடர்ந்து ஒரு எண்ணைக் கொடுத்து அதன் வர்க்க மூலம் என்ன? என்றாலும் நொடிப்பொழுதில் சரியான விடை கிடைக்கும். ஆனால், அடுத்து ஒரு டாலரில் ஐம்பது சென்ட் செலவழித்துவிட்டால் மீதி எவ்வளவு என்றால் தவறான விடை வரும், பிறகு ஒரு மிட்டாயின் விலை நூறு டாலர் என்பார், ஒரு காரின் விலை 1,200 டாலர் என்பார் (https://www.youtube.com/watch?v=pKtPhkx4jV0&amp;feature=youtu.be&amp;t=1h12m45s).</p>
+
+<p>இதுதான் ஆட்டிசம் இருப்பவர்கள் புரிந்து கொள்வது. கணிதத்தில் வல்லுநர்களாக இருக்கலாம், ஆனால் அதைச் சரியாக நடப்புலகில் பயன்படுத்த அவர்களுக்குத் தெரியாது. ஒருவர் எதனையும் கற்றுக் கொள்வதன் அடிப்படைக் காரணம், கற்பதைப் புரிந்து கொண்டு அந்தத் தகவலை நாம் வாழும் உலகில் அதை பொதுமைப்படுத்தி நமக்குத் தேவையான பொழுது பயன்படுத்துவதற்காகத்தான். தான் கற்பதையும், புரிந்து கொள்வதையும், பொதுமைப்படுத்திப் பயன்படுத்தும் தன்மையும் ஆட்டிசம் குறைபாடு உடையவர்களிடம் இருக்காது. அதாவது, சுருக்கமாக, வாழும் வாழ்க்கைக்கு அவர்கள் கற்கும் கல்வியை, தெரிந்து கொள்ளும் தகவல்களைப் பயன்படுத்த அவர்களுக்குத் தெரியாது. ஆனாலும் பல அறிவாளிகளையும் மிஞ்சும் வண்ணம் தகவல் அவர்கள் கையில் இருக்கலாம். இவ்வாறு கற்பதிலும் அதைப் பயனுக்கு கொண்டுவருவதிலும் சிரமம் கொள்ளும் ஆட்டிசம் குறைபாடு உடையவர்களுக்குக் கற்பிப்பதிலும் நாம் அனைவருக்கும் பயன்படுத்தும் முறையைப் பயன்படுத்த இயலாது.</p>
+
+<p>ஆட்டிசம் குறைபாடு உடையவர்களுக்கு மிகவும் மாறுபட்ட சிறப்புப் பயிற்சி அளிக்கும் முறை தேவை. ஆனால் அத்துறையில் ஆராய்ச்சியும், பயிற்சியும் இன்னமும் வளர்ச்சி அடையாத நிலையிலேயே இருக்கிறது என்பதை கார்னகி மிலான் பல்கலைக்கழக ஆய்வாளர் ‘மர்லீன் பெர்மான்’ (Marlene Behrmann, Director, Cognitive Neuroscience Lab, Department of Psychology, Carnegie Mellon Univiversity) குறிப்பிடுகிறார். ஆட்டிசம் குறைபாடு உடையவர்கள் கற்பதில் எதிர்கொள்ளும் நிலைக்குக் காரணம் மிகத்துல்லியமாக, குறிப்பிட்ட ஒருநிலைக்கு மட்டுமே தகவலைப் புரிந்து கொள்வதும், கற்பதில் மாற்றங்களுக்கு தங்களை தகவமைத்துக் கொள்ளாத நிலையும் ( ‘hyperspecificity’ of learning — their learning became fixed and inflexible — ) காரணம் என்பது இந்த ஆய்வில் பங்கேற்கும் இஸ்ரேல் நாட்டின் ஆய்வாளர் ‘ஹில்லா ஹாரிஸ்’ (Hila Harris, The Weizmann Institute, Israel) என்பவரின் கருத்து.</p>
+
+<p>ரெயின் மேன் படம் வெளிவந்த பொழுது, இப்படத்தின் மீது பல விமர்சனங்களும் எழுந்தன. ஆட்டிசம் என்ற வளர்ச்சிக் குறைபாட்டைக் குறிக்கும் ஒரு பக்கத்தையே இந்தப்படம் காண்பித்ததால், மக்கள் ஆட்டிசம் என்றால் சமூகத்தில் பழகத் தெரியாத அறிவுஜீவிகள் என்று மட்டுமே பொருள் கொள்ளத் தொடங்கினர். ஆட்டிசம் பாதிப்பின் உண்மையான நிலை பற்றிய புரிதல் பொதுமக்களிடம் இல்லாமல் போனது. ஆட்டிசம் என்பது ஒரு “ஸ்பெக்ட்ரம் டிஸ்ஆர்டர்” ( autism spectrum disorders – ASD) குறைபாடு என்றும், இது ஒரு “நோய் அல்ல” என்றும் மருத்துவம் குறிப்பிடுகிறது.</p>
+
+<p>அதாவது, இதனை மருத்துவத்தால் குணப்படுத்த முடியாது, தீவிர பயிற்சிகளால் இக்குறைபாடு உடையவர்களின் நடவடிக்கைகளை ஓரளவு மாற்றலாம். அவ்வளவே. இந்தப் புரிதல் இன்றும் பொதுமக்களிடம் இல்லை என்பதே உண்மை. ஆட்டிசம் ஸ்பெக்ட்ரம் குறைபாடு என்று கூறப்படுவதால், இக்குறை உள்ளவர்கள் ஒரு ‘கற்றையில்’ பல இழைகள் இருப்பது போல குறைபாடுகளை பற்பல வகையில் கொண்டிருப்பார்கள். எனவே ஆட்டிசம் பாதிப்புள்ளோர் அனைவருமே இக்குறைபாட்டினால் ஒரே வகையில் பாதிப்படைந்திருப்பார்கள் என்று முடிவு கொள்வது சரியல்ல.</p>
+
+<p>இந்தக் குறைபாடு (disorder) கொண்டவர்கள், ரெயின் மேன் படத்தில் காட்டியது போல நன்கு பேசக் கூடியவர்களாகவும், கற்கக் கூடியவர்களாகவும், இசை, ஓவியம் போன்ற கலைகளிலும் சிறந்தவர்களாகவும் இருக்கக் கூடும். இவர்களைக் கடுமை குறைந்த நிலையான ‘உயர்நிலை செயல்பாட்டைக் கொண்டவர்கள்’ (high functioning) என்றும் ‘ஆஸ்பெர்ஜர் சிண்ட்ரோம்’ (Asperger syndrome) உள்ளவர்கள் என்றும் கூறுவார்கள், இவர்கள் பெரும்பாலான துறைகளில் சராசரி செயல்பாடு கொண்டவர்களாக இருப்பர்.இந்தக் குறைபாட்டின் மறுகோடியில் இருப்பவர்களோ பேசவும் முடியாதவர்களாகவும் இருப்பார்கள், தீவிரநிலையில் உள்ள இவர்களை ‘குறைந்தநிலை செயல்பாட்டைக் கொண்டவர்கள்’ (low functioning) என்று வகைப்படுத்துவார்கள். இவர்களது சமூகச் செயல்பாடுகள் பெருமளவு பாதிக்கப்பட்டிருக்கும்.</p>
+
+<p>பொதுவாக, தகவல் பரிமாற்றம் செய்வது, சமுதாயத்தில் மற்றவரிடம் பழகுவது, பொது இடங்களில் நடந்து கொள்ளும் முறை ஆகியவற்றில் குறைபாடுகளும், மாறுபட்ட சிந்தனை, ஆர்வம், எண்ணங்கள், நடத்தைகள் என்பது ஆட்டிசத்தின் எத்தகைய நிலை செயல்பாட்டைக் கொண்டவர்களிடமும் இருக்கும். உயர்நிலை செயல்பாட்டைக் கொண்ட ஒருசிலரைத் தவிர பெரும்பான்மையானோர் வளர்ந்தாலும் தனித்து வாழும் தகுதியோ, திறனோ அற்றவர்கள். வாழ்க்கை முழுவதும் அவர்களைக் கையாளத் தெரிந்த அடுத்தவர் பராமரிப்பில் வாழ்வதுதான் அவர்களது எதிர்காலம்.</p>
+
+<p>இக்குறைபாட்டின் காரணம் இதுவரை உறுதியாகக் கண்டறியப்படாத நிலையில், மரபணுக் குறைபாடு முதற் கொண்டு, சுற்றுச் சூழல் கேட்டினால் பாதிப்பு எனப் பல காரணங்களும் ஆராயப்படுகின்றன. இக்குறைபாட்டினால் எத்தரப்பினரும் பாதிக்கப்படுவதுண்டு. சமீபத்தில் இக்குறைபாட்டைப் பற்றிய விழிப்புணர்வு ஏற்பட்டுள்ளதால், குறைபாடு உடைய பலரும் அடையாளம் கண்டறியப்படும் நிலை ஏற்பட்டுள்ளது.</p>
+
+<p>பொதுவாக இக்குறைபாடு குழந்தையின் இரண்டு அல்லது மூன்றாவது வயதில் கண்டறியப்படுகிறது. இன்றுவரை, குழந்தையிடம் வயதிற்கேற்ற வளர்ச்சியும் நடவடிக்கைகளும் இல்லாமல் போகும்பொழுது மட்டும்தான் இக்குறைபாட்டைக் கண்டறியும் நிலை உள்ளது. வேறுவகையில் மருத்துவப் பரிசோதனைகள், ஆய்வுகூட சோதனைகள் ஆகியவற்றின் மூலம் இக்குறைபாட்டைக் கண்டறிய வாய்ப்பில்லை.</p>
+
+<p>சிறுகுழந்தைதானே … ஏதோ குறும்பு செய்கிறது, ஒவ்வொரு குழந்தையும் ஒவ்வொரு விதத்தில் வளரும், சில குழந்தைகள் பேசுவதற்குக் கொஞ்சம் தாமதமாகலாம் என்று பெற்றோர் சிலர் அசட்டையாகவும் இருப்பதுண்டு. தனது குழந்தையின் நடவடிக்கைகளை, தனது குழந்தைதானே என்ற நோக்கில் பெற்றோர்கள் பொருட்படுத்தாமல் இருக்கும்பொழுது, சுற்றியுள்ள மற்றவர்கள் குழந்தையின் வயதிற்கேற்ற நடவடிக்கை இல்லாததைக் கண்டு பெற்றோர் வளர்ப்பையும், குறிப்பாகத் தாயின் பொறுப்பற்ற தன்மையால்தான் இந்தநிலை என்றும் குறை சொல்வது உலக வழக்கம்.</p>
+
+<p>கீழுள்ள தகவல் விக்கிப்பீடியா தொகுத்து வழங்கும் ஆட்டிசம் உள்ள குழந்தைகளை அவர்களது நடவடிக்கை மூலம் கண்டறிய உதவும் சில குறிப்புகள்:</p>
+
+<p>- 18 மாதத்திற்கு மேல் குழந்தைகளிடம் விளையாட்டு, பேச்சு, சமூகத்திறன்களில் காணப்படும் பின்தங்கிய நிலை</p>
+
+<p>- கையால் சுட்டி பொருளைக் காண்பித்தால் பொருளைப் பார்க்காமல் சுட்டும் கையைப் பார்ப்பது</p>
+
+<p>- பெயரைச் சொல்லி அழைத்தால் திரும்பிப்பார்க்காமல் இருத்தல்</p>
+
+<p>- கண்ணோடு கண் தொடர்பு கொள்ளாமல் இருத்தல்</p>
+
+<p>- சொற்கள் மூலம் தேவையை வெளிப்படுத்தாமை (அடுத்தவரின் அல்லது தனது கையின் ஆட்காட்டி விரலைப்பயன்படுத்திச் சுட்டிக் காட்டுவது)</p>
+
+<p>- அடுத்தவருடன் சேர்ந்து செயல்களைச் செய்வதில் அல்லது கவனிப்பதில் குறைபாடு</p>
+
+<p>- பிடித்தமான வேலையிலிருந்து கவனத்தைத் திசை திருப்புவது கடினம்</p>
+
+<p>- வயதொத்தவர்களுடன் சேர்ந்து விளையாடுவதில் சிக்கல்</p>
+
+<p>- வாயால் ஊதுவதில் பிரச்சனை (இயலாது)</p>
+
+<p>- சைகை அல்லது பிற அசைவுகளின் மூலம் தேவைகளை வெளிப்படுத்துவதில் பிரச்சனை</p>
+
+<p>- சொற்கள் மூலம் பிறருடன் தொடர்பு கொள்ளும் திறன் இல்லாதிருத்தல்</p>
+
+<p>- எல்லாவிதமான விளையாட்டுகளையும் கற்பதில் பிரச்சினை</p>
+
+<p>- பொருட்களை ஒன்றன் பின் ஒன்றாக அடுக்குவதில் திறமை வாய்ந்தவர்கள்</p>
+
+<p>- ஒரு குறிப்பிட்ட பொம்மை அல்லது பொருளை மட்டுமே பயன்படுத்துவர்</p>
+
+<p>- சுழலும் பொருட்களுடன் அதிக நேரம் விளையாடுவது, சுழற்சியை இரசிப்பது, ஒருவிளையாட்டுப் பொம்மையின் ஒரு பகுதியில் மட்டும் முழு கவனம் செலுத்துவது (எ.கா. காரின் சக்கரம்)</p>
+
+<p>- அடுத்தவர்களைப் பார்த்துச் சிரிக்காதிருப்பது</p>
+
+<p>- சில நேரங்களில் காது கேளாதவர் போல இருப்பது</p>
+
+<p>வேறு எந்த வகையிலும் ஆட்டிசம் குறைபாட்டைக் கண்டறிய வழியில்லாத நிலைமையால், மருத்துவர்கள் பெற்றோர்களிடமோ, குழந்தையை வளர்ப்பவர்களிடமோ, குழந்தை அதன் வளர்ச்சிநிலை எல்லைகளை எட்டியதா என்று கேள்வி மேல் கேள்வி கேட்டும், அவர்களே குழந்தையின் நடவடிக்கையை, பழகும் விதத்தைக் கவனித்தும் “ஆட்டிசம் குறைபாடு” கொண்ட குழந்தை என்பதை உறுதி செய்கிறார்கள். மிகவும் சிறுவயதிலேயே குறைபாட்டைக் கண்டறிந்துவிட்டால் தீவிர பயிற்சி அளித்து நிலைமையைச் சிறிது முன்னேற்றலாம் என்பதுதான் இன்றைய ஆட்டிசம் குறைபாடு பற்றிய மருத்துவ சிகிச்சையின் நிலை.</p>
+
+<p>இதனால், தொழில்நுட்பத்தைப் பயன்படுத்தி இளவயதிலேயே அடையாளம் காணும் முறையைக் கண்டறிய உதவியாக டியுக் பல்கலைக்கழகத்தின் (Duke University) ஆய்வாளர்களும் பொறியியல் வல்லுநர்களும் ஒரு இலவச “ஆப்பிள் ஐ போனுக்கான செயலி” (free iOS app) ஒன்றினை உருவாக்கியுள்ளார்கள். தேவையானோர் இந்த “ஆட்டிசம் அண்ட் பியான்ட் ஆய்வுக்கருவி” (“Autism &amp; Beyond” ResearchKit app) செயலியை ஆப்பிளின் ” ஐ டியூன்” தளத்திலிருந்து (https://itunes.apple.com/us/app/autism-beyond/id1025327516?ls=1&amp;mt=8) தங்கள் ஐஃபோனில் தரவிறக்கிப் பயன்படுத்தலாம்.</p>
+
+<p>ஆறுவயதிற்குக் குறைவான ஆட்டிசம் உள்ளவர்கள், அல்லது இருப்பதாகச் சந்தேகிக்கப்படும் குழந்தைகளின் பெற்றோர்கள் டியுக் பல்கலைக் கழக ஆய்வில் பங்கேற்று பயன்பெறலாம். செயலி வெளியிடப்பட்ட இரு நாட்களுக்குள் ஆயிரத்திற்கும் மேற்பட்ட குடும்பத்தினர் இந்த ஆய்வில் பங்கேற்றுள்ளார்கள். தற்சமயம் அமெரிக்கப் பெற்றோர்களே பங்கு பெற இயலும். இது ஆட்டிசம் கண்டறிய உதவும் செயலியாக அறிமுகப்படுத்தப்படாமல், குறைபாட்டைக் கண்டறிய உதவும் முறையை மேம்படுத்தும் ஒரு ஆய்வுக் கருவியாகவே அறிமுகப்படுத்தப்பட்டுள்ளது. அலைபேசிவழி அறிமுகப்படுத்தப்பட்ட இந்த ஆய்வு முறையினால் பங்கு பெறுபவர்களைத் தேர்ந்தெடுப்பதுவும், அவர்களிடம் பங்கு பெறுவது பற்றிய அனுமதி பெறுவதும் சுலபமாக அமைந்துவிடுவது இந்த ஆய்வின் சிறப்பு.</p>
+
+<p>பெற்றோர்களும் குழந்தைகளும் கேட்கப்படும் சில கேள்விகளுக்குப் பதில் சொல்வதும், சில காணொளிகளைப் பார்ப்பதும் பங்களிப்போர் தரும் உதவி. கைபேசியின் கேமெரா குழந்தை காணொளி பார்க்கும்பொழுது கொடுக்கும் முகபாவங்களைப் படமெடுத்து ஆராய்கிறது. குழந்தைகள் அடம்பிடிப்பது அழிச்சாட்டியம் செய்வதை கையாளும் அறிவுரைகளையும், எச்சரிக்கையடையத் தேவையிருப்பதாகத் தோன்றும் பொழுது மருத்துவரை அணுக ஆலோசனைகளைத் தருவதும் இந்த ஆய்வின் அணுகுமுறை.</p>
+
+<p>இந்த ஆய்வில் பங்கு பெறும் பேராசிரியர் ‘கலியர்மோ சப்பிரோ’ (Guillermo Sapiro) அவர்கள், பெற்றோர் மடியில் அமர்ந்து நான்கு காணொளிகளைக் காணும் ஒரு குழந்தையின் முகபாவத்தை வைத்து குறைபாட்டை கண்டறிய முடியாது. ஆனால், பெரும்பாலான குழந்தையின் நிலையிலிருந்து மாறுபட்ட நிலை கண்டறியப்பட்டால் மருத்துவரை அணுக ஆலோசனைக் கூற இயலும். இது பள்ளியில் மாணவருக்குக் கண்ணாடி போடத் தேவை இருக்கலாம் என்று பரிந்துரைப்பது போல, பள்ளியே பார்வைக் குறைபாட்டைக் கண்டறிந்து கண்ணாடி வழங்காது. அதுபோல மருத்துவத் தேவையை கண்டறியும் செயலி இது என்று குறிப்பிட்டுள்ளார்.</p>
+
+<p>வளரும் தங்களது குழந்தையின் வளர்ச்சி நிலையிலும், பழக்கவழக்கம், வயதிற்கேற்ற நடத்தை ஆகியவற்றில் சந்தேகமுள்ள பெற்றோர்களுக்கு இந்தச் செயலி உதவுவது வரவேற்கத்தக்க ஒரு தொழில்நுட்ப உதவியே. பயன்பெற விரும்புவோர் பல்கலைக்கழகத்தின் ஆய்வுத் தளத்தில் – https://autismandbeyond.researchkit.duke.edu/ – மேலும் தகவல் அறியலாம்.</p>
+
+<p><strong>மேலும் தகவலுக்கு:</strong></p>
+
+<p>- Autism – https://ta.wikipedia.org/s/azg</p>
+
+<p>- Autism – https://en.wikipedia.org/wiki/Autism</p>
+
+<p>- ‘Sesame Street’ Introduces A New Muppet Character With Autism – http://www.npr.org/sections/thetwo-way/2015/10/22/450907538/sesame-street-introduces-a-new-muppet-character-with-autism</p>
+
+<p>- Training by Repetition Actually Prevents Learning for Those With Autism – http://www.cmu.edu/news/stories/archives/2015/october/repetition-and-autism.html</p>
+
+<p>- Duke Launches Autism Research App, Families can participate in study with free download – https://today.duke.edu/2015/10/autismbeyond</p>
+
+<p>- Autism &amp; Beyond – https://autismandbeyond.researchkit.duke.edu/</p>
+
+<p>Blooms taxonomy of https://homework-writer.com educational objectives may be helpful in articulating levels of expected academic performance when writing learning outcomes</p>
+
+<p>நன்றி:</p>
+
+<p>http://siragu.com/ஆட்டிசம்-ஆய்விற்கு-உதவும/</p>
+
+<p><a href="nunporul_kanpatharivu_9">அடுத்த பக்கம்</a></p>
+
+
+<hr/>
+<h4>தொடர்புடையவை</h4>
+
+<div id="accordion">
+
+<h3><a href ="https://thanithamizhakarathikalanjiyam.github.io/tag/தேமொழி">
+தேமொழி
+</a><h3>
+<div>
+<p>
+<ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu">
+		நுண்பொருள் காண்பதறிவு</a>  </li>
+	
+	
+
+
+
+	
+	
+		
+	
+	
+
+
+</ol>
+</p>
+</div>
+
+</div>
+
+<script>
+  $( function() {
+    <!--$( "#tabs" ).tabs();-->
+	$( "#accordion" ).accordion();
+  } );
+  </script>
+
+<h5>தேடு சொற்கள்</h5>
+<ol>
+
+<li> More, Tamil, Books</li>
+
+</ol>
+</div>
+</div>
+<hr class="hidden-modern">
+<div id="sidebar-wrapper">
+  <div id="sidebar">
+
+<h3>நூல் <strong>பொருளடக்கம்</strong></h3>
+<ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu">
+		</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_1">
+		அறிமுகம்</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_2">
+		கைபேசி தொகுப்புரை</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_3">
+		ஆசிரியர் பற்றி</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_4">
+		01. அடுக்களை அறிவியல் – சோற்றை சமைக்கும் முறையில் மாற்றம் தேவை</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_5">
+		02. அன்புடை நெஞ்சங்களில் நிகழும் மாறுதல்கள்</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_6">
+		03. அலெக்ஸாண்டர் வோன் ஹம்போல்ட் - உயிர்ப்புவியியல் துறையின் முன்னோடி</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_7">
+		04. ஆட்டிசத்தினால் பாதிக்கப்பட்டவரின் மூளையின் கட்டமைப்பில் உள்ள மாறுதல்</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_8">
+		05. ஆட்டிசம் ஆய்விற்கு உதவும் ஆப்பிள் செயலி</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_9">
+		06. ஆணின் மூளைக்கும் பெண்ணின் மூளைக்கும் அளவில் வேறுபாடில்லை</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_10">
+		07. ஆரோக்கிய வாழ்விற்கு வழிகோலும் மத்தியதரைக்கடல் நாடுகளின் உணவுமுறை</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_11">
+		08. ஆஸ்திரேலியப் பழங்குடியினருக்கும் தமிழருக்கும் தொடர்புண்டா?</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_12">
+		09. இன்ஜ் லேமேன் - புவி திடமான உட்பகுதியைக் கொண்டதென்று கண்டறிந்தவர்</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_13">
+		10. இன்ஜ்போர்க் ஸில்ம்-ரபோபோர்ட்!</a>  </li>
+	
+	
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_14">
+		11. இரண்டாம் பசுமைப்புரட்சி துவங்குகிறது</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_15">
+		12. இரத்த வகைகளுக்கும் மூளையின் செயல்திறனுக்கும் உள்ள தொடர்பு</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_16">
+		13. உடல்நலத்திற்கு நன்மையளிப்பதும் தொடர்வதற்கு எளிதானதுமான உணவுமுறையே சிறந்த உணவுமுறை</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_17">
+		14. உணவு உற்பத்தியில் தன்னிறைவு காணும் வழி</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_18">
+		15. உறைபனிக்கட்டிகள் உடைவதேன்?</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_19">
+		16. ஒரு சிலர் மட்டும் அதிகநாட்கள் உயிர் வாழக் காரணம் என்ன ?</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_20">
+		17. கச்சா எண்ணெய், இயற்கை எரிவாயு உற்பத்தியும் அதனால் தூண்டப்படும் நிலநடுக்கங்களும்</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_21">
+		18. கச்சா எண்ணெய், இயற்கை எரிவாயு உற்பத்தியும் அதனால் தோன்றும் புதைகுழிகளும்</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_22">
+		19. கற்கும்பொழுது மூளை அதிகம் சிந்திக்குமானால் கற்பது தாமதமாகும்</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_23">
+		20. காற்றில் இருந்து எரிபொருள்</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_24">
+		21. கைவிளக்கை உருவாக்கிய காரிகை</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_25">
+		22. சார்லஸ் டார்வின் - மனிதனின் பரிணாம வளர்ச்சி கோட்பாட்டை உருவாக்கியவர்</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_26">
+		23. சிறந்த உணவுமுறை எது?</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_27">
+		24. செர்னோபில் அணுமின் நிலைய விபத்தின் கதிரியக்கத் தாக்கத்தின் விளைவு</a>  </li>
+	
+	
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_28">
+		25. டிமிட்ரீ மெண்டலீயா - தனிம வரிசை அட்டவணை உருவாக்கியவர்</a>  </li>
+	
+	
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_29">
+		26. திமிங்கிலம் உலகின் மிகப்பெரிய உயிரினமாக இருப்பதன் காரணம் என்ன?</a>  </li>
+	
+	
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_30">
+		27. திருமண வாழ்க்கை ஆண்களுக்கு நீண்ட ஆயுளைக் கொடுக்குமா?</a>  </li>
+	
+	
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_31">
+		28. திறன்பேசியின் வளர்ச்சி</a>  </li>
+	
+	
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_32">
+		29. துவக்கநிலை புரோஸ்டேட் புற்றுநோயாளிகளுக்கு நம்பிக்கையூட்டும் புதிய சிகிச்சை முறை</a>  </li>
+	
+	
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_33">
+		30. தேன்கூட்டின் கட்டமைப்பு - ஒரு வடிவமைப்பின் சிறப்பு</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_34">
+		31. நிலவின் மறுபக்கத்தை நம்மால் ஏன் காணமுடிவதில்லை?</a>  </li>
+	
+	
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_35">
+		32. நீராதாரத்தின் எதிர்காலம்</a>  </li>
+	
+	
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_36">
+		33. படைப்பாற்றல் நம் மூளையின் எப்பகுதியில் உருவாகிறது?</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_37">
+		34. பட்டறிவும் விதிகளும்</a>  </li>
+	
+	
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_38">
+		35. பயணப்பிணி வரக் காரணம் என்ன?</a>  </li>
+	
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_39">
+		36. புற்றுநோயைக் கண்டறியும் விலை குறைந்த, எளிய சோதனை முறை கண்டுபிடிப்பு</a>  </li>
+	
+	
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_40">
+		37. மகிழ்ச்சி என்றால் என்ன? அதை அடைவதைப் பற்றி அறிவியல் சொல்வதென்ன?</a>  </li>
+	
+	
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_41">
+		38. மரபணு சிகிச்சை மூலம் பார்வைக் குறைபாட்டிற்குத் தீர்வு</a>  </li>
+	
+	
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_42">
+		39. மரபணு மாற்றம் செய்த உணவுகள் தேவையே – அறிவியல் அறிஞர்கள்</a>  </li>
+	
+	
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_43">
+		40. மரபுவழி அறிதலில் தாய்க்குலத்தின் பங்கு</a>  </li>
+	
+	
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_44">
+		41. மருத்துவத்தில் நோய் கண்டறிய உதவும் கணினியின் செயற்கை நுண்ணறிவு</a>  </li>
+	
+	
+
+
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_45">
+		42. மறுவளர்ச்சி மருத்துவச் சிகிச்சை முறை சாத்தியமா?</a>  </li>
+	
+	
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_46">
+		43. மூளைக்குப் பயிற்சி தரும் இருமொழித் திறன்</a>  </li>
+	
+	
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_47">
+		44. மூளையின் செயல்பாட்டைக் குறைக்கும் நீர்ப்பாசியின் வைரஸ்கள்</a>  </li>
+	
+	
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_48">
+		45. மொழியின் அளவுகோல்</a>  </li>
+	
+	
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_49">
+		46. வலி நிவாரணி வேலை செய்யும் விதம்</a>  </li>
+	
+	
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_50">
+		47. ஸ்குடாய்ட் -  கணித வடிவியலில் ஒரு புதிய வடிவம் அறிமுகம்</a>  </li>
+	
+	
+
+
+
+	
+	
+		<li><a href ="https://thanithamizhakarathikalanjiyam.github.io/nunporul_kanpatharivu_51">
+		48. ஸ்டெப்ஃபெனி கோலக் – உயிர் காக்கும் செயற்கை இழையை உருவாக்கியவர்</a>  </li>
+	
+	
+
+
+</ul>
+
+  </div>
+</div>
+<hr class="hidden-modern">
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div id="footer">
+        <div class="site-links">
+				
+
+
+<a href="/" class="selected">வாடிவாசல்</a>
+  
+
+  <a href="https://thanithamizhakarathikalanjiyam.github.io/download" 
+  
+  >தரவிறக்கம்</a>
+  
+  
+
+  <a href="https://thanithamizhakarathikalanjiyam.github.io/agarathiV2" 
+  
+  >அகராதி</a>
+  
+  
+
+  <a href="https://thanithamizhakarathikalanjiyam.github.io/v2/" 
+  
+  >கட்டுரைக்களஞ்சியம்</a>
+  
+  
+
+  <a href="https://thanithamizhakarathikalanjiyam.github.io/more_books" 
+  
+  >ஞாலக்களஞ்சியம்</a>
+  
+  
+
+  <a href="https://thanithamizhakarathikalanjiyam.github.io/about" 
+  
+  >எம்மைப்பற்றி</a>
+  
+
+
+<a href="feed" class="menu selected">RSS</a>
+
+
+
+        </div>
+      
+  <p>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+  <a href="https://groups.yahoo.com/neo/groups/isaiyini/info">This website</a> is proudly maintained by members of the Isaiyini community.
+</p>
+      </div>
+    </div>
+    <!--[if lte IE 8]><script src="/assets/css/ie/html5shiv.js"></script><![endif]-->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119554313-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-119554313-1');
+		
+	</script>
+</body></html>
