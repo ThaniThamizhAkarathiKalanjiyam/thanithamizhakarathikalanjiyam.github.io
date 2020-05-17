@@ -108,10 +108,8 @@
     </div>
     <div class="col-sm-8 text-left"> 
       <h1>தமிழகராதிக் களஞ்சியம்</h1>
-      <div id="nav_tabs_content_html">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
-      <hr>
-      
-
+      <div id="nav_tabs_content_html"></div>
+<div id="div_intro">
 <h2 id="section">தமிழின் பழமை</h2>
 
 <p>தமிழ் மொழி மிகவும் பழமை வாய்ந்தது, 
@@ -175,7 +173,7 @@
 <li><a href="https://groups.yahoo.com/neo/groups/isaiyini/info" target="_blank">இசையினி யாஹூ குழுமம்</a></li></ul>
 
 <hr>
-
+</div>
 
     </div>
     <div class="col-sm-2 sidenav">
@@ -199,6 +197,7 @@ $(document).ready(function() {
 $.getJSON( "https://thanithamizhakarathikalanjiyam.github.io/ttakJs/urls.json", function( searchUrls ) {
 
 $("#btnSearch").click( function(){
+$("#div_intro").html("")
 	for(i = 0; i < searchUrls.length; i++)
 	{
 		searchWord(searchUrls[i]);
@@ -222,7 +221,7 @@ $("#btnSearch").click( function(){
 		
 		sidenav_left_html += "<div class='form-check'><input class='form-check-input' type='checkbox' value='' id='sideLink"+id+"'> <label class='form-check-label' for='defaultCheck1'>"+dict+"</label></div>"
 		
-		nav_tabs_content_html += "<div id='"+id+"'>"+dict_full+"</div>"
+		nav_tabs_content_html += "<div id='"+id+"'></div>"
 	}
 	
 	$("#sidenav_left").html(sidenav_left_html)
