@@ -1,0 +1,13 @@
+/* New Theme color Css */
+.txtColor, .txtColorLink a, #footer .footerNav ul li a:hover, a { color: #29558C; }
+.navigation .navbar-default .navbar-nav>li.active>a, .navigation .navbar-default .navbar-nav>li>a:hover, .navigation .navbar-default .navbar-nav>li.open>a:focus, .navigation .navbar-default .navbar-nav>li.open>a:hover, .navbar-default .navbar-nav>li.open>a, .headerSearch .SearchBox .btn-search, .navigation > .navbar-default .navbar-nav>li>.dropdown-menu>li>a:hover, .tagSearchResultContainer .titleSection .sortedLink li a.active, .tagSearchResultContainer .titleSection .sortedLink li a:hover, .defaultPagination .btn.paginationBtnActive, .defaultPagination .btn:hover, .modal-dialog .modalclose, .modal-dialog .modalclose:hover{ background:  #29558C; color: #ffffff;}
+.browseDecadeSection ul li { border-color: #29558C; }
+.defaultBg, .paginationBtnActive{ background: #29558C!important; color: #ffffff; }
+.btn-default{ background: #0054A6; background: -moz-linear-gradient(top, #33A2E1 0%, #0054A6 100%); background: -webkit-linear-gradient(top, #33A2E1 0%,#0054A6 100%); 
+background: linear-gradient(to bottom, #33A2E1 0%, #0054A6 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#33A2E1', endColorstr='#0054A6',GradientType=0 ); border-color: #2c68b0; color:#ffffff; }
+.btn-default:hover,.btn-default:focus, .btn-default.active.focus, .btn-default.active:focus, .btn-default.focus, .btn-default:active.focus, .btn-default:active:focus{ background: #33A2E1; background: -moz-linear-gradient(top, #0054A6 0%, #33A2E1 100%);  background: -webkit-linear-gradient(top, #0054A6 0%,#33A2E1 100%); background: linear-gradient(to bottom, #0054A6 0%,#33A2E1 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0054A6', endColorstr='#33A2E1',GradientType=0 ); border-color: #2c68b0; color:#ffffff;}
+#header .rightNav ul li a:hover, a svg:hover path {
+    color: #29558C;
+    fill: #29558C;
+}
+/* New Theme color Css */
