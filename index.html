@@ -10,7 +10,7 @@
   
   <script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script>
     <script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/vadam.tamil.pairs.js"></script>
-    <script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/agarathiV2.js"></script>
+    <script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/thanithamizhakarathikalanjiyam.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.4.2/markdown-it.min.js"></script>
 	
   <style>
@@ -191,44 +191,6 @@
   <p>Footer Text</p>
 </footer>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-119554313-1"></script>
-<script>
 
-$(document).ready(function() {
-$.getJSON( "https://thanithamizhakarathikalanjiyam.github.io/ttakJs/urls.json", function( searchUrls ) {
-
-$("#btnSearch").click( function(){
-$("#div_intro").html("")
-	for(i = 0; i < searchUrls.length; i++)
-	{
-		searchWord(searchUrls[i]);
-	}
-});
-
-	var sidenav_left_html = ""
-	var nav_tabs_content_html = ""
-	
-	for(i = 0; i < searchUrls.length; i++)
-	{
-		var id  = searchUrls[i].id;
-		var dict = searchUrls[i].dict;
-		var dict_full = searchUrls[i].dict_full;
-		var desc = searchUrls[i].desc;
-		var active_class = "",show_active_class = ""
-		if(i == 0){
-			active_class = "active"
-			show_active_class = "show active"
-		}
-		
-		sidenav_left_html += "<div class='form-check'><input class='form-check-input' type='checkbox' value='' id='sideLink"+id+"'> <label class='form-check-label' for='defaultCheck1'>"+dict+"</label></div>"
-		
-		nav_tabs_content_html += "<div id='"+id+"'></div>"
-	}
-	
-	$("#sidenav_left").html(sidenav_left_html)
-	$("#nav_tabs_content_html").html(nav_tabs_content_html)
-});
-});
-
-</script>
 </body>
 </html>
