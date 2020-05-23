@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>அஃக</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>அஃக</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/pum/global.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <!--link rel="stylesheet" href="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/pum/global.css"-->
+    <link rel="stylesheet" href="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/themeroller/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   
@@ -14,101 +15,139 @@
     <script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/thanithamizhakarathikalanjiyam.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/markdown-it/8.4.2/markdown-it.min.js"></script>
 	
-  <style>
-    /* Remove the navbar's default margin-bottom and rounded borders */ 
-    .navbar {
-      margin-bottom: 0;
-      border-radius: 0;
-    }
-    
-    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-    .row.content {height: 100%}
-    
-    /* Set gray background color and 100% height */
-    .sidenav {
-      padding-top: 20px;
-      background-color: #f1f1f1;
-      height: 100%;
-    }
-    
-    /* Set black background color, white text and some padding */
-    footer {
-      background-color: #555;
-      color: white;
-      padding: 15px;
-    }
-    
-    /* On small screens, set height to 'auto' for sidenav and grid */
-    @media screen and (max-width: 767px) {
-      .sidenav {
-        height: auto;
-        padding: 15px;
-      }
-      .row.content {height:auto;} 
-    }
-  </style>
+	<link rel="stylesheet" href="./index/themeroller.css">
+	<link rel="stylesheet" href="./index/bt.css">
+	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/excite-bike/jquery-ui.css">
+	
+	<style>
+	body {
+	    padding-top: 50px;
+	}
+	#splitter {
+	    border: none;
+	    min-width: 300px;
+	    min-height: 300px;
+	    height: 700px;
+	    width: 100%;
+	}
+	#top {
+	    height: 350px;
+	}
+	#top, #bottom {
+	    height: 350px;
+	    overflow: hidden;
+	    min-height: 100px;
+	}
+	#left, #right {
+	    overflow: hidden;
+	    min-width: 100px;
+	}
+	#variables, #theme {
+	    height: 100%;
+	    width: 100%;
+	    position: relative;
+	}
+	.splitter-bar-vertical {
+	    width: 12px;
+	    background: #cdcdcd url("vgrabber.png") no-repeat center;
+	}
+	.splitter-bar-horizontal {
+	    height: 12px;
+	    background: #cdcdcd url("hgrabber.png") no-repeat center;
+	}
+	.splitter-bar-vertical.active, .splitter-bar-vertical:hover {
+	    background: #a0a0a0 url("vgrabber.png") no-repeat center;
+	}
+	.splitter-bar-horizontal.active, .splitter-bar-horizontal:hover {
+	    background: #a0a0a0 url("hgrabber.png") no-repeat center; 
+	}
+	#themeroller, #download {
+	    display: none;
+	}
+	#preview {
+	    height: calc(100% - 33px);
+	    overflow-x: hidden;
+	    overflow-y: auto;
+	}
+	#toolbar {
+	    margin: 0;
+	    padding: 5px 0;
+	    border-radius: 0;
+	}
+	.bs-docs-section {
+	    margin-bottom: 100px;
+	}
+	.variables {
+	    float: right;
+	    top: -40px;
+	}
+	.bs-component {
+	    position: relative;
+	}
+	.bs-component .modal {
+	    position: relative;
+	    top: auto;
+	    right: auto;
+	    left: auto;
+	    bottom: auto;
+	    z-index: 1;
+	    display: block;
+	}
+	.bs-component .modal-dialog {
+	    width: 90%;
+	}
+	.sp-container {
+	    border: 1px solid #999;
+	}
+	.sp-replacer {
+	    background: transparent none repeat scroll 0 0;
+	    border: none;
+	    padding: 0 0 0 10px;
+	}
+	</style>
+	<style>
+	.variables { display:none; }
+	.page-header h1 { padding-top:100px; }
+	h1, .h1 {
+    font-size: 1em;
+}
+h2, .h2 {
+    font-size: .7em;
+}
+	</style>
 </head>
-<body>
+<body style="padding-top: 51px;">
 
-<nav class="navbar navbar-inverse">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
-      </button>
-      <a class="navbar-brand" href="#">அஃக</a>
-    </div>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">வாடிவாசல்</a></li>
-        <li><a href="#">தரவிறக்கம்</a></li>
-        <li><a href="#">அகராதி</a></li>
-        <li><a href="#">ஞாலக்களஞ்சியம்</a></li>
-		<li><a href="#">எம்மைப்பற்றி</a></li>
-      </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li>
-		
-     <div id="search-box">
-<form id="search-form" action="https://www.google.com/cse">
-  <table class="fieldset">
-    <tbody><tr>
-      <td>
-        <input class="field" type="text" name="q" size="31" style="background: white url(//www.google.com/coop/intl/en/images/google_custom_search_watermark.gif) left no-repeat" onfocus="this.style.background='white'" onblur="if (/^\s*$/.test(this.value)) this.style.background='white url(//www.google.com/coop/intl/en/images/google_custom_search_watermark.gif) left no-repeat'">
-      </td>
-      <td>
-        <input type="hidden" name="cx" value="007131993471906034329:z-f36_gsnoq">
-        <input type="hidden" name="ie" value="UTF-8">
-        <input class="button" type="submit" name="sa" value="Search">
-      </td>
-    </tr>
-  </tbody></table>
-</form>
-        </div>
-      
-		<!--a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a--></li>
-      </ul>
-    </div>
-  </div>
+<nav class="navbar navbar-fixed-top navbar-default"><div class="container"><div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarI"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+	<a class="navbar-brand" href="https://www.bootpress.org/"><span style="font-family:Poly; font-size:1.5em;">{ அஃக }</span></a></div><div class="collapse navbar-collapse" id="navbarI">
+
+	<!--ul class="nav navbar-nav"><li role="presentation"><a href="https://www.bootpress.org/bootstrap.html">Themes</a></li><li class="dropdown active"><a id="dropdownII" data-target="#" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Preview <span class="caret"></span></a> <ul class="dropdown-menu" aria-labelledby="dropdownII"><li role="presentation" class="active"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#bootstrap">Bootstrap</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#navbar">Navbar</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#buttons">Buttons</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#typography">Typography</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#tables">Tables</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#forms">Forms</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#navs">Navs</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#indicators">Indicators</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#progress-bars">Progress bars</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#containers">Containers</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#images">Images</a></li><li role="presentation"><a role="menuitem" tabindex="-1" href="https://www.bootpress.org/bootstrap/themeroller.html?view=35c029f5742947ec7804d43fd59325dd#dialogs">Dialogs</a></li></ul></li></ul-->
+
+	<!--a id="download" href="https://www.bootpress.org/bootstrap/35c029f5742947ec7804d43fd59325dd/themeroller.zip" title="Click to download the compiled bootstrap.css" class="btn btn-primary navbar-btn navbar-right" style="display: inline;"><span class="glyphicon glyphicon-download-alt"></span> Download</a-->
+</div></div>
 </nav>
-  
-<div class="container-fluid text-center">    
-  <div class="row content">
 
-    <div class="col-sm-2 sidenav"  style="text-align: left;font-size: x-small;">
-      
-          <input class="form-control" id="txtsearch" type="text" placeholder="தேடும் சொல்லை இடுக">
-     
-              <button type="button" class="btn btn-primary " id="btnSearch" style="width:100%">தேடு</button>
-           
-      
-	 <div id="sidenav_left"></div>
+
+<!-- Bootstrap
+================================================== -->
+<div id="bootstrap" class="container-fluid">
+  
+<div class="row content">
+
+    <div class="col-sm-2">
+	
+	<div class="panel panel-default">
+  <div class="panel-heading">தமிழகராதிக் களஞ்சியம்</div>
+  <div class="panel-body">
+
+  <input class="form-control" id="txtsearch" type="text" placeholder="தேடு சொல்">
+  <button type="button" class="btn btn-primary " id="btnSearch" style="width:100%">தேடு</button></div>
+</div>
+ <div id="sidenav_left-remov"></div>
 	 
     </div>
-    <div class="col-sm-7 text-left"> 
-      <h1>தமிழகராதிக் களஞ்சியம்</h1>
+    <div class="col-sm-10 text-left"> 
+
       <div id="nav_tabs_content_html"></div>
 <div id="div_intro">
 <h2 id="section">தமிழின் பழமை</h2>
@@ -116,19 +155,6 @@
 <p>தமிழ் மொழி மிகவும் பழமை வாய்ந்தது, 
 தமிழில் புதிய சொற்களையும் ஏற்கனவே இருக்கும் சொற்களையும் சீர்படுத்தப் போகிறோம். </p>
 
-<h2 id="ttak------">TTAK | அ‍ஃக | ததஅக அப்படினா என்ன?</h2>
-
-<ul>
-  <li>TTAK அல்லது தனித்த தமிழ் அகராதிக் களஞ்சியம் எளிதாக ததஅக என்பது <strong>தனித்தமிழ் இயக்கத்தின் விண்டோசு அகராதி</strong> பதிப்பையே குறிக்கும்</li>
-  <li>அ‍ஃக என்பது <strong>தனித்தமிழ் இயக்கத்தின் ஆன்ட்ராய்டு அகராதி</strong> கைபேசியின் மென்பொருள் பதிப்பை குறிக்கும்</li>
-</ul>
-
-<h2 id="section-1">இசையினி குழுமத்தின் மூலம்</h2>
-
-<p>இசையினி குழுமத்தின் மூலம் இன்னும் ஐந்து - 2023 - வருடங்களில் அனைத்து சொற்களுமே சீர்பெற வேண்டும், 
-என்பதே நோக்கம். விருப்பம் உள்ள அனைத்து பெருமக்களும் இணைந்து செயல்படலாம்.</p>
-
-<p>குழுமத்தின் இணைய முகவரி: https://groups.yahoo.com/neo/groups/isaiyini/info</p>
 
 <h2 id="section-2">எமது கனவு</h2>
 
@@ -142,7 +168,13 @@
   <li>உருவாகும் பொருட்கள் அனைத்தும் தமிழில் பெயர் வைத்திட வேண்டும்.</li>
 </ul>
 
-<p>அனைத்து இடங்களிலும் தமிழைக் கொண்டு போய் சேர்க்கும் நமது பயணத்தில் தங்களால் பங்களிக்க முடியும் என்றால், எம்மோடு இனைந்திடுங்கள்.</p>
+<p>அனைத்து இடங்களிலும் தமிழைக் கொண்டு போய் சேர்க்க எம்மோடு இனைந்திடுங்கள்.</p>
+<h2 id="section-1">இசையினி குழுமத்தின் மூலம்</h2>
+
+<p>இசையினி குழுமத்தின் மூலம் இன்னும் ஐந்து - 2023 - வருடங்களில் அனைத்து சொற்களுமே சீர்பெற வேண்டும், 
+என்பதே நோக்கம். விருப்பம் உள்ள அனைத்து பெருமக்களும் இணைந்து செயல்படலாம்.</p>
+
+<p>குழுமத்தின் இணைய முகவரி: https://groups.yahoo.com/neo/groups/isaiyini/info</p>
 
 <h2 id="section-4">நமது மடலாடல் குழுவோடு எப்படி இணைவது?</h2>
 
@@ -174,30 +206,49 @@
 <li><a href="https://groups.yahoo.com/neo/groups/isaiyini/info" target="_blank">இசையினி யாஹூ குழுமம்</a></li></ul>
 
 <hr>
+<h2 id="ttak------">TTAK | அ‍ஃக | ததஅக அப்படினா என்ன?</h2>
+
+<ul>
+  <li>TTAK அல்லது தனித்த தமிழ் அகராதிக் களஞ்சியம் எளிதாக ததஅக என்பது <strong>தனித்தமிழ் இயக்கத்தின் விண்டோசு அகராதி</strong> பதிப்பையே குறிக்கும்</li>
+  <li>அ‍ஃக என்பது <strong>தனித்தமிழ் இயக்கத்தின் ஆன்ட்ராய்டு அகராதி</strong> கைபேசியின் மென்பொருள் பதிப்பை குறிக்கும்</li>
+</ul>
+
 </div>
 
+
+	<div class="panel panel-default">
+		<div class="panel-heading">தொடர் சொல்</div>
+		<div class="panel-body" id="thod_sol"></div>
+	</div>
+	<div class="panel panel-success">
+		<div class="panel-heading">சொல் பிறப்பு விதி</div>
+		<div class="panel-body" id="word_birth"></div>
+	</div>
+     <div class="panel panel-primary">
+		<div class="panel-heading">கிரந்த நீக்க விதி</div>
+		<div class="panel-body" id="grantha"></div>
+	</div>
     </div>
-    <div class="col-sm-3 sidenav">
-      <div class="well">
-        <p>பிறப்பு விதி</p>
-      </div>
-      <div class="well">
-        <p>தொடர் சொல் </p>
-		<div class="well-content" id="thod_sol">
-		
- </div>
-      </div>
-	  <div class="well">
-        <p>கிரந்த நீக்க விதி</p>
-      </div>
-    </div>
+    
   </div>
+    
 </div>
 
+	<script src="./index/jquery.min.js.download"></script>
+	<script src="./index/bootstrap.min.js.download"></script>
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+	
+	<script>
+	$(document).ready(function(){
+		$("#download").show();
+		$("body").css("padding-top", $("nav").eq(0).css("height"));
+		$("a[href='#']").click(function(e){ e.preventDefault(); });
+		$('.bs-component [data-toggle="popover"]').popover();
+		$('.bs-component [data-toggle="tooltip"]').tooltip();
+	});
+	</script>
 <footer class="container-fluid text-center">
-  <p>Footer Text</p>
+  <p>Powered by Isaiyini Yahoo group | Subscribe with us 
+isaiyini-subscribe@yahoogroups.com</p>
 </footer>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-119554313-1"></script>
-
-</body>
-</html>
+</body></html>
