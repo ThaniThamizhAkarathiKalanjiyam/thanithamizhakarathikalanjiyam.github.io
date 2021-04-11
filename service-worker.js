@@ -6,8 +6,8 @@ var cacheName = 'v1';
 var appShellFiles = [
     './',
     './index.html',
-    './about.html',
-    './blog.html',
+    './about/index.html',
+   
 ];
 
 self.addEventListener('install', function(e) {
