@@ -111,7 +111,7 @@ font-size: x-small !important;
           <div id="content">           
 			<div class="row" style="padding: 10px;">
                   <div class="col-xs-8">
-                    <input class="form-control" id="txtsearch" type="text" placeholder="தேடு சொல்" />
+                    <input class="form-control tamil" id="txtsearch" type="text" placeholder="தேடு சொல்" />
                   </div>
                   <div class="col-xs-4">
                     <button type="button" class="btn btn-primary" id="btnSearch" style="width:100%">தேடு</button>
@@ -167,6 +167,14 @@ font-size: x-small !important;
 	gtag('js', new Date());
 
 	gtag('config', 'ua-119554313-1');
+	
+	
+	$('input,textarea').on('keypress',function(event){
+					if($(this).hasClass('tamil')){
+						convertThis(event);
+					}
+				});
+	
 	  
 	  })            
 </script> 
@@ -174,5 +182,10 @@ font-size: x-small !important;
   <script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/vadam.tamil.pairs.js"></script> 
   <script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/thanithamizhakarathikalanjiyam.js"></script> 
   <script src="https://thanithamizhakarathikalanjiyam.github.io/Content/jstree_com/jstree.min.js"></script> 
-  <script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/jquery.csv.min.js"></script></body>
+  <script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/jquery.csv.min.js"></script>
+  
+   <script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/utf.js"></script>
+   <script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/tamil.js"></script>
+  
+  </body>
 </html>
