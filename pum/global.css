@@ -1,0 +1,19 @@
+.well-content
+{
+	margin: 0px;
+	padding: 0px;
+	height: 100px;
+	overflow: auto;	
+}
+.h1, h1 {
+    font-size: 14px;
+	font-weight: bolder ;
+}
+
+.h2, h2 {
+    font-size: 12px;
+	font-weight: bold ;
+}
+.ul, ul {
+	    font-size: 10px;
+}
