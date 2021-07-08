@@ -508,6 +508,9 @@ font-size: x-small !important;
  
  
   function drawChart(thod_sol_data,search_word) {
+  
+  if(thod_sol_data !== undefined && search_word !== undefined)
+  {
 	   var thod_sol_dataTable = [];
 	   thod_sol_dataTable.push(['Phrases']);
 	   
@@ -549,6 +552,8 @@ font-size: x-small !important;
         var chart = new google.visualization.WordTree(document.getElementById('wordtree_basic'));
         chart.draw(data, options);
       }
+	  
+	  }
 
 </script>
  
