@@ -1,2 +1,3 @@
-start C:\PortableJekyll-2.0.3\setpath_PortableJekyll_203.cmd
+::start D:\MPM_Dev_Center\PortableJekyll-master\setpath.cmd
 ::jekyll build
+jekyll serve -incremental
