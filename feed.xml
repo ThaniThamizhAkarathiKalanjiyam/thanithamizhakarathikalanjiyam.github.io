@@ -1,18 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>தனித் தமிழகராதிக் களஞ்சியம்</title>
-    <description>தமிழ் ஆங்கில அகராதி</description>
-    <link>https://thanithamizhakarathikalanjiyam.github.io/</link>
-    <atom:link href="https://thanithamizhakarathikalanjiyam.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 14 Jan 2022 21:48:00 +0530</pubDate>
-    <lastBuildDate>Fri, 14 Jan 2022 21:48:00 +0530</lastBuildDate>
+    <title></title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 16 Jan 2022 22:53:11 +0530</pubDate>
+    <lastBuildDate>Sun, 16 Jan 2022 22:53:11 +0530</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>வணிகவியல் அகராதி</title>
+        <description>&lt;h2 id=&quot;வணிகவியல்-அகராதி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“வணிகவியல் அகராதி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
+&lt;p&gt;/vanikaviyal_agarathi&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;2. பின்னர் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/vanikaviyal_agarathi.slob&quot;&gt;வணிகவியல் அகராதி - Download for Android&lt;/a&gt; என்ற Android நூலை தரவிறக்கிக் கொள்ளுங்கள்.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;3. அஃக ௨௮ செயலியில் அகராதி பிரிவில் உள்ள “Refresh” என்பதை கிளிக் செய்யவும்.&lt;br /&gt;
+&lt;img src=&quot;https://thanithamizhakarathikalanjiyam.github.io/images/ttak_mobi_refresh_higligt.png&quot; alt=&quot;ttak_mobi_refresh_higligt.png&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;4. “வணிகவியல் அகராதி/” என்னும் சொல்லை தேடுங்கள்.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;4.1. “வணிகவியல் அகராதி” என்பது &lt;strong&gt;அகராதி&lt;/strong&gt; ஆதலால் அகராதி பற்றிய குறிப்பு மட்டும் வரும், பொருள் காண வேண்டிய சொல்லை தேடுபட்டியில் தேடினால் அதற்குரிய பொருள் வரும்.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;குறிப்பு: கைபேசியில் நிறுவல் பற்றிய காணொளி &lt;a href=&quot;https://www.youtube.com/watch?v=cenc5hfZ-nI&quot;&gt;இங்கு TTAK Tamil English dictionary installation in android phone&lt;/a&gt; உள்ளது.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;வணிகவியல்-அகராதி&quot;&gt;வணிகவியல் அகராதி&lt;/h3&gt;
+
+&lt;p&gt;அ.கி.மூர்த்தி&lt;/p&gt;
+
+&lt;p&gt;Thanks to Thanks to Wikipedia to make it possible https://ta.wikisource.org/s/1w52&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 16 Jan 2022 00:00:00 +0530</pubDate>
+        <link>/vanikaviyal_agarathi</link>
+        <guid isPermaLink="true">/vanikaviyal_agarathi</guid>
+        
+        <category>அகராதிகள்</category>
+        
+        <category>இரா ரவிக்குமார்</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>கொங்கு வட்டார வழக்குச் சொல்லகராதி</title>
         <description>&lt;h2 id=&quot;கொங்கு-வட்டார-வழக்குச்-சொல்லகராதி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“கொங்கு வட்டார வழக்குச் சொல்லகராதி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;https://thanithamizhakarathikalanjiyam.github.io/kongu_vatara_solakarathi&lt;/p&gt;
+&lt;p&gt;/kongu_vatara_solakarathi&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -52,8 +97,8 @@
 
 </description>
         <pubDate>Wed, 12 Jan 2022 00:00:00 +0530</pubDate>
-        <link>https://thanithamizhakarathikalanjiyam.github.io/kongu_vatara_solakarathi</link>
-        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/kongu_vatara_solakarathi</guid>
+        <link>/kongu_vatara_solakarathi</link>
+        <guid isPermaLink="true">/kongu_vatara_solakarathi</guid>
         
         <category>அகராதிகள்</category>
         
@@ -67,7 +112,7 @@
       <item>
         <title>பாண்டியராஜா தொடரடைவு வளையாபதி</title>
         <description>&lt;h2 id=&quot;பாண்டியராஜா-தொடரடைவு-வளையாபதி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“பாண்டியராஜா தொடரடைவு வளையாபதி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;https://thanithamizhakarathikalanjiyam.github.io/pand_thod_valai&lt;/p&gt;
+&lt;p&gt;/pand_thod_valai&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -125,8 +170,8 @@
 
 </description>
         <pubDate>Sat, 26 Oct 2019 00:00:00 +0530</pubDate>
-        <link>https://thanithamizhakarathikalanjiyam.github.io/pand_thod_valai</link>
-        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/pand_thod_valai</guid>
+        <link>/pand_thod_valai</link>
+        <guid isPermaLink="true">/pand_thod_valai</guid>
         
         <category>அகராதிகள்</category>
         
@@ -144,7 +189,7 @@
       <item>
         <title>பாண்டியராஜா தொடரடைவு குண்டலகேசி</title>
         <description>&lt;h2 id=&quot;பாண்டியராஜா-தொடரடைவு-குண்டலகேசி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“பாண்டியராஜா தொடரடைவு குண்டலகேசி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;https://thanithamizhakarathikalanjiyam.github.io/pand_thod_gund_kasi&lt;/p&gt;
+&lt;p&gt;/pand_thod_gund_kasi&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -202,8 +247,8 @@
 
 </description>
         <pubDate>Sat, 26 Oct 2019 00:00:00 +0530</pubDate>
-        <link>https://thanithamizhakarathikalanjiyam.github.io/pand_thod_gund_kasi</link>
-        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/pand_thod_gund_kasi</guid>
+        <link>/pand_thod_gund_kasi</link>
+        <guid isPermaLink="true">/pand_thod_gund_kasi</guid>
         
         <category>அகராதிகள்</category>
         
@@ -250,12 +295,12 @@ Download இளங்கோவடிகள் பாடிய தமிழர்
 kanmani_tamil_19_6inch.pdf
 &lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://thanithamizhakarathikalanjiyam.github.io/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;இளங்கோவடிகள்-பாடிய-தமிழர்-பக்தி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“இளங்கோவடிகள் பாடிய தமிழர் பக்தி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;https://thanithamizhakarathikalanjiyam.github.io/kanmani_tamil_19&lt;/p&gt;
+&lt;p&gt;/kanmani_tamil_19&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -278,8 +323,8 @@ kanmani_tamil_19_6inch.pdf
 &lt;/blockquote&gt;
 </description>
         <pubDate>Sat, 26 Oct 2019 00:00:00 +0530</pubDate>
-        <link>https://thanithamizhakarathikalanjiyam.github.io/kanmani_tamil_19</link>
-        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/kanmani_tamil_19</guid>
+        <link>/kanmani_tamil_19</link>
+        <guid isPermaLink="true">/kanmani_tamil_19</guid>
         
         <category>கண்மணிகணேசன்</category>
         
@@ -322,12 +367,12 @@ Download கீழடி as 6inch PDF
 keeladi_6inch.pdf
 &lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://thanithamizhakarathikalanjiyam.github.io/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;கீழடி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“கீழடி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;https://thanithamizhakarathikalanjiyam.github.io/keeladi&lt;/p&gt;
+&lt;p&gt;/keeladi&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -350,8 +395,8 @@ keeladi_6inch.pdf
 &lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 22 Oct 2019 00:00:00 +0530</pubDate>
-        <link>https://thanithamizhakarathikalanjiyam.github.io/keeladi</link>
-        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/keeladi</guid>
+        <link>/keeladi</link>
+        <guid isPermaLink="true">/keeladi</guid>
         
         <category>M Seran</category>
         
@@ -398,7 +443,7 @@ Download வரலாற்று நாயகர்கள் as 6inch PDF
 varalatru_nayagarkal_6inch.pdf
 &lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://thanithamizhakarathikalanjiyam.github.io/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -422,8 +467,8 @@ varalatru_nayagarkal_6inch.pdf
 
 </description>
         <pubDate>Mon, 21 Oct 2019 00:00:00 +0530</pubDate>
-        <link>https://thanithamizhakarathikalanjiyam.github.io/varalatru_nayagarkal</link>
-        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/varalatru_nayagarkal</guid>
+        <link>/varalatru_nayagarkal</link>
+        <guid isPermaLink="true">/varalatru_nayagarkal</guid>
         
         <category>சிலம்பு</category>
         
@@ -466,12 +511,12 @@ Download சேதுபதி மன்னர் வரலாறு as 6inch PD
 sethupathi_varalaru_6inch.pdf
 &lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://thanithamizhakarathikalanjiyam.github.io/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;சேதுபதி-மன்னர்-வரலாறு-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“சேதுபதி மன்னர் வரலாறு” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;https://thanithamizhakarathikalanjiyam.github.io/sethupathi_varalaru&lt;/p&gt;
+&lt;p&gt;/sethupathi_varalaru&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -494,8 +539,8 @@ sethupathi_varalaru_6inch.pdf
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 21 Oct 2019 00:00:00 +0530</pubDate>
-        <link>https://thanithamizhakarathikalanjiyam.github.io/sethupathi_varalaru</link>
-        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/sethupathi_varalaru</guid>
+        <link>/sethupathi_varalaru</link>
+        <guid isPermaLink="true">/sethupathi_varalaru</guid>
         
         <category>எஸ் எம் கமால்</category>
         
@@ -538,12 +583,12 @@ Download அங்கும் இங்கும் as 6inch PDF
 angum_inkum_6inch.pdf
 &lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://thanithamizhakarathikalanjiyam.github.io/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;அங்கும்-இங்கும்-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“அங்கும் இங்கும்” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;https://thanithamizhakarathikalanjiyam.github.io/angum_inkum&lt;/p&gt;
+&lt;p&gt;/angum_inkum&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -566,8 +611,8 @@ angum_inkum_6inch.pdf
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 21 Oct 2019 00:00:00 +0530</pubDate>
-        <link>https://thanithamizhakarathikalanjiyam.github.io/angum_inkum</link>
-        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/angum_inkum</guid>
+        <link>/angum_inkum</link>
+        <guid isPermaLink="true">/angum_inkum</guid>
         
         <category>நெ து சுந்தரவடிவேலு</category>
         
@@ -610,12 +655,12 @@ Download அபிதா as 6inch PDF
 abitha_6inch.pdf
 &lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://thanithamizhakarathikalanjiyam.github.io/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;அபிதா-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“அபிதா” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;https://thanithamizhakarathikalanjiyam.github.io/abitha&lt;/p&gt;
+&lt;p&gt;/abitha&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -638,78 +683,10 @@ abitha_6inch.pdf
 &lt;/blockquote&gt;
 </description>
         <pubDate>Mon, 21 Oct 2019 00:00:00 +0530</pubDate>
-        <link>https://thanithamizhakarathikalanjiyam.github.io/abitha</link>
-        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/abitha</guid>
+        <link>/abitha</link>
+        <guid isPermaLink="true">/abitha</guid>
         
         <category>லா ச ராமாமிருதம்</category>
-        
-        <category>விக்கிமூலம்</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள்</title>
-        <description>&lt;h1 id=&quot;கைபேசி-நூல்---ஆரியப்-பார்ப்பனரின்-அளவிறந்த-கொட்டங்கள்&quot;&gt;கைபேசி நூல் - ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள்&lt;/h1&gt;
-&lt;p&gt;இந்நூலைப் படிக்க பின்வரும் ஏதேனும் முறைகளைத் தேர்தெடுத்து; உங்களின் கருவிகளில் வசதிக்கேற்ப படிக்கலாம்.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/books/aar_paarp_kot.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;ஆன்ட்ராய்டுஅஃக-செயலி-மூலம்-கருவிகளில்-படிக்க&quot;&gt;ஆன்ட்ராய்டு(அஃக செயலி மூலம்) கருவிகளில் படிக்க&lt;/h2&gt;
-&lt;h2&gt;&lt;a class=&quot;button button2&quot; href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/aar_paarp_kot.slob&quot;&gt;
-Download ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள் as slob  
-aar_paarp_kot.slob
-&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;“அஃக செயலி” (ஆன்ட்ராய்டு) தரவிறக்க &lt;a href=&quot;download&quot;&gt;தரவிறக்கம்&lt;/a&gt; பக்கத்தைக் காணவும்.&lt;/p&gt;
-
-&lt;h2 id=&quot;ஆன்ட்ராய்டுfbreader-ஆப்பிள்-புது-நூக்-கருவிகளில்-படிக்க&quot;&gt;ஆன்ட்ராய்டு(FBreader), ஆப்பிள், புது நூக் கருவிகளில் படிக்க&lt;/h2&gt;
-&lt;h2&gt;&lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/aar_paarp_kot.epub&quot; class=&quot;button button1&quot;&gt;
-Download ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள் as epub  
-aar_paarp_kot.epub
-&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&quot;குனூலினக்ஸ்-விண்டோஸ்-கணிணிகளில்-படிக்க&quot;&gt;குனூ/லினக்ஸ், விண்டோஸ் கணிணிகளில் படிக்க&lt;/h2&gt;
-&lt;h2&gt;&lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/aar_paarp_kot_A4.pdf&quot; class=&quot;button button1&quot;&gt;
-Download ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள் as PDF  
-aar_paarp_kot_A4.pdf
-&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&quot;kindle-samrt-phone-போன்ற-சிறு-கருவிகளில்-படிக்க&quot;&gt;KINDLE /SAMRT Phone போன்ற சிறு கருவிகளில் படிக்க&lt;/h2&gt;
-&lt;h2&gt;&lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/aar_paarp_kot_6inch.pdf&quot; class=&quot;button button1&quot;&gt;
-Download ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள் as 6inch PDF  
-aar_paarp_kot_6inch.pdf
-&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://thanithamizhakarathikalanjiyam.github.io/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;ஆரியப்-பார்ப்பனரின்-அளவிறந்த-கொட்டங்கள்-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள்” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;2. பின்னர் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/aar_paarp_kot.slob&quot;&gt;ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள் - Download for Android&lt;/a&gt; என்ற Android நூலை தரவிறக்கிக் கொள்ளுங்கள்.&lt;/li&gt;
-  &lt;li&gt;3. அஃக ௨௮ செயலியில் அகராதி பிரிவில் உள்ள “Refresh” என்பதை கிளிக் செய்யவும்.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://thanithamizhakarathikalanjiyam.github.io/images/ttak_mobi_refresh_higligt.png&quot; alt=&quot;ttak_mobi_refresh_higligt.png&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;4. “ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள்/” என்னும் சொல்லை தேடுங்கள். ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள்&lt;/li&gt;
-  &lt;li&gt;4.1. &lt;strong&gt;நூல்&lt;/strong&gt; எனில் பொருளடக்கம் வரும். நூலை படிக்க ஆரம்பியுங்கள்.&lt;/li&gt;
-  &lt;li&gt;4.2. &lt;strong&gt;அகராதி&lt;/strong&gt; எனில் அகராதி பற்றிய குறிப்பு மட்டும் வரும், பொருள் காண வேண்டிய சொல்லை தேடினால் அதற்குரிய பொருள் வரும்.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://thanithamizhakarathikalanjiyam.github.io/more_books&quot;&gt;மேலும் நூல்கள்&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 21 Oct 2019 00:00:00 +0530</pubDate>
-        <link>https://thanithamizhakarathikalanjiyam.github.io/aar_paarp_kot</link>
-        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/aar_paarp_kot</guid>
-        
-        <category>பாவலரேறு பெருஞ்சித்திரனார்</category>
         
         <category>விக்கிமூலம்</category>
         
