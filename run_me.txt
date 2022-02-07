@@ -1,1 +1,1 @@
-cd \ | rem /* | CD 'D:\GitRepo\thanithamizhakarathikalanjiyam.github.io.git - Copy' | D: | bundle exec jekyll build -incremental | GIT add . | git commit -am |
+cd \ | rem /* | CD 'D:\GitRepo\thanithamizhakarathikalanjiyam.github.io.git - Copy' | D: | bundle exec jekyll build -incremental | GIT add . | git commit -am "hi all" | git push
