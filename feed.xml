@@ -5,8 +5,8 @@
     <description>தமிழ் ஆங்கில அகராதி</description>
     <link>https://thanithamizhakarathikalanjiyam.github.io/</link>
     <atom:link href="https://thanithamizhakarathikalanjiyam.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 12 Feb 2022 08:59:11 +0530</pubDate>
-    <lastBuildDate>Sat, 12 Feb 2022 08:59:11 +0530</lastBuildDate>
+    <pubDate>Sun, 13 Feb 2022 10:28:28 +0530</pubDate>
+    <lastBuildDate>Sun, 13 Feb 2022 10:28:28 +0530</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -54,6 +54,7 @@
 
 &lt;ul class=&quot;task-list&quot;&gt;
   &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;பெயரகராதி&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;This work is forked from https://github.com/ramasamy-duraipandy/tamil-pulavar&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;வீரமாமுனிவர் 1710இல் தமிழகம் வந்தார். அதற்கு முன்பாக தமிழகராதிகள் இருந்தாலும் &lt;em&gt;தமிழ்-தமிழ்&lt;/em&gt; அகராதிகள் இருக்கவில்லை. &lt;strong&gt;சதுரகராதி&lt;/strong&gt; என்ற பெயரில் வீரமாமுனிவர் முதல் தமிழ்-தமிழ் அகராதி படைத்தார்.  1732  நவம்பர் திங்கள் 21ஆம் நாள் சதுரகராதி நிறைவுற்றதை வீரமாமுனிவர் அந்நூலின்  இறுதியில் குறிப்பிட்டுள்ளார். சதுரகராதி முதலில் 1919ஆம் ஆண்டில் அச்சு  நூலாக வெளியிடப்பட்டது.[&lt;a href=&quot;https://ta.wikipedia.org/wiki/சதுரகராதி#cite_note-1&quot;&gt;1]&lt;/a&gt; பண்டைய நிகண்டு முறையைக் கடந்து, &lt;strong&gt;அகராதி&lt;/strong&gt; என்றொரு புது வகைப் படைப்பு தமிழில் தோன்ற வீரமாமுனிவர் காரணமானார்.&lt;/p&gt;
@@ -72,6 +73,96 @@
         <category>அகராதிகள்</category>
         
         <category>சதுரகராதி</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>புதிய அகராதி உருவாக்கும் முறை</title>
+        <description>&lt;p&gt;[TOC]&lt;/p&gt;
+
+&lt;h1 id=&quot;௧-புதிய-அகராதி-உருவாக்கும்-முறை&quot;&gt;௧. புதிய அகராதி உருவாக்கும் முறை&lt;/h1&gt;
+
+&lt;p&gt;ஒருவேளை புதிய அகராதிகளை இந்தப் பட்டியலில் சேர்க்கும் திட்டம் ஒரு சிலருக்குத் தோன்றலாம். ஆகவே இந்தக் கட்டுரையை உருவாக்குகிறேன்.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;தங்களிடம் ஏதேனும் சொற் தொகுப்பு இருக்கலாம் அவற்றை மக்கள் அனைவரும் பயன்படுத்த வேண்டும் என்றால் அவற்றை மக்களின் கைகளில் கொண்டு சேர்க்க வேண்டும். தற்போது அனைவரின் கைகளும் இருக்கும் பொருள் கைபேசி, முக்கியமாக Android போன் உள்ளது.&lt;/li&gt;
+  &lt;li&gt;அதற்காகவே அகராதிகளை கைபேசியக்கம் பணியை கடந்த சில வருடங்களாக செய்து வருகிறோம். அனைத்து அகராதிகளையும் கைபேசியக்கம் செய்வதன் மூலம் அனைத்து இடங்களிலும் தமிழ் எனும் நோக்கை விரைவில் அடைந்திட முடியும்.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;அனுப்பும்-மின்னஞ்சல்-முகவரி&quot;&gt;அனுப்பும் மின்னஞ்சல் முகவரி&lt;/h2&gt;
+
+&lt;p&gt;ஒருவரிடம் சொற் தொகுப்பு உள்ளது அதனை கைபேசியாக்கம் செய்ய விழைகிறார் என்றால், அந்தச் சொற் தொகுப்பை வெள்ளுறை (PlainText, CSV) வடிவில் pitchaimbox-tic@yahoo.com எனும் முகவரிக்கு அனுப்பலாம்.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;மின்னசல் தவிர வேறு எந்த வழியில் அனுப்பலாம்.
+    &lt;ul&gt;
+      &lt;li&gt;கூகிள் டிரைவ் மூலமாகவோ&lt;/li&gt;
+      &lt;li&gt;Github.com மூலமாகவோ பகிரலாம். நான் தாங்கள் Github.comல் ஒரு புதிய இலவச Account உருவாக்கி ஒரு புதிய repo மூலம் பகிர்வதை வரவேற்கிறேன். இதன் மூலம் இதுவரை https://github.com/ThaniThamizhAkarathiKalanjiyam/ உருவாக்கி வைத்துள்ள அகராதிகளை தங்களும் ஒரு நகல் எளிதாக எடுத்துக் கொள்ள முடியும்.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;௧அ-வெள்ளுறை-வடிவை-எந்த-மென்பொருளில்-செய்யலாம்&quot;&gt;௧.அ. வெள்ளுறை வடிவை எந்த மென்பொருளில் செய்யலாம்&lt;/h2&gt;
+
+&lt;p&gt;அனைவருக்கும் தெரிந்த ஒரு மென்பொருள்&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Windows இயங்குதளம் என்றால் Notepad அல்லது Notepad++ பயன்படுத்தலாம்.&lt;/li&gt;
+  &lt;li&gt;Linux இயங்குதளம் என்றால் gedit போன்ற மென்பொருள பயன்படுத்தலாம்.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;௧௨௧-சொற்தொகுப்பு-எந்த-வடிவில்-தரலாம்&quot;&gt;௧.௨.௧ சொற்தொகுப்பு எந்த வடிவில் தரலாம்&lt;/h3&gt;
+
+&lt;p&gt;கடந்த வருடங்களில் அகராதி தொகுப்பை கைகொண்டதன் விளைவாக MarkDown (.md) format எளிதாக உள்ளது. அந்த வடிவம் சொல் - பொருள் என இருந்தால் நலம்.&lt;/p&gt;
+
+&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gu&quot;&gt;##சொல்1&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;
+-&lt;/span&gt; சொல்1பொருள் 1
+&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; சொல்1பொருள் 2
+&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; சொல்1பொருள் 3
+
+&lt;span class=&quot;gu&quot;&gt;##சொல்2&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;
+-&lt;/span&gt; சொல்2பொருள் 1
+&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; சொல்2பொருள் 2
+&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; சொல்2பொருள் 3
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;௧௨௨-excel-format-ல்-முன்னமே-சொற்தொகுப்பு-உள்ளது-என்றால்&quot;&gt;௧.௨.௨. Excel format-ல் முன்னமே சொற்தொகுப்பு உள்ளது என்றால்?&lt;/h3&gt;
+
+&lt;p&gt;ஒருவேளை முன்னமே Excel format-ல் தங்களிடம் இருந்தால், அதனை மேற்கண்ட மின்னஞ்சல் முகவரிக்கு அனுப்பலாம். மேலே உள்ள நடை முறைகளை நான் செய்து விடுவேன்.&lt;/p&gt;
+
+&lt;h2 id=&quot;௨-புதிய-சொற்-தொகுப்பு-உருவாக்கும்-முறை&quot;&gt;௨. புதிய சொற் தொகுப்பு உருவாக்கும் முறை&lt;/h2&gt;
+
+&lt;p&gt;இங்கு விண்டோஸ் இயங்குதளத்தில் எவ்வாறு உருவாக்குவது என கூறுகிறேன். முதலில் தமிழில் உள்ளிட்டுக் கருவியை நிறுவிக்கு கொள்ளுங்கள்.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;உதாரணமாக நான் கூகிள் உள்ளிட்டுக் கருவியை நிறுவிக்கொள்ளுங்கள். எப்படி இந்தக் கருவியை நிறுவுவது என இங்கு உள்ளது.&lt;/li&gt;
+  &lt;li&gt;இணைப்பு இதோ https://thanithamizhakarathikalanjiyam.github.io/google_input_tools&lt;/li&gt;
+  &lt;li&gt;பின்னர் Notepad அல்லது Notepad++ திறக்கவும்&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;2022-02-10-create_new_dict.assets/image-20220213100647178.png&quot; alt=&quot;image-20220213100647178&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;மேலே கூறுயுள்ள வடிவில் கோப்பை உருவாக்கவும்.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;2022-02-10-create_new_dict.assets/image-20220213100843561.png&quot; alt=&quot;image-20220213100843561&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;பின்னர் சேமிக்கவும் File &amp;gt; Save; முக்கியமாக சேமிக்கும் முறை UTF8 என்பதை தேர்ந்தெடுக்கவும்.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;2022-02-10-create_new_dict.assets/image-20220213101143569.png&quot; alt=&quot;image-20220213101143569&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;அவ்வாறு சேமித்த கோப்பை மேற்கண்ட மின்னஞ்சல் முகவரிக்கு அனுப்பவும்.&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;2022-02-10-create_new_dict.assets/image-20220213101446164.png&quot; alt=&quot;image-20220213101446164&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;இப்படிக்கு,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;பிச்சைமுத்து மு.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 10 Feb 2022 00:00:00 +0530</pubDate>
+        <link>https://thanithamizhakarathikalanjiyam.github.io/create_new_dict</link>
+        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/create_new_dict</guid>
+        
+        <category>புதிய அகராதி</category>
         
         
         <category>blog</category>
@@ -713,74 +804,6 @@ keeladi_6inch.pdf
         <category>K Rajan</category>
         
         <category>தமிழ்  நாடு அரசு</category>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>வரலாற்று நாயகர்கள்</title>
-        <description>&lt;h1 id=&quot;கைபேசி-நூல்---வரலாற்று-நாயகர்கள்&quot;&gt;கைபேசி நூல் - வரலாற்று நாயகர்கள்&lt;/h1&gt;
-&lt;p&gt;இந்நூலைப் படிக்க பின்வரும் ஏதேனும் முறைகளைத் தேர்தெடுத்து; உங்களின் கருவிகளில் வசதிக்கேற்ப படிக்கலாம்.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/books/varalatru_nayagarkal.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;ஆன்ட்ராய்டுஅஃக-செயலி-மூலம்-கருவிகளில்-படிக்க&quot;&gt;ஆன்ட்ராய்டு(அஃக செயலி மூலம்) கருவிகளில் படிக்க&lt;/h2&gt;
-&lt;h2&gt;&lt;a class=&quot;button button2&quot; href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/varalatru_nayagarkal.slob&quot;&gt;
-Download வரலாற்று நாயகர்கள் as slob  
-varalatru_nayagarkal.slob
-&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;“அஃக செயலி” (ஆன்ட்ராய்டு) தரவிறக்க &lt;a href=&quot;download&quot;&gt;தரவிறக்கம்&lt;/a&gt; பக்கத்தைக் காணவும்.&lt;/p&gt;
-
-&lt;h2 id=&quot;ஆன்ட்ராய்டுfbreader-ஆப்பிள்-புது-நூக்-கருவிகளில்-படிக்க&quot;&gt;ஆன்ட்ராய்டு(FBreader), ஆப்பிள், புது நூக் கருவிகளில் படிக்க&lt;/h2&gt;
-&lt;h2&gt;&lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/varalatru_nayagarkal.epub&quot; class=&quot;button button1&quot;&gt;
-Download வரலாற்று நாயகர்கள் as epub  
-varalatru_nayagarkal.epub
-&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&quot;குனூலினக்ஸ்-விண்டோஸ்-கணிணிகளில்-படிக்க&quot;&gt;குனூ/லினக்ஸ், விண்டோஸ் கணிணிகளில் படிக்க&lt;/h2&gt;
-&lt;h2&gt;&lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/varalatru_nayagarkal_A4.pdf&quot; class=&quot;button button1&quot;&gt;
-Download வரலாற்று நாயகர்கள் as PDF  
-varalatru_nayagarkal_A4.pdf
-&lt;/a&gt;&lt;/h2&gt;
-
-&lt;h2 id=&quot;kindle-samrt-phone-போன்ற-சிறு-கருவிகளில்-படிக்க&quot;&gt;KINDLE /SAMRT Phone போன்ற சிறு கருவிகளில் படிக்க&lt;/h2&gt;
-&lt;h2&gt;&lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/varalatru_nayagarkal_6inch.pdf&quot; class=&quot;button button1&quot;&gt;
-Download வரலாற்று நாயகர்கள் as 6inch PDF  
-varalatru_nayagarkal_6inch.pdf
-&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://thanithamizhakarathikalanjiyam.github.io/more_books&quot;&gt;மேலும் அதிக நூல்களைப் படிக்க..&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;வரலாற்று-நாயகர்கள்-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“வரலாற்று நாயகர்கள்” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;2. பின்னர் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/varalatru_nayagarkal.slob&quot;&gt;வரலாற்று நாயகர்கள் - Download for Android&lt;/a&gt; என்ற Android நூலை தரவிறக்கிக் கொள்ளுங்கள்.&lt;/li&gt;
-  &lt;li&gt;3. அஃக ௨௮ செயலியில் அகராதி பிரிவில் உள்ள “Refresh” என்பதை கிளிக் செய்யவும்.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://thanithamizhakarathikalanjiyam.github.io/images/ttak_mobi_refresh_higligt.png&quot; alt=&quot;ttak_mobi_refresh_higligt.png&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;4. “வரலாற்று நாயகர்கள்/” என்னும் சொல்லை தேடுங்கள். வரலாற்று நாயகர்கள்&lt;/li&gt;
-  &lt;li&gt;4.1. &lt;strong&gt;நூல்&lt;/strong&gt; எனில் பொருளடக்கம் வரும். நூலை படிக்க ஆரம்பியுங்கள்.&lt;/li&gt;
-  &lt;li&gt;4.2. &lt;strong&gt;அகராதி&lt;/strong&gt; எனில் அகராதி பற்றிய குறிப்பு மட்டும் வரும், பொருள் காண வேண்டிய சொல்லை தேடினால் அதற்குரிய பொருள் வரும்.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://thanithamizhakarathikalanjiyam.github.io/more_books&quot;&gt;மேலும் நூல்கள்&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 21 Oct 2019 00:00:00 +0530</pubDate>
-        <link>https://thanithamizhakarathikalanjiyam.github.io/varalatru_nayagarkal</link>
-        <guid isPermaLink="true">https://thanithamizhakarathikalanjiyam.github.io/varalatru_nayagarkal</guid>
-        
-        <category>சிலம்பு</category>
-        
-        <category>வரலாறு</category>
         
         
         <category>blog</category>
