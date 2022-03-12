@@ -5,8 +5,8 @@
     <description>தமிழ் ஆங்கில அகராதி</description>
     <link>https://thanithamizhakarathikalanjiyam.github.io/</link>
     <atom:link href="https://thanithamizhakarathikalanjiyam.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Feb 2022 10:54:51 +0530</pubDate>
-    <lastBuildDate>Sun, 13 Feb 2022 10:54:51 +0530</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2022 00:14:38 +0530</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2022 00:14:38 +0530</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -280,18 +280,18 @@
 
 &lt;p&gt;கடந்த வருடங்களில் அகராதி தொகுப்பை கைகொண்டதன் விளைவாக MarkDown (.md) format எளிதாக உள்ளது. அந்த வடிவம் சொல் - பொருள் என இருந்தால் நலம்.&lt;/p&gt;
 
-&lt;div class=&quot;language-markdown highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;gu&quot;&gt;##சொல்1&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;
--&lt;/span&gt; சொல்1பொருள் 1
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; சொல்1பொருள் 2
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; சொல்1பொருள் 3
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;##சொல்1
 
-&lt;span class=&quot;gu&quot;&gt;##சொல்2&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;
--&lt;/span&gt; சொல்2பொருள் 1
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; சொல்2பொருள் 2
-&lt;span class=&quot;p&quot;&gt;-&lt;/span&gt; சொல்2பொருள் 3
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+- சொல்1பொருள் 1
+- சொல்1பொருள் 2
+- சொல்1பொருள் 3
+
+##சொல்2
+
+- சொல்2பொருள் 1
+- சொல்2பொருள் 2
+- சொல்2பொருள் 3
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h3 id=&quot;௧௨௨-excel-format-ல்-முன்னமே-சொற்தொகுப்பு-உள்ளது-என்றால்&quot;&gt;௧.௨.௨. Excel format-ல் முன்னமே சொற்தொகுப்பு உள்ளது என்றால்?&lt;/h3&gt;
 
