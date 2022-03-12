@@ -1,0 +1,250 @@
+body {
+  margin: 0 0 1em 0;
+  padding: 0; /* need for Opera */
+  background: #fff;
+  color: #333;
+  min-width: 610px;
+}
+
+form { margin: 0; }
+img { border: 0; }
+
+/* Core site element widths */
+
+/*#header, #breadcrumbs, #content, #footer {
+  max-width: 1000px;
+  margin: 0 auto;
+}*/
+
+#header { padding: 0 15px 0 0; }
+#breadcrumbs { padding: 0 15px 0 55px; }
+#content { padding: 0 15px; }
+#footer { padding: 0 15px; margin: 0 15px; }
+
+#header div, #content, #breadcrumbs div, #footer, #main-feature .feature-contents {
+/*  max-width: 900px; margin: 0 auto; */
+}
+
+#header div { position: relative; }
+
+/* header */
+
+#header {
+  height: 38px;
+  position: relative;
+  border-bottom: 1px solid #9FCBF7;
+  background: #F6FAFE url("/images/template/header-background.png") top left repeat-x;
+  z-index: 1;
+}
+
+#header h1 { margin: 0; }
+
+#header h1 img {
+  font-weight: bold;
+  color: #7f7c45;
+}
+
+/* breadcrumbs */
+
+#breadcrumbs {
+  background: #000089 url("/images/template/breadcrumbs-background.png") bottom repeat-x;
+  padding-top: 4px;
+  padding-bottom: 30px;
+  font-size: 85%;
+  color: #C8E0FA;
+}
+
+#breadcrumbs a:link,
+#breadcrumbs a:visited {
+  color: #B7D8F9;
+}
+
+#breadcrumbs a:hover,
+#breadcrumbs a:active {
+  color: #F2F8FE;
+}
+
+/* content */
+
+#content {
+  background: #fff;
+}
+
+#endcontent {
+  clear: both;
+  font-size: 1px;
+}
+
+/* Sidebar */
+
+#nav:before {
+  line-height: 0.1;
+  font-size: 1px;
+  background: transparent url("/images/template/menu_tr.gif") no-repeat top right;
+  margin: 0;
+  height: 9px;
+  display: block;
+  border-bottom: 1px solid #ddd;
+  content: url("/images/box/key-point_tl.gif");
+}
+#nav {
+  background: #E0E9E9 url("/images/template/menu_back.gif") right repeat-y;
+}
+#nav:after {
+  display: block;
+  padding-top: 0;
+  line-height: 0.1;
+  font-size: 1px;
+  content:  url("/images/box/key-point_bl.gif");
+  margin: 0 0 0 0;
+  height: 8px;
+  background: transparent url("/images/template/menu_br.gif") scroll no-repeat bottom right ;
+  border-top: 1px solid #fff;
+}
+
+#nav, #nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#nav {
+  margin-bottom: 1em;
+}
+#nav li {
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+
+#nav li span { /* used for un-linked menu items */
+  display: block;
+  padding: 6px 10px;
+  font-weight: bold;
+  color: #666;
+}
+#nav li span#configParent, #nav li span #configuration {
+  display: inline;
+  font-weight: normal;
+  padding: 0;
+}
+
+#nav li a {
+  display: block;
+  padding: 8px 10px;
+  font-weight: bold;
+  text-decoration: none;
+  background: #EDF2F2;
+  border-bottom: 1px solid #ddd;
+  border-top: 1px solid #fff;
+  border-right: 1px solid #ddd;
+}
+#nav li a:hover {
+  background: #E0E9E9;
+}
+
+#nav li li a, #nav li li span {
+  padding: 4px 8px 4px 20px;
+}
+
+#nav li li a {
+  font-weight: normal;
+}
+
+#nav li li li a, #nav li li li span {
+  padding: 4px 8px 4px 25px;
+}
+
+#nav li li li li a, #nav li li li li span {
+  padding: 2px 8px 2px 30px;
+}
+
+#nav li li li li li a, #nav li li li li li span {
+  padding: 2px 8px 2px 35px;
+}
+
+#oN {
+  background-color: #E0E9E9;
+}
+#oN:hover {
+  background-color: #C6DCDC;
+}
+
+
+/* footer */
+
+#footer {
+  border-top: 1px solid #999;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  color: #888;
+  padding: 1em 0;
+  text-align: center;
+}
+
+#footer-contents {
+  padding: 0;
+  border-top: 1px solid #C9D0E0;
+}
+
+#footer p {
+  margin: 0.3em;
+  clear: both;
+}
+
+#footer .site-tools {
+/*  display: none; */
+}
+
+#footer .site-tools, #footer .site-tools a {
+  color: #666;
+}
+
+#footer .site-tools a:hover {
+  color: #000;
+}
+
+#footer .site-tools p span {
+  padding-right: 1em;
+}
+
+.small-print {
+  font-size: 85%;
+  color: #888;
+}
+
+.small-print a:link,
+.small-print a:visited {
+  color: #888;
+}
+
+.small-print a:hover,
+.small-print a:active {
+  color: #333;
+}
+
+#locales {
+  margin: 0 auto 1.5em auto;
+  width: 610px;
+  line-height: 160%;
+}
+
+#locales p {
+  display: inline;
+  margin: 0;
+  padding: 0 0.3em 0 0;
+}
+
+#locales ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+#locales li {
+  padding: 0 0.3em 0 0;
+  display: inline;
+}
+
+#locales li a {
+  white-space: nowrap;
+}
