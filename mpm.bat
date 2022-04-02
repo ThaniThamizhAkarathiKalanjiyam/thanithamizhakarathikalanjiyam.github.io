@@ -1,6 +1,9 @@
 ::cd /
 ::rem /*
 cd %~dp0
-start D:\MPM_Dev_Center\PortableJekyll-master\setpath.cmd
+start D:\MPM_Dev_Center\PortableJekyll-master\setpath-ry31.cmd
 jekyll --version
-bundle exec jekyll build & cd %~dp0\_site & GIT add . & git commit -am hiall & GIT PUSH
+
+jekyll build 
+
+cd %~dp0\_site & GIT add . & git commit -am hiall & GIT PUSH
