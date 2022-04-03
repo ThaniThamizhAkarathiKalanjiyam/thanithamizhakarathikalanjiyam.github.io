@@ -1,7 +1,8 @@
 ::cd /
 ::rem /*
 cd %~dp0
-start D:\MPM_Dev_Center\PortableJekyll-master\setpath-ry31.cmd
+D:\MPM_Dev_Center\PortableJekyll-master\setpath-ry31.cmd 
+
 jekyll --version
 
 jekyll build 
