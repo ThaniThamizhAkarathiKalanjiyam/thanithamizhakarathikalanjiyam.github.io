@@ -68,10 +68,14 @@
 				font-weight: bold !important;
 				}
 
+				.tam_letter{
+				padding: 0px;
+				}
+
 				.material-icons.md-18 { font-size: 18px; }
-.material-icons.md-24 { font-size: 24px; }
-.material-icons.md-36 { font-size: 36px; }
-.material-icons.md-48 { font-size: 48px; }
+				.material-icons.md-24 { font-size: 24px; }
+				.material-icons.md-36 { font-size: 36px; }
+				.material-icons.md-48 { font-size: 48px; }
 			</style>
 
 			<link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
@@ -163,127 +167,82 @@
 									<!-- </span>தேடு</button> -->
 									<!-- </div> -->
 									<!-- </div> -->
-									<div id="tamil_keyboard_layout">										
+									<div id="tamil_keyboard_layout" style="display: none;">										
 										<div class="row" id="row_1">
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1" tam_consonant="்">அ</div>
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1" tam_consonant="ா">ஆ</div>
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1" tam_consonant="ி">இ</div>
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1" tam_consonant="ீ">ஈ</div>
-
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">க</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ங</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ச</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ஞ</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ட</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ண</div>
-
-											<div class="col col-xs-1 btn btn-warning" id="row_1_col_1">௳</div>
-											<div class="col col-xs-1 btn btn-warning" id="row_1_col_1">௴</div>
-											
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_1_col_01" accent_symbol="்" tam_vowel_letter="அ">அ</div>
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_1_col_02" accent_symbol="ா" tam_vowel_letter="ஆ">ஆ</div>
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_1_col_03" accent_symbol="ி" tam_vowel_letter="இ">இ</div>
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_1_col_04" accent_symbol="ீ" tam_vowel_letter="ஈ">ஈ</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_1_col_05">க</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_1_col_06">ங</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_1_col_07">ச</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_1_col_08">ஞ</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_1_col_09">ட</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_1_col_10">ண</div>
+											<div class="tam_letter col col-xs-1 btn btn-warning" id="row_1_col_11">௳</div>
+											<div class="tam_letter col col-xs-1 btn btn-warning" id="row_1_col_12">௴</div>
 										</div>
-										<div class="row" id="row_1">
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1"  tam_consonant="ு">உ</div>
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1"  tam_consonant="ூ">ஊ</div>
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1"  tam_consonant="ெ">எ</div>
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1"  tam_consonant="ே">ஏ</div>
-
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">த</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ந</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ப</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ம</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ய</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ர</div>
-
-											<div class="col col-xs-1 btn btn-warning" id="row_1_col_1">௵</div>											
-											<div class="col col-xs-1  btn btn-danger" id="row_1_col_1">௲</div>
+										<div class="row" id="row_2">
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_2_col_01"  accent_symbol="ு" tam_vowel_letter="உ">உ</div>
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_2_col_02"  accent_symbol="ூ" tam_vowel_letter="ஊ">ஊ</div>
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_2_col_03"  accent_symbol="ெ" tam_vowel_letter="எ">எ</div>
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_2_col_04"  accent_symbol="ே" tam_vowel_letter="ஏ">ஏ</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_2_col_05">த</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_2_col_06">ந</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_2_col_07">ப</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_2_col_08">ம</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_2_col_09">ய</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_2_col_10">ர</div>
+											<div class="tam_letter col col-xs-1 btn btn-warning" id="row_2_col_11">௵</div>											
+											<div class="tam_letter col col-xs-1  btn btn-danger" id="row_2_col_12">௲</div>
 										</div>
-										<div class="row" id="row_1">
-
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1"  tam_consonant="ை">ஐ</div>
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1"  tam_consonant="ொ">ஒ</div>
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1"  tam_consonant="ோ">ஓ</div>
-											<div class="tam_vowel col col-xs-1 btn btn-default" id="row_1_col_1"  tam_consonant="ௌ">ஔ</div>
-
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ல</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">வ</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ழ</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ள</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ற</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ன</div>
-
-											<div class="col col-xs-1 btn btn-info" id="row_1_col_1">௷</div>
-											<div class="col col-xs-1 btn btn-info" id="row_1_col_1">௸</div>
+										<div class="row" id="row_3">
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_3_col_01"  accent_symbol="ை" tam_vowel_letter="ஐ">ஐ</div>
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_3_col_02"  accent_symbol="ொ" tam_vowel_letter="ஒ">ஒ</div>
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_3_col_03"  accent_symbol="ோ" tam_vowel_letter="ஓ">ஓ</div>
+											<div class="tam_letter tam_vowel col col-xs-1 btn btn-default" id="row_3_col_04"  accent_symbol="ௌ" tam_vowel_letter="ஔ">ஔ</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_3_col_05">ல</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_3_col_06">வ</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_3_col_07">ழ</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_3_col_08">ள</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_3_col_09">ற</div>
+											<div class="tam_letter tam_consonant col col-xs-1 btn btn-primary" id="row_3_col_10">ன</div>
+											<div class="tam_letter col col-xs-1 btn btn-info"    id="row_3_col_11">௷</div>
+											<div class="tam_letter col col-xs-1 btn btn-info"    id="row_3_col_12">௸</div>
 											<!-- <div class="col col-xs-1 btn btn-info" id="row_1_col_1"></div> -->
 										</div>
-										<div class="row" id="row_1">
-
-											<div class="col col-xs-4 btn btn-success" id="row_1_col_1">ஃ</div>
-
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ஷ</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ஸ</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ஜ</div>
-											<div class="col col-xs-1 btn btn-primary" id="row_1_col_1">ஹ</div>
-											<div class="col col-xs-2 btn btn-primary" id="row_1_col_1">க்ஷ</div>
-											
-											<div class="col col-xs-1 btn btn-dark" id="row_1_col_1">௹</div>
-											<div class="col col-xs-1 btn btn-dark" id="row_1_col_1">௺</div>
-											<!-- <div class="col col-xs-1 btn btn-primary" id="row_1_col_1"></div> -->
-
+										<div class="row" id="row_4">
+											<div class="tam_letter col col-xs-4 btn btn-success" id="row_4_col_1">ஃ</div>
+											<div class="tam_letter col col-xs-1 btn btn-primary" id="row_4_col_2">ஷ</div>
+											<div class="tam_letter col col-xs-1 btn btn-primary" id="row_4_col_3">ஸ</div>
+											<div class="tam_letter col col-xs-1 btn btn-primary" id="row_4_col_4">ஜ</div>
+											<div class="tam_letter col col-xs-1 btn btn-primary" id="row_4_col_5">ஹ</div>
+											<div class="tam_letter col col-xs-2 btn btn-primary" id="row_4_col_6">க்ஷ</div>
+											<div class="tam_letter col col-xs-1 btn btn-dark"    id="row_4_col_7">௹</div>
+											<div class="tam_letter col col-xs-1 btn btn-dark"    id="row_4_col_8">௺</div>
 										</div>
-
-										<div class="row" id="row_1">
-
-											<div class="col col-xs-1 btn btn-danger" id="row_1_col_1">௧</div>
-											<div class="col col-xs-1 btn btn-danger" id="row_1_col_1">௨</div>
-											<div class="col col-xs-1 btn btn-danger" id="row_1_col_1">௩</div>
-											<div class="col col-xs-1 btn btn-danger" id="row_1_col_1">௪</div>
-											<div class="col col-xs-1 btn btn-danger" id="row_1_col_1">௫</div>
-											<div class="col col-xs-1 btn btn-danger" id="row_1_col_1">௬</div>
-											<div class="col col-xs-1 btn btn-danger" id="row_1_col_1">௭</div>
-											<div class="col col-xs-1 btn btn-danger" id="row_1_col_1">௮</div>
-											<div class="col col-xs-1 btn btn-danger" id="row_1_col_1">௯</div>
-											<div class="col col-xs-1 btn btn-danger" id="row_1_col_1">௦</div>
-											
-												<div class="col col-xs-1  btn btn-danger" id="row_1_col_1">௰</div>
-											<div class="col col-xs-1  btn btn-danger" id="row_1_col_1">௱</div>
-										</div>
-
-										<div class="row" id="row_1">
-
-											
-										</div>
-
-										<div class="row" id="row_1">										
-											
-										
-										</div>
-
-										<div class="row" id="row_1">	
-										
-										</div>
-
-										<div class="row" id="row_1">
-
-
-										</div>
-										<div class="row" id="row_1">
-
-											<div class="col col-xs-1" id="row_1_col_1">1_4</div>
-											<div class="col col-xs-1" id="row_1_col_1">1_5</div>
-											<div class="col col-xs-1" id="row_1_col_1">1_6</div>
-											<div class="col col-xs-1" id="row_1_col_1">1_7</div>
-											<div class="col col-xs-1" id="row_1_col_1">1_8</div>
-											<div class="col col-xs-1" id="row_1_col_1"><span class="material-icons">
-arrow_back_ios
-												</span></div>
+										<div class="row" id="row_5">
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_01">௧</div>
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_02">௨</div>
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_03">௩</div>
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_04">௪</div>
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_05">௫</div>
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_06">௬</div>
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_07">௭</div>
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_08">௮</div>
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_09">௯</div>
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_10">௦</div>
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_11">௰</div>
+											<div class="tam_letter col col-xs-1 btn btn-danger" id="row_5_col_12">௱</div>
 										</div>
 									</div>
-									<div id="ResultDict">தேடு சொல்லை இடவும். (e.g. ammaa, அம்மா, mother) பின்னர் பொத்தானை அழுத்தவும். | 
-										<a href="https://thanithamizhakarathikalanjiyam.github.io/agarathiV2/">			சொல் உருவாக்கி			</a>
-										This page is depreciated as soon as possible. We invite you to 
-										BETA version of this site is avilable at <a href="https://thanithamizhakarathikalanjiyam.github.io/octo_index">BETA SITE</a>
+									<div id="ResultDict"></div>
+									<!-- <div id="ResultDict">தேடு சொல்லை இடவும். (e.g. ammaa, அம்மா, mother) பின்னர் பொத்தானை அழுத்தவும். |  -->
+										<!-- <a href="https://thanithamizhakarathikalanjiyam.github.io/agarathiV2/">			சொல் உருவாக்கி			</a> -->
+										<!-- This page is depreciated as soon as possible. We invite you to  -->
+										<!-- BETA version of this site is avilable at <a href="https://thanithamizhakarathikalanjiyam.github.io/octo_index">BETA SITE</a> -->
 
-									</div>
+									<!-- </div> -->
 									<div class="text-left">
 
 										<div id="nav_tabs_content_html"></div>
@@ -620,14 +579,54 @@ arrow_back_ios
 				dataLayer.push(arguments);
 				}
 				gtag('js', new Date());
-
 				gtag('config', 'ua-119554313-1');
 
 
 
-$("#tamil_keyboard_icon").click(function(){
-    $("#tamil_keyboard_layout").slideToggle("slow");
-  });
+				$("#tamil_keyboard_icon").click(function(){
+				$("#tamil_keyboard_layout").slideToggle("slow");
+				$("#tamil_keyboard_layout").show()
+				});
+				
+				$(".tam_consonant").click(function(event){
+
+				var tam_consonant_id = "#"+event.target.id
+				var tam_consonant_val = $(tam_consonant_id).html()
+
+				var tamvowels = $(".tam_vowel")
+				$.each(tamvowels, function(index, element){	
+
+				var tam_vowel_id =	"#"+element.id
+				var accent_symbol_val = $(tam_vowel_id).attr("accent_symbol")
+				
+				var changed_uyir_mey = tam_consonant_val + accent_symbol_val
+				$(tam_vowel_id).html(changed_uyir_mey)
+				
+
+				})
+
+				})
+
+				$(".tam_vowel").click(function(event){
+
+				var target_id  = "#"+ event.target.id
+
+				var tam_letter_html =  $(target_id).html()
+
+				appendLet2txtsearch(tam_letter_html)
+
+				})
+
+				appendLet2txtsearch = function(letter, is_vowel){
+
+				var txtsearchVal = $("#txtsearch").val()
+				txtsearchVal = txtsearchVal + letter
+
+				$("#txtsearch").val(txtsearchVal)
+
+				}
+
+
 				})
 			</script> 
 			<script src="https://thanithamizhakarathikalanjiyam.github.io/ttakJs/ttak.kirantham.js"></script> 
