@@ -3,16 +3,16 @@
   <channel>
     <title>தனித் தமிழகராதிக் களஞ்சியம்</title>
     <description>தமிழ் ஆங்கில அகராதி</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 27 Jul 2022 19:32:38 +0530</pubDate>
-    <lastBuildDate>Wed, 27 Jul 2022 19:32:38 +0530</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 27 Jul 2022 19:50:52 +0530</pubDate>
+    <lastBuildDate>Wed, 27 Jul 2022 19:50:52 +0530</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
         <title>சதுரகராதி - பெயரகராதி</title>
         <description>&lt;h2 id=&quot;சதுரகராதி---பெயரகராதி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“சதுரகராதி - பெயரகராதி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;http://localhost:4000/sathurakarathi_peyar&lt;/p&gt;
+&lt;p&gt;/sathurakarathi_peyar&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -67,8 +67,8 @@
 
 </description>
         <pubDate>Sat, 12 Feb 2022 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/sathurakarathi_peyar</link>
-        <guid isPermaLink="true">http://localhost:4000/sathurakarathi_peyar</guid>
+        <link>/sathurakarathi_peyar</link>
+        <guid isPermaLink="true">/sathurakarathi_peyar</guid>
         
         <category>அகராதிகள்</category>
         
@@ -82,7 +82,7 @@
       <item>
         <title>கண்மணிப்புகழ் மருத்துவ அகராதி</title>
         <description>&lt;h2 id=&quot;கண்மணிப்புகழ்-மருத்துவ-அகராதி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“கண்மணிப்புகழ் மருத்துவ அகராதி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;http://localhost:4000/maruthuva_sorkal_2&lt;/p&gt;
+&lt;p&gt;/maruthuva_sorkal_2&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -229,8 +229,8 @@
 மு.பிச்சைமுத்து&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Feb 2022 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/maruthuva_sorkal_2</link>
-        <guid isPermaLink="true">http://localhost:4000/maruthuva_sorkal_2</guid>
+        <link>/maruthuva_sorkal_2</link>
+        <guid isPermaLink="true">/maruthuva_sorkal_2</guid>
         
         <category>அகராதிகள்</category>
         
@@ -321,8 +321,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 10 Feb 2022 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/create_new_dict</link>
-        <guid isPermaLink="true">http://localhost:4000/create_new_dict</guid>
+        <link>/create_new_dict</link>
+        <guid isPermaLink="true">/create_new_dict</guid>
         
         <category>புதிய அகராதி</category>
         
@@ -334,7 +334,7 @@
       <item>
         <title>சென்னைப் பல்கலைக்கழகத் தமிழ்ப் பேரகராதி</title>
         <description>&lt;h2 id=&quot;சென்னைப்-பல்கலைக்கழகத்-தமிழ்ப்-பேரகராதி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“சென்னைப் பல்கலைக்கழகத் தமிழ்ப் பேரகராதி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;http://localhost:4000/lexpser_new&lt;/p&gt;
+&lt;p&gt;/lexpser_new&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -392,8 +392,8 @@
 
 </description>
         <pubDate>Tue, 08 Feb 2022 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/lexpser_new</link>
-        <guid isPermaLink="true">http://localhost:4000/lexpser_new</guid>
+        <link>/lexpser_new</link>
+        <guid isPermaLink="true">/lexpser_new</guid>
         
         <category>அகராதிகள்</category>
         
@@ -407,7 +407,7 @@
       <item>
         <title>தமிழ்நாடு மாணவர் கணினித் திட்ட அகராதி</title>
         <description>&lt;h2 id=&quot;தமிழ்நாடு-மாணவர்-கணினித்-திட்ட-அகராதி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“தமிழ்நாடு மாணவர் கணினித் திட்ட அகராதி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;http://localhost:4000/tamilnadu_manavar_akarathi&lt;/p&gt;
+&lt;p&gt;/tamilnadu_manavar_akarathi&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -462,8 +462,8 @@
 
 </description>
         <pubDate>Sun, 23 Jan 2022 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/tamilnadu_manavar_akarathi</link>
-        <guid isPermaLink="true">http://localhost:4000/tamilnadu_manavar_akarathi</guid>
+        <link>/tamilnadu_manavar_akarathi</link>
+        <guid isPermaLink="true">/tamilnadu_manavar_akarathi</guid>
         
         <category>அகராதிகள்</category>
         
@@ -477,7 +477,7 @@
       <item>
         <title>தமிழ்க் கல்வி அகராதி</title>
         <description>&lt;h2 id=&quot;தமிழ்க்-கல்வி-அகராதி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“தமிழ்க் கல்வி அகராதி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;http://localhost:4000/tamil_kalvi&lt;/p&gt;
+&lt;p&gt;/tamil_kalvi&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -533,8 +533,8 @@
 
 </description>
         <pubDate>Fri, 21 Jan 2022 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/tamil_kalvi</link>
-        <guid isPermaLink="true">http://localhost:4000/tamil_kalvi</guid>
+        <link>/tamil_kalvi</link>
+        <guid isPermaLink="true">/tamil_kalvi</guid>
         
         <category>அகராதிகள்</category>
         
@@ -548,7 +548,7 @@
       <item>
         <title>வணிகவியல் அகராதி</title>
         <description>&lt;h2 id=&quot;வணிகவியல்-அகராதி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“வணிகவியல் அகராதி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;http://localhost:4000/vanikaviyal_agarathi&lt;/p&gt;
+&lt;p&gt;/vanikaviyal_agarathi&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -594,8 +594,8 @@
 
 </description>
         <pubDate>Sun, 16 Jan 2022 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/vanikaviyal_agarathi</link>
-        <guid isPermaLink="true">http://localhost:4000/vanikaviyal_agarathi</guid>
+        <link>/vanikaviyal_agarathi</link>
+        <guid isPermaLink="true">/vanikaviyal_agarathi</guid>
         
         <category>அகராதிகள்</category>
         
@@ -1274,8 +1274,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 03 Apr 2021 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/octo_index</link>
-        <guid isPermaLink="true">http://localhost:4000/octo_index</guid>
+        <link>/octo_index</link>
+        <guid isPermaLink="true">/octo_index</guid>
         
         
         <category>blog</category>
@@ -1285,7 +1285,7 @@
       <item>
         <title>பாண்டியராஜா தொடரடைவு வளையாபதி</title>
         <description>&lt;h2 id=&quot;பாண்டியராஜா-தொடரடைவு-வளையாபதி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“பாண்டியராஜா தொடரடைவு வளையாபதி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;http://localhost:4000/pand_thod_valai&lt;/p&gt;
+&lt;p&gt;/pand_thod_valai&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -1359,8 +1359,8 @@
 
 </description>
         <pubDate>Sat, 26 Oct 2019 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/pand_thod_valai</link>
-        <guid isPermaLink="true">http://localhost:4000/pand_thod_valai</guid>
+        <link>/pand_thod_valai</link>
+        <guid isPermaLink="true">/pand_thod_valai</guid>
         
         <category>அகராதிகள்</category>
         
@@ -1378,7 +1378,7 @@
       <item>
         <title>பாண்டியராஜா தொடரடைவு குண்டலகேசி</title>
         <description>&lt;h2 id=&quot;பாண்டியராஜா-தொடரடைவு-குண்டலகேசி-கைப்பேசியில்-நிறுவல்-முறை-&quot;&gt;“பாண்டியராஜா தொடரடைவு குண்டலகேசி” கைப்பேசியில் நிறுவல் முறை ..&lt;/h2&gt;
-&lt;p&gt;http://localhost:4000/pand_thod_gund_kasi&lt;/p&gt;
+&lt;p&gt;/pand_thod_gund_kasi&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;1. முதலில் உங்கள் கைப்பேசியில் &lt;a href=&quot;https://github.com/ThaniThamizhAkarathiKalanjiyam/win_ttak/raw/ttak_apk/ttak_287.apk&quot;&gt;அஃக ௨௮௭ - Download for Android&lt;/a&gt; என்ற Android செயலியை நிறுவிக் கொள்ளுங்கள். &lt;strong&gt;(ஏற்கனவே “அஃக ௨௮௭” செயலி நிறுவி இருந்தால் மீண்டும் நிறுவ தேவை இல்லை.)&lt;/strong&gt;&lt;/li&gt;
@@ -1452,8 +1452,8 @@
 
 </description>
         <pubDate>Sat, 26 Oct 2019 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/pand_thod_gund_kasi</link>
-        <guid isPermaLink="true">http://localhost:4000/pand_thod_gund_kasi</guid>
+        <link>/pand_thod_gund_kasi</link>
+        <guid isPermaLink="true">/pand_thod_gund_kasi</guid>
         
         <category>அகராதிகள்</category>
         
