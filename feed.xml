@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>தனித் தமிழகராதிக் களஞ்சியம்</title>
-    <description>தமிழ் ஆங்கில அகராதி</description>
+    <description>தமிழ் &lt;-&gt; ஆங்கில அகராதி</description>
     <link>https://thanithamizhakarathikalanjiyam.github.io/</link>
     <atom:link href="https://thanithamizhakarathikalanjiyam.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 05 Aug 2022 21:13:04 +0530</pubDate>
-    <lastBuildDate>Fri, 05 Aug 2022 21:13:04 +0530</lastBuildDate>
+    <pubDate>Thu, 18 Aug 2022 21:13:48 +0530</pubDate>
+    <lastBuildDate>Thu, 18 Aug 2022 21:13:48 +0530</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -52,11 +52,10 @@
 
 &lt;h3 id=&quot;சொற்குவை-அகராதி&quot;&gt;சொற்குவை அகராதி&lt;/h3&gt;
 
-&lt;ul class=&quot;task-list&quot;&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;மருத்துவ அகராதி&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;சொற்குவை அகராதி&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;https://sorkuvai.com/disclaimer/&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;செந்தமிழ்ச் சொற்பிறப்பியல் அகரமுதலித் திட்ட இயக்ககம்&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;சொற்குவை அகராதி&lt;/li&gt;
+  &lt;li&gt;https://sorkuvai.com/disclaimer/&lt;/li&gt;
+  &lt;li&gt;செந்தமிழ்ச் சொற்பிறப்பியல் அகரமுதலித் திட்ட இயக்ககம்&lt;/li&gt;
   &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -68,7 +67,7 @@
 
 &lt;p&gt;இந்த அகராதி அனைவருக்கும் பயன்படும் என எண்ணுகிறேன்.&lt;/p&gt;
 
-&lt;p&gt;கைபேசியாக்கம்,
+&lt;p&gt;கைபேசியாக்கம்,&lt;br /&gt;
 மு.பிச்சைமுத்து&lt;/p&gt;
 
 &lt;h1 id=&quot;ஆக்குனரின்-பொறுப்பு-துறப்பு--httpssorkuvaicomdisclaimer&quot;&gt;ஆக்குனரின் பொறுப்பு துறப்பு | https://sorkuvai.com/disclaimer/&lt;/h1&gt;
@@ -464,6 +463,7 @@
   &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;ஆங்கிலம் -&amp;gt; தமிழ் கட்டுரையாளர்களுக்கான அகராதி,&lt;/li&gt;
   &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;பள்ளி , கல்லூரி மாணவர்கள் / ஆசிரியர்களுக்கான அகராதி,&lt;/li&gt;
   &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;போட்டித் தேர்வுகளில் பங்கேற்கும் தமிழ் வழி கற்றழுகக்கான அகராதி.&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;Collected from https://ta.wiktionary.org/wiki/%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81:%E0%AE%9A%E0%AF%86%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%88%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AF%87%E0%AE%B0%E0%AE%95%E0%AE%B0%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AE%BF%E0%AE%9A%E0%AF%8D_%E0%AE%9A%E0%AF%8A%E0%AE%B1%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;வரலாறு-thanks-to-wikipedia&quot;&gt;வரலாறு (Thanks to Wikipedia)&lt;/h2&gt;
