@@ -15,11 +15,6 @@ archiver, compression, software, compress, zip, unzip">
 <TABLE cellpadding="2" cellspacing="0" border="0">
   
 
-  <TR><TD><a href="newwords" class="MenuLink"  
-  
-  >புதிது</a></TD></TR>  
-  
-
   <TR><TD><a href="download" class="MenuLink"  
   
   >தரவிறக்கம்</a></TD></TR>  
