@@ -5749,10 +5749,10 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.1. <a href="/technical_terms_in_handicrafts_ii"><b>கணினிகளஞ்சியப்பேரகராதி</b></a>
+	8.1. <a href="/kalanjiya_perakarathi"><b>கணினிகளஞ்சியப்பேரகராதி</b></a>
 	
 	</td>
-	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/technical_terms_in_handicrafts_ii.slob"> Download </a></td>	
+	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/kalanjiya_perakarathi.slob"> Download </a></td>	
 	
 	
 	</tr>
@@ -22089,10 +22089,10 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_28" >
 	<td class="Item">
 	
-	28.1. <a href="/technical_terms_in_handicrafts_ii"><b>கணினிகளஞ்சியப்பேரகராதி</b></a>
+	28.1. <a href="/kalanjiya_perakarathi"><b>கணினிகளஞ்சியப்பேரகராதி</b></a>
 	
 	</td>
-	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/technical_terms_in_handicrafts_ii.slob"> Download </a></td>	
+	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/kalanjiya_perakarathi.slob"> Download </a></td>	
 	
 		
 		<td class="Item" align="center">"கணினிகளஞ்சியப்பேரகராதி/"</td>	
@@ -26692,10 +26692,10 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_34" >
 	<td class="Item">
 	
-	34.1. <a href="/technical_terms_in_handicrafts_ii"><b>கணினிகளஞ்சியப்பேரகராதி</b></a>
+	34.1. <a href="/kalanjiya_perakarathi"><b>கணினிகளஞ்சியப்பேரகராதி</b></a>
 	
 	</td>
-	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/technical_terms_in_handicrafts_ii.slob"> Download </a></td>	
+	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/kalanjiya_perakarathi.slob"> Download </a></td>	
 	
 		
 		<td class="Item" align="center">"கணினிகளஞ்சியப்பேரகராதி/"</td>	
