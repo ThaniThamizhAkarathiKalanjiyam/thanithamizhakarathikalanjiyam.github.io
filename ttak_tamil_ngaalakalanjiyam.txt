@@ -15,19 +15,24 @@ archiver, compression, software, compress, zip, unzip">
 <TABLE cellpadding="2" cellspacing="0" border="0">
   
 
+  <TR><TD><a href="" class="MenuLink"  
+  class="selected"
+  >முகப்பு,</a></TD></TR>  
+  
+
+  <TR><TD><a href="newwords" class="MenuLink"  
+  
+  >புதிது</a></TD></TR>  
+  
+
   <TR><TD><a href="download" class="MenuLink"  
   
   >தரவிறக்கம்</a></TD></TR>  
   
 
-  <TR><TD><a href="more_books" class="MenuLink"  
-  
-  >ஞாலக்களஞ்சியம்</a></TD></TR>  
-  
-
   <TR><TD><a href="about" class="MenuLink"  
   
-  >எம்மைப்பற்றி</a></TD></TR>  
+  >யாம்</a></TD></TR>  
 
 <TR><TD><A href="#niruval" class="MenuLink">கைப்பேசியில் நிறுவல்</A></TD></TR>
 </TABLE>
