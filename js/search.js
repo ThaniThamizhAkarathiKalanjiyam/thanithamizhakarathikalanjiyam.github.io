@@ -1,4 +1,15 @@
 $(document).ready(function(){
+	$.ajaxSetup({
+  beforeSend: () => {
+    $("#loading").show();
+  },
+  complete: () => {
+    $("#loading").hide();
+  }
+});
+
+
+var converter = new showdown.Converter()
 
  wordsearch = function (funcData) {
 	 
