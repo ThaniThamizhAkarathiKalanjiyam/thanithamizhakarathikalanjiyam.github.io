@@ -24,28 +24,25 @@ accordionDiv.attr("id","accordion")
 
 $.each(ResponseJsonE,function(index,value){
 	
-//<h3>Section 1</h3>
-var h3Div = $("<h3>")
-$(h3Div).html(value.dictionary_name)
-$(accordionDiv).append(h3Div)
-//<div>
-//<p>
-//Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer
-//ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit
-//amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut
-//odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.
-//</p>
-var htmlVal      = converter.makeHtml(value.dictionary_meaning);
-
-var pDiv = $("<p>")
-pDiv.html(htmlVal)
-$(accordionDiv).append(pDiv)
-//</div>
-//</div>  
+	//<h3>Section 1</h3>
+	var h3Div = $("<h3>")
+	$(h3Div).html(value.dictionary_name)
+	$(accordionDiv).append(h3Div)
+	//<div>
+	//<p>
+	//Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer
+	//ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit
+	//amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut
+	//odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.
+	//</p>
+	var htmlVal      = converter.makeHtml(value.dictionary_meaning);
+	var pDiv = $("<p>")
+	pDiv.html(htmlVal)
+	$(accordionDiv).append(pDiv)
+	//</div>
+	//</div>  
 	
-})
-
-		
+})	
 		  $("#meanings").html(accordionDiv)
 		  $( "#accordion" ).accordion();
 		  
