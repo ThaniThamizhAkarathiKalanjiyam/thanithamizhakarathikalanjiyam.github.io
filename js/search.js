@@ -11,11 +11,11 @@ $(document).ready(function () {
             }
         });
 
-    var searchUrls = []
+    var searchUrls = [];
 
-    var converter = new showdown.Converter()
+    var converter = new showdown.Converter();
 
-        wordsearch = function (funcData) {
+    wordsearch = function (funcData) {
 
         var searctTextVal = $.trim($("#txtSearch").val().toLowerCase())
 
@@ -26,34 +26,34 @@ $(document).ready(function () {
                 var accordionDiv = $("<div>")
                     accordionDiv.attr("id", "accordion")
 
-                    //$.each(ResponseJsonE, function (index, value) 
-					{
+                    //$.each(ResponseJsonE, function (index, value)
+                {
 
-                        //<h3>Section 1</h3>
-                        var h3Div = $("<h3>")
-                            $(h3Div).html(funcData.dict_full)
-                            $(accordionDiv).append(h3Div)
-                            //<div>
-                            //<p>
-                            //Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer
-                            //ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit
-                            //amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut
-                            //odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.
-                            //</p>
-                            var htmlVal = converter.makeHtml(value.dictionary_meaning);
-                        var pDiv = $("<p>")
-                            pDiv.html(htmlVal)
-                            $(accordionDiv).append(pDiv)
-                            //</div>
-                            //</div>
+                    //<h3>Section 1</h3>
+                    var h3Div = $("<h3>")
+                        $(h3Div).html(funcData.dict_full)
+                        $(accordionDiv).append(h3Div)
+                        //<div>
+                        //<p>
+                        //Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer
+                        //ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit
+                        //amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut
+                        //odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.
+                        //</p>
+                        var htmlVal = converter.makeHtml(value.dictionary_meaning);
+                    var pDiv = $("<p>")
+                        pDiv.html(htmlVal)
+                        $(accordionDiv).append(pDiv)
+                        //</div>
+                        //</div>
 
-                    }
-					//)
-                    $("#meanings").append(accordionDiv)
-                    //$( "#accordion" ).accordion();
+                }
+                //)
+                $("#meanings").append(accordionDiv)
+                //$( "#accordion" ).accordion();
 
             });
-      
+
     }
 
     updateSearchWords = function (txtsearchLow) {
@@ -94,9 +94,9 @@ $(document).ready(function () {
                 //var kaan_url = getAllUrlParams(getAllUrlParams_url).kaan;
                 var loc_url searchBaseUrl + dir
                 searchUrls.push({
-					url: loc_url,
-					dict_full: dict_full
-				})
+                    url: loc_url,
+                    dict_full: dict_full
+                })
             }
             console.log(searchUrls)
         });
@@ -108,17 +108,19 @@ $(document).ready(function () {
         $.each(searchUrls, function (index, value) {
             wordsearch({
                 url: value,
-				dict_full: dict_full
+                dict_full: dict_full
             })
         })
-		
-		var searctTextVal = $.trim($("#txtSearch").val().toLowerCase())
-		updateSearchWords(searctTextVal)
+
+        var searctTextVal = $.trim($("#txtSearch").val().toLowerCase())
+            updateSearchWords(searctTextVal)
 
     })
 
-    var jqxhr = $.when(
-            init_getJSON()).then(function () {})
+    var jqxhr = $.when(init_getJSON())
+		.then(function () {
+			
+		})
         .done(function () {
             //versol_div("வேர்", ["இடது கிளை", "வலது கிளை"]);
             //$('#jstree_demo_div').jstree();
