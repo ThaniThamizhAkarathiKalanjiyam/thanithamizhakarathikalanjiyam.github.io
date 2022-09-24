@@ -19,7 +19,7 @@ $(document).ready(function () {
 
         var searctTextVal = $.trim($("#txtsearch").val().toLowerCase())
 
-            $.get(funcData.url + searctTextVal,
+            $.get(funcData.dir + searctTextVal,
                 function (ResponseJsonE) {
 
                 //<div id="accordion">
@@ -92,10 +92,7 @@ $(document).ready(function () {
         $("#meanings").html("")
 
         $.each(searchUrls, function (index, value) {
-            wordsearch({
-                url: value.dir,
-                dict_full: value.dict_full
-            })
+            wordsearch(value)
         })
 
         var searctTextVal = $.trim($("#txtsearch").val().toLowerCase())
