@@ -82,23 +82,8 @@ $(document).ready(function () {
 
     init_getJSON = function () {
         $.getJSON("https://thanithamizhakarathikalanjiyam.github.io/ttakJs/urls.json", function (url_data) {
-
-            for (i = 0; i < url_data.length; i++) {
-                //var id = url_data[i].id;
-                var dict = url_data[i].dict;
-                var dict_full = url_data[i].dict_full;
-                //var desc = url_data[i].desc;
-                //var kaan = url_data[i].kaan;
-                var dir = url_data[i].kaan;
-                var getAllUrlParams_url = window.location.href;
-                //var kaan_url = getAllUrlParams(getAllUrlParams_url).kaan;
-                var loc_url  = searchBaseUrl + dir
-                searchUrls.push({
-                    url: loc_url,
-                    dict_full: dict_full,
-					dir:dir
-                })
-            }
+			searchUrls = url_data
+            
             console.log(searchUrls)
         });
     }
@@ -117,7 +102,7 @@ $(document).ready(function () {
             updateSearchWords(searctTextVal)
 
     })
-
+ 
     var jqxhr = $.when(init_getJSON())
 		.then(function () {
 			
