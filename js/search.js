@@ -47,12 +47,13 @@ $(document).ready(function () {
                             //</div>
                             //</div>
 
-                    })
+                    }
+					//)
                     $("#meanings").append(accordionDiv)
                     //$( "#accordion" ).accordion();
 
             });
-        updateSearchWords(searctTextVal)
+      
     }
 
     updateSearchWords = function (txtsearchLow) {
@@ -110,6 +111,9 @@ $(document).ready(function () {
 				dict_full: dict_full
             })
         })
+		
+		var searctTextVal = $.trim($("#txtSearch").val().toLowerCase())
+		updateSearchWords(searctTextVal)
 
     })
 
