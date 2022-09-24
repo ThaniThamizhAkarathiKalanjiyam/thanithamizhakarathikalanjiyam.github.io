@@ -92,7 +92,7 @@ $(document).ready(function () {
                 var dir = url_data[i].kaan;
                 var getAllUrlParams_url = window.location.href;
                 //var kaan_url = getAllUrlParams(getAllUrlParams_url).kaan;
-                var loc_url searchBaseUrl + dir
+                var loc_url  = searchBaseUrl + dir
                 searchUrls.push({
                     url: loc_url,
                     dict_full: dict_full
