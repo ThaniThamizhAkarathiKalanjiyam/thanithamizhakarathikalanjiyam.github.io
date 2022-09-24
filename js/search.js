@@ -17,7 +17,7 @@ $(document).ready(function () {
 
     wordsearch = function (funcData) {
 
-        var searctTextVal = $.trim($("#txtSearch").val().toLowerCase())
+        var searctTextVal = $.trim($("#txtsearch").val().toLowerCase())
 
             $.get(funcData.url + searctTextVal,
                 function (ResponseJsonE) {
@@ -113,7 +113,7 @@ $(document).ready(function () {
             })
         })
 
-        var searctTextVal = $.trim($("#txtSearch").val().toLowerCase())
+        var searctTextVal = $.trim($("#txtsearch").val().toLowerCase())
             updateSearchWords(searctTextVal)
 
     })
