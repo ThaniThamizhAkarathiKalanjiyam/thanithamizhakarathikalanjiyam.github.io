@@ -95,7 +95,8 @@ $(document).ready(function () {
                 var loc_url  = searchBaseUrl + dir
                 searchUrls.push({
                     url: loc_url,
-                    dict_full: dict_full
+                    dict_full: dict_full,
+					dir:dir
                 })
             }
             console.log(searchUrls)
@@ -107,8 +108,8 @@ $(document).ready(function () {
 
         $.each(searchUrls, function (index, value) {
             wordsearch({
-                url: value,
-                dict_full: dict_full
+                url: value.dir,
+                dict_full: value.dict_full
             })
         })
 
