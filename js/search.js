@@ -40,7 +40,7 @@ $(document).ready(function () {
                         //amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut
                         //odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.
                         //</p>
-                        var htmlVal = converter.makeHtml(value.dictionary_meaning);
+                        var htmlVal = converter.makeHtml(ResponseJsonE);
                     var pDiv = $("<p>")
                         pDiv.html(htmlVal)
                         $(accordionDiv).append(pDiv)
