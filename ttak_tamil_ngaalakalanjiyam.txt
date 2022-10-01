@@ -25,6 +25,11 @@ archiver, compression, software, compress, zip, unzip">
   >புதிது</a></TD></TR>  
   
 
+  <TR><TD><a href="blog" class="MenuLink"  
+  
+  >பதிவு</a></TD></TR>  
+  
+
   <TR><TD><a href="download" class="MenuLink"  
   
   >தரவிறக்கம்</a></TD></TR>  
