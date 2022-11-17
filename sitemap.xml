@@ -21,7 +21,7 @@
   
   
       <url>
-        <loc>https://thanithamizhakarathikalanjiyam.github.io/blog/</loc>
+        <loc>https://thanithamizhakarathikalanjiyam.github.io/agarathiV2/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -29,7 +29,7 @@
   
   
       <url>
-        <loc>https://thanithamizhakarathikalanjiyam.github.io/agarathiV2/</loc>
+        <loc>https://thanithamizhakarathikalanjiyam.github.io/blog/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -1933,6 +1933,20 @@
        </url>
   
   
+  
+      <url>
+        <loc>https://thanithamizhakarathikalanjiyam.github.io/blog/index35/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>https://thanithamizhakarathikalanjiyam.github.io/ariv_kalanjiyam_4</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
   
       <url>
         <loc>https://thanithamizhakarathikalanjiyam.github.io/kanini_kalanjiya_perakarathi</loc>
