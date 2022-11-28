@@ -1949,6 +1949,12 @@
        </url>
   
       <url>
+        <loc>https://thanithamizhakarathikalanjiyam.github.io/saiva_sidhandha_agarathi</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
         <loc>https://thanithamizhakarathikalanjiyam.github.io/thali_kinds</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
