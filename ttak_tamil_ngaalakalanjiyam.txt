@@ -458,6 +458,10 @@ archiver, compression, software, compress, zip, unzip">
 		
 
 
+		<a href="#மருத்துவக் கலைச்சொல்">மருத்துவக் கலைச்சொல்</a><br/>
+		
+
+
 		<a href="#மறைமலை அடிகள்">மறைமலை அடிகள்</a><br/>
 		
 
@@ -563,6 +567,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -1356,6 +1362,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_2" >
 	<td class="Item">
@@ -2099,6 +2107,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_3" >
 	<td class="Item">
@@ -2792,6 +2802,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -3677,6 +3689,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_5" >
 	<td class="Item">
@@ -4326,6 +4340,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -5153,6 +5169,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_7" >
 	<td class="Item">
@@ -5845,7 +5863,30 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.1. <a href="/aaatchi_sorkal_akarathi"><b>ஆட்சி சொற்கள் அகராதி</b></a>
+	8.1. <a href="/maruthuva_kalanjiya_perakarathi"><b>மருத்துவக் கலைச்சொல் களஞ்சிய அகராதி</b></a>
+	
+	</td>
+	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/maruthuva_kalanjiya_perakarathi.slob"> Download </a></td>	
+	
+	
+	</tr>
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+	<tr id="id_8" >
+	<td class="Item">
+	
+	8.2. <a href="/aaatchi_sorkal_akarathi"><b>ஆட்சி சொற்கள் அகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/aaatchi_sorkal_akarathi.slob"> Download </a></td>	
@@ -5868,7 +5909,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.2. <a href="/saiva_sidhandha_agarathi"><b>சைவ சித்தாந்த அகராதி</b></a>
+	8.3. <a href="/saiva_sidhandha_agarathi"><b>சைவ சித்தாந்த அகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/saiva_sidhandha_agarathi.slob"> Download </a></td>	
@@ -5893,7 +5934,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.3. <a href="/ariv_tholil_kalai_kalnj_aka"><b>அறிவியல், தொழில்நுட்ப கலைச்சொல் களஞ்சிய அகராதி</b></a>
+	8.4. <a href="/ariv_tholil_kalai_kalnj_aka"><b>அறிவியல், தொழில்நுட்ப கலைச்சொல் களஞ்சிய அகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/ariv_tholil_kalai_kalnj_aka.slob"> Download </a></td>	
@@ -5916,7 +5957,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.4. <a href="/ariv_kalanjiyam_4"><b>அறிவியல் கலைச்சொல் களஞ்சியம்-இறுதிப்பகுதி</b></a>
+	8.5. <a href="/ariv_kalanjiyam_4"><b>அறிவியல் கலைச்சொல் களஞ்சியம்-இறுதிப்பகுதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/ariv_kalanjiyam_4.slob"> Download </a></td>	
@@ -5939,7 +5980,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.5. <a href="/kanini_kalanjiya_perakarathi"><b>கணினிகளஞ்சியப்பேரகராதி</b></a>
+	8.6. <a href="/kanini_kalanjiya_perakarathi"><b>கணினிகளஞ்சியப்பேரகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/kanini_kalanjiya_perakarathi.slob"> Download </a></td>	
@@ -5962,7 +6003,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.6. <a href="/technical_terms_in_handicrafts_ii"><b>கலைச் சொற்கள்—ஆறாம் பகுதி கைப்பணிச் சொற்றொகுதி II (மரவேலையும் அரக்குவேலையும்)</b></a>
+	8.7. <a href="/technical_terms_in_handicrafts_ii"><b>கலைச் சொற்கள்—ஆறாம் பகுதி கைப்பணிச் சொற்றொகுதி II (மரவேலையும் அரக்குவேலையும்)</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/technical_terms_in_handicrafts_ii.slob"> Download </a></td>	
@@ -5985,7 +6026,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.7. <a href="/eng_tam_words_innocent_nicholas"><b>Vocabulary of English and Tamil words</b></a>
+	8.8. <a href="/eng_tam_words_innocent_nicholas"><b>Vocabulary of English and Tamil words</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/eng_tam_words_innocent_nicholas.slob"> Download </a></td>	
@@ -6008,7 +6049,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.8. <a href="/pand_thod_thiruvarutpa"><b>பாண்டியராஜா தொடரடைவு திருவருட்பா</b></a>
+	8.9. <a href="/pand_thod_thiruvarutpa"><b>பாண்டியராஜா தொடரடைவு திருவருட்பா</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/pand_thod_thiruvarutpa.slob"> Download </a></td>	
@@ -6031,7 +6072,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.9. <a href="/sorkuvai"><b>சொற்குவை அகராதி</b></a>
+	8.10. <a href="/sorkuvai"><b>சொற்குவை அகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/sorkuvai.slob"> Download </a></td>	
@@ -6054,7 +6095,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.10. <a href="/sathurakarathi_peyar"><b>சதுரகராதி - பெயரகராதி</b></a>
+	8.11. <a href="/sathurakarathi_peyar"><b>சதுரகராதி - பெயரகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/sathurakarathi_peyar.slob"> Download </a></td>	
@@ -6077,7 +6118,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.11. <a href="/maruthuva_sorkal_2"><b>கண்மணிப்புகழ் மருத்துவ அகராதி</b></a>
+	8.12. <a href="/maruthuva_sorkal_2"><b>கண்மணிப்புகழ் மருத்துவ அகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/maruthuva_sorkal_2.slob"> Download </a></td>	
@@ -6102,7 +6143,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.12. <a href="/lexpser_new"><b>சென்னைப் பல்கலைக்கழகத் தமிழ்ப் பேரகராதி</b></a>
+	8.13. <a href="/lexpser_new"><b>சென்னைப் பல்கலைக்கழகத் தமிழ்ப் பேரகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/lexpser_new.slob"> Download </a></td>	
@@ -6125,7 +6166,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.13. <a href="/tamilnadu_manavar_akarathi"><b>தமிழ்நாடு மாணவர் கணினித் திட்ட அகராதி</b></a>
+	8.14. <a href="/tamilnadu_manavar_akarathi"><b>தமிழ்நாடு மாணவர் கணினித் திட்ட அகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/tamilnadu_manavar_akarathi.slob"> Download </a></td>	
@@ -6148,7 +6189,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.14. <a href="/tamil_kalvi"><b>தமிழ்க் கல்வி அகராதி</b></a>
+	8.15. <a href="/tamil_kalvi"><b>தமிழ்க் கல்வி அகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/tamil_kalvi.slob"> Download </a></td>	
@@ -6171,7 +6212,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.15. <a href="/vanikaviyal_agarathi"><b>வணிகவியல் அகராதி</b></a>
+	8.16. <a href="/vanikaviyal_agarathi"><b>வணிகவியல் அகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/vanikaviyal_agarathi.slob"> Download </a></td>	
@@ -6196,7 +6237,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.16. <a href="/pand_thod_valai"><b>பாண்டியராஜா தொடரடைவு வளையாபதி</b></a>
+	8.17. <a href="/pand_thod_valai"><b>பாண்டியராஜா தொடரடைவு வளையாபதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/pand_thod_valai.slob"> Download </a></td>	
@@ -6219,7 +6260,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.17. <a href="/pand_thod_gund_kasi"><b>பாண்டியராஜா தொடரடைவு குண்டலகேசி</b></a>
+	8.18. <a href="/pand_thod_gund_kasi"><b>பாண்டியராஜா தொடரடைவு குண்டலகேசி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/pand_thod_gund_kasi.slob"> Download </a></td>	
@@ -6260,7 +6301,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.18. <a href="/pand_thod_seev_sintha"><b>பாண்டியராஜா தொடரடைவு சீவகசிந்தாமணி</b></a>
+	8.19. <a href="/pand_thod_seev_sintha"><b>பாண்டியராஜா தொடரடைவு சீவகசிந்தாமணி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/pand_thod_seev_sintha.slob"> Download </a></td>	
@@ -6283,7 +6324,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.19. <a href="/pand_thod_manimag"><b>பாண்டியராஜா தொடரடைவு மணிமேகலை</b></a>
+	8.20. <a href="/pand_thod_manimag"><b>பாண்டியராஜா தொடரடைவு மணிமேகலை</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/pand_thod_manimag.slob"> Download </a></td>	
@@ -6306,7 +6347,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.20. <a href="/pand_thod_silambu"><b>பாண்டியராஜா தொடரடைவு சிலப்பதிகாரம்</b></a>
+	8.21. <a href="/pand_thod_silambu"><b>பாண்டியராஜா தொடரடைவு சிலப்பதிகாரம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/pand_thod_silambu.slob"> Download </a></td>	
@@ -6329,7 +6370,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.21. <a href="/pand_thod_kamba_raamaa"><b>பாண்டியராஜா தொடரடைவு கம்பராமாயணம்</b></a>
+	8.22. <a href="/pand_thod_kamba_raamaa"><b>பாண்டியராஜா தொடரடைவு கம்பராமாயணம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/pand_thod_kamba_raamaa.slob"> Download </a></td>	
@@ -6352,7 +6393,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.22. <a href="/pand_thod_sank_ilak"><b>பாண்டியராஜா தொடரடைவு சங்க இலக்கியம்</b></a>
+	8.23. <a href="/pand_thod_sank_ilak"><b>பாண்டியராஜா தொடரடைவு சங்க இலக்கியம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/pand_thod_sank_ilak.slob"> Download </a></td>	
@@ -6375,7 +6416,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.23. <a href="/pand_thod_thol"><b>பாண்டியராஜா தொடரடைவு தொல்காப்பியம்</b></a>
+	8.24. <a href="/pand_thod_thol"><b>பாண்டியராஜா தொடரடைவு தொல்காப்பியம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/pand_thod_thol.slob"> Download </a></td>	
@@ -6434,7 +6475,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.24. <a href="/maruthuva_sorkal_2"><b>கண்மணிப்புகழ் அகராதிக் களஞ்சியம்</b></a>
+	8.25. <a href="/maruthuva_sorkal_2"><b>கண்மணிப்புகழ் அகராதிக் களஞ்சியம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/maruthuva_sorkal_2.slob"> Download </a></td>	
@@ -6622,7 +6663,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.26. <a href="/maruthuva_sorkal_1"><b>கண்மணிப்புகழ் அகராதி</b></a>
+	8.27. <a href="/maruthuva_sorkal_1"><b>கண்மணிப்புகழ் அகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/maruthuva_sorkal_1.slob"> Download </a></td>	
@@ -6649,7 +6690,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.27. <a href="/winslow_ta"><b>வின்சுலோ</b></a>
+	8.28. <a href="/winslow_ta"><b>வின்சுலோ</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/winslow_ta.slob"> Download </a></td>	
@@ -6672,7 +6713,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.28. <a href="/ttak_eng_tam"><b>தனித் தமிழகராதிக் களஞ்சியம் (ஆங்கிலம்->தமிழ்)</b></a>
+	8.29. <a href="/ttak_eng_tam"><b>தனித் தமிழகராதிக் களஞ்சியம் (ஆங்கிலம்->தமிழ்)</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/ttak_eng_tam.slob"> Download </a></td>	
@@ -6727,7 +6768,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.29. <a href="/valavu_kalai_kalanjiyam"><b>வளவு கலைக் களஞ்சியம்</b></a>
+	8.30. <a href="/valavu_kalai_kalanjiyam"><b>வளவு கலைக் களஞ்சியம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/valavu_kalai_kalanjiyam.slob"> Download </a></td>	
@@ -6750,7 +6791,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.30. <a href="/ttak_tam_tam"><b>தனித் தமிழகராதிக் களஞ்சியம் (தமிழ்->தமிழ்)</b></a>
+	8.31. <a href="/ttak_tam_tam"><b>தனித் தமிழகராதிக் களஞ்சியம் (தமிழ்->தமிழ்)</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/ttak_tam_tam.slob"> Download </a></td>	
@@ -6775,7 +6816,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.31. <a href="/wiktionary"><b>விக்சனரி</b></a>
+	8.32. <a href="/wiktionary"><b>விக்சனரி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/wiktionary.slob"> Download </a></td>	
@@ -6846,7 +6887,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.32. <a href="/jayabarathan_wordpress_com"><b>அணுவியல் கலைச்சொல் களஞ்சியம்</b></a>
+	8.33. <a href="/jayabarathan_wordpress_com"><b>அணுவியல் கலைச்சொல் களஞ்சியம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/jayabarathan_wordpress_com.slob"> Download </a></td>	
@@ -6973,7 +7014,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.33. <a href="/ttak"><b>தனித் தமிழகராதிக் களஞ்சியம்</b></a>
+	8.34. <a href="/ttak"><b>தனித் தமிழகராதிக் களஞ்சியம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/ttak.slob"> Download </a></td>	
@@ -7016,7 +7057,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.34. <a href="/ariv_kalanjiyam_3"><b>அறிவியல் கலைச்சொல் களஞ்சியம்</b></a>
+	8.35. <a href="/ariv_kalanjiyam_3"><b>அறிவியல் கலைச்சொல் களஞ்சியம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/ariv_kalanjiyam_3.slob"> Download </a></td>	
@@ -7175,7 +7216,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.35. <a href="/ariviyal_akarathi"><b>அறிவியல் அகராதி</b></a>
+	8.36. <a href="/ariviyal_akarathi"><b>அறிவியல் அகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/ariviyal_akarathi.slob"> Download </a></td>	
@@ -7202,7 +7243,7 @@ archiver, compression, software, compress, zip, unzip">
 	<tr id="id_8" >
 	<td class="Item">
 	
-	8.36. <a href="/pon_saravanan"><b>உணவுக்கலைச் சொற்கள்</b></a>
+	8.37. <a href="/pon_saravanan"><b>உணவுக்கலைச் சொற்கள்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/pon_saravanan.slob"> Download </a></td>	
@@ -7299,6 +7340,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -8203,6 +8246,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -9339,6 +9384,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_11" >
 	<td class="Item">
@@ -9712,6 +9759,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -10455,6 +10504,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -11636,6 +11687,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_14" >
 	<td class="Item">
@@ -12101,6 +12154,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -13038,6 +13093,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -14093,6 +14150,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_17" >
 	<td class="Item">
@@ -14524,6 +14583,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -15267,6 +15328,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -16110,6 +16173,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_20" >
 	<td class="Item">
@@ -16764,6 +16829,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -18063,6 +18130,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_22" >
 	<td class="Item">
@@ -18388,6 +18457,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -19131,6 +19202,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -19952,6 +20025,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_25" >
 	<td class="Item">
@@ -20628,6 +20703,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -21563,6 +21640,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_27" >
 	<td class="Item">
@@ -22342,6 +22421,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -23218,6 +23299,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_29" >
 	<td class="Item">
@@ -23943,6 +24026,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -24847,6 +24932,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_31" >
 	<td class="Item">
@@ -25542,6 +25629,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -26285,6 +26374,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -27280,6 +27371,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_34" >
 	<td class="Item">
@@ -27863,6 +27956,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -28629,6 +28724,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -29555,6 +29652,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_37" >
 	<td class="Item">
@@ -30230,6 +30329,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -31246,6 +31347,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_39" >
 	<td class="Item">
@@ -31739,6 +31842,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -32482,6 +32587,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -33363,6 +33470,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_42" >
 	<td class="Item">
@@ -34012,6 +34121,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -34829,6 +34940,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_44" >
 	<td class="Item">
@@ -35498,6 +35611,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -36241,6 +36356,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -37294,6 +37411,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_47" >
 	<td class="Item">
@@ -37727,6 +37846,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -38503,6 +38624,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -39430,6 +39553,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_50" >
 	<td class="Item">
@@ -40011,6 +40136,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -40754,6 +40881,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -41819,6 +41948,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_53" >
 	<td class="Item">
@@ -42286,6 +42417,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -43029,6 +43162,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -44096,6 +44231,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_56" >
 	<td class="Item">
@@ -44745,6 +44882,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -45640,6 +45779,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_58" >
 	<td class="Item">
@@ -46231,6 +46372,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -47607,6 +47750,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_60" >
 	<td class="Item">
@@ -47728,6 +47873,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -48471,6 +48618,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -49592,6 +49741,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_63" >
 	<td class="Item">
@@ -50510,6 +50661,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_64" >
 	<td class="Item">
@@ -51229,6 +51382,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -52075,6 +52230,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_66" >
 	<td class="Item">
@@ -52737,6 +52894,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -53817,6 +53976,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_68" >
 	<td class="Item">
@@ -54384,6 +54545,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -55127,6 +55290,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -56036,6 +56201,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_71" >
 	<td class="Item">
@@ -56659,6 +56826,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -57574,6 +57743,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_73" >
 	<td class="Item">
@@ -58145,6 +58316,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -58888,6 +59061,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -59792,6 +59967,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -61424,6 +61601,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_77" >
 	<td class="Item">
@@ -61898,6 +62077,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -62936,6 +63117,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_79" >
 	<td class="Item">
@@ -63699,6 +63882,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_80" >
 	<td class="Item">
@@ -64380,6 +64565,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -65237,6 +65424,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_82" >
 	<td class="Item">
@@ -65900,6 +66089,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -66951,6 +67142,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_84" >
 	<td class="Item">
@@ -67386,6 +67579,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -68918,6 +69113,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_86" >
 	<td class="Item">
@@ -69561,6 +69758,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -70638,6 +70837,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_88" >
 	<td class="Item">
@@ -71047,6 +71248,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -72116,6 +72319,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_90" >
 	<td class="Item">
@@ -72533,6 +72738,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -73916,6 +74123,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_92" >
 	<td class="Item">
@@ -74019,6 +74228,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -74980,6 +75191,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -76311,6 +76524,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_95" >
 	<td class="Item">
@@ -76569,6 +76784,8 @@ archiver, compression, software, compress, zip, unzip">
   </tfoot>
   <tbody>
   
+
+
 
 
 
@@ -77332,6 +77549,8 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
 	<tr id="id_97" >
 	<td class="Item">
@@ -78035,7 +78254,752 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>98 <a name="மறைமலை அடிகள்">மறைமலை அடிகள்</a> நூல்கள்</B>:</P>  
+<P><B>98 <a name="மருத்துவக் கலைச்சொல்">மருத்துவக் கலைச்சொல்</a> நூல்கள்</B>:</P>  
+<TABLE cellspacing ="1" cellpadding ="6" border = "0">
+  <thead>
+    <tr>
+      <th class="Title" align="center">நூல்</th>
+      <th class="Title" align="center">தரவிறக்கம்</th>      
+				
+			<th class="Title" align="center">தேடுசொல்</th>      			
+			
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td class="bottom-left"></td>
+      <td colspan="4"></td>
+      <td class="bottom-right"></td>
+    </tr>
+  </tfoot>
+  <tbody>
+  
+
+
+
+
+
+
+
+
+	
+	<tr id="id_98" >
+	<td class="Item">
+	
+	98.1. <a href="/maruthuva_kalanjiya_perakarathi"><b>மருத்துவக் கலைச்சொல் களஞ்சிய அகராதி</b></a>
+	
+	</td>
+	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/maruthuva_kalanjiya_perakarathi.slob"> Download </a></td>	
+	
+		
+		<td class="Item" align="center">"மருத்துவக் கலைச்சொல் களஞ்சிய அகராதி/"</td>	
+	
+	</tr>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <tr><td colspan="3">Please install <a href="#niruval">அஃக ௨௮௭</a> for reading the book</td></tr>
+  </tbody>
+</table>
+
+
+
+	
+<P><B>99 <a name="மறைமலை அடிகள்">மறைமலை அடிகள்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -78167,11 +79131,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_98" >
+	<tr id="id_99" >
 	<td class="Item">
 	
-	98.1. <a href="/hindi_podhu_mozhiya"><b>இந்தி பொது மொழியா</b></a>
+	99.1. <a href="/hindi_podhu_mozhiya"><b>இந்தி பொது மொழியா</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/hindi_podhu_mozhiya.slob"> Download </a></td>	
@@ -78778,7 +79744,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>99 <a name="மாணவர் கணினி">மாணவர் கணினி</a> நூல்கள்</B>:</P>  
+<P><B>100 <a name="மாணவர் கணினி">மாணவர் கணினி</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -78834,11 +79800,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_99" >
+	<tr id="id_100" >
 	<td class="Item">
 	
-	99.1. <a href="/tamilnadu_manavar_akarathi"><b>தமிழ்நாடு மாணவர் கணினித் திட்ட அகராதி</b></a>
+	100.1. <a href="/tamilnadu_manavar_akarathi"><b>தமிழ்நாடு மாணவர் கணினித் திட்ட அகராதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/tamilnadu_manavar_akarathi.slob"> Download </a></td>	
@@ -79521,7 +80489,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>100 <a name="மிரோன் வின்சுலோ">மிரோன் வின்சுலோ</a> நூல்கள்</B>:</P>  
+<P><B>101 <a name="மிரோன் வின்சுலோ">மிரோன் வின்சுலோ</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -79817,11 +80785,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_100" >
+	<tr id="id_101" >
 	<td class="Item">
 	
-	100.1. <a href="/winslow_ta"><b>வின்சுலோ</b></a>
+	101.1. <a href="/winslow_ta"><b>வின்சுலோ</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/winslow_ta.slob"> Download </a></td>	
@@ -80264,7 +81234,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>101 <a name="முடியரசன்">முடியரசன்</a> நூல்கள்</B>:</P>  
+<P><B>102 <a name="முடியரசன்">முடியரசன்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -80806,11 +81776,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.1. <a href="/veera_kaviyam"><b>வீரகாவியம்</b></a>
+	102.1. <a href="/veera_kaviyam"><b>வீரகாவியம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/veera_kaviyam.slob"> Download </a></td>	
@@ -80832,10 +81804,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.2. <a href="/valluvar_kottam"><b>வள்ளுவர் கோட்டம்</b></a>
+	102.2. <a href="/valluvar_kottam"><b>வள்ளுவர் கோட்டம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/valluvar_kottam.slob"> Download </a></td>	
@@ -80857,10 +81829,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.3. <a href="/undrukol"><b>ஊன்று கோல்</b></a>
+	102.3. <a href="/undrukol"><b>ஊன்று கோல்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/undrukol.slob"> Download </a></td>	
@@ -80882,10 +81854,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.4. <a href="/thaay_mozhi_kappom"><b>தாய்மொழிக் காப்போம்</b></a>
+	102.4. <a href="/thaay_mozhi_kappom"><b>தாய்மொழிக் காப்போம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/thaay_mozhi_kappom.slob"> Download </a></td>	
@@ -80907,10 +81879,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.5. <a href="/tamil_ilakanam_mudi"><b>தமிழ் இலக்கணம்</b></a>
+	102.5. <a href="/tamil_ilakanam_mudi"><b>தமிழ் இலக்கணம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/tamil_ilakanam_mudi.slob"> Download </a></td>	
@@ -80932,10 +81904,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.6. <a href="/puthiyathor_vidhi_seyvom"><b>புதியதொரு விதி செய்வோம்</b></a>
+	102.6. <a href="/puthiyathor_vidhi_seyvom"><b>புதியதொரு விதி செய்வோம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/puthiyathor_vidhi_seyvom.slob"> Download </a></td>	
@@ -80957,10 +81929,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.7. <a href="/paattup_paravaiyin_valkai"><b>பாட்டுப் பறவையின் வாழ்க்கைப் பயணம்</b></a>
+	102.7. <a href="/paattup_paravaiyin_valkai"><b>பாட்டுப் பறவையின் வாழ்க்கைப் பயணம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/paattup_paravaiyin_valkai.slob"> Download </a></td>	
@@ -80982,10 +81954,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.8. <a href="/paadung_kuyilkal"><b>பாடுங் குயில்கள்</b></a>
+	102.8. <a href="/paadung_kuyilkal"><b>பாடுங் குயில்கள்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/paadung_kuyilkal.slob"> Download </a></td>	
@@ -81007,10 +81979,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.9. <a href="/ngayirum_thinkalum"><b>ஞாயிறும் திங்களும்</b></a>
+	102.9. <a href="/ngayirum_thinkalum"><b>ஞாயிறும் திங்களும்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/ngayirum_thinkalum.slob"> Download </a></td>	
@@ -81032,10 +82004,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.10. <a href="/ilamperu_vazhuthi"><b>இளம்பெருவழுதி</b></a>
+	102.10. <a href="/ilamperu_vazhuthi"><b>இளம்பெருவழுதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/ilamperu_vazhuthi.slob"> Download </a></td>	
@@ -81057,10 +82029,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.11. <a href="/anpulla_ilavarasanukku"><b>அன்புள்ள இளவரசனுக்கு</b></a>
+	102.11. <a href="/anpulla_ilavarasanukku"><b>அன்புள்ள இளவரசனுக்கு</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/anpulla_ilavarasanukku.slob"> Download </a></td>	
@@ -81082,10 +82054,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.12. <a href="/anbulla_pandiyanukku"><b>அன்புள்ள பாண்டியனுக்கு</b></a>
+	102.12. <a href="/anbulla_pandiyanukku"><b>அன்புள்ள பாண்டியனுக்கு</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/anbulla_pandiyanukku.slob"> Download </a></td>	
@@ -81107,10 +82079,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.13. <a href="/nenju_porukkuvillaiye"><b>நெஞ்சு பொறுக்கவில்லையே</b></a>
+	102.13. <a href="/nenju_porukkuvillaiye"><b>நெஞ்சு பொறுக்கவில்லையே</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/nenju_porukkuvillaiye.slob"> Download </a></td>	
@@ -81132,10 +82104,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.14. <a href="/manitharaik_kandu_konden"><b>மனிதரைக் கண்டு கொண்டேன்</b></a>
+	102.14. <a href="/manitharaik_kandu_konden"><b>மனிதரைக் கண்டு கொண்டேன்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/manitharaik_kandu_konden.slob"> Download </a></td>	
@@ -81157,10 +82129,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.15. <a href="/manithanaith_thedukiren"><b>மனிதனைத் தேடுகிறேன்</b></a>
+	102.15. <a href="/manithanaith_thedukiren"><b>மனிதனைத் தேடுகிறேன்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/manithanaith_thedukiren.slob"> Download </a></td>	
@@ -81182,10 +82154,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.16. <a href="/tamil_mulakkam"><b>தமிழ் முழக்கம்</b></a>
+	102.16. <a href="/tamil_mulakkam"><b>தமிழ் முழக்கம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/tamil_mulakkam.slob"> Download </a></td>	
@@ -81207,10 +82179,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.17. <a href="/kaaviyarangkil_mudiyarasan"><b>கவியரங்கில் முடியரசன்</b></a>
+	102.17. <a href="/kaaviyarangkil_mudiyarasan"><b>கவியரங்கில் முடியரசன்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/kaaviyarangkil_mudiyarasan.slob"> Download </a></td>	
@@ -81234,10 +82206,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.18. <a href="/paadung_kuyil"><b>பாடுங்குயில் பாடல்கள்</b></a>
+	102.18. <a href="/paadung_kuyil"><b>பாடுங்குயில் பாடல்கள்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/paadung_kuyil.slob"> Download </a></td>	
@@ -81261,10 +82233,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.19. <a href="/nenjil_poothavai"><b>நெஞ்சிற் பூத்தவை</b></a>
+	102.19. <a href="/nenjil_poothavai"><b>நெஞ்சிற் பூத்தவை</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/nenjil_poothavai.slob"> Download </a></td>	
@@ -81286,10 +82258,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_101" >
+	<tr id="id_102" >
 	<td class="Item">
 	
-	101.20. <a href="/mudiyarasan_kavithaikal"><b>முடியரசன் கவிதைகள்</b></a>
+	102.20. <a href="/mudiyarasan_kavithaikal"><b>முடியரசன் கவிதைகள்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/mudiyarasan_kavithaikal.slob"> Download </a></td>	
@@ -81444,7 +82416,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>102 <a name="மேடைத்தமிழ்">மேடைத்தமிழ்</a> நூல்கள்</B>:</P>  
+<P><B>103 <a name="மேடைத்தமிழ்">மேடைத்தமிழ்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -81580,11 +82552,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_102" >
+	<tr id="id_103" >
 	<td class="Item">
 	
-	102.1. <a href="/siruvar_tamil"><b>சிறுவர் தமிழ்</b></a>
+	103.1. <a href="/siruvar_tamil"><b>சிறுவர் தமிழ்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/siruvar_tamil.slob"> Download </a></td>	
@@ -82220,7 +83194,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>103 <a name="மொழிப்போர்">மொழிப்போர்</a> நூல்கள்</B>:</P>  
+<P><B>104 <a name="மொழிப்போர்">மொழிப்போர்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -82352,11 +83326,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_103" >
+	<tr id="id_104" >
 	<td class="Item">
 	
-	103.1. <a href="/hindi_podhu_mozhiya"><b>இந்தி பொது மொழியா</b></a>
+	104.1. <a href="/hindi_podhu_mozhiya"><b>இந்தி பொது மொழியா</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/hindi_podhu_mozhiya.slob"> Download </a></td>	
@@ -82963,7 +83939,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>104 <a name="யசோதர காவியம் ஆசிரியர்">யசோதர காவியம் ஆசிரியர்</a> நூல்கள்</B>:</P>  
+<P><B>105 <a name="யசோதர காவியம் ஆசிரியர்">யசோதர காவியம் ஆசிரியர்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -83137,11 +84113,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_104" >
+	<tr id="id_105" >
 	<td class="Item">
 	
-	104.1. <a href="/yasodara_kaaviyam"><b>யசோதர காவியம்</b></a>
+	105.1. <a href="/yasodara_kaaviyam"><b>யசோதர காவியம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/yasodara_kaaviyam.slob"> Download </a></td>	
@@ -83706,7 +84684,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>105 <a name="ரா. சீனிவாசன்">ரா. சீனிவாசன்</a> நூல்கள்</B>:</P>  
+<P><B>106 <a name="ரா. சீனிவாசன்">ரா. சீனிவாசன்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -84068,11 +85046,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_105" >
+	<tr id="id_106" >
 	<td class="Item">
 	
-	105.1. <a href="/silambin_kadhai"><b>சிலம்பின் கதை</b></a>
+	106.1. <a href="/silambin_kadhai"><b>சிலம்பின் கதை</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/silambin_kadhai.slob"> Download </a></td>	
@@ -84449,7 +85429,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>106 <a name="லா ச ராமாமிருதம்">லா ச ராமாமிருதம்</a> நூல்கள்</B>:</P>  
+<P><B>107 <a name="லா ச ராமாமிருதம்">லா ச ராமாமிருதம்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -84527,11 +85507,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_106" >
+	<tr id="id_107" >
 	<td class="Item">
 	
-	106.1. <a href="/abitha"><b>அபிதா</b></a>
+	107.1. <a href="/abitha"><b>அபிதா</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/abitha.slob"> Download </a></td>	
@@ -85192,7 +86174,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>107 <a name="வரலாறு">வரலாறு</a> நூல்கள்</B>:</P>  
+<P><B>108 <a name="வரலாறு">வரலாறு</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -85264,11 +86246,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_107" >
+	<tr id="id_108" >
 	<td class="Item">
 	
-	107.1. <a href="/varalatru_nayagarkal"><b>வரலாற்று நாயகர்கள்</b></a>
+	108.1. <a href="/varalatru_nayagarkal"><b>வரலாற்று நாயகர்கள்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/varalatru_nayagarkal.slob"> Download </a></td>	
@@ -85935,7 +86919,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>108 <a name="வர்த்தமான தேவர்">வர்த்தமான தேவர்</a> நூல்கள்</B>:</P>  
+<P><B>109 <a name="வர்த்தமான தேவர்">வர்த்தமான தேவர்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -86131,11 +87115,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_108" >
+	<tr id="id_109" >
 	<td class="Item">
 	
-	108.1. <a href="/choolaamani"><b>சூளாமணி</b></a>
+	109.1. <a href="/choolaamani"><b>சூளாமணி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/choolaamani.slob"> Download </a></td>	
@@ -86678,7 +87664,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>109 <a name="வளையாபதி ஆசிரியர்">வளையாபதி ஆசிரியர்</a> நூல்கள்</B>:</P>  
+<P><B>110 <a name="வளையாபதி ஆசிரியர்">வளையாபதி ஆசிரியர்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -86816,11 +87802,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_109" >
+	<tr id="id_110" >
 	<td class="Item">
 	
-	109.1. <a href="/valaiyapathi"><b>வளையாபதி</b></a>
+	110.1. <a href="/valaiyapathi"><b>வளையாபதி</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/valaiyapathi.slob"> Download </a></td>	
@@ -87432,7 +88420,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>110 <a name="வள்ளலார்">வள்ளலார்</a> நூல்கள்</B>:</P>  
+<P><B>111 <a name="வள்ளலார்">வள்ளலார்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -87678,11 +88666,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_110" >
+	<tr id="id_111" >
 	<td class="Item">
 	
-	110.1. <a href="/thiruvarutpaa_6"><b>திருவருட்பா 6</b></a>
+	111.1. <a href="/thiruvarutpaa_6"><b>திருவருட்பா 6</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/thiruvarutpaa_6.slob"> Download </a></td>	
@@ -88175,7 +89165,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>111 <a name="விக்கிமூலம்">விக்கிமூலம்</a> நூல்கள்</B>:</P>  
+<P><B>112 <a name="விக்கிமூலம்">விக்கிமூலம்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -88249,11 +89239,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.1. <a href="/sethupathi_varalaru"><b>சேதுபதி மன்னர் வரலாறு</b></a>
+	112.1. <a href="/sethupathi_varalaru"><b>சேதுபதி மன்னர் வரலாறு</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/sethupathi_varalaru.slob"> Download </a></td>	
@@ -88275,10 +89267,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.2. <a href="/angum_inkum"><b>அங்கும் இங்கும்</b></a>
+	112.2. <a href="/angum_inkum"><b>அங்கும் இங்கும்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/angum_inkum.slob"> Download </a></td>	
@@ -88300,10 +89292,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.3. <a href="/abitha"><b>அபிதா</b></a>
+	112.3. <a href="/abitha"><b>அபிதா</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/abitha.slob"> Download </a></td>	
@@ -88325,10 +89317,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.4. <a href="/aar_paarp_kot"><b>ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள்</b></a>
+	112.4. <a href="/aar_paarp_kot"><b>ஆரியப் பார்ப்பனரின் அளவிறந்த கொட்டங்கள்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/aar_paarp_kot.slob"> Download </a></td>	
@@ -88350,10 +89342,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.5. <a href="/thirukural_parimelalakar"><b>திருக்குறள் பரிமேலழகர் உரை</b></a>
+	112.5. <a href="/thirukural_parimelalakar"><b>திருக்குறள் பரிமேலழகர் உரை</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/thirukural_parimelalakar.slob"> Download </a></td>	
@@ -88389,10 +89381,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.6. <a href="/viduthalai_sethupathi"><b>விடுதலைப்போரில் சேதுபதி மன்னர்</b></a>
+	112.6. <a href="/viduthalai_sethupathi"><b>விடுதலைப்போரில் சேதுபதி மன்னர்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/viduthalai_sethupathi.slob"> Download </a></td>	
@@ -88414,10 +89406,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.7. <a href="/kappalottiya_tamilan"><b>கப்பலோட்டிய தமிழன் வ.உ.சிதம்பரம்</b></a>
+	112.7. <a href="/kappalottiya_tamilan"><b>கப்பலோட்டிய தமிழன் வ.உ.சிதம்பரம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/kappalottiya_tamilan.slob"> Download </a></td>	
@@ -88439,10 +89431,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.8. <a href="/eerottu_thaaththa"><b>ஈரோட்டுத் தாத்தா</b></a>
+	112.8. <a href="/eerottu_thaaththa"><b>ஈரோட்டுத் தாத்தா</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/eerottu_thaaththa.slob"> Download </a></td>	
@@ -88464,10 +89456,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.9. <a href="/antarciic_perungkaldal"><b>அண்டார்க்டிக் பெருங்கடல்</b></a>
+	112.9. <a href="/antarciic_perungkaldal"><b>அண்டார்க்டிக் பெருங்கடல்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/antarciic_perungkaldal.slob"> Download </a></td>	
@@ -88489,10 +89481,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.10. <a href="/adimanam"><b>அடிமனம்</b></a>
+	112.10. <a href="/adimanam"><b>அடிமனம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/adimanam.slob"> Download </a></td>	
@@ -88527,10 +89519,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.12. <a href="/sonnarkal"><b>சொன்னார்கள்</b></a>
+	112.12. <a href="/sonnarkal"><b>சொன்னார்கள்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/sonnarkal.slob"> Download </a></td>	
@@ -88582,10 +89574,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.13. <a href="/arya_mun_tamil_panpadu"><b>ஆரியர்க்கு முற்பட்ட தமிழ்ப்பண்பாடு</b></a>
+	112.13. <a href="/arya_mun_tamil_panpadu"><b>ஆரியர்க்கு முற்பட்ட தமிழ்ப்பண்பாடு</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/arya_mun_tamil_panpadu.slob"> Download </a></td>	
@@ -88607,10 +89599,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_111" >
+	<tr id="id_112" >
 	<td class="Item">
 	
-	111.14. <a href="/thirukural"><b>திருக்குறள்</b></a>
+	112.14. <a href="/thirukural"><b>திருக்குறள்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/thirukural.slob"> Download </a></td>	
@@ -89238,7 +90230,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>112 <a name="வின்சுலோ">வின்சுலோ</a> நூல்கள்</B>:</P>  
+<P><B>113 <a name="வின்சுலோ">வின்சுலோ</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -89534,11 +90526,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_112" >
+	<tr id="id_113" >
 	<td class="Item">
 	
-	112.1. <a href="/winslow_ta"><b>வின்சுலோ</b></a>
+	113.1. <a href="/winslow_ta"><b>வின்சுலோ</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/winslow_ta.slob"> Download </a></td>	
@@ -89981,7 +90975,7 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-<P><B>113 <a name="ஸ்ரீகுமர குருபரர்">ஸ்ரீகுமர குருபரர்</a> நூல்கள்</B>:</P>  
+<P><B>114 <a name="ஸ்ரீகுமர குருபரர்">ஸ்ரீகுமர குருபரர்</a> நூல்கள்</B>:</P>  
 <TABLE cellspacing ="1" cellpadding ="6" border = "0">
   <thead>
     <tr>
@@ -90281,11 +91275,13 @@ archiver, compression, software, compress, zip, unzip">
 
 
 
+
+
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.1. <a href="/tiruvarur_nanmani_malai"><b>திருவாரூர் நான்மணிமாலை</b></a>
+	114.1. <a href="/tiruvarur_nanmani_malai"><b>திருவாரூர் நான்மணிமாலை</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/tiruvarur_nanmani_malai.slob"> Download </a></td>	
@@ -90307,10 +91303,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.2. <a href="/sivakamiyammai_irattai_mani_malai"><b>தில்லைச் சிவகாமியம்மை இரட்டைமணிமாலை</b></a>
+	114.2. <a href="/sivakamiyammai_irattai_mani_malai"><b>தில்லைச் சிவகாமியம்மை இரட்டைமணிமாலை</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/sivakamiyammai_irattai_mani_malai.slob"> Download </a></td>	
@@ -90332,10 +91328,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.3. <a href="/sakalakalavalli_maalai"><b>சகலகலாவல்லி மாலை</b></a>
+	114.3. <a href="/sakalakalavalli_maalai"><b>சகலகலாவல்லி மாலை</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/sakalakalavalli_maalai.slob"> Download </a></td>	
@@ -90357,10 +91353,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.4. <a href="/pandara_mummanik_kovai"><b>பண்டார மும்மணிக் கோவை</b></a>
+	114.4. <a href="/pandara_mummanik_kovai"><b>பண்டார மும்மணிக் கோவை</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/pandara_mummanik_kovai.slob"> Download </a></td>	
@@ -90382,10 +91378,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.5. <a href="/nithineri_vilakkam"><b>நீதிநெறி விளக்கம்</b></a>
+	114.5. <a href="/nithineri_vilakkam"><b>நீதிநெறி விளக்கம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/nithineri_vilakkam.slob"> Download </a></td>	
@@ -90407,10 +91403,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.6. <a href="/muththukumaaraswamy_pillai_thamizh"><b>வைத்தீசுவரன் கோவில் முத்துக்குமார சுவாமி பிள்ளைத்தமிழ்</b></a>
+	114.6. <a href="/muththukumaaraswamy_pillai_thamizh"><b>வைத்தீசுவரன் கோவில் முத்துக்குமார சுவாமி பிள்ளைத்தமிழ்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/muththukumaaraswamy_pillai_thamizh.slob"> Download </a></td>	
@@ -90432,10 +91428,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.7. <a href="/meenakshiyammai_pillai_thamizh"><b>மதுரை மீனாட்சியம்மை பிள்ளைத் தமிழ்</b></a>
+	114.7. <a href="/meenakshiyammai_pillai_thamizh"><b>மதுரை மீனாட்சியம்மை பிள்ளைத் தமிழ்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/meenakshiyammai_pillai_thamizh.slob"> Download </a></td>	
@@ -90457,10 +91453,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.8. <a href="/meenakshiyammai_kuram"><b>மதுரை மீனாட்சியம்மை குறம்</b></a>
+	114.8. <a href="/meenakshiyammai_kuram"><b>மதுரை மீனாட்சியம்மை குறம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/meenakshiyammai_kuram.slob"> Download </a></td>	
@@ -90482,10 +91478,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.9. <a href="/meenakshiyammai_irattai_mani_malai"><b>மதுரை மீனாட்சியம்மை இரட்டை மணிமாலை</b></a>
+	114.9. <a href="/meenakshiyammai_irattai_mani_malai"><b>மதுரை மீனாட்சியம்மை இரட்டை மணிமாலை</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/meenakshiyammai_irattai_mani_malai.slob"> Download </a></td>	
@@ -90507,10 +91503,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.10. <a href="/madurai_kalambakam"><b>மதுரைக் கலம்பகம்</b></a>
+	114.10. <a href="/madurai_kalambakam"><b>மதுரைக் கலம்பகம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/madurai_kalambakam.slob"> Download </a></td>	
@@ -90532,10 +91528,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.11. <a href="/kasi_kalambakam"><b>காசிக் கலம்பகம்</b></a>
+	114.11. <a href="/kasi_kalambakam"><b>காசிக் கலம்பகம்</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/kasi_kalambakam.slob"> Download </a></td>	
@@ -90557,10 +91553,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.12. <a href="/kanthar_kalivenba"><b>திருச்செந்தூர்க் கந்தர் கலிவெண்பா</b></a>
+	114.12. <a href="/kanthar_kalivenba"><b>திருச்செந்தூர்க் கந்தர் கலிவெண்பா</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/kanthar_kalivenba.slob"> Download </a></td>	
@@ -90582,10 +91578,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.13. <a href="/chidambara_seiyuttkovai"><b>சிதம்பரச் செய்யுட்கோவை</b></a>
+	114.13. <a href="/chidambara_seiyuttkovai"><b>சிதம்பரச் செய்யுட்கோவை</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/chidambara_seiyuttkovai.slob"> Download </a></td>	
@@ -90607,10 +91603,10 @@ archiver, compression, software, compress, zip, unzip">
 
 
 	
-	<tr id="id_113" >
+	<tr id="id_114" >
 	<td class="Item">
 	
-	113.14. <a href="/chidambara_mummanikovai"><b>சிதம்பர மும்மணிக்கோவை</b></a>
+	114.14. <a href="/chidambara_mummanikovai"><b>சிதம்பர மும்மணிக்கோவை</b></a>
 	
 	</td>
 	<td class="Item" align="center"><img src="images/Save.JPG" alt="save"/> <a href = "https://github.com/ThaniThamizhAkarathiKalanjiyam/tam_ilakiyam/raw/master/Noolkal/chidambara_mummanikovai.slob"> Download </a></td>	
