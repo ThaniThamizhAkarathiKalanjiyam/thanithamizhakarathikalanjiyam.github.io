@@ -1,2 +1,5 @@
 User-agent: *
-Disallow:
+Disallow: /.git
+Allow: /
+
+Sitemap: https://simplepwa.com/sitemap.xml
