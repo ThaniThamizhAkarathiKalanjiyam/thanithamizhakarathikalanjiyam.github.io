@@ -1,8 +1,9 @@
 {
-	"name": "Simple PWA",
-	"short_name": "Simple PWA",
+	"name": "தனித் தமிழகராதி களஞ்சியம்",
+	"short_name": "அஃக",
 	"display": "standalone",
-	"start_url": "./?utm_source=pwa_install",
+	"start_url": "./?v=20230307",
+	"id":"./?v=20230307",
 	"scope": ".",
 	"theme_color": "#000",
 	"background_color": "#000",

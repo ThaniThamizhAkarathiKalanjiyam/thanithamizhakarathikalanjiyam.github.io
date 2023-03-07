@@ -94,3 +94,9 @@ code.image {
 	text-align: center;
 	background: whitesmoke;
 }
+
+.ui-autocomplete { 
+	position: absolute; 
+	cursor: default;
+	z-index:30 !important;
+} 

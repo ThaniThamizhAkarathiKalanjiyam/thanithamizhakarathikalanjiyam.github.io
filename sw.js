@@ -1,4 +1,4 @@
-const cacheName = "cache1"; // Change value to force update
+const cacheName = "ttak-20230307"; // Change value to force update
 
 self.addEventListener("install", event => {
 	// Kick out the old service worker
@@ -51,8 +51,9 @@ self.addEventListener("install", event => {
 				"./bootstrap-4.3.1-dist/js/bootstrap.js",
 				"./bootstrap-4.3.1-dist/js/showdownjs/showdown.js",
 				"./bootstrap-4.3.1-dist/js/jstree_com/jstree.js",
+				"./bootstrap-4.3.1-dist/js/jquery-ui.js",			
 				"./bootstrap-4.3.1-dist/js/thanithamizhakarathikalanjiyam.js",
-				"./bootstrap-4.3.1-dist/json/tam_transliterate.json",
+				//"./bootstrap-4.3.1-dist/json/tam_transliterate.json",
 			]);
 		})
 	);
