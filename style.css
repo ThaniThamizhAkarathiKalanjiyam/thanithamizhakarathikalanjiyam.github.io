@@ -1,5 +1,5 @@
 html, body {
-	background-color: black;
+	background-color: whitesmoke;
 	color: white;
 	font-family: helvetica, arial, sans-serif;
 	font-size: 14px;
@@ -20,7 +20,7 @@ section {
 
 h1, h2 {
 	line-height: 1;
-	text-transform: uppercase;
+	text-transform: uppercase;	
 }
 
 h2 {
@@ -83,4 +83,14 @@ code {
 
 code.image {
 	background-color: lightyellow;
+}
+
+.footer {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	color: maroon;
+	text-align: center;
+	background: whitesmoke;
 }

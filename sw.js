@@ -44,6 +44,15 @@ self.addEventListener("install", event => {
 				"safari-pinned-tab.svg", // Favicon, Safari pinned tab
 				"share.jpg", // Social media sharing
 				"style.css", // Main CSS file
+				
+				//CUSTOMIZED FILES
+				"./bootstrap-4.3.1-dist/css/bootstrap.css", // Main CSS file
+				"./bootstrap-4.3.1-dist/js/jquery-3.6.3.min.js",
+				"./bootstrap-4.3.1-dist/js/bootstrap.js",
+				"./bootstrap-4.3.1-dist/js/showdownjs/showdown.js",
+				"./bootstrap-4.3.1-dist/js/jstree_com/jstree.js",
+				"./bootstrap-4.3.1-dist/js/thanithamizhakarathikalanjiyam.js",
+				"./bootstrap-4.3.1-dist/json/tam_transliterate.json",
 			]);
 		})
 	);

@@ -1,8 +1,8 @@
 {
-	"name": "தனித்தமிழகராதிகளஞ்சியம்",
-	"short_name": "அஃக",
+	"name": "Simple PWA",
+	"short_name": "Simple PWA",
 	"display": "standalone",
-	"start_url": "./?utm_source=ttak_install",
+	"start_url": "./?utm_source=pwa_install",
 	"scope": ".",
 	"theme_color": "#000",
 	"background_color": "#000",
