@@ -101,7 +101,7 @@
   
   
       <url>
-        <loc>https://thanithamizhakarathikalanjiyam.github.io/newwords.html</loc>
+        <loc>https://thanithamizhakarathikalanjiyam.github.io/tag/released.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -109,7 +109,7 @@
   
   
       <url>
-        <loc>https://thanithamizhakarathikalanjiyam.github.io/tag/released.html</loc>
+        <loc>https://thanithamizhakarathikalanjiyam.github.io/search.html</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>

@@ -20,9 +20,9 @@ archiver, compression, software, compress, zip, unzip">
   >முகப்பு,</a></TD></TR>  
   
 
-  <TR><TD><a href="newwords" class="MenuLink"  
+  <TR><TD><a href="search" class="MenuLink"  
   
-  >புதிது</a></TD></TR>  
+  >தேடல்</a></TD></TR>  
   
 
   <TR><TD><a href="blog" class="MenuLink"  
