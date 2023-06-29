@@ -61,6 +61,14 @@
   
   
       <url>
+        <loc>https://thanithamizhakarathikalanjiyam.github.io/index%20copy.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
         <loc>https://thanithamizhakarathikalanjiyam.github.io/blog/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
