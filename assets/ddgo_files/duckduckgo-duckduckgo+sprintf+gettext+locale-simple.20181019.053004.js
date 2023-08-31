@@ -60,7 +60,7 @@ catch(e){return;}
 var sjax_status=xmlhttp.status;if(sjax_status==200||sjax_status==0){return xmlhttp.responseText;}else{var error=xmlhttp.statusText+" (Error "+xmlhttp.status+")";if(xmlhttp.responseText.length){error+="\n"+xmlhttp.responseText;}
 alert(error);return;}}
 Gettext.prototype.JSON=function(data){return eval('('+data+')');};if(typeof sprintf!='function'){throw"locale_simple.js: require a javascript sprintf implementation";}
-if(typeof Gettext!='function'||typeof Gettext.strargs!='function'){throw"locale_simple.js: require Gettext.js of http://jsgettext.berlios.de/ to be loaded, included in this distribution.";}
+if(typeof Gettext!='function'||typeof Gettext.strargs!='function'){throw"locale_simple.js: require Gettext.js of https://jsgettext.berlios.de/ to be loaded, included in this distribution.";}
 if(typeof locale_simple!='undefined'){throw"locale_simple.js: locale_simple.js already loaded";}
 var locale_data={};var locale_simple={curr:null,lang:null,dir:null,dry:0,nowrite:0,tds:{},l_dir:function(dir){if(this.dir!=null){throw"locale_simple.js: can't switch dir";}
 this.dir=dir;},l_dry:function(dry,nowrite){this.dry=dry;this.nowrite=nowrite;},l_lang:function(lang){if(this.lang!=null){throw"locale_simple.js: can't switch language";}

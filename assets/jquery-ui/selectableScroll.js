@@ -2,8 +2,8 @@
  * This module is an extension to jQuery ui selectable, which scrolls when you try to select
  * outside the container, and the scrollables are not fitting it originally.
  *
- * Created by László Károlyi <http://linkedin.com/in/karolyi>
- * with the GPLv3 License: http://opensource.org/licenses/GPL-3.0
+ * Created by László Károlyi <https://linkedin.com/in/karolyi>
+ * with the GPLv3 License: https://opensource.org/licenses/GPL-3.0
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -16,7 +16,7 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 /*global jQuery*/
 (function ($) {

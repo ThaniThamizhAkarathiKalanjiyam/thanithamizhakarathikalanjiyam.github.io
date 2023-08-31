@@ -14,12 +14,12 @@
 	"use strict";
 /*!
  * jsTree 3.3.10
- * http://jstree.com/
+ * https://jstree.com/
  *
- * Copyright (c) 2014 Ivan Bozhanov (http://vakata.com)
+ * Copyright (c) 2014 Ivan Bozhanov (https://vakata.com)
  *
  * Licensed same as jquery - under the terms of the MIT License
- *   http://www.opensource.org/licenses/mit-license.php
+ *   https://www.opensource.org/licenses/mit-license.php
  */
 /*!
  * if using jslint please allow for the jQuery global and use following options:
@@ -6716,7 +6716,7 @@
 		large_drag_target : false,
 		/**
 		 * controls whether use HTML5 dnd api instead of classical. That will allow better integration of dnd events with other HTML5 controls.
-		 * @reference http://caniuse.com/#feat=dragndrop
+		 * @reference https://caniuse.com/#feat=dragndrop
 		 * @name $.jstree.defaults.dnd.use_html5
 		 * @plugin dnd
 		 */
@@ -7697,7 +7697,7 @@
 
 	// helpers
 	(function ($) {
-		// from http://kiro.me/projects/fuse.html
+		// from https://kiro.me/projects/fuse.html
 		$.vakata.search = function(pattern, txt, options) {
 			options = options || {};
 			options = $.extend({}, $.vakata.search.defaults, options);
