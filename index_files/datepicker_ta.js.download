@@ -2,18 +2,18 @@
 /* jscs:disable requireCamelCaseOrUpperCaseIdentifiers */
 /*!
  * jQuery UI DatepickerTa @VERSION
- * https://jqueryui.com
+ * http://jqueryui.com
  *
  * Copyright jQuery Foundation and other contributors
  * Released under the MIT license.
- * https://jquery.org/license
+ * http://jquery.org/license
  */
 
 //>>label: DatepickerTa
 //>>group: Widgets
 //>>description: Displays a calendar from an input or inline for selecting dates.
-//>>docs: https://api.jqueryui.com/datepicker_ta/
-//>>demos: https://jqueryui.com/datepicker_ta/
+//>>docs: http://api.jqueryui.com/datepicker_ta/
+//>>demos: http://jqueryui.com/datepicker_ta/
 //>>css.structure: ../../themes/base/core.css
 //>>css.structure: ../../themes/base/datepicker.css
 //>>css.theme: ../../themes/base/theme.css
@@ -325,7 +325,7 @@ $.extend( DatepickerTa.prototype, {
 		}
 
 		// Set display:block in place of inst.dpDiv.show() which won't work on disconnected elements
-		// https://bugs.jqueryui.com/ticket/7552 - A DatepickerTa created on a detached div has zero height
+		// http://bugs.jqueryui.com/ticket/7552 - A DatepickerTa created on a detached div has zero height
 		inst.dpDiv.css( "display", "block" );
 	},
 

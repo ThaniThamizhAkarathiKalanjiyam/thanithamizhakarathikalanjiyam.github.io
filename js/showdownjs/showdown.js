@@ -2903,7 +2903,7 @@ var simpleURLRegex  = /([*~_]+|\b)(((https?|ftp|dict):\/\/|www\.)[^'">\s]+?\.[^'
             lmc    = leadingMagicChars || '',
             tmc    = trailingMagicChars || '';
         if (/^www\./i.test(link)) {
-          link = link.replace(/^www\./i, 'https://www.');
+          link = link.replace(/^www\./i, 'http://www.');
         }
         if (options.excludeTrailingPunctuationFromURLs && trailingPunctuation) {
           append = trailingPunctuation;
@@ -3278,7 +3278,7 @@ showdown.subParser('encodeAmpsAndAngles', function (text, options, globals) {
   text = globals.converter._dispatch('encodeAmpsAndAngles.before', text, options, globals);
 
   // Ampersand-encoding based entirely on Nat Irons's Amputator MT plugin:
-  // https://bumppo.net/projects/amputator/
+  // http://bumppo.net/projects/amputator/
   text = text.replace(/&(?!#?[xX]?(?:[0-9a-fA-F]+|\w+);)/g, '&amp;');
 
   // Encode naked <'s
@@ -4144,7 +4144,7 @@ showdown.subParser('lists', function (text, options, globals) {
   /** Start of list parsing **/
   text = globals.converter._dispatch('lists.before', text, options, globals);
   // add sentinel to hack around khtml/safari bug:
-  // https://bugs.webkit.org/show_bug.cgi?id=11231
+  // http://bugs.webkit.org/show_bug.cgi?id=11231
   text += '¨0';
 
   if (globals.gListLevel) {
@@ -4346,7 +4346,7 @@ showdown.subParser('spanGamut', function (text, options, globals) {
   text = showdown.subParser('images')(text, options, globals);
   text = showdown.subParser('anchors')(text, options, globals);
 
-  // Make links out of things like `<https://example.com/>`
+  // Make links out of things like `<http://example.com/>`
   // Must come after anchors, because you can use < and >
   // delimiters in inline links like [this](<url>).
   text = showdown.subParser('autoLinks')(text, options, globals);

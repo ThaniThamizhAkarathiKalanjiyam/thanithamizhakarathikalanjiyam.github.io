@@ -1,11 +1,11 @@
 ﻿/* 
 
 ASP.NET WEB FORMS PAGE METHODS EXTENSION FOR JTABLE
-https://www.jtable.org
+http://www.jtable.org
 
 ---------------------------------------------------------------------------
 
-Copyright (C) 2011 by Halil İbrahim Kalkan (https://www.halilibrahimkalkan.com)
+Copyright (C) 2011 by Halil İbrahim Kalkan (http://www.halilibrahimkalkan.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

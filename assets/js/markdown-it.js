@@ -8,7 +8,7 @@ module.exports = require('entities/maps/entities.json');
 
 },{"entities/maps/entities.json":52}],2:[function(require,module,exports){
 // List of valid html blocks names, accorting to commonmark spec
-// https://jgm.github.io/CommonMark/spec.html#html-blocks
+// http://jgm.github.io/CommonMark/spec.html#html-blocks
 
 'use strict';
 
@@ -306,7 +306,7 @@ function isPunctChar(ch) {
 // Markdown ASCII punctuation characters.
 //
 // !, ", #, $, %, &, ', (, ), *, +, ,, -, ., /, :, ;, <, =, >, ?, @, [, \, ], ^, _, `, {, |, }, or ~
-// https://spec.commonmark.org/0.15/#ascii-punctuation-character
+// http://spec.commonmark.org/0.15/#ascii-punctuation-character
 //
 // Don't confuse with unicode punctuation !!! It lacks some chars in ascii range.
 //
@@ -634,7 +634,7 @@ function normalizeLink(url) {
 
   if (parsed.hostname) {
     // Encode hostnames in urls like:
-    // `https://host/`, `https://host/`, `mailto:user@host`, `//host/`
+    // `http://host/`, `https://host/`, `mailto:user@host`, `//host/`
     //
     // We don't encode unknown schemas, because it's likely that we encode
     // something we shouldn't (e.g. `skype:name` treated as `skype:host`)
@@ -654,7 +654,7 @@ function normalizeLinkText(url) {
 
   if (parsed.hostname) {
     // Encode hostnames in urls like:
-    // `https://host/`, `https://host/`, `mailto:user@host`, `//host/`
+    // `http://host/`, `https://host/`, `mailto:user@host`, `//host/`
     //
     // We don't encode unknown schemas, because it's likely that we encode
     // something we shouldn't (e.g. `skype:name` treated as `skype:host`)
@@ -714,7 +714,7 @@ function normalizeLinkText(url) {
  * enable/disable active syntax rules and options for common use cases.
  *
  * - ["commonmark"](https://github.com/markdown-it/markdown-it/blob/master/lib/presets/commonmark.js) -
- *   configures parser to strict [CommonMark](https://commonmark.org/) mode.
+ *   configures parser to strict [CommonMark](http://commonmark.org/) mode.
  * - [default](https://github.com/markdown-it/markdown-it/blob/master/lib/presets/default.js) -
  *   similar to GFM, used when no preset name given. Enables all available rules,
  *   but still without html, typographer & autolinker.
@@ -4228,11 +4228,11 @@ module.exports = function linkify(state) {
           urlText = links[ln].text;
 
           // Linkifier might send raw hostnames like "example.com", where url
-          // starts with domain name. So we prepend https:// in those cases,
+          // starts with domain name. So we prepend http:// in those cases,
           // and remove it afterwards.
           //
           if (!links[ln].schema) {
-            urlText = state.md.normalizeLinkText('https://' + urlText).replace(/^http:\/\//, '');
+            urlText = state.md.normalizeLinkText('http://' + urlText).replace(/^http:\/\//, '');
           } else if (links[ln].schema === 'mailto:' && !/^mailto:/i.test(urlText)) {
             urlText = state.md.normalizeLinkText('mailto:' + urlText).replace(/^mailto:/, '');
           } else {
@@ -5693,7 +5693,7 @@ module.exports.postProcess = function strikethrough(state) {
 // !, ", #, $, %, &, ', (, ), *, +, ,, -, ., /, :, ;, <, =, >, ?, @, [, \, ], ^, _, `, {, |, }, or ~
 
 // !!!! Don't confuse with "Markdown ASCII Punctuation" chars
-// https://spec.commonmark.org/0.15/#ascii-punctuation-character
+// http://spec.commonmark.org/0.15/#ascii-punctuation-character
 function isTerminatorChar(ch) {
   switch (ch) {
     case 0x0A/* \n */:
@@ -6627,7 +6627,7 @@ LinkifyIt.prototype.normalize = function normalize(match) {
   // Do minimal possible changes by default. Need to collect feedback prior
   // to move forward https://github.com/markdown-it/linkify-it/issues/1
 
-  if (!match.schema) { match.url = 'https://' + match.url; }
+  if (!match.schema) { match.url = 'http://' + match.url; }
 
   if (match.schema === 'mailto:' && !/^mailto:/i.test(match.url)) {
     match.url = 'mailto:' + match.url;
@@ -6732,11 +6732,11 @@ module.exports = function (opts) {
     'xn--[a-z0-9\\-]{1,59}';
 
   // More to read about domain names
-  // https://serverfault.com/questions/638260/
+  // http://serverfault.com/questions/638260/
 
   re.src_domain_root =
 
-    // Allow letters & digits (https://test1)
+    // Allow letters & digits (http://test1)
     '(?:' +
       re.src_xn +
       '|' +
@@ -7113,13 +7113,13 @@ module.exports.parse  = require('./parse');
 // Changes from joyent/node:
 //
 // 1. No leading slash in paths,
-//    e.g. in `url.parse('https://foo?bar')` pathname is ``, not `/`
+//    e.g. in `url.parse('http://foo?bar')` pathname is ``, not `/`
 //
 // 2. Backslashes are not replaced with slashes,
 //    so `http:\\example.org\` is treated like a relative path
 //
 // 3. Trailing colon is treated like a part of the path,
-//    i.e. in `https://example.org:foo` pathname is `:foo`
+//    i.e. in `http://example.org:foo` pathname is `:foo`
 //
 // 4. Nothing is URL-encoded in the resulting object,
 //    (in joyent/node some chars in auth and paths are encoded)
@@ -7205,7 +7205,7 @@ Url.prototype.parse = function(url, slashesDenoteHost) {
       rest = url;
 
   // trim before proceeding.
-  // This is to support parse stuff like "  https://foo.com  \n"
+  // This is to support parse stuff like "  http://foo.com  \n"
   rest = rest.trim();
 
   if (!slashesDenoteHost && url.split('#').length === 1) {
@@ -7252,8 +7252,8 @@ Url.prototype.parse = function(url, slashesDenoteHost) {
     // URLs are obnoxious.
     //
     // ex:
-    // https://a@b@c/ => user:a@b host:c
-    // https://a@b?@c => user:a host:c path:/?@c
+    // http://a@b@c/ => user:a@b host:c
+    // http://a@b?@c => user:a host:c path:/?@c
 
     // v0.12 TODO(isaacs): This is not quite how Chrome does things.
     // Review our test case against browsers more comprehensively.
@@ -7275,7 +7275,7 @@ Url.prototype.parse = function(url, slashesDenoteHost) {
       atSign = rest.lastIndexOf('@');
     } else {
       // atSign must be in auth portion.
-      // https://a@b/c@d => host:b auth:a path:/c@d
+      // http://a@b/c@d => host:b auth:a path:/c@d
       atSign = rest.lastIndexOf('@', hostEnd);
     }
 
