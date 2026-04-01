@@ -21,7 +21,9 @@ jobs:
 
     # publishes Blazor project to the release-folder
     - name: Publish .NET Core Project
-      run: dotnet publish .\TTAK_BLZR\TTAK_BLZR\TTAK_BZR.csproj -c Release -o release --nologo
+      run: |
+        cd TTAK_BLZR/TTAK_BLZR
+        dotnet publish TTAK_BZR.csproj -c Release -o release --nologo
     
     # changes the base-tag in index.html from '/' to 'TTAK_BZR' to match GitHub Pages repository subdirectory
     - name: Change base-tag in index.html from / to TTAK_BZR
