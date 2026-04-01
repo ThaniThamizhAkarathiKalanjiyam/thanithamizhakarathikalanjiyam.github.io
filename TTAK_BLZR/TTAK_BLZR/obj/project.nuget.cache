@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nRGeav2nZN8=",
+  "dgSpecHash": "3eOn1jpC2P8=",
   "success": true,
   "projectFilePath": "D:\\GithubRepo24\\thanithamizhakarathikalanjiyam.github.io-YesBlazor-no\\TTAK_BLZR\\TTAK_BLZR\\TTAK_BLZR.csproj",
   "expectedPackageFiles": [
@@ -29,7 +29,7 @@
     "C:\\Users\\pitch\\.nuget\\packages\\microsoft.jsinterop\\8.0.25\\microsoft.jsinterop.8.0.25.nupkg.sha512",
     "C:\\Users\\pitch\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.25\\microsoft.jsinterop.webassembly.8.0.25.nupkg.sha512",
     "C:\\Users\\pitch\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.25\\microsoft.net.illink.tasks.8.0.25.nupkg.sha512",
-    "C:\\Users\\pitch\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.14\\microsoft.net.sdk.webassembly.pack.9.0.14.nupkg.sha512",
+    "C:\\Users\\pitch\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.4\\microsoft.net.sdk.webassembly.pack.10.0.4.nupkg.sha512",
     "C:\\Users\\pitch\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\pitch\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.25\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.25.nupkg.sha512"
   ],
