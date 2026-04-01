@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TTAK_BLZR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5596b7e303cc76b2479cf417967fcb82676c79d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed047c99c9e22f56c78de513a88eb8e4625a2823")]
 [assembly: System.Reflection.AssemblyProductAttribute("TTAK_BLZR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TTAK_BLZR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
