@@ -7,7 +7,6 @@
             InitializeComponent();
         }
 
-
         protected override Window CreateWindow(IActivationState? activationState)
         {
             return new Window(new MainPage()) { Title = "TTAK_BLZRV2" };
