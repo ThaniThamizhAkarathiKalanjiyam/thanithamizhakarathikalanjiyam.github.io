@@ -23,7 +23,7 @@ jobs:
     - name: Publish .NET Core Project
       run: |
         cd TTAK_BLZRV2/TTAK_BLZRV2
-        dotnet publish TTAK_BLZRV2.csproj -c Release -o ../../release --nologo
+        dotnet publish TTAK_BLZRV2.Web.csproj -c Release -o ../../release --nologo
     
     # changes the base-tag in index.html from '/' to 'TTAK_BLZRV2' to match GitHub Pages repository subdirectory
     - name: Change base-tag in index.html from / to TTAK_BLZRV2
