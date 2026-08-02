@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "TTAK_BLZR",
   "resources": {
-    "hash": "sha256-KL39llZqBfLRCgO7JXsCXnWvKLDNJEs+cI6TvKBXiSk=",
+    "hash": "sha256-2szAUeC+4df7B5wVZBEwAOhN6lsJg2uL0qA2/7Dhzxg=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-JTswf4CBcNmmrTGm6DppxYNII8GVEmbA3iXD3bU1fcA="
     },
@@ -49,7 +49,7 @@
       "System.Text.Json.wasm": "sha256-xqFciQd9+GSFHxQbcqwcZrieuoaJ+GXYDl4sqjvTnpU=",
       "System.Text.RegularExpressions.wasm": "sha256-QtzUiet1dIc7potIirp9lrs13Ub7rQR5SUxfR+TiKzA=",
       "System.Private.CoreLib.wasm": "sha256-j60o5aOEEhwUKEWFQudE7trq1Hclpdlp2feRIjQ5hSw=",
-      "TTAK_BLZR.wasm": "sha256-YMyLwqQCVX4XjEXbSooVY8RZlOba5RabXNPJDNSsTBo="
+      "TTAK_BLZR.wasm": "sha256-IyYgsONsoj7j7h+fB1z01ZTOKmkQeY0l7119dctTdiU="
     }
   },
   "cacheBootResources": true,

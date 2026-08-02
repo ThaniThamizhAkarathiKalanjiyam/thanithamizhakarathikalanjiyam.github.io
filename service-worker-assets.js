@@ -1,8 +1,8 @@
 self.assetsManifest = {
-  "version": "EZHu4g/v",
+  "version": "p3+A8lvH",
   "assets": [
     {
-      "hash": "sha256-94VOpiTbLC8ORei36trmFxH+89afCkec8wOCj0IOO6A=",
+      "hash": "sha256-FfavlUVLAXqWtvQtExKH5o6CIIVIApfh9n3Pwg8aHOM=",
       "url": "TTAK_BLZR.styles.css"
     },
     {
@@ -130,11 +130,11 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-YMyLwqQCVX4XjEXbSooVY8RZlOba5RabXNPJDNSsTBo=",
+      "hash": "sha256-IyYgsONsoj7j7h+fB1z01ZTOKmkQeY0l7119dctTdiU=",
       "url": "_framework/TTAK_BLZR.wasm"
     },
     {
-      "hash": "sha256-BwaURT1c93tgAfXsCR6FvfnyNEd7mHDazkmkME+Ri7Y=",
+      "hash": "sha256-dLIEreKzssdkxvy76eWFTCCcrckAbWpbp2mss5rG/JU=",
       "url": "_framework/blazor.boot.json"
     },
     {
