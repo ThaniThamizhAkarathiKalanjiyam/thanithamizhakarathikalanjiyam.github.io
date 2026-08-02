@@ -26,7 +26,7 @@ jobs:
         dotnet publish TTAK_BLZR.csproj -c Release -o ../../release --nologo
     
     # changes the base-tag in index.html from '/' to 'TTAK_BLZRV2' to match GitHub Pages repository subdirectory
-    - name: Change base-tag in index.html from / to TTAK_BLZRV2
+    - name: Change base-tag in index.html from / to TTAK_BLZR
       run: sed -i 's|<base href="/" />|<base href="/" />|g' release/wwwroot/index.html
     
     # copy index.html to 404.html to serve the same file when a file is not found
