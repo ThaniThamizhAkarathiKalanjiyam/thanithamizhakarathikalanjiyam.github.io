@@ -22,11 +22,11 @@ jobs:
     # publishes Blazor project to the release-folder
     - name: Publish .NET Core Project
       run: |
-        cd TTAK_BLZR/TTAK_BLZR
-        dotnet publish TTAK_BLZR.csproj -c Release -o ../../release --nologo
+        cd TTAK_BLZRV2/TTAK_BLZRV2
+        dotnet publish TTAK_BLZRV2.Web.csproj -c Release -o ../../release --nologo
     
-    # changes the base-tag in index.html from '/' to 'TTAK_BLZRV2' to match GitHub Pages repository subdirectory
-    - name: Change base-tag in index.html from / to TTAK_BLZR
+    # changes the base-tag in index.html from '/' to 'TTAK_BLZRV2V2' to match GitHub Pages repository subdirectory
+    - name: Change base-tag in index.html from / to TTAK_BLZRV2
       run: sed -i 's|<base href="/" />|<base href="/" />|g' release/wwwroot/index.html
     
     # copy index.html to 404.html to serve the same file when a file is not found
@@ -41,5 +41,5 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages-basic
+        BRANCH: gh-pages-V2
         FOLDER: release/wwwroot
