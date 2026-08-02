@@ -1,8 +1,4 @@
 is_global = true
-build_property.EnableAotAnalyzer = 
-build_property.EnableSingleFileAnalyzer = 
-build_property.EnableTrimAnalyzer = false
-build_property.IncludeAllContentForSelfExtract = 
 build_property.TargetFramework = net8.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -15,7 +11,7 @@ build_property.RootNamespace = TTAK_BLZR
 build_property.RootNamespace = TTAK_BLZR
 build_property.ProjectDir = D:\GithubRepo24\gitrepo-20230728\thanithamizhakarathikalanjiyam.github.io\TTAK_BLZR\TTAK_BLZR\
 build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 

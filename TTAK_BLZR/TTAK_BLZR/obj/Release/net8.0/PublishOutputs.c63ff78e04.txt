@@ -1,2 +1,0 @@
-D:\GithubRepo24\gitrepo-20230728\thanithamizhakarathikalanjiyam.github.io\release\emcc-props.json
-D:\GithubRepo24\gitrepo-20230728\thanithamizhakarathikalanjiyam.github.io\release\web.config
