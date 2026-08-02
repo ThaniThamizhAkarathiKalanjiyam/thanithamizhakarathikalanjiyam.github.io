@@ -1,0 +1,62 @@
+{
+  "mainAssemblyName": "TTAK_BLZR",
+  "resources": {
+    "hash": "sha256-KL39llZqBfLRCgO7JXsCXnWvKLDNJEs+cI6TvKBXiSk=",
+    "jsModuleNative": {
+      "dotnet.native.js": "sha256-JTswf4CBcNmmrTGm6DppxYNII8GVEmbA3iXD3bU1fcA="
+    },
+    "jsModuleRuntime": {
+      "dotnet.runtime.js": "sha256-e+f4jZD2awsgshfoE5GrkhVEHFP6FRj/v6BMVOHuidk="
+    },
+    "wasmNative": {
+      "dotnet.native.wasm": "sha256-NkshPJDdD3pyLNk8xISpu+d919kQmPuAWT53EbVvE8I="
+    },
+    "icu": {
+      "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
+      "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
+      "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
+    },
+    "coreAssembly": {},
+    "assembly": {
+      "Microsoft.AspNetCore.Components.wasm": "sha256-WPILpUJxEApq/qlfwluQWspGrboNswbQo2gOLHbWT2c=",
+      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-tnjE05aM8uziN577vXqbOkgvzrGQ+K/MIiC8UIiaWvY=",
+      "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-YttUtWlsM+KneZUZ88pyKYjl+dC0Bl4YFTDvDeJ1Q3k=",
+      "Microsoft.Extensions.Configuration.wasm": "sha256-od574rRtVVRJj+24jbl8j3GdQFpxlJOpSx+pEMw1Q18=",
+      "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-XR+WUfg8LtnrwdXFBnV+qO3ROyp6cYCfl1AZajIAheM=",
+      "Microsoft.Extensions.Configuration.Json.wasm": "sha256-Nbv4DDWJLbUri+9QrX+3vnA2FV/Qux8Jm1buTARMlBs=",
+      "Microsoft.Extensions.DependencyInjection.wasm": "sha256-gPl1KWGxLIxxQgQ9BG1m/niMzqZGG651efBdnDY3kDc=",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.wasm": "sha256-WgFDXb1es5aHvRxxec7MQnWEnr7jOVGIm7ZxXjIExPU=",
+      "Microsoft.Extensions.Logging.wasm": "sha256-KCdgvZvpkT0QTlCjj/PtlVlJnNw1mDlJAtaRSWXz0YM=",
+      "Microsoft.Extensions.Logging.Abstractions.wasm": "sha256-zzRcMlPQNM26LZU9SaBhrTTpnhjGsVxhIjhTJnwzvt0=",
+      "Microsoft.Extensions.Options.wasm": "sha256-mngxZ7DtB5tYzmxZdVWZapJTSJ/yGClqQAcqOkLk3Lk=",
+      "Microsoft.Extensions.Primitives.wasm": "sha256-Bi1hyBMWneH/ByWbqT/pNe0B7I/NQFklzD2g3Whdqlk=",
+      "Microsoft.JSInterop.wasm": "sha256-yYSIGAZt44I/rafsJpvCIcJTMCNuL5/Ck7LHiUtNs70=",
+      "Microsoft.JSInterop.WebAssembly.wasm": "sha256-UFB+2RHRiffv/kpP3onPVdxXxmwJA6oo3dI1M+LiZOU=",
+      "System.Collections.Concurrent.wasm": "sha256-f3lQSHDZP/QISJ7cv93MLbHiOgl8hAlRegHRb1yBHyU=",
+      "System.Collections.wasm": "sha256-LkhwUZ9uHFCGqP4uPXvKQ9XgPky9aHHWtxbaXp7HARY=",
+      "System.ComponentModel.wasm": "sha256-Apgtlc3jtSL83LPPuakJCLmqtIcv6L3s0mGZG3a7B+k=",
+      "System.Console.wasm": "sha256-4Vor35qcmrlGW72eQCLFvM17FWGrPk4oL04v7ZoW1Cw=",
+      "System.Diagnostics.DiagnosticSource.wasm": "sha256-uC6hPXhvncKfZ0uvdf5PCtrV5aGmijmcZ9Lds/n0Ceo=",
+      "System.Linq.wasm": "sha256-3P3zebb3aXs822CI5Jqvyz5YFhmylOmm+s/ewy46nmk=",
+      "System.Memory.wasm": "sha256-cY5F0AsvlS+ZtwOpJRWFMWoPvDZk4MYHrfq+wjqPlbA=",
+      "System.Net.Http.Json.wasm": "sha256-JN0FD0P0COts41aOxqWaK/DhhqPA4JxWU3e+GVtWBLU=",
+      "System.Net.Http.wasm": "sha256-aPDIiUbKou9PZosLEnr5xpZYGmtU9KFt3GYluZagOzY=",
+      "System.Net.Primitives.wasm": "sha256-beqfgr/c2DrmDJlwt1qWg+6v93LB8YT4jM+NISqKvI8=",
+      "System.Private.Uri.wasm": "sha256-RNhZ1v+hzp6kSlGERnKFgB3xB5XWASZzU1i53/Bez0o=",
+      "System.Runtime.InteropServices.JavaScript.wasm": "sha256-Ohr3ZV/yHR/odabOwzEnb4oGVBQzwBlSEZYXhl1liAU=",
+      "System.Runtime.wasm": "sha256-o4pCHWysusSz++nnJJNBqT/3dkJHSKFxmzwq+lk5RSM=",
+      "System.Text.Encodings.Web.wasm": "sha256-9CyjWaRI9j0iLdPLfh107N4NBtsU3TOB7kc7jdBfDnM=",
+      "System.Text.Json.wasm": "sha256-xqFciQd9+GSFHxQbcqwcZrieuoaJ+GXYDl4sqjvTnpU=",
+      "System.Text.RegularExpressions.wasm": "sha256-QtzUiet1dIc7potIirp9lrs13Ub7rQR5SUxfR+TiKzA=",
+      "System.Private.CoreLib.wasm": "sha256-j60o5aOEEhwUKEWFQudE7trq1Hclpdlp2feRIjQ5hSw=",
+      "TTAK_BLZR.wasm": "sha256-YMyLwqQCVX4XjEXbSooVY8RZlOba5RabXNPJDNSsTBo="
+    }
+  },
+  "cacheBootResources": true,
+  "debugLevel": 0,
+  "linkerEnabled": true,
+  "globalizationMode": "sharded",
+  "extensions": {
+    "blazor": {}
+  }
+}
